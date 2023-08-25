@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard</title>
+    <link href="../static/css/output.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+</head>
+<body>
+    <h1>Welcome to the Chatroom</h1>
+    <div id="messages"></div>
+    <label for="message_input"></label><input type="text" id="message_input">
+    <button id="send_button">Send</button>
+
+    <script type="text/javascript">
+        let socket = io.connect('http://' + document.domain + ':' + location.port);
+
+        socket.on('connect', function() {
+            // get data as they are the receiver
+            let receiver = {{ user.id }} == 2 ? 3 : 2;
+            socket.emit('join', { user_id: receiver });
+        });
+
+        socket.on('message', function(data) {
+            // displays message when a new message is sent
+            let messages = document.getElementById('messages');
+            // shows blue if they are the sender, shows red if they are the receiver
+            let messageStyle = data.sender === {{ user.id }} ? "color: blue;" : "color: red;"
+            messages.innerHTML += `<p style="${messageStyle}"> ${data.message}</p>`;
+        });
+
+        document.getElementById('send_button').onclick = function() {
+            // runs when the user sends a message
+            let sender = {{ user.id }} == 2 ? 3 : 2;
+            let message = document.getElementById('message_input').value;
+            socket.emit('send_message', { message: message, user_id: sender });
+            document.getElementById('message_input').value = '';
+        };
+    </script>
+</body>
+</html>

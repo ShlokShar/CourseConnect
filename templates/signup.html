@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Signup</title>
+    <link href="../static/css/output.css" rel="stylesheet">
+</head>
+<body>
+    <p>{{ error }}</p>
+    <form action="/signup" method="post">
+        <label>Name</label>
+        <br>
+        <input type="text" placeholder="John Smith">
+        <br>
+        <label>Email</label>
+        <br>
+        <input name="email" type="email" placeholder="you@example.com">
+        <br>
+        <label>Password</label>
+        <br>
+        <input name="password" type="password" placeholder="********">
+        <br>
+        <input name="course" type="checkbox" value="AP Calculus" id="AP_Calculus">
+        <label for="AP_Calculus">AP Calculus AB</label><br>
+        <input name="course" type="checkbox" value="AP Statistics" id="AP_Statistics">
+        <label for="AP_Statistics">AP Statistics</label><br>
+        <input name="course" type="checkbox" value="AP Psychology" id="AP Psychology">
+        <label for="AP Psychology">AP Psychology</label><br>
+        <input name="course" type="checkbox" value="AP World History" id="AP World History">
+        <label for="AP World History">AP World History</label><br>
+        <input name="course" type="checkbox" value="AP US History" id="AP US History">
+        <label for >AP US History</label><br>
+        <input name="course" type="checkbox" value="AP European History" id="AP European History">
+        <label>AP European History</label><br>
+        <input name="course" type="checkbox" value="AP English Language & Composition" id="AP English Language & Composition">
+        <label for="AP English Language & Composition">AP English Language & Composition</label><br>
+        <input type="submit">
+    </form>
+</body>
+</html>
