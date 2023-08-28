@@ -15,6 +15,9 @@ with app.app_context():
 
 @app.route("/")
 def main():
+    # user = Users.query.all()[0]
+    # user.chatrooms[0].messages = []
+    # database.session.commit()
     email = flask.session.get("email")
     if email:
         # return website with user data
@@ -33,7 +36,8 @@ def signup():
         courses = flask.request.form.getlist("course")
 
         if len(password) < 8:  # checks if password is less than 8 characters
-            return flask.render_template("signup.html", error="Please input a valid email and password with 8 characters of more.")
+            return flask.render_template("signup.html",
+                                         error="Please input a valid email and password with 8 characters of more.")
         elif len(courses) == 0:  # checks if user has not selected a course
             return flask.render_template("signup.html", error="Please choose a course")
 
@@ -62,7 +66,7 @@ def login():
         user = Users.query.filter_by(email=email).first()
         if not user:  # check if users exists
             return flask.render_template("login.html", error="invalid credentials")
-        elif user.password != password: # check if password is incorrect
+        elif user.password != password:  # check if password is incorrect
             return flask.render_template("login.html", error="invalid credentials")
         else:
             # takes to main page
@@ -76,22 +80,36 @@ def login():
 # CHAT ROUTES
 @socketio.on('join')
 def handle_join(data):
-    user_id = data['user_id']
-    room = f"user_{user_id}"
+    sender = Users.query.filter_by(email=flask.session.get("email")).first()
+    sender_id = sender.id
+    receiver_id = data['receiver']
+    room = Chatroom.get_name(sender_id, receiver_id)
+    print(room)
     flask_socketio.join_room(room)
 
 
 @socketio.on('send_message')
 def handle_send_message(data):
+    # Update screens
     sender_email = flask.session.get("email")
     sender = Users.query.filter_by(email=sender_email).first()
+    sender_id = sender.id
     receiver_id = data["user_id"]
-    receiver = f"user_{receiver_id}"
+
+    room_name = Chatroom.get_name(sender_id, receiver_id)
 
     message_object = {"message": data["message"], "sender": sender.id}
+    print(room_name)
+    flask_socketio.send(message_object, room=room_name)
 
-    flask_socketio.send(message_object, room=receiver)
-    flask_socketio.send(message_object, room=f"user_{sender.id}")
+    # Add message to database
+
+    chatroom = Chatroom.query.filter_by(name=Chatroom.get_name(1, 2)).first()
+    message = Message(sender.id, data["message"], chatroom=chatroom)
+    database.session.add(message)
+    chatroom.messages.append(message)
+    database.session.add(chatroom)
+    database.session.commit()
 
 
 if __name__ == '__main__':

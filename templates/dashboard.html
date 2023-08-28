@@ -8,7 +8,18 @@
 </head>
 <body>
     <h1>Welcome to the Chatroom</h1>
-    <div id="messages"></div>
+    <div id="messages">
+        {% for chatroom in user.chatrooms %}
+            {% for message in chatroom.messages %}
+                {% if message.sender|int() == user.id|int() %}
+
+                    <p style="color: blue;">{{ message.content }}</p>
+                {% else %}
+                    <p style="color: red;">{{ message.content }}</p>
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
+    </div>
     <label for="message_input"></label><input type="text" id="message_input">
     <button id="send_button">Send</button>
 
@@ -17,8 +28,8 @@
 
         socket.on('connect', function() {
             // get data as they are the receiver
-            let receiver = {{ user.id }} == 2 ? 3 : 2;
-            socket.emit('join', { user_id: receiver });
+            let receiver = {{ user.id }} == 2 ? 1 : 2;
+            socket.emit('join', { receiver: receiver });
         });
 
         socket.on('message', function(data) {
@@ -31,11 +42,15 @@
 
         document.getElementById('send_button').onclick = function() {
             // runs when the user sends a message
-            let sender = {{ user.id }} == 2 ? 3 : 2;
+            let sender = {{ user.id }} == 2 ? 1 : 2;
             let message = document.getElementById('message_input').value;
             socket.emit('send_message', { message: message, user_id: sender });
             document.getElementById('message_input').value = '';
         };
+
+        function addFriend() {
+
+        }
     </script>
 </body>
 </html>
