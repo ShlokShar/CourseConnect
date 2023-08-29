@@ -21,6 +21,16 @@ class Users(database.Model):
         self.password = password
         self.courses = courses
 
+    def add_chatroom(self, chatroom):
+        self.chatrooms.append(chatroom)
+
+    @staticmethod
+    def get_user(email=None, id=None):
+        if email:
+            return Users.query.filter_by(email=email).first()
+        if id:
+            return Users.query.filter_by(id=id).first()
+
 
 class Chatroom(database.Model):
     id = database.Column("id", database.Integer, primary_key=True)
@@ -37,12 +47,17 @@ class Chatroom(database.Model):
     def add_message(self, message):
         self.messages.append(message)
 
+    def clear(self):
+        self.messages = []
+
     @staticmethod
-    def get_name(user_1, user_2):
+    def get_chatroom(user_1, user_2):
         user_a = min(user_1, user_2)
         user_b = max(user_1, user_2)
 
-        return f"{str(user_a)}x{str(user_b)}"
+        chatroom_name = f"{str(user_a)}x{str(user_b)}"
+
+        return Chatroom.query.filter_by(name=chatroom_name).first()
 
 
 class Message(database.Model):

@@ -1,6 +1,7 @@
 from packages.imports import *
 
 
+# redirects user to launch page if they aren't logged in
 def logged_in(f):
     @wraps(f)
     def validator(*args, **kwargs):
