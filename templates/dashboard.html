@@ -41,7 +41,8 @@
         }
 
         socket.on('connect', function() {
-            let receiver = {{ user.id }} == 2 ? 1 : 2;
+            let receiver = {{ user.chatrooms[0].get_friend(user).id }};
+            console.log(receiver)
             socket.emit('join', { receiver: receiver });
         });
 
@@ -55,7 +56,7 @@
 
         document.getElementById('send_button').onclick = function() {
             // runs when the user sends a message
-            let sender = {{ user.id }} == 2 ? 1 : 2;
+            let sender = {{ user.chatrooms[0].get_friend(user).id }};
             let message = document.getElementById('message_input').value;
             socket.emit('send_message', { message: message, user_id: sender });
             document.getElementById('message_input').value = '';

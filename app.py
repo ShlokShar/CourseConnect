@@ -28,11 +28,15 @@ def main():
 
 
 @app.route("/chats")
+@logged_in
 def chats():
     # return website with user data
     email = flask.session.get("email")
     user = Users.get_user(email=email)
-    return flask.render_template("dashboard.html", user=user)
+    if len(user.chatrooms) > 0:
+        return flask.render_template("dashboard.html", user=user)
+    else:
+        return flask.redirect("/add-friends")
 
 
 @app.route("/add-friends", methods=["GET", "POST"])
@@ -120,11 +124,12 @@ def login():
 def handle_join(data):
     # joins chat room
     sender_email = flask.session.get("email")
-    sender = Users.get_user(email=sender_email)
-    sender_id = sender.id
-    receiver_id = data['receiver']
-    room = Chatroom.get_chatroom(sender_id, receiver_id)
-    flask_socketio.join_room(room.name)
+    if sender_email:
+        sender = Users.get_user(email=sender_email)
+        sender_id = sender.id
+        receiver_id = data['receiver']
+        room = Chatroom.get_chatroom(sender_id, receiver_id)
+        flask_socketio.join_room(room.name)
 
 
 @socketio.on('send_message')
@@ -135,7 +140,7 @@ def handle_send_message(data):
     sender_id = sender.id
     receiver_id = data["user_id"]
     room = Chatroom.get_chatroom(sender_id, receiver_id)
-
+    print(room.name)
     # show messages to user
     message_object = {"message": data["message"], "sender": sender.id}
     flask_socketio.send(message_object, room=room.name)

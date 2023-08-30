@@ -68,7 +68,6 @@ class Chatroom(database.Model):
 
     def get_friend(self, user):
         user_a, user_b = map(int, self.name.split("x"))
-        print(user_a, user.id)
         if user_a == user.id:
             return Users.get_user(id=user_b)
         else:
