@@ -20,6 +20,7 @@ def main():
     # user.chatrooms[0].messages = []
     # database.session.commit()
     email = flask.session.get("email")
+
     if email:
         return flask.redirect("/chats")
     # else return launch page
@@ -27,7 +28,6 @@ def main():
 
 
 @app.route("/chats")
-@logged_in
 def chats():
     # return website with user data
     email = flask.session.get("email")
@@ -35,10 +35,37 @@ def chats():
     return flask.render_template("dashboard.html", user=user)
 
 
+@app.route("/add-friends", methods=["GET", "POST"])
+@logged_in
+def add_friends():
+    email = flask.session.get("email")
+    if flask.request.method == "POST":
+        user = Users.get_user(email=email)
+
+        # See which users are not already friends with the user
+        all_users = Users.query.all()
+        current_friends = user.get_friends()
+        if current_friends:
+            current_friends.append(user)
+        else:
+            current_friends = [user]
+        available_friends = [user for user in all_users if user not in current_friends]
+
+        # select random user to be their friend :)
+        friend = random.choice(available_friends)
+        user.add_friend(friend=friend)
+        database.session.commit()
+
+        return flask.redirect("/chats")
+    return flask.render_template("add_friends.html")
+
+
 @app.route("/signup", methods=["GET", "POST"])
 def signup():
     # if user makes new account
     if flask.request.method == "POST":
+        # get sign-in information
+        name = flask.request.form["name"]
         email = flask.request.form["email"]
         password = flask.request.form["password"]
         courses = flask.request.form.getlist("course")
@@ -53,7 +80,7 @@ def signup():
             return flask.render_template("signup.html", error="Email in use!")
         else:
             # creates new user
-            user = Users(email, password, courses)
+            user = Users(name, email, password, courses)
             database.session.add(user)
             database.session.commit()
 

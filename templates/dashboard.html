@@ -8,8 +8,18 @@
 </head>
 <body>
     <h1>Welcome to the Chatroom</h1>
+
+    <div>
+        <h1>Friends</h1>
+        {% for chatroom in user.chatrooms %}
+            <p onclick="changeRoom('{{ chatroom.get_friend(user).id }}')">{{ chatroom.get_friend(user).name }}</p>
+        {% endfor %}
+    </div>
+    <br>
+    <p>Messages</p>
     <div id="messages">
         {% for chatroom in user.chatrooms %}
+            {{ chatroom.get_friend(user) }}
             {% for message in chatroom.messages %}
                 {% if message.sender|int() == user.id|int() %}
 
@@ -26,8 +36,11 @@
     <script type="text/javascript">
         let socket = io.connect('http://' + document.domain + ':' + location.port);
 
+        function chooseRoom(friend_id) {
+            socket.emit("change_room", {receiver: friend_id})
+        }
+
         socket.on('connect', function() {
-            // get data as they are the receiver
             let receiver = {{ user.id }} == 2 ? 1 : 2;
             socket.emit('join', { receiver: receiver });
         });
@@ -47,10 +60,6 @@
             socket.emit('send_message', { message: message, user_id: sender });
             document.getElementById('message_input').value = '';
         };
-
-        function addFriend() {
-
-        }
     </script>
 </body>
 </html>

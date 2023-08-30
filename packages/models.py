@@ -10,19 +10,35 @@ user_chatroom_association = database.Table('user_chatroom_association',
 
 class Users(database.Model):
     id = database.Column("id", database.Integer, primary_key=True)
+    name = database.Column(database.String(100))
     email = database.Column(database.String(100))
     password = database.Column(database.String(100))
 
     courses = database.Column(database.JSON)
     chatrooms = database.relationship('Chatroom', secondary=user_chatroom_association, back_populates='users')
 
-    def __init__(self, email, password, courses):
+    def __init__(self, name, email, password, courses):
+        self.name = name
         self.email = email
         self.password = password
         self.courses = courses
 
     def add_chatroom(self, chatroom):
         self.chatrooms.append(chatroom)
+
+    def get_friends(self):
+        friends = []
+        for chatroom in self.chatrooms:
+            friends.append(chatroom.get_friend(self))
+
+        return friends
+
+    def add_friend(self, friend):
+        chatroom = Chatroom(self.id, friend.id)
+        self.add_chatroom(chatroom)
+        friend.add_chatroom(chatroom)
+
+        database.session.add(chatroom)
 
     @staticmethod
     def get_user(email=None, id=None):
@@ -49,6 +65,14 @@ class Chatroom(database.Model):
 
     def clear(self):
         self.messages = []
+
+    def get_friend(self, user):
+        user_a, user_b = map(int, self.name.split("x"))
+        print(user_a, user.id)
+        if user_a == user.id:
+            return Users.get_user(id=user_b)
+        else:
+            return Users.get_user(id=user_a)
 
     @staticmethod
     def get_chatroom(user_1, user_2):
