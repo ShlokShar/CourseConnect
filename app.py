@@ -19,6 +19,7 @@ def main():
     # user = Users.query.all()[0]
     # user.chatrooms[0].messages = []
     # database.session.commit()
+
     email = flask.session.get("email")
 
     if email:
@@ -33,10 +34,20 @@ def chats():
     # return website with user data
     email = flask.session.get("email")
     user = Users.get_user(email=email)
+    chatroom = user.chatrooms[0]
+    print(chatroom.practice_problems)
     if len(user.chatrooms) > 0:
         return flask.render_template("dashboard.html", user=user)
     else:
         return flask.redirect("/add-friends")
+
+
+@logged_in
+@app.route("/practice-problems")
+def practice_problems():
+    email = flask.session.get("email")
+    user = Users.get_user(email=email)
+    return flask.render_template("practice_problems.html", user=user)
 
 
 @app.route("/add-friends", methods=["GET", "POST"])
@@ -132,6 +143,19 @@ def handle_join(data):
         flask_socketio.join_room(room.name)
 
 
+@socketio.on('change')
+def change_chatroom(data):
+    sender_email = flask.session.get("email")
+    if sender_email:
+        sender = Users.get_user(email=sender_email)
+        sender_id = sender.id
+        receiver_id = data['old_receiver']
+        old_chatroom = Chatroom.get_chatroom(sender_id, receiver_id)
+        flask_socketio.leave_room(old_chatroom)
+        new_chatroom = Chatroom.get_chatroom(sender_id, data["receiver"])
+        flask_socketio.join_room(new_chatroom)
+
+
 @socketio.on('send_message')
 def handle_send_message(data):
     # get sender, receiver, and chatroom information
@@ -140,17 +164,30 @@ def handle_send_message(data):
     sender_id = sender.id
     receiver_id = data["user_id"]
     room = Chatroom.get_chatroom(sender_id, receiver_id)
-    print(room.name)
     # show messages to user
     message_object = {"message": data["message"], "sender": sender.id}
     flask_socketio.send(message_object, room=room.name)
 
-    # Add message to database
+    # add message to database
     message = Message(sender.id, data["message"], chatroom=room)
     database.session.add(message)
     room.messages.append(message)
     database.session.add(room)
     database.session.commit()
+
+
+# MISCELLANEOUS
+def make_problem(chatroom):
+    # get information
+
+    # make problem object
+    practice_problem = PracticeProblem("", "", [""], "")
+    database.session.add(practice_problem)
+    chatroom.add_practice_problem(practice_problem)
+    database.session.add(chatroom)
+    database.session.commit()
+
+    return practice_problem
 
 
 if __name__ == '__main__':

@@ -12,37 +12,33 @@
     <div>
         <h1>Friends</h1>
         {% for chatroom in user.chatrooms %}
-            <p onclick="changeRoom('{{ chatroom.get_friend(user).id }}')">{{ chatroom.get_friend(user).name }}</p>
+            <p onclick="changeChatroom({{ chatroom.get_friend(user).id }})">{{ chatroom.get_friend(user).name }}</p>
         {% endfor %}
     </div>
     <br>
     <p>Messages</p>
     <div id="messages">
         {% for chatroom in user.chatrooms %}
-            {{ chatroom.get_friend(user) }}
+            <div id="{{ chatroom.name }}">
+            {{ chatroom.get_friend(user).name }}
             {% for message in chatroom.messages %}
                 {% if message.sender|int() == user.id|int() %}
-
                     <p style="color: blue;">{{ message.content }}</p>
                 {% else %}
                     <p style="color: red;">{{ message.content }}</p>
                 {% endif %}
             {% endfor %}
+            </div>
         {% endfor %}
     </div>
     <label for="message_input"></label><input type="text" id="message_input">
     <button id="send_button">Send</button>
 
     <script type="text/javascript">
+        let receiver = {{ user.chatrooms[0].get_friend(user).id }};
         let socket = io.connect('http://' + document.domain + ':' + location.port);
 
-        function chooseRoom(friend_id) {
-            socket.emit("change_room", {receiver: friend_id})
-        }
-
         socket.on('connect', function() {
-            let receiver = {{ user.chatrooms[0].get_friend(user).id }};
-            console.log(receiver)
             socket.emit('join', { receiver: receiver });
         });
 
@@ -61,6 +57,14 @@
             socket.emit('send_message', { message: message, user_id: sender });
             document.getElementById('message_input').value = '';
         };
+
+        function changeChatroom(new_receiver) {
+            console.log(receiver, new_receiver)
+            socket.emit('change', {"old_receiver": receiver, "receiver" : new_receiver});
+            document.getElementById(`{{ user.id }}x${receiver}`).style.visibility = "hidden"
+            receiver = new_receiver
+            document.getElementById(`{{ user.id }}x${receiver}`).style.visibility = "visible"
+        }
     </script>
 </body>
 </html>

@@ -533,3 +533,11 @@ video {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
+
+.visible {
+  visibility: visible;
+}
+
+.hidden {
+  display: none;
+}
