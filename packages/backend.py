@@ -13,7 +13,7 @@ def logged_in(f):
     return validator
 
 
-openai.api_key = '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'
+openai.api_key = 'TOKEN'
 
 
 def generate_question(category):
