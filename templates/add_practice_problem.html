@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add Practice Problem</title>
+</head>
+<body>
+
+    add problem with:
+    <select id="subject">
+        {% for chatroom in user.chatrooms %}
+            <option id="{{ chatroom.commonality }}" friend_id="{{ chatroom.get_friend(user).id }}">{{ chatroom.get_friend(user).name }}</option>
+        {% endfor %}
+    </select>
+    <br>
+    create based off:
+    <button>chatlog</button>
+    <button>custom:</button><textarea></textarea>
+
+    <button onclick="createPracticeProblem()">create</button>
+
+    <script type="text/javascript" src="../static/js/script.js"></script>
+</body>
+</html>

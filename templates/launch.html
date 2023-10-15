@@ -4,8 +4,71 @@
     <meta charset="UTF-8">
     <title>Launch</title>
     <link href="../static/css/output.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gothic+A1&family=Poppins&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gothic+A1&family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            min-width: 450px;
+        }
+    </style>
 </head>
 <body>
-    <p>hi</p>
+
+    <nav class="flex flex-col min-[540px]:flex-row justify-between px-3 pt-3 pb-3 space-y-2">
+        <img src="../static/img/logo.png" width="250px">
+        <div class="flex flex-row space-x-5 font-poppins text-sm items-center">
+            <a class="cursor-pointer">Courses</a>
+            <a class="cursor-pointer">Contact</a>
+            <a href="/login" class="cursor-pointer bg-primary px-6 py-1 rounded-3xl text-white hover:bg-accent transform transition-transform hover:-translate-y-0.5">Login</a>
+        </div>
+    </nav>
+
+    <div class="relative">
+        <img src="../static/img/hero.png" width="100%" height="100vh" class="object-cover">
+        <!-- Text overlay on the left -->
+        <div class="absolute left-0 top-1/2 transform -translate-y-1/2 text-white px-10 font-poppins max-w-screen-lg">
+            <div class="flex flex-col space-y-1">
+                <p class="text-xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl">
+                    <span class="font-black">Streamline</span> Your <span class="text-white font-bold">Learning</span>
+                </p>
+                <p class="text-xxl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl">
+                    With A <span class="text-primary font-bold">New</span> Friend
+                </p>
+                <br>
+                <p class="text-xsm sm:text-base md:text-lg lg:text-xl xl:text-2xl">
+                    Ready to begin a new learning journey?
+                </p>
+                <a href="/signup" class="text-lg cursor-pointer rounded-3xl bg-accent w-fit px-3 py-2 hover:bg-primary transform transition-transform hover:-translate-y-0.5">
+                    Get Started
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <br>
+    <div class="flex flex-col min-[740px]:flex-row min-[740px]:space-x-3 max-[740px]:px-1 items-center pb-1 space-y-1">
+        <div class="bg-accent h-min grow p-1 rounded-3xl"></div>
+        <div class="flex flex-col space-y-1 bg-accent rounded-3xl px-3 py-2 pb-4 text-white w-full min-[740px]:w-1/4">
+            <p class="text-3xl">💬</p>
+            <p class="text-xl italic">Chatting</p>
+            <p class="text-sm">Immerse yourself in enlightening discussions with fellow students, all within our chatting system. Our interactive feature enables you to connect, engage, and collaborate with peers who share your coursework.</p>
+        </div>
+        <div class="flex flex-col space-y-1 bg-accent rounded-3xl px-3 py-2 pb-4 text-white w-full min-[740px]:w-1/4">
+            <p class="text-3xl">🤝</p>
+            <p class="text-xl italic">Meet New Friends</p>
+            <p class="text-sm ">Discover a community of students just like you! Our platform connects you to students who share the same coursework with you, making it easier to expand your social circle while boosting your academic progress.</p>
+        </div>
+        <div class="flex flex-col space-y-1 bg-accent rounded-3xl px-3 pb-4 py-2 text-white w-full min-[740px]:w-1/4">
+            <p class="text-3xl">📙</p>
+            <p class="text-xl italic">Practice Problems</p>
+            <p class="text-sm">Progess your learning journey by creating course-specific AI-generated questions shared with your friends! Stay on top of your friends and your studies with almost an almost instant grading system for practice problems.</p>
+        </div>
+        <div class="bg-accent h-min grow p-1 rounded-3xl"></div>
+    </div>
 </body>
 </html>

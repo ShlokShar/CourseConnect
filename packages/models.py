@@ -24,7 +24,7 @@ class Users(database.Model):
         self.courses = courses
 
     def add_chatroom(self, chatroom):
-        self.chatrooms.append(chatroom)
+        self.chatrooms.insert(0, chatroom)
 
     def get_friends(self):
         friends = []
@@ -33,8 +33,8 @@ class Users(database.Model):
 
         return friends
 
-    def add_friend(self, friend):
-        chatroom = Chatroom(self.id, friend.id)
+    def add_friend(self, friend, commonality):
+        chatroom = Chatroom(self.id, friend.id, commonality)
         self.add_chatroom(chatroom)
         friend.add_chatroom(chatroom)
 
@@ -63,7 +63,6 @@ class Message(database.Model):
 
 
 class PracticeProblem(database.Model):
-
     __tablename__ = "practiceproblem"
 
     id = database.Column("id", database.Integer, primary_key=True)
@@ -71,20 +70,19 @@ class PracticeProblem(database.Model):
 
     course = database.Column(database.String(100))
     question = database.Column(database.String(100))
-    choices = database.JSON()
-    correct_answer = database.Column(database.String(100))
 
     user_1_answer = database.Column(database.String(100))
     user_2_answer = database.Column(database.String(100))
 
-    def __init__(self, course, question, choices, answer):
+    user_1_status = database.Column(database.String(100), default="open")
+    user_2_status = database.Column(database.String(100), default="open")
+
+    def __init__(self, course, question):
         self.course = course
         self.question = question
-        self.choices = choices
-        self.correct_answer = answer
 
     def get_user_answer(self, chatroom_id, user_id):
-        chatroom = Chatroom.query.filter_by(id=chatroom_id)
+        chatroom = Chatroom.query.filter_by(id=chatroom_id).first()
         user_1, user_2 = map(int, chatroom.name.split("x"))
 
         if user_id == user_1:
@@ -92,8 +90,17 @@ class PracticeProblem(database.Model):
         else:
             return self.user_2_answer
 
+    def get_status(self, chatroom_id, user_id):
+        chatroom = Chatroom.query.filter_by(id=chatroom_id).first()
+        user_1, user_2 = map(int, chatroom.name.split("x"))
+
+        if user_id == user_1:
+            return self.user_1_status
+        else:
+            return self.user_2_status
+
     def get_friend_answer(self, chatroom_id, user_id):
-        chatroom = Chatroom.query.filter_by(id=chatroom_id)
+        chatroom = Chatroom.query.filter_by(id=chatroom_id).first()
         user_1, user_2 = map(int, chatroom.name.split("x"))
 
         if user_id == user_1:
@@ -102,13 +109,28 @@ class PracticeProblem(database.Model):
             return self.user_1_answer
 
     def add_user_answer(self, user_id, chatroom_id, answer):
-        chatroom = Chatroom.query.filter_by(id=chatroom_id)
+        chatroom = Chatroom.query.filter_by(id=chatroom_id).first()
         user_1, user_2 = map(int, chatroom.name.split("x"))
 
         if user_id == user_1:
+            self.user_1_status = "grading"
             self.user_1_answer = answer
         else:
+            self.user_2_status = "grading"
             self.user_2_answer = answer
+
+    def grade_user_answer(self, user_id, chatroom_id):
+        chatroom = Chatroom.query.filter_by(id=chatroom_id).first()
+        user_1, user_2 = map(int, chatroom.name.split("x"))
+
+        if user_id == user_1:
+            self.user_1_status = "closed"
+        else:
+            self.user_2_status = "closed"
+
+    @staticmethod
+    def get_practice_problem(practice_problem_id):
+        return PracticeProblem.query.filter_by(id=practice_problem_id).first()
 
 
 chatroom_practiceproblem = database.Table(
@@ -130,20 +152,25 @@ class Chatroom(database.Model):
     )
 
     name = database.Column(database.String(100))
+    commonality = database.Column(database.String(100))
     messages = database.relationship("Message", back_populates="chatroom")
     users = database.relationship('Users', secondary=user_chatroom_association, back_populates='chatrooms')
 
-    def __init__(self, user_1, user_2):
+    user_1_open = database.Column(database.Boolean, default=False)
+    user_2_open = database.Column(database.Boolean, default=False)
+
+    def __init__(self, user_1, user_2, commonality):
         user_a = min(user_1, user_2)
         user_b = max(user_1, user_2)
         self.name = f"{str(user_a)}x{str(user_b)}"
+        self.commonality = commonality
         self.messages = []
 
     def add_message(self, message):
         self.messages.append(message)
 
     def add_practice_problem(self, practice_problem):
-        self.practice_problems.append(practice_problem)
+        self.practice_problems.insert(0, practice_problem)
 
     def clear(self):
         self.messages = []

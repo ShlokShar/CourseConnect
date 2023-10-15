@@ -3,7 +3,16 @@ module.exports = {
   content: ["./templates/**"],
   theme: {
     extend: {
-
+      fontFamily: {
+        "poppins": ["Poppins"]
+      },
+      "colors": {
+        'text': '#0e0821',
+        'background': '#ffffff',
+        'primary': '#8365dc',
+        'secondary': '#bfb0ed',
+        'accent': '#4827aa',
+      }
     },
   },
   plugins: [],

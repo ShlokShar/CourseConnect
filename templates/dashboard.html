@@ -2,68 +2,199 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Dashboard</title>
+    <title>Chats</title>
     <link href="../static/css/output.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gothic+A1&family=Poppins&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gothic+A1&family=Poppins:wght@400;700&display=swap" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+
+    <style>
+
+        body {
+            overflow-y: hidden;
+        }
+        #chatContainer {
+            max-height:calc(100% - 50px);
+            overflow-y: auto;
+        }
+
+        #friendList {
+            max-height: 90vh;
+            overflow-y: auto;
+        }
+    </style>
 </head>
 <body>
-    <h1>Welcome to the Chatroom</h1>
+    <div class="h-screen">
+        <div class="flex flex-col space-y-1 px-3 h-full pb-2">
+            <nav class="flex flex-col min-[540px]:flex-row justify-between py-3 space-y-2">
+                <img src="../static/img/logo.png" width="250px">
+                <div class="flex flex-row space-x-5 font-poppins text-sm">
+                    <button class="">Practice</button>
+                    <button class="">Courses</button>
+                </div>
+            </nav>
+            <div id="main" class="flex flex-row space-x-2 h-full">
+                <!--FRIENDS-->
+                <div id="friendList" class=" py-1 space-y-2 w-[250px]">
+                    <div class="flex flex-row space-x-2 px-3 items-center ">
+                        <div>
+                            <p class="bg-gray-400 text-white rounded-full px-3 py-2 text-3xl">➕</p>
+                        </div>
+                        <div class="flex flex-col space-y-1">
+                            <p class="text-md">Add A Friend</p>
+                            <p class="text-sm">to chat with</p>
+                        </div>
+                    </div>
+                    <hr>
+                    {% for chatroom in user.chatrooms %}
+                        <div id="{{chatroom.get_friend(user).id}}Contact" userName="{{ chatroom.get_friend(user).name }}" commonality="{{ chatroom.commonality }}" onclick="changeChatroom({{ chatroom.get_friend(user).id }})" class="flex flex-row space-x-2 px-3 items-center">
+                            <div>
+                                <p class="bg-red-700 text-white rounded-full px-5 py-3 text-xl">{{ chatroom.get_friend(user).name[0] }}</p>
+                            </div>
+                            <div class="flex flex-col space-y-1">
+                                <p class="text-md">{{ chatroom.get_friend(user).name }}</p>
+                                <p class="text-sm">{{ chatroom.commonality }}</p>
+                            </div>
+                        </div>
+                        <hr>
+                    {% endfor %}
+                </div>
 
-    <div>
-        <h1>Friends</h1>
-        {% for chatroom in user.chatrooms %}
-            <p onclick="changeChatroom({{ chatroom.get_friend(user).id }})">{{ chatroom.get_friend(user).name }}</p>
-        {% endfor %}
-    </div>
-    <br>
-    <p>Messages</p>
-    <div id="messages">
-        {% for chatroom in user.chatrooms %}
-            <div id="{{ chatroom.name }}">
-            {{ chatroom.get_friend(user).name }}
-            {% for message in chatroom.messages %}
-                {% if message.sender|int() == user.id|int() %}
-                    <p style="color: blue;">{{ message.content }}</p>
-                {% else %}
-                    <p style="color: red;">{{ message.content }}</p>
-                {% endif %}
-            {% endfor %}
+                <!--CHAT-->
+                <div class="flex flex-col grow rounded-b-3xl h-full">
+                    <div class="bg-accent text-white text-md px-5 py-5">
+                        <span class="text-gray-300">To: </span><span id="toChat">{{ user.chatrooms[0].get_friend(user).name }} ({{ user.chatrooms[0].commonality }})</span>
+                    </div>
+                    <div id="chatContainer" class="flex grow justify-between flex-col bg-purple-200 h-0 rounded-b-xl">
+                        <div>
+                            {% for chatroom in user.chatrooms %}
+                                {% if chatroom == user.chatrooms[0] %}
+                                    <div id="{{ chatroom.get_friend(user).id }}" class="flex flex-col-reverse px-2 pt-3 pb-1 space-y-0 ">
+                                    {% for message in chatroom.messages[::-1] %}
+                                        {% if message.sender|int == user.id  %}
+                                            <div class="flex flex-row-reverse">
+                                                <p class="rounded-b-3xl text-sm rounded-l-3xl bg-white max-w-sm w-fit pl-2 py-2 pr-2.5 text-black">{{ message.content }}</p>
+                                            </div>
+                                        {% else %}
+                                            <div class="max-w-sm">
+                                                <p class="rounded-b-3xl text-sm rounded-r-3xl bg-accent w-fit pl-2 py-2 pr-2.5 text-white">{{ message.content }}</p>
+                                            </div>
+                                        {% endif %}
+                                        <div class="h-1"></div>
+                                    {% endfor %}
+                                    </div>
+                                {% else %}
+                                    <div id="{{ chatroom.get_friend(user).id }}" class="flex flex-col-reverse px-2 pt-3 pb-1 space-y-0" style="display:none;">
+                                    {% for message in chatroom.messages[::-1] %}
+                                        {% if message.sender|int == user.id  %}
+                                            <div class="flex flex-row-reverse">
+                                                <p class="rounded-b-3xl text-sm rounded-l-3xl bg-white max-w-sm w-fit pl-2 py-2 pr-2.5 text-black">{{ message.content }}</p>
+                                            </div>
+                                        {% else %}
+                                            <div class="max-w-sm">
+                                                <p class="rounded-b-3xl text-sm rounded-r-3xl bg-accent w-fit pl-2 py-2 pr-2.5 text-white">{{ message.content }}</p>
+                                            </div>
+                                        {% endif %}
+                                        <div class="h-1"></div>
+                                    {% endfor %}
+                                    </div>
+                                {% endif %}
+
+                            {% endfor %}
+                        </div>
+                        <div id="inputContainer" class="flex flex-row p-1 sticky bottom-0 bg-purple-200">
+                            <input id="messageInput" placeholder="Type here..." class="flex-grow rounded-3xl py-1 px-2 text-sm">
+                            <button onclick="sendMessage()" class="px-2 bg-accent text-white rounded-full text-xl">➤</button>
+                        </div>
+                    </div>
+
+                </div>
             </div>
-        {% endfor %}
+        </div>
     </div>
-    <label for="message_input"></label><input type="text" id="message_input">
-    <button id="send_button">Send</button>
-
     <script type="text/javascript">
         let receiver = {{ user.chatrooms[0].get_friend(user).id }};
         let socket = io.connect('http://' + document.domain + ':' + location.port);
 
         socket.on('connect', function() {
             socket.emit('join', { receiver: receiver });
+            scrollToBottom()
         });
+
+        function scrollToBottom() {
+            let chat = document.getElementById("chatContainer");
+            chat.scrollTop = chat.scrollHeight;
+        }
 
         socket.on('message', function(data) {
-            // displays message when a new message is sent
-            let messages = document.getElementById('messages');
-            // shows blue if they are the sender, shows red if they are the receiver
-            let messageStyle = data.sender === {{ user.id }} ? "color: blue;" : "color: red;"
-            messages.innerHTML += `<p style="${messageStyle}"> ${data.message}</p>`;
-        });
+            // add if new message
+            let senderId = data["sender"];
+            let messages = document.getElementById(senderId);
+            let messageObject = document.createElement("div");
 
-        document.getElementById('send_button').onclick = function() {
+            let spacing = document.createElement("div");
+            spacing.className = "h-1";
+            if (messages !== null) {
+                messages.insertBefore(spacing, messages.firstChild)
+
+                messageObject.className = "max-w-sm";
+                messageObject.innerHTML = `<p class="rounded-b-3xl text-sm rounded-r-3xl bg-accent w-fit pl-2 py-2 pr-2.5 text-white">${data.message}</p>`
+
+                messages.insertBefore(messageObject, messages.firstChild);
+                scrollToBottom()
+            }
+        });
+        document.getElementById("messageInput").addEventListener("keydown", function onEvent(event) {
+            if (event.key === "Enter") {
+                sendMessage()
+            }
+        })
+
+        function sendMessage() {
             // runs when the user sends a message
-            let sender = {{ user.chatrooms[0].get_friend(user).id }};
-            let message = document.getElementById('message_input').value;
-            socket.emit('send_message', { message: message, user_id: sender });
-            document.getElementById('message_input').value = '';
+            let message = document.getElementById('messageInput').value;
+            socket.emit('send_message', { message: message, user_id: receiver });
+            let messages = document.getElementById(receiver);
+            let messageObject = document.createElement("div");
+
+            // show new sent message
+            let spacing = document.createElement("div");
+
+            if (messages !== null && message) {
+                spacing.className = "h-1"
+                messages.insertBefore(spacing, messages.firstChild)
+
+                messageObject.className = "flex flex-row-reverse"
+                messageObject.innerHTML = `
+                <p class="rounded-b-3xl text-sm rounded-l-3xl bg-white max-w-sm w-fit pl-2 py-2 pr-2.5 text-black">${message}</p>
+                `;
+                messages.insertBefore(messageObject, messages.firstChild);
+                document.getElementById('messageInput').value = '';
+                scrollToBottom()
+            }
         };
 
         function changeChatroom(new_receiver) {
-            console.log(receiver, new_receiver)
-            socket.emit('change', {"old_receiver": receiver, "receiver" : new_receiver});
-            document.getElementById(`{{ user.id }}x${receiver}`).style.visibility = "hidden"
-            receiver = new_receiver
-            document.getElementById(`{{ user.id }}x${receiver}`).style.visibility = "visible"
+            socket.emit('change', { "old_receiver": receiver, "receiver": new_receiver });
+
+            // Hide the old chatroom messages
+            document.getElementById(receiver).style.display = "none";
+
+            // Update the receiver variable and show the new chatroom messages
+            receiver = new_receiver;
+            document.getElementById(receiver).style.display = "flex";
+
+            // Update the "To:" information at the top of the chat
+            let friendInfo = document.getElementById(`${receiver}Contact`);
+            let friendName = friendInfo.getAttribute("userName");
+            let commonality = friendInfo.getAttribute("commonality");
+            document.getElementById("toChat").innerHTML = `${friendName} (${commonality})`;
+            scrollToBottom()
         }
     </script>
 </body>

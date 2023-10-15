@@ -7,9 +7,39 @@
 <body>
     <h1>hi</h1>
 
-    <!-- EXAMPLE PRACTICE PROBLEM-->
+    <!-- CHATROOMS -->
     <div id="">
-
+        {% for chatroom in user.chatrooms %}
+            <div id="{{ chatroom.name }}">
+                <h1>{{ chatroom.get_friend(user).name }}</h1>
+            </div>
+        {% endfor %}
     </div>
+    <!-- PROBLEMS -->
+    <div>
+        {% for chatroom in user.chatrooms %}
+            {% for practice_problem in chatroom.practice_problems %}
+                {% if practice_problem.get_status(chatroom.id, user.id) == "open" %}
+                    <div id="{{ practice_problem.id }}Content">
+                        <h1>{{ practice_problem.question }}</h1>
+                        <h3>{{ chatroom.name }}</h3>
+                        <textarea id="{{ practice_problem.id }}Answer">hi</textarea>
+                        <button id="{{ practice_problem.id }}" chatroomId="{{ chatroom.id }}" onclick="submitAnswer('{{ practice_problem.id }}')">submit</button>
+                    </div>
+                {% elif practice_problem.get_status(chatroom.id, user.id) == "grading" %}
+                    <div id="{{ practice_problem.id }}Content">
+                        <h1>{{ practice_problem.question }}</h1>
+                        <h1>grading</h1>
+                    </div>
+                {% else %}
+                    <div id="{{ practice_problem.id }}Content">
+                        <h1>closed</h1>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
+    </div>
+
+    <script type="text/javascript" src="../static/js/script.js"></script>
 </body>
 </html>
