@@ -1,10 +1,13 @@
+import sqlalchemy.orm.attributes
+
 from packages.imports import *
 
 user_chatroom_association = database.Table('user_chatroom_association',
                                            database.Column('user_id', database.Integer,
                                                            database.ForeignKey('users.id')),
                                            database.Column('chatroom_id', database.Integer,
-                                                           database.ForeignKey('chatroom.id'))
+                                                           database.ForeignKey('chatroom.id')),
+
                                            )
 
 
@@ -16,6 +19,7 @@ class Users(database.Model):
 
     courses = database.Column(database.JSON)
     chatrooms = database.relationship('Chatroom', secondary=user_chatroom_association, back_populates='users')
+    chatroom_ordering = database.Column(database.JSON)
 
     def __init__(self, name, email, password, courses):
         self.name = name
@@ -24,7 +28,28 @@ class Users(database.Model):
         self.courses = courses
 
     def add_chatroom(self, chatroom):
+        if not self.chatroom_ordering:
+            self.chatroom_ordering = []
+
+        if chatroom in self.chatrooms and chatroom.name in self.chatroom_ordering:
+            chatroom_index = self.chatroom_ordering.index(chatroom.name)
+            self.chatroom_ordering.pop(chatroom_index)
+            # new_chatroom_order = []
+            # for chatroom_name in self.chatroom_ordering:
+            #     if chatroom_name != chatroom.name:
+            #         new_chatroom_order.append(chatroom_name)
+            # self.chatroom_ordering = new_chatroom_order
+
         self.chatrooms.insert(0, chatroom)
+        self.chatroom_ordering.insert(0, chatroom.name)
+        sqlalchemy.orm.attributes.flag_modified(self, "chatroom_ordering")
+        database.session.commit()
+
+    def get_chatrooms(self):
+        chatrooms_list = []
+        for chatroom_name in self.chatroom_ordering:
+            chatrooms_list.append(Chatroom.query.filter_by(name=chatroom_name).first())
+        return chatrooms_list
 
     def get_friends(self):
         friends = []
@@ -81,7 +106,9 @@ class PracticeProblem(database.Model):
         self.course = course
         self.question = question
 
-    def get_user_answer(self, chatroom_id, user_id):
+    def get_user_answer(self, user, chatroom):
+        user_id = user.id
+        chatroom_id = chatroom.id
         chatroom = Chatroom.query.filter_by(id=chatroom_id).first()
         user_1, user_2 = map(int, chatroom.name.split("x"))
 
@@ -90,7 +117,9 @@ class PracticeProblem(database.Model):
         else:
             return self.user_2_answer
 
-    def get_status(self, chatroom_id, user_id):
+    def get_status(self, user, chatroom):
+        user_id = user.id
+        chatroom_id = chatroom.id
         chatroom = Chatroom.query.filter_by(id=chatroom_id).first()
         user_1, user_2 = map(int, chatroom.name.split("x"))
 
@@ -99,7 +128,9 @@ class PracticeProblem(database.Model):
         else:
             return self.user_2_status
 
-    def get_friend_answer(self, chatroom_id, user_id):
+    def get_friend_answer(self, chatroom, user):
+        chatroom_id = chatroom.id
+        user_id = user.id
         chatroom = Chatroom.query.filter_by(id=chatroom_id).first()
         user_1, user_2 = map(int, chatroom.name.split("x"))
 
@@ -108,7 +139,9 @@ class PracticeProblem(database.Model):
         else:
             return self.user_1_answer
 
-    def add_user_answer(self, user_id, chatroom_id, answer):
+    def add_user_answer(self, user, chatroom, answer):
+        user_id = user.id
+        chatroom_id = chatroom.id
         chatroom = Chatroom.query.filter_by(id=chatroom_id).first()
         user_1, user_2 = map(int, chatroom.name.split("x"))
 
@@ -119,14 +152,21 @@ class PracticeProblem(database.Model):
             self.user_2_status = "grading"
             self.user_2_answer = answer
 
-    def grade_user_answer(self, user_id, chatroom_id):
-        chatroom = Chatroom.query.filter_by(id=chatroom_id).first()
+    def grade_user_answer(self, user, status, chatroom):
+        user_id = user.id
         user_1, user_2 = map(int, chatroom.name.split("x"))
 
         if user_id == user_1:
-            self.user_1_status = "closed"
+            if status == "1":
+                self.user_1_status = "correct"
+            else:
+                self.user_1_status = "incorrect"
         else:
-            self.user_2_status = "closed"
+            if status == "1":
+                self.user_2_status = "correct"
+            else:
+                self.user_2_status = "incorrect"
+        database.session.commit()
 
     @staticmethod
     def get_practice_problem(practice_problem_id):
@@ -181,6 +221,26 @@ class Chatroom(database.Model):
             return Users.get_user(id=user_b)
         else:
             return Users.get_user(id=user_a)
+
+    def get_message_status(self, user):
+        user_a, user_b = map(int, self.name.split("x"))
+        if user_a != user.id:
+            if self.user_1_open:
+                return True
+            else:
+                return False
+        elif user_b != user.id:
+            if self.user_2_open:
+                return True
+            else:
+                return False
+
+    def set_message_status(self, user):
+        user_a, user_b = map(int, self.name.split("x"))
+        if user.id == user_a:
+            self.user_2_open = True
+        else:
+            self.user_1_open = True
 
     @staticmethod
     def get_chatroom(user_1, user_2):

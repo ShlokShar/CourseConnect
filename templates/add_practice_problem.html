@@ -3,22 +3,60 @@
 <head>
     <meta charset="UTF-8">
     <title>Add Practice Problem</title>
+    <link href="../static/css/output.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gothic+A1&family=Poppins&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gothic+A1&family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        html {
+            background: url(../static/img/practice_problem.jpg) center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+
+        input[type="submit"] {
+            background-image: linear-gradient(to right, red 50%, #4827aa 50%);
+            background-size: 200% 100%;
+            transition: background-position 0.3s ease;
+        }
+
+        input[type="submit"]:hover {
+            background-position: -100% 0;
+        }
+    </style>
 </head>
 <body>
+    <div class="flex flex-row-reverse h-100vh w-full items-center">
+        <div class="bg-white h-screen w-[350px] px-10 flex flex-col justify-center">
+            <p class="font-poppins text-3xl">Practice!</p>
+            <p>Create A Practice Problem:</p>
+            <br>
+            <div >
+                <div id="main">
 
-    add problem with:
-    <select id="subject">
-        {% for chatroom in user.chatrooms %}
-            <option id="{{ chatroom.commonality }}" friend_id="{{ chatroom.get_friend(user).id }}">{{ chatroom.get_friend(user).name }}</option>
-        {% endfor %}
-    </select>
-    <br>
-    create based off:
-    <button>chatlog</button>
-    <button>custom:</button><textarea></textarea>
+                    <label for="subject" class="text-xs italic">Create a problem with:</label>
+                    <br>
+                    <select name="subject" id="subject" class="bg-blue-100 border-blue-400 border-2 p-1 rounded-full text-sm">
+                        {% for chatroom in user.get_chatrooms() %}
+                            <option id="{{ chatroom.commonality }}" chatroomId="{{ chatroom.id }}">{{ chatroom.get_friend(user).name }}</option>
+                        {% endfor %}
+                    </select>
+                    <br>
+                    <br>
 
-    <button onclick="createPracticeProblem()">create</button>
-
+                    <input onclick="createPracticeProblem()" class="bg-black text-white text-sm rounded-xl w-full px-2 py-2" type="submit">
+                    <br>
+                    <br>
+                </div>
+                <a href="/practice-problems" class="text-xs text-blue-500">Or view your current <span class="italic underline">practice problems</span></a>
+            </div>
+        </div>
+    </div>
     <script type="text/javascript" src="../static/js/script.js"></script>
 </body>
 </html>

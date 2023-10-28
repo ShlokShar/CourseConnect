@@ -3,43 +3,100 @@
 <head>
     <meta charset="UTF-8">
     <title>Practice Problems</title>
+    <link href="../static/css/output.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gothic+A1&family=Poppins&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gothic+A1&family=Poppins:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <h1>hi</h1>
-
-    <!-- CHATROOMS -->
-    <div id="">
-        {% for chatroom in user.chatrooms %}
-            <div id="{{ chatroom.name }}">
-                <h1>{{ chatroom.get_friend(user).name }}</h1>
+    <div class="p-3 flex flex-col space-y-1">
+        <nav class="flex flex-col min-[540px]:flex-row justify-between py-3 space-y-2">
+            <img src="../static/img/logo.png" width="250px">
+            <div class="flex flex-row space-x-5 font-poppins text-sm">
+                <a href="/chats">Chats</a>
             </div>
-        {% endfor %}
-    </div>
-    <!-- PROBLEMS -->
-    <div>
-        {% for chatroom in user.chatrooms %}
+        </nav>
+        <div class="flex flex-row">
+            <p>Practice problems with:</p>
+            <select id="chatroomSelector" onchange="changeCRDivs()">
+                {% for chatroom in user.get_chatrooms() %}
+                    <option value="{{ chatroom.id }}">{{ chatroom.get_friend(user).name }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <br>
+        <div id="allChatroomAreas">
+        {% for chatroom in user.get_chatrooms() %}
+        <div class="flex flex-row flex-wrap" id="div_{{ chatroom.id }}">
             {% for practice_problem in chatroom.practice_problems %}
-                {% if practice_problem.get_status(chatroom.id, user.id) == "open" %}
-                    <div id="{{ practice_problem.id }}Content">
-                        <h1>{{ practice_problem.question }}</h1>
-                        <h3>{{ chatroom.name }}</h3>
-                        <textarea id="{{ practice_problem.id }}Answer">hi</textarea>
-                        <button id="{{ practice_problem.id }}" chatroomId="{{ chatroom.id }}" onclick="submitAnswer('{{ practice_problem.id }}')">submit</button>
+            <div class="flex flex-col rounded-3xl outline outline-1 outline-gray-500 w-[250px] m-1" chatroomId="{{ chatroom.id }}" id="{{ practice_problem.id }}">
+                {% if practice_problem.get_status(user, chatroom) == "open" %}
+                <div class="bg-gray-500 w-full p-3 rounded-t-3xl">
+                    <p class="text-gray-800 font-bold text-lg">UNANSWERED</p>
+                </div>
+                <div class="flex flex-col space-y-1 px-2 pt-1 pb-3 text-sm h-full justify-between">
+                    <p id="{{ practice_problem.id }}Question">Question: {{ practice_problem.question }}</p>
+                    <br>
+                    <div class="flex flex-row space-x-1">
+                        <input id="{{ practice_problem.id }}Answer" class="outline outline-gray-500 rounded-3xl px-2">
+                        <button  onclick="submitAnswer('{{ practice_problem.id }}')" class="px-2 py-1 bg-accent text-white rounded-3xl">Submit</button>
                     </div>
-                {% elif practice_problem.get_status(chatroom.id, user.id) == "grading" %}
-                    <div id="{{ practice_problem.id }}Content">
-                        <h1>{{ practice_problem.question }}</h1>
-                        <h1>grading</h1>
+                </div>
+                {% elif practice_problem.get_status(user, chatroom) == "grading" %}
+                <div class="bg-yellow-500 w-full p-3 rounded-t-3xl">
+                    <p class="text-yellow-800 font-bold text-lg">GRADING</p>
+                </div>
+                <div class="flex flex-col space-y-1 px-2 pt-1 pb-3 text-sm h-full justify-between">
+                    <p>Question: {{ practice_problem.question }}</p>
+                    <br>
+                    <div class="flex flex-row space-x-1">
+                        <input id="{{ practice_problem.id }}Answer" placeholder="{{ practice_problem.get_user_answer(user, chatroom) }}" disabled="disabled" class=" w-full outline outline-yellow-500 rounded-3xl px-2">
                     </div>
-                {% else %}
-                    <div id="{{ practice_problem.id }}Content">
-                        <h1>closed</h1>
+                </div>
+                {% elif practice_problem.get_status(user, chatroom) == "incorrect" %}
+                <div class="bg-red-500 w-full p-3 rounded-t-3xl">
+                    <p class="text-red-800 font-bold text-lg">INCORRECT</p>
+                </div>
+                <div class="flex flex-col space-y-1 px-2 pt-1 pb-3 text-sm h-full justify-between">
+                    <p>Question: {{ practice_problem.question }}</p>
+                    <br>
+                    <div class="flex flex-row space-x-1">
+                        <input id="{{ practice_problem.id }}Answer" placeholder="{{ practice_problem.get_user_answer(user, chatroom) }}" disabled="disabled" class="w-full outline outline-red-500 rounded-3xl px-2">
                     </div>
+                </div>
+                {% elif practice_problem.get_status(user, chatroom) == "correct" %}
+                <div class="bg-green-500 w-full p-3 rounded-t-3xl">
+                    <p class="text-green-800 font-bold text-lg">CORRECT</p>
+                </div>
+                <div class="flex flex-col space-y-1 px-2 pt-1 pb-3 text-sm h-full justify-between">
+                    <p>Question: {{ practice_problem.question }}</p>
+                    <br>
+                    <div class="flex flex-row space-x-1">
+                        <input id="{{ practice_problem.id }}Answer" placeholder="{{ practice_problem.get_user_answer(user, chatroom) }}" disabled="disabled" class="w-full outline outline-green-500 rounded-3xl px-2">
+                    </div>
+                </div>
                 {% endif %}
+            </div>
             {% endfor %}
+        </div>
         {% endfor %}
-    </div>
+        </div>
 
+    </div>
     <script type="text/javascript" src="../static/js/script.js"></script>
+    <script>
+        let currentCR = {{ user.get_chatrooms()[0].id }}
+        function changeCRDivs() {
+            document.getElementById("div_" + currentCR).style.display = "none";
+            console.log(document.getElementById("div_" + currentCR))
+
+            selectedObject = document.getElementById("chatroomSelector")
+            currentCR = selectedObject.options[selectedObject.selectedIndex].value
+            document.getElementById("div_" + currentCR).style.display = "flex";
+        }
+    </script>
 </body>
 </html>

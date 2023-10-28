@@ -34,14 +34,13 @@
             <nav class="flex flex-col min-[540px]:flex-row justify-between py-3 space-y-2">
                 <img src="../static/img/logo.png" width="250px">
                 <div class="flex flex-row space-x-5 font-poppins text-sm">
-                    <button class="">Practice</button>
-                    <button class="">Courses</button>
+                    <a class="" href="/practice-problems">Practice</a>
                 </div>
             </nav>
             <div id="main" class="flex flex-row space-x-2 h-full">
                 <!--FRIENDS-->
                 <div id="friendList" class=" py-1 space-y-2 w-[250px]">
-                    <div class="flex flex-row space-x-2 px-3 items-center ">
+                    <a class="flex flex-row space-x-2 px-3 items-center " href="/add">
                         <div>
                             <p class="bg-gray-400 text-white rounded-full px-3 py-2 text-3xl">➕</p>
                         </div>
@@ -49,31 +48,41 @@
                             <p class="text-md">Add A Friend</p>
                             <p class="text-sm">to chat with</p>
                         </div>
-                    </div>
-                    <hr>
-                    {% for chatroom in user.chatrooms %}
+                    </a>
+                    {% for chatroom in user.get_chatrooms() %}
                         <div id="{{chatroom.get_friend(user).id}}Contact" userName="{{ chatroom.get_friend(user).name }}" commonality="{{ chatroom.commonality }}" onclick="changeChatroom({{ chatroom.get_friend(user).id }})" class="flex flex-row space-x-2 px-3 items-center">
                             <div>
-                                <p class="bg-red-700 text-white rounded-full px-5 py-3 text-xl">{{ chatroom.get_friend(user).name[0] }}</p>
+                                <p class="bg-purple-700 text-white rounded-full px-5 py-3 text-xl">{{ chatroom.get_friend(user).name[0].upper() }}</p>
                             </div>
                             <div class="flex flex-col space-y-1">
                                 <p class="text-md">{{ chatroom.get_friend(user).name }}</p>
                                 <p class="text-sm">{{ chatroom.commonality }}</p>
                             </div>
+                            <div class="grow">
+
+                            </div>
+                            {% if chatroom.get_message_status(user) %}
+                            <div id="{{ chatroom.get_friend(user).id }}Ping" style="display:none">
+                                <div class="p-1 bg-blue-500 rounded-full"></div>
+                            </div>
+                            {% else %}
+                            <div id="{{ chatroom.get_friend(user).id }}Ping" style="display:flex">
+                                <div class="p-1 bg-blue-500 rounded-full"></div>
+                            </div>
+                            {% endif %}
                         </div>
-                        <hr>
                     {% endfor %}
                 </div>
 
                 <!--CHAT-->
                 <div class="flex flex-col grow rounded-b-3xl h-full">
                     <div class="bg-accent text-white text-md px-5 py-5">
-                        <span class="text-gray-300">To: </span><span id="toChat">{{ user.chatrooms[0].get_friend(user).name }} ({{ user.chatrooms[0].commonality }})</span>
+                        <span class="text-gray-300">To: </span><span id="toChat">{{ user.get_chatrooms()[0].get_friend(user).name }} ({{ user.get_chatrooms()[0].commonality }})</span>
                     </div>
                     <div id="chatContainer" class="flex grow justify-between flex-col bg-purple-200 h-0 rounded-b-xl">
                         <div>
-                            {% for chatroom in user.chatrooms %}
-                                {% if chatroom == user.chatrooms[0] %}
+                            {% for chatroom in user.get_chatrooms() %}
+                                {% if chatroom == user.get_chatrooms()[0] %}
                                     <div id="{{ chatroom.get_friend(user).id }}" class="flex flex-col-reverse px-2 pt-3 pb-1 space-y-0 ">
                                     {% for message in chatroom.messages[::-1] %}
                                         {% if message.sender|int == user.id  %}
@@ -118,7 +127,7 @@
         </div>
     </div>
     <script type="text/javascript">
-        let receiver = {{ user.chatrooms[0].get_friend(user).id }};
+        let receiver = {{ user.get_chatrooms()[0].get_friend(user).id }};
         let socket = io.connect('http://' + document.domain + ':' + location.port);
 
         socket.on('connect', function() {
@@ -147,6 +156,14 @@
 
                 messages.insertBefore(messageObject, messages.firstChild);
                 scrollToBottom()
+
+                let contact = document.getElementById(senderId + "Contact");
+                let friendsList = document.getElementById("friendList");
+                friendsList.insertBefore(contact, friendsList.children[1]);
+
+                let notification = document.getElementById(senderId + "Ping");
+                console.log(senderId + "Ping")
+                notification.style.display = "flex";
             }
         });
         document.getElementById("messageInput").addEventListener("keydown", function onEvent(event) {
@@ -176,6 +193,14 @@
                 messages.insertBefore(messageObject, messages.firstChild);
                 document.getElementById('messageInput').value = '';
                 scrollToBottom()
+
+                let contact = document.getElementById(receiver + "Contact");
+                let friendsList = document.getElementById("friendList");
+                friendsList.insertBefore(contact, friendsList.children[1]);
+
+                let notification = document.getElementById(receiver + "Ping");
+
+                notification.style.display = "none";
             }
         };
 
@@ -184,6 +209,7 @@
 
             // Hide the old chatroom messages
             document.getElementById(receiver).style.display = "none";
+            console.log(receiver)
 
             // Update the receiver variable and show the new chatroom messages
             receiver = new_receiver;
@@ -195,6 +221,11 @@
             let commonality = friendInfo.getAttribute("commonality");
             document.getElementById("toChat").innerHTML = `${friendName} (${commonality})`;
             scrollToBottom()
+
+            let notification = document.getElementById(receiver + "Ping");
+            console.log(receiver + "Ping")
+            console.log(notification)
+            notification.style.display = "none";
         }
     </script>
 </body>

@@ -6,5 +6,7 @@ from flask_socketio import send, emit
 import flask_socketio
 import random
 import openai
+from sqlalchemy.types import ARRAY
+import time
 
 database = SQLAlchemy()

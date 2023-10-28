@@ -14,6 +14,14 @@ with app.app_context():
     pass
 
 
+def begin_grading(practice_problem, user, chatroom):
+    # beep boop AI stuff
+    time.sleep(2)
+
+    # grade user's answer
+    practice_problem.grade_user_answer(user, "1", chatroom)
+
+
 @app.route("/")
 def main():
     email = flask.session.get("email")
@@ -30,41 +38,49 @@ def chats():
     email = flask.session.get("email")
     user = Users.get_user(email=email)
     if len(user.chatrooms) > 0:
+        chatroom = user.chatrooms[0]
         return flask.render_template("dashboard.html", user=user)
     else:
-        return flask.redirect("/add-friends")
+        return flask.redirect("/add")
 
 
-@logged_in
 @app.route("/practice-problems")
+@logged_in
 def practice_problems():
+    # returns page for practice problems
     email = flask.session.get("email")
     user = Users.get_user(email=email)
     return flask.render_template("practice_problems.html", user=user)
 
 
-@app.route("/add-friends", methods=["GET", "POST"])
+@app.route("/add")
+@app.route("/add/<type>", methods=["GET", "POST"])
 @logged_in
-def add_friends():
+def add(type=None):
     email = flask.session.get("email")
+    user = Users.get_user(email=email)
     if flask.request.method == "POST":
-        user = Users.get_user(email=email)
-        # See which users are not already friends with the user
-        all_users = Users.query.filter(Users.courses.contains("AP Calculus")).all()
+        if type == "friend":
+            # See which users are not already friends with the user
+            subject = flask.request.form.get("course")
+            all_users = Users.query.filter(Users.courses.contains(subject)).all()
 
-        current_friends = user.get_friends()
-        if current_friends:
-            current_friends.append(user)
+            current_friends = user.get_friends()
+            if current_friends:
+                current_friends.append(user)
+            else:
+                current_friends = [user]
+            available_friends = [user for user in all_users if user not in current_friends]
+            # select random user to be their friend :)
+            friend = random.choice(available_friends)
+            user.add_friend(friend, commonality=subject)
         else:
-            current_friends = [user]
-        available_friends = [user for user in all_users if user not in current_friends]
-        # select random user to be their friend :)
-        friend = random.choice(available_friends)
-        user.add_friend(friend, commonality="AP Calculus")
+            new_courses = flask.request.form.getlist("courses")
+            user.courses = new_courses
         database.session.commit()
 
         return flask.redirect("/chats")
-    return flask.render_template("add_friends.html")
+    return flask.render_template("add.html", user=user)
 
 
 @app.route("/add-practice-problem")
@@ -75,27 +91,21 @@ def add_practice_problem():
     return flask.render_template("add_practice_problem.html", user=user)
 
 
-@app.route("/create-practice-problem/<category>/<friend_id>")
-def create_practice_problem(category, friend_id):
+@app.route("/create-practice-problem/<chatroom_id>")
+def create_practice_problem(chatroom_id):
     email = flask.session.get("email")
+    chatroom = Chatroom.query.filter_by(id=chatroom_id).first()
+    print(chatroom)
     user = Users.get_user(email=email)
-    friend = Users.get_user(id=friend_id)
-    practice_problem_question = generate_question(category)
-    practice_problem = PracticeProblem(course=category, question=practice_problem_question)
+    print(user)
+    friend = chatroom.get_friend(user)
 
-    chatroom = Chatroom.get_chatroom(user_1=user.id, user_2=friend.id)
+    practice_problem_question = "yoo"
+    practice_problem = PracticeProblem(course=chatroom.commonality, question=practice_problem_question)
+
     chatroom.add_practice_problem(practice_problem)
-    # move the chatroom to the top of the user's list (as it has just been updated)
-    chatroom_index = user.chatrooms.index(chatroom)
-
-    user.chatrooms.pop(chatroom_index)
-    user.chatrooms.insert(0, chatroom)
-
-    # move the chatroom to the top of the friend's list
-    chatroom_index = friend.chatrooms.index(chatroom)
-    friend.chatrooms.pop(chatroom_index)
-    friend.chatrooms.insert(0, chatroom)
-
+    user.add_chatroom(chatroom)
+    friend.add_chatroom(chatroom)
     database.session.commit()
 
     return flask.jsonify("yay")
@@ -105,13 +115,15 @@ def create_practice_problem(category, friend_id):
 def submit_practice_problem(practice_problem_id, chatroom_id, answer):
     email = flask.session.get("email")
     user = Users.get_user(email=email)
-
+    chatroom = Chatroom.query.filter_by(id=chatroom_id).first()
     practice_problem = PracticeProblem.get_practice_problem(practice_problem_id)
-    practice_problem.add_user_answer(user.id, chatroom_id, answer)
+    practice_problem.add_user_answer(user, chatroom, answer)
 
     database.session.commit()
 
-    return flask.jsonify("done.")
+    begin_grading(practice_problem, user, chatroom)
+
+    return flask.jsonify("done")
 
 
 @app.route("/signup", methods=["GET", "POST"])
@@ -190,15 +202,12 @@ def change_chatroom(data):
         sender = Users.get_user(email=sender_email)
         sender_id = sender.id
 
-        print("sender: " + sender.name)
-        print("receiver: " + Users.get_user(id=data["receiver"]).name)
-        # old_chatroom = Chatroom.get_chatroom(sender_id, receiver_id)
-        # flask_socketio.leave_room(old_chatroom.name)
-
         new_chatroom = Chatroom.get_chatroom(sender_id, data["receiver"])
         flask_socketio.join_room(new_chatroom.name)
 
-        print("joined " + new_chatroom.name)
+        new_chatroom.set_message_status(sender)
+        new_chatroom.get_message_status(sender)
+        database.session.commit()
 
 
 @socketio.on('send_message')
@@ -207,20 +216,19 @@ def handle_send_message(data):
     sender_email = flask.session.get("email")
     sender = Users.get_user(email=sender_email)  # get sender from their email
     sender_id = sender.id
-
     receiver_id = data["user_id"]
+    receiver = Users.get_user(id=receiver_id)
     room = Chatroom.get_chatroom(sender_id, receiver_id)
-
-    # show messages to user
-    message_object = {"message": data["message"], "sender": sender.id}
-    flask_socketio.send(message_object, room=room.name)
 
     # add message to database
     message = Message(sender.id, data["message"], chatroom=room)
     database.session.add(message)
     room.messages.append(message)
-    database.session.add(room)
+
+    # Commit the message addition to the database
     database.session.commit()
+    sender.add_chatroom(room)
+    receiver.add_chatroom(room)
 
 
 if __name__ == '__main__':

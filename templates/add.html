@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add Friends & Courses</title>
+    <link href="../static/css/output.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gothic+A1&family=Poppins&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gothic+A1&family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        html {
+            background: url(../static/img/authentication.png) center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+
+        input[type="submit"] {
+            background-image: linear-gradient(to right, red 50%, #4827aa 50%);
+            background-size: 200% 100%;
+            transition: background-position 0.3s ease;
+        }
+
+        input[type="submit"]:hover {
+            background-position: -100% 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="flex flex-row-reverse h-100vh w-full items-center">
+        <div class="bg-white h-screen w-[350px] px-10 flex flex-col justify-center">
+            <p class="font-poppins text-2xl">Meet New People!</p>
+            <p>Add A Friend:</p>
+            <br>
+            <div class="">
+                <form action="/add/friend" method="post">
+
+                    <label for="course" class="text-xs italic">Add someone with:</label>
+                    <br>
+                    <select name="course" id="course" class="bg-blue-100 border-blue-400 border-2 p-1 rounded-full text-xs w-min">
+                        {% for course in user.courses %}
+                            <option value="{{ course }}" class="text-sm">{{ course }}</option>
+                        {% endfor %}
+                    </select>
+                    <br>
+                    <br>
+
+                    <input class="bg-black text-white text-sm rounded-xl w-full px-2 py-2" type="submit">
+                    <br>
+                    <br>
+                </form>
+            </div>
+
+            <div class="flex flex-row text-xs items-center space-x-2">
+                <div class="grow bg-gray-400 p-0.5 rounded-full"></div>
+                <div class="text-gray-400 font-bold">OR</div>
+                <div class="grow bg-gray-400 h-px p-0.5 rounded-full"></div>
+            </div>
+            <br>
+
+            <p class="font-poppins text-xl">Change Your Courses!</p>
+            <div>
+                <form action="/add/courses" method="post">
+                    <br>
+                    <div class="text-sm font-poppins flex-col space-y-1">
+                        <input name="courses" type="checkbox" value="AP Calculus" id="AP_Calculus" {% if "AP Calculus" in user.courses %}checked{% endif %}>
+                        <label for="AP_Calculus">AP Calculus AB</label><br>
+                        <input name="courses" type="checkbox" value="AP Statistics" id="AP_Statistics" {% if "AP Statistics" in user.courses %}checked{% endif %}>
+                        <label for="AP_Statistics">AP Statistics</label><br>
+                        <input name="courses" type="checkbox" value="AP Psychology" id="AP Psychology" {% if "AP Psychology" in user.courses %}checked{% endif %}>
+                        <label for="AP Psychology">AP Psychology</label><br>
+                        <input name="courses" type="checkbox" value="AP World History" id="AP World History" {% if "AP World History" in user.courses %}checked{% endif %}>
+                        <label for="AP World History">AP World History</label><br>
+                        <input name="courses" type="checkbox" value="AP US History" id="AP US History" {% if "AP US History" in user.courses %}checked{% endif %}>
+                        <label for >AP US History</label><br>
+                        <input name="courses" type="checkbox" value="AP European History" id="AP European History" {% if "AP European History" in user.courses %}checked{% endif %}>
+                        <label>AP European History</label><br>
+                        <input name="courses" type="checkbox" value="AP English Language & Composition" id="AP English Language & Composition" {% if "AP English Language & Composition" in user.courses %}checked{% endif %}>
+                        <label for="AP English Language & Composition">AP English Language & Composition</label><br><br>
+                    </div>
+                    <input class="bg-black text-white text-sm rounded-xl w-full px-2 py-2" type="submit">
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
