@@ -30,8 +30,9 @@
         <br>
         <div id="allChatroomAreas">
         {% for chatroom in user.get_chatrooms() %}
-        <div class="flex flex-row flex-wrap" id="div_{{ chatroom.id }}">
-            {% for practice_problem in chatroom.practice_problems %}
+        <div class="flex flex-col" id="div_{{ chatroom.id }}" {% if chatroom!=user.get_chatrooms()[0] %}style="display:none;"{% endif %}>
+            <div class="flex flex-row flex-wrap">
+            {% for practice_problem in chatroom.get_practice_problems() %}
             <div class="flex flex-col rounded-3xl outline outline-1 outline-gray-500 w-[250px] m-1" chatroomId="{{ chatroom.id }}" id="{{ practice_problem.id }}">
                 {% if practice_problem.get_status(user, chatroom) == "open" %}
                 <div class="bg-gray-500 w-full p-3 rounded-t-3xl">
@@ -81,22 +82,14 @@
                 {% endif %}
             </div>
             {% endfor %}
+            </div>
+
         </div>
         {% endfor %}
         </div>
 
     </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script type="text/javascript" src="../static/js/script.js"></script>
-    <script>
-        let currentCR = {{ user.get_chatrooms()[0].id }}
-        function changeCRDivs() {
-            document.getElementById("div_" + currentCR).style.display = "none";
-            console.log(document.getElementById("div_" + currentCR))
-
-            selectedObject = document.getElementById("chatroomSelector")
-            currentCR = selectedObject.options[selectedObject.selectedIndex].value
-            document.getElementById("div_" + currentCR).style.display = "flex";
-        }
-    </script>
 </body>
 </html>

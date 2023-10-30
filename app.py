@@ -7,6 +7,7 @@ app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///users.sqlite3"
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 socketio = SocketIO(app)
 database.init_app(app)
+count = 0
 
 with app.app_context():
     # create database
@@ -14,12 +15,15 @@ with app.app_context():
     pass
 
 
-def begin_grading(practice_problem, user, chatroom):
+def begin_grading(practice_problem, user, chatroom, answer):
+    global count
     # beep boop AI stuff
-    time.sleep(2)
+    grade_question(practice_problem.category, practice_problem.question, answer)
 
     # grade user's answer
+
     practice_problem.grade_user_answer(user, "1", chatroom)
+    count += 1
 
 
 @app.route("/")
@@ -38,7 +42,6 @@ def chats():
     email = flask.session.get("email")
     user = Users.get_user(email=email)
     if len(user.chatrooms) > 0:
-        chatroom = user.chatrooms[0]
         return flask.render_template("dashboard.html", user=user)
     else:
         return flask.redirect("/add")
@@ -95,20 +98,19 @@ def add_practice_problem():
 def create_practice_problem(chatroom_id):
     email = flask.session.get("email")
     chatroom = Chatroom.query.filter_by(id=chatroom_id).first()
-    print(chatroom)
     user = Users.get_user(email=email)
-    print(user)
     friend = chatroom.get_friend(user)
 
-    practice_problem_question = "yoo"
-    practice_problem = PracticeProblem(course=chatroom.commonality, question=practice_problem_question)
+    question = generate_question(chatroom.commonality, )
+    practice_problem = PracticeProblem(course=chatroom.commonality, question=question)
 
-    chatroom.add_practice_problem(practice_problem)
+    chatroom.add_practice_problem(practice_problem, user)
+    database.session.commit()
     user.add_chatroom(chatroom)
     friend.add_chatroom(chatroom)
     database.session.commit()
-
-    return flask.jsonify("yay")
+    time.sleep(1)
+    return flask.jsonify("created")
 
 
 @app.route("/submit-practice-problem/<practice_problem_id>/<chatroom_id>/<answer>/")
@@ -121,9 +123,9 @@ def submit_practice_problem(practice_problem_id, chatroom_id, answer):
 
     database.session.commit()
 
-    begin_grading(practice_problem, user, chatroom)
+    begin_grading(practice_problem, user, chatroom, answer)
 
-    return flask.jsonify("done")
+    return flask.jsonify("submitted")
 
 
 @app.route("/signup", methods=["GET", "POST"])
@@ -219,6 +221,10 @@ def handle_send_message(data):
     receiver_id = data["user_id"]
     receiver = Users.get_user(id=receiver_id)
     room = Chatroom.get_chatroom(sender_id, receiver_id)
+
+    # update message
+    message_object = {"message": data["message"], "sender": sender.id}
+    flask_socketio.send(message_object, room=room.name)
 
     # add message to database
     message = Message(sender.id, data["message"], chatroom=room)

@@ -76,8 +76,11 @@
 
                 <!--CHAT-->
                 <div class="flex flex-col grow rounded-b-3xl h-full">
-                    <div class="bg-accent text-white text-md px-5 py-5">
+                    <div class="bg-accent text-white text-md px-5 py-5 flex flex-row justify-between">
+                        <div>
                         <span class="text-gray-300">To: </span><span id="toChat">{{ user.get_chatrooms()[0].get_friend(user).name }} ({{ user.get_chatrooms()[0].commonality }})</span>
+                        </div>
+                        <a href="/add-practice-problem" class="text-lg">+</a>
                     </div>
                     <div id="chatContainer" class="flex grow justify-between flex-col bg-purple-200 h-0 rounded-b-xl">
                         <div>

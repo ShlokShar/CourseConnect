@@ -102,8 +102,13 @@ class PracticeProblem(database.Model):
     user_1_status = database.Column(database.String(100), default="open")
     user_2_status = database.Column(database.String(100), default="open")
 
+    user_1_progress = database.Column(database.Integer)
+    user_2_progress = database.Column(database.Integer)
+
     def __init__(self, course, question):
         self.course = course
+        self.user_1_progress = 0
+        self.user_2_progress = 0
         self.question = question
 
     def get_user_answer(self, user, chatroom):
@@ -159,6 +164,7 @@ class PracticeProblem(database.Model):
         if user_id == user_1:
             if status == "1":
                 self.user_1_status = "correct"
+
             else:
                 self.user_1_status = "incorrect"
         else:
@@ -167,6 +173,17 @@ class PracticeProblem(database.Model):
             else:
                 self.user_2_status = "incorrect"
         database.session.commit()
+
+    @staticmethod
+    def custom_sort_key(practice_problem):
+        status_order = {"open": 1, "grading": 2, "unanswered": 3, "answered": 4}
+        return status_order.get(practice_problem.user_1_status, 5)
+
+    @classmethod
+    def get_problems(cls, practice_problems):
+        # Sort the practice problems based on the custom key
+        sorted_problems = sorted(practice_problems, key=cls.custom_sort_key)
+        return sorted_problems
 
     @staticmethod
     def get_practice_problem(practice_problem_id):
@@ -209,7 +226,8 @@ class Chatroom(database.Model):
     def add_message(self, message):
         self.messages.append(message)
 
-    def add_practice_problem(self, practice_problem):
+    def add_practice_problem(self, practice_problem, user):
+        user_a, user_b = map(int, self.name.split("x"))
         self.practice_problems.insert(0, practice_problem)
 
     def clear(self):
@@ -241,6 +259,10 @@ class Chatroom(database.Model):
             self.user_2_open = True
         else:
             self.user_1_open = True
+
+    def get_practice_problems(self):
+        practice_problems = self.practice_problems
+        return PracticeProblem.get_problems(practice_problems)
 
     @staticmethod
     def get_chatroom(user_1, user_2):
