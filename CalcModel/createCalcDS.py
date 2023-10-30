@@ -1,6 +1,6 @@
 from packages.imports import *
 
-openai.api_key = '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'
+openai.api_key = 'API KEY'
 
 topics = [
     'Limits_and_Continuity',
