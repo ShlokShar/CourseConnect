@@ -1,0 +1,1001 @@
+,question,topic,quesiton
+0,,Composite_Implicit_and_Inverse_Functions,Find the derivative of f(x) = (x+1)^2 * (1 + e^(2x)).
+1,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = ln(x^2 + 1), find f'(x) using implicit differentiation."
+2,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 2x + ln(2x)cos(x), what value of x satisfies f'(x) = 0?"
+3,,Composite_Implicit_and_Inverse_Functions,Find the derivative of h(x) = ln(sin(x)).
+4,,Composite_Implicit_and_Inverse_Functions,"Given g(x) = sin(x^2) - 3cos^2(x), find g'(x) using implicit differentiation."
+5,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^x * sin(x), find the inverse function of f(x)."
+6,,Composite_Implicit_and_Inverse_Functions,Find the derivative of h(x) = (ln(x))^3 * sin(1/x).
+7,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = x * ln(x) + xe^x, find the equation of the tangent line at x = 1."
+8,,Composite_Implicit_and_Inverse_Functions,"If g(x) = e^(2x) * cos^2(x) + 3, find the inverse function of g(x)."
+9,,Composite_Implicit_and_Inverse_Functions,Find the derivative of h(x) = ln(1/2x^2 + 3/2x).
+10,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) = cos(sin(2x))
+11,,Composite_Implicit_and_Inverse_Functions,"Given the equation y = ln(x^2 + 1), find the inverse function and its derivative."
+12,,Composite_Implicit_and_Inverse_Functions,Find the antiderivative of the composite function f(g(x)) = e^(2x^2)
+13,,Composite_Implicit_and_Inverse_Functions,"Given the equation y = e^(-x^2), find the equation of the inverse function and its domain."
+14,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function f^-1(x) = x^3 + 3x^2 - 2x + 1.
+15,,Composite_Implicit_and_Inverse_Functions,"Given the equation y = ln(cos(x)), find the domain and range of the inverse function."
+16,,Composite_Implicit_and_Inverse_Functions,Find the composite function f(g(x)) where g(x) = e^(x^2) and f(x) = 1/x.
+17,,Composite_Implicit_and_Inverse_Functions,"Given the equation y = ln(x), find the inverse function and its derivative."
+18,,Composite_Implicit_and_Inverse_Functions,"Find the domain and range of the composite function f(g(x)) = ⁿ√(x^2 + 1), where g(x) = sin(x)."
+19,,Composite_Implicit_and_Inverse_Functions,"Given the equation y = tan⁻¹x, find the inverse function and its derivative."
+20,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the function f(x) = e^x * sin(x).
+21,,Composite_Implicit_and_Inverse_Functions,Determine the derivative of the composite function f(g(x)) = ln(2x+1)^2.
+22,,Composite_Implicit_and_Inverse_Functions,What is the domain of the inverse function of f(x) = x^2 + 5?
+23,,Composite_Implicit_and_Inverse_Functions,"Given the function f(x) = ∛(4x+7), find the inverse and its domain."
+24,,Composite_Implicit_and_Inverse_Functions,Find the slope of the tangent line to the curve y = (2x+1)sin(3x) at the point where x = 2.
+25,,Composite_Implicit_and_Inverse_Functions,Determine the derivative of the composite function f(g(x)) = √(4x+6)^3.
+26,,Composite_Implicit_and_Inverse_Functions,"Given the inverse function f(x) = 2x/(3x+1), find the derivative at x = 2."
+27,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function f(x) = 1/x^2 and its domain.
+28,,Composite_Implicit_and_Inverse_Functions,Calculate the derivative of the composite function f(g(x)) = cos(x^2).
+29,,Composite_Implicit_and_Inverse_Functions,"Given the inverse function f(x) = (x+1)/(x-3), find the equation of the tangent line at the point where x = -2."
+30,,Composite_Implicit_and_Inverse_Functions,Find the derivative of f(x) = (x^2 + 1)^3 at x = 2.
+31,,Composite_Implicit_and_Inverse_Functions,"Given composite function f(g(x)) = x^2 and g(x) = 3x + 1, find f'(x)."
+32,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = e^(2x).
+33,,Composite_Implicit_and_Inverse_Functions,"If f(x) = cos(x^2 - 3x) and g(x) = 2x - 1, find (f◦g)'(x)."
+34,,Composite_Implicit_and_Inverse_Functions,Find the points on the graph of y = x^3 where the tangent line is parallel to the line y = 2x + 5.
+35,,Composite_Implicit_and_Inverse_Functions,Determine the value of k so that the curve y = kx^2 + 4x + 1 has a horizontal tangent line at x = -2.
+36,,Composite_Implicit_and_Inverse_Functions,"If f(g(x)) = x^3 and g(x) = 2x - 1, find f'(x)."
+37,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function of f(x) = ln(2x + 1).
+38,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(g(h(x))) = 5x^2 and h(x) = e^(2x), find f'(x)."
+39,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) = (g(x))^2 where g(x) = e^(3x).
+40,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function f(g(x)), where f(x) = x^2 and g(x) = sin(x)."
+41,,Composite_Implicit_and_Inverse_Functions,Use the chain rule to find the derivative of h(x) = ln(cos(x)).
+42,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = e^(2x) and g(x) = x^2, find the derivative of the composite function f(g(x))."
+43,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = ln(x^2 + 1).
+44,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(g(x)) = e^(sin(x)), find g(x)."
+45,,Composite_Implicit_and_Inverse_Functions,Use the inverse function theorem to find the derivative of f(x) = sin⁻¹(1/x).
+46,,Composite_Implicit_and_Inverse_Functions,"Given the composite function h(g(x)) = (1/x)^2, where g(x) = x^2, find h(x)."
+47,,Composite_Implicit_and_Inverse_Functions,Determine if the inverse function of f(x) = e^x is a one-to-one function.
+48,,Composite_Implicit_and_Inverse_Functions,"Find the domain and range of the composite function f(g(x)), where f(x) = √(x) and g(x) = sin(x)."
+49,,Composite_Implicit_and_Inverse_Functions,Use the chain rule to find the derivative of h(x) = ln(3^(2x+1)).
+50,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) if f(x) = e^x and g(x) = x^2.
+51,,Composite_Implicit_and_Inverse_Functions,"Given the function h(x) = ln(2x+1), find the inverse function and its derivative."
+52,,Composite_Implicit_and_Inverse_Functions,"If f(x) = sin(cos(x)), what is f'(x)?"
+53,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function of f(x) = x^4 + 2x + 1.
+54,,Composite_Implicit_and_Inverse_Functions,"Given the function g(x) = ln(x^2+1), find the tangent line at x=3."
+55,,Composite_Implicit_and_Inverse_Functions,"If f(x) = ln(e^x) + sqrt(sin(x)), what is f'(x)?"
+56,,Composite_Implicit_and_Inverse_Functions,Find the value of x for which the tangent line to the curve y = 2x^2 + 3x + 1 is parallel to the line y = 5x + 4.
+57,,Composite_Implicit_and_Inverse_Functions,"Given the composite function h(f(x)) where h(x) = x^3 and f(x) = ln(x), find h'(f(x)) and evaluate the result at x=1."
+58,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of g(x) = sqrt(4x+9).
+59,,Composite_Implicit_and_Inverse_Functions,"If f(x) = cos(sin(x)) and g(x) = x^2 + 3x, find the value of f'(g(-1))."
+60,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) if f(x) = sin(x) and g(x) = cos(x).
+61,,Composite_Implicit_and_Inverse_Functions,Determine the inverse of the function f(x) = 3x + 4.
+62,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 and g(x) = sin(x), what is the value of (f∘g)(π/2)?"
+63,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function of f(x) = 4x + 3.
+64,,Composite_Implicit_and_Inverse_Functions,"If y = ln(5e^x + 2), find y''(x)."
+65,,Composite_Implicit_and_Inverse_Functions,"Suppose f(x) = x^3 and g(x) = 2x + 1, find the value of (f∘g)^-1(11)."
+66,,Composite_Implicit_and_Inverse_Functions,For what value(s) of x is the derivative of f(x) = e^x equal to g(x) = 4/x?
+67,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function of f(x) = e^sin(x).
+68,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 3x^2 and g(x) = ln(x), what is the value of (g∘f)^-1(81)?"
+69,,Composite_Implicit_and_Inverse_Functions,"Find the equation of the tangent line to the curve y = ln(x^2) at the point (1, 0)."
+70,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function f(g(x)) at x=2, where f(x) = sin(x) and g(x) = x^2 + 1"
+71,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = ln(3x+1), find f^-1(4) and use it to evaluate the inverse function at x=2"
+72,,Composite_Implicit_and_Inverse_Functions,"If f(x) = tan(3x^2), what is f'(x) and f^-1'(x)?"
+73,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the inverse function of h(x) = x^3 + 2x, when x=3"
+74,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^(3x) and g(x) = ln(x), find the composite function f(g(x))"
+75,,Composite_Implicit_and_Inverse_Functions,"Find the inverse of the composite function f(g(x)), where f(x) = sin(x) and g(x) = 2x-1"
+76,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = cos(2x) and g(x) = x^2 + 1, what is the inverse function of f(g(x))?"
+77,,Composite_Implicit_and_Inverse_Functions,"If f(x) = √(x^3) and g(x) = 1/x, find the composite function f(g(x))"
+78,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^(ln(x+2)), what is the inverse function of f(x)?"
+79,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function f(g(x)), where f(x) = 1/(x+1) and g(x) = √x at x=4"
+80,,Composite_Implicit_and_Inverse_Functions,Find an equation for the tangent line at x = 2 for the function y = (e^x - 3x)^2.
+81,,Composite_Implicit_and_Inverse_Functions,"Given the functions f(x) = 4x + 1 and g(x) = 6x^2 + 3x - 2, find the equation for the composite function f(g(x))."
+82,,Composite_Implicit_and_Inverse_Functions,"If f(x) = √(2x + 1) and g(x) = 2x, find the value of g^-1(4)."
+83,,Composite_Implicit_and_Inverse_Functions,The function f(x) = e^(x^2) has an inverse function g(x). Find the equation for g(x).
+84,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 3x + 1 and g(x) = 1/x, find the equation for the composite function g(f(x))."
+85,,Composite_Implicit_and_Inverse_Functions,Find the domain and range of the function f(x) = ln(1 - e^-x).
+86,,Composite_Implicit_and_Inverse_Functions,"If h(x) = √(ln(x^2 + x)), find the value of h^-1(4)."
+87,,Composite_Implicit_and_Inverse_Functions,"Given the composite function h(x) = f(g(x)), where f(x) = x^2 - 3x and g(x) = √x + 2, find h'(x)."
+88,,Composite_Implicit_and_Inverse_Functions,The inverse function of f(x) = 5x + 7 is g(x). Find g'(x).
+89,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^(x^2)sin(x) and g(x) = √x, find the derivative of the composite function f(g(x))."
+90,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function f(g(x)), where f(x) = sin(x) and g(x) = ln(x)."
+91,,Composite_Implicit_and_Inverse_Functions,Determine the derivative of f(g(x)) when f(x) = x^2 and g(x) = sqrt(x).
+92,,Composite_Implicit_and_Inverse_Functions,"Given the composite function h(x) = tan^-1(1/x), find the derivative of h'(x)."
+93,,Composite_Implicit_and_Inverse_Functions,Find the inverse of f(x) = 2x^3 + 5x - 1.
+94,,Composite_Implicit_and_Inverse_Functions,Determine the derivative of f^-1(x) when f(x) = ln(x + 1).
+95,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) where f(x) = e^x and g(x) = ln(x).
+96,,Composite_Implicit_and_Inverse_Functions,"Given the inverse function f^-1(x) = sqrt(3x + 5), find the derivative of f'(x)."
+97,,Composite_Implicit_and_Inverse_Functions,Determine the inverse function of f(x) = 3x^2 - 2x + 1.
+98,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) where f(x) = 5x^2 + 1 and g(x) = cos(x).
+99,,Composite_Implicit_and_Inverse_Functions,"Given the inverse function f^-1(x) = ln(2x), find the derivative of f'(x)."
+100,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) where f(x) = sin(x) and g(x) = x^2.
+101,,Composite_Implicit_and_Inverse_Functions,"Given the function h(x) = sin(x)cos(x), find the derivative h'(x)."
+102,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 + x^2 - 4x + 1, find f^-1(x), the inverse function of f(x)."
+103,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(g(x)) = (2x + 5)^3, where g(x) = x^2 - 3, find the value of f'(3)."
+104,,Composite_Implicit_and_Inverse_Functions,"If y = f(g(x)) and f(x) = x^2 + 5x + 2, g(x) = sin(x), find dy/dx."
+105,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function f(x) = 2ln(x) + 3.
+106,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the function f(x) = (sin(x))^2 / cos(x).
+107,,Composite_Implicit_and_Inverse_Functions,"If y = f(g(x)) and f(x) = 3x + 2, g(x) = √x, find dy/dx."
+108,,Composite_Implicit_and_Inverse_Functions,"Given the function h(x) = 5x^4 + 3x^3 - 2x^2 + 7, find h'(x)."
+109,,Composite_Implicit_and_Inverse_Functions,"Find the inverse of the composite function f(g(x)) = cos(2x), where g(x) = x^2 + 3."
+110,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function g(x) = ln(sin(2x)) at x = π/6.
+111,,Composite_Implicit_and_Inverse_Functions,"Given the equation y = e^x + e^(2x), find the inverse function y^-1(x) and determine its domain."
+112,,Composite_Implicit_and_Inverse_Functions,"If f(x) = √(sinx), find the composite function h(x) = f(f(x))."
+113,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function y = ln(1 + e^x) and determine its domain and range.
+114,,Composite_Implicit_and_Inverse_Functions,Determine the derivative dy/dx for y = cos(2x)e^(x^2).
+115,,Composite_Implicit_and_Inverse_Functions,"Given the functions f(x) = x^2 and g(x) = e^(cosx), find the composite function h(x) = f(g(x))."
+116,,Composite_Implicit_and_Inverse_Functions,Find the inverse function y^-1(x) for y = e^(4x+3).
+117,,Composite_Implicit_and_Inverse_Functions,"If f(x) = (cosx)^3, find the derivative of the inverse function f^-1(x)."
+118,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the function y = ln(tanx) at x = π/4.
+119,,Composite_Implicit_and_Inverse_Functions,"Given the function f(x) = e^x + 2, determine if it has an inverse function, and if so, find the inverse and its domain."
+120,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(x) = g(h(x)), where g(x) = 2x and h(x) = x^2 - 3, find f'(x)."
+121,,Composite_Implicit_and_Inverse_Functions,"If f(x) = cos(x) and g(x) = x^2 + 1, find the derivative of the composite function f(g(x))."
+122,,Composite_Implicit_and_Inverse_Functions,"If f(x) = ln(x) and g(x) = sin(x), find the derivative of the composite function f(g(x))."
+123,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = 3e^x - 2.
+124,,Composite_Implicit_and_Inverse_Functions,"Given the inverse function of f(x) = 2x + 5, find the value of f^-1(11)."
+125,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 - 5 and g(x) = x - 1, find the composite function f(g(x)) and its inverse function."
+126,,Composite_Implicit_and_Inverse_Functions,"Assume f(x) and g(x) are inverse functions. If f(2) = 5, find g(5)."
+127,,Composite_Implicit_and_Inverse_Functions,"Given the curve y = f(x), where f(x) is a differentiable function, find the equation of the tangent line to the curve at the point (a, f(a))."
+128,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function of f(x) = 3x^4 - 2x^3 + 5x^2.
+129,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^x and g(x) = ln(x), find the composite function f(g(x)) and its inverse function."
+130,,Composite_Implicit_and_Inverse_Functions,Find the derivative of f(x) = √(sin(x^2))
+131,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = e^x and g(x) = sinx, find the composite function (f∘g)(x)"
+132,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 2x + 3 and g(x) = e^x, find the inverse function f^-1(x)"
+133,,Composite_Implicit_and_Inverse_Functions,Find the derivative of y^3 = ln(x^2 + 1)
+134,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = 2x + 1 and g(x) = x^2, find (g∘f)(x)"
+135,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = log(base 4)(2x + 3)
+136,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = cos(e^x), find f^-1(x)"
+137,,Composite_Implicit_and_Inverse_Functions,Find the derivative of y = (1/x)^2
+138,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = √x and g(x) = ln(x), find (f∘g)(x)"
+139,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of y = x^2 + e^x
+140,,Composite_Implicit_and_Inverse_Functions,Find the composite function f(g(x)) when f(x) = cos(x) and g(x) = 2x.
+141,,Composite_Implicit_and_Inverse_Functions,"Given the function f(x) = ln(2x+3), find the inverse function and its domain."
+142,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 3x^2 + 4x - 2 and g(x) = sin(x), what is the derivative of f(g(x)) at x= π/4?"
+143,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function f(x) = e^(2x+3).
+144,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^(1/2) and g(x) = 2x+1, what is the value of f(g(5))?"
+145,,Composite_Implicit_and_Inverse_Functions,"Given the composite function h(x) = f(g(x)) = (x^2+3)^3, where f(x) = x^3 and g(x) = x^2+3, find the derivative of h(x)."
+146,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function f(x) = 3ln(x/2).
+147,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^(sinx) and g(x) = cos(x), what is the value of f(g(π/6))?"
+148,,Composite_Implicit_and_Inverse_Functions,Find the equation of the inverse function of f(x) = 4x^3 + 2x + 1.
+149,,Composite_Implicit_and_Inverse_Functions,"If f(x) = cos(lnx) and g(x) = ln(x), what is the value of g(f(e^π))?"
+150,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function f(g(x)), where f(x) = (cos x)^2 and g(x) = e^x."
+151,,Composite_Implicit_and_Inverse_Functions,Determine the inverse function of f(x) = (x^2 + 1)^3.
+152,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(g(x)) = sin(2x^3), find g'(x)."
+153,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of h(x) = (ln x)^2 * f(g(x)), where f(x) = x^2 and g(x) = 4x."
+154,,Composite_Implicit_and_Inverse_Functions,Determine the inverse of f(x) = (ln x - 3)^2.
+155,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) = e^(x^2)(sin x).
+156,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(g(x)) = (x + 1)^5, find g'(x)."
+157,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = (2x + 4)^(1/3).
+158,,Composite_Implicit_and_Inverse_Functions,Find the derivative of h(x) = sqrt(f(g(x))) where f(x) = x^2 and g(x) = 2x + 1.
+159,,Composite_Implicit_and_Inverse_Functions,Determine the inverse function of f(x) = 2^(3x + 5).
+160,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function f(g(x)) at a specific point, given that f(x) = cos(x) and g(x) = tan(x)."
+161,,Composite_Implicit_and_Inverse_Functions,What is the inverse function of f(x) = ln(x^2 + 1)?
+162,,Composite_Implicit_and_Inverse_Functions,"Find the slope of the tangent line to the curve y = √(x^2 – 5) at the point (3, 2)."
+163,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = x^3 – 5 and g(x) = √(x^2 + 1), find the value of (f/g)(4)."
+164,,Composite_Implicit_and_Inverse_Functions,"Determine the domain and range of the composite function f(g(x)), given that f(x) = e^x and g(x) = ln(x + 1)."
+165,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the inverse function of f(x) = e^(2x), at a specific point."
+166,,Composite_Implicit_and_Inverse_Functions,"Express the composite function f(g(x)) in terms of x, given that f(x) = ln(5x) and g(x) = e^x."
+167,,Composite_Implicit_and_Inverse_Functions,"Given the function y = sin(2x), find the inverse function and its domain and range."
+168,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 – 1 and g(x) = cos(x), what is the domain of the composite function f(g(x))?"
+169,,Composite_Implicit_and_Inverse_Functions,"Find the value of (f/g)(1), given that f(x) = e^x and g(x) = sin(x)."
+170,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(x) = √(e^2x+1)
+171,,Composite_Implicit_and_Inverse_Functions,Determine the inverse function of g(x) = ln(3x+2)
+172,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = cos(sin(x)), find f'(x)"
+173,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function h(x) = ∛(2x^2+1)
+174,,Composite_Implicit_and_Inverse_Functions,Determine the inverse function of j(x) = tan(cos(x))
+175,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = ln(e^(2x+3)), find f'(x)"
+176,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function g(x) = √(ln(x^2))
+177,,Composite_Implicit_and_Inverse_Functions,Determine the inverse function of h(x) = cos(sin(x^2))
+178,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = sin(2e^x), find f'(x)"
+179,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function j(x) = ∛(e^4x+1)
+180,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) if f(x) = cos(x) and g(x) = x^2 - 4
+181,,Composite_Implicit_and_Inverse_Functions,"Given the composite function h(x) = sin(ln(x)), find the value of h'(4)"
+182,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 3x^2 and g(x) = √x, find the inverse function of f(g(x))"
+183,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function of f(x) = 2x^3 + 5x - 1
+184,,Composite_Implicit_and_Inverse_Functions,"Given the composite function h(x) = √(4x^2 + 1), find the domain of h^-1(x)"
+185,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function of f(x) = e^(3x + 1)
+186,,Composite_Implicit_and_Inverse_Functions,"If f(x) = ln(5x) and g(x) = e^x, find the inverse function of f(g(x))"
+187,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) if f(x) = x^3 and g(x) = e^x + 1
+188,,Composite_Implicit_and_Inverse_Functions,"Given the composite function h(x) = √(ln(x)), find an equation for the tangent line to h(x) at x = 1"
+189,,Composite_Implicit_and_Inverse_Functions,"Given the composite function h(x) = 3ln(e^(2x) + 1), find the value of h'(0)"
+190,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function h(x) = f(g(x)), where f(x) = x^2 and g(x) = ln(x)."
+191,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = 2x + 3x^2 and g(x) = x^2, find (f∘g)(x) and its domain."
+192,,Composite_Implicit_and_Inverse_Functions,"For the function f(x) = cos(x), find an inverse function g(x) such that (f∘g)(x) = x."
+193,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse of the function f(x) = 3x^3 - 2x + 5.
+194,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = x^2 + 4 and g(x) = √x, find the composition (f∘g)(x)."
+195,,Composite_Implicit_and_Inverse_Functions,"If f(x) = (x + 2)^3, find an inverse function g(x) and determine its domain."
+196,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function h(x) = (sin(x))^2 where g(x) = cos(x) and f(x) = x^2.
+197,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = 5x + 2 and g(x) = e^x, find the inverse function of (f∘g)(x)."
+198,,Composite_Implicit_and_Inverse_Functions,"For the function f(x) = x^3 - 4x + 1, find an inverse function g(x) and calculate (g∘f)(x)."
+199,,Composite_Implicit_and_Inverse_Functions,"Find the value of x at which the tangent line to the composite function f(g(x)) = x^3 + 2x at x = 2 is horizontal, where g(x) = 3x^2 and f(x) = √x."
+200,,Composite_Implicit_and_Inverse_Functions,Find the derivative of y = sin(sin(x)).
+201,,Composite_Implicit_and_Inverse_Functions,"Determine the equation of the tangent line to the curve given by x^2 + y^2 = 4 at the point (1, -1)."
+202,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = ln(x^2 + 1).
+203,,Composite_Implicit_and_Inverse_Functions,"Given the equation x^3 + xy - 6y = 0, find dy/dx."
+204,,Composite_Implicit_and_Inverse_Functions,Find the maximum value of f(x) = x^2 - 2x + 1 using the second derivative test.
+205,,Composite_Implicit_and_Inverse_Functions,Calculate the derivative of y = sin^-1(2x).
+206,,Composite_Implicit_and_Inverse_Functions,"Determine the equation of the normal line to the curve given by y = x^2 + 2x + 1 at the point (-1, 0)."
+207,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = e^x + 2.
+208,,Composite_Implicit_and_Inverse_Functions,"Given the equation y^3 + xy + x = 3, find dy/dx."
+209,,Composite_Implicit_and_Inverse_Functions,Find the minimum value of f(x) = ln(x) + e^(-x) + 2 using the first derivative test.
+210,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) where f(x) = sin(x) and g(x) = x^2 - 3.
+211,,Composite_Implicit_and_Inverse_Functions,What is the domain of the composite function h(s(t)) where h(s) = √(sin(s)) and s(t) = 3t^2 + 1?
+212,,Composite_Implicit_and_Inverse_Functions,Solve for x in the composite function f(g(x)) = 0 where f(x) = (x^2 + 1) / (2x - 1) and g(x) = ln(x^2 + 3x).
+213,,Composite_Implicit_and_Inverse_Functions,Determine the inverse function of f(x) = x^3 + 3x - 4.
+214,,Composite_Implicit_and_Inverse_Functions,"If f(x) = sin(2x) and g(x) = x - 4, what is the composite function f(g(x))?"
+215,,Composite_Implicit_and_Inverse_Functions,Find the interval on which the inverse function of f(x) = 2x^3 + 3x - 5 is increasing.
+216,,Composite_Implicit_and_Inverse_Functions,Evaluate the composite function f(g(3)) where f(x) = √(x) and g(x) = x^2 + 2x - 3.
+217,,Composite_Implicit_and_Inverse_Functions,Determine whether the function f(x) = 2x^2 + 3x + 1 is one-to-one.
+218,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(g(x)), find the value of x if f(g(x)) = 8 and f(x) = 2x^2."
+219,,Composite_Implicit_and_Inverse_Functions,Find the second derivative of the inverse function of f(x) = √(3x^2 + 2x + 1).
+220,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) where f(x) = sin(x^2) and g(x) = ln(x).
+221,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 + 2x - 1 and g(x) = √(x + 1), find (f o g)(2)."
+222,,Composite_Implicit_and_Inverse_Functions,"Given the function f(x) = e^(x^2) and its inverse function f^-1(x), find the derivative of f^-1(x) at x = 1."
+223,,Composite_Implicit_and_Inverse_Functions,"If f(x) = ln(5x + 1) and g(x) = x^2 - 3, what is the value of g(f^-1(6))?"
+224,,Composite_Implicit_and_Inverse_Functions,"Find the equation of the tangent line to the curve xy + e^y = x^2 at the point (1, 0)."
+225,,Composite_Implicit_and_Inverse_Functions,"Given the functions f(x) = x^2 and g(x) = √x, find the derivative of f^-1(g(x)) at x = 4."
+226,,Composite_Implicit_and_Inverse_Functions,"If f(x) = sin(x) and g(x) = e^x, find the second derivative of f(g(x))."
+227,,Composite_Implicit_and_Inverse_Functions,"Find the equation of the normal line to the curve x^2 + y^2 = 25 at the point (3, -4)."
+228,,Composite_Implicit_and_Inverse_Functions,"Given the functions f(x) = x^3 + 4 and g(x) = (e^x)^2 + 1, find the derivative of g(f(x))."
+229,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 2x + ln(x) and g(x) = 3x^2 - 2, what is the value of f(g^-1(2))?"
+230,,Composite_Implicit_and_Inverse_Functions,1. Find the derivative of the function f(x) = (x^2 - 1)^3 at x = 1.
+231,,Composite_Implicit_and_Inverse_Functions,"Given the implicit equation x^2 + y^2 = 3, find the equation of the tangent line at the point (1,√2)."
+232,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function f^-1(x) = ln(2x) at x = e.
+233,,Composite_Implicit_and_Inverse_Functions,A particle is moving along a curve defined by x^2 + y^2 = 25. Find the rate of change of the angle between the tangent line at any point and the horizontal line when x = 3.
+234,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(x) = g(h(x)), where g(x) = 2x - 1 and h(x) = (x^2 - 1)^2, find f'(x)."
+235,,Composite_Implicit_and_Inverse_Functions,A function f(x) has an inverse function f^-1(x) defined by f^-1(x) = √(x^2 + 2). Find the derivative of f^-1(x) at x = 3.
+236,,Composite_Implicit_and_Inverse_Functions,"Find the equation of the tangent line to the curve x^2 + y^2 = 4 at the point (1, -1)."
+237,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(x) = g(h(x)), where g(x) = x^2 and h(x) = ln(x), find f'(x)."
+238,,Composite_Implicit_and_Inverse_Functions,The inverse function of h(x) = x^4 + 1 is f(x). Find f'(x) at x = 2.
+239,,Composite_Implicit_and_Inverse_Functions,"The curve x^2 + xy + y^2 = 8 has an implicit function y = f(x). Find the equation of the tangent line at the point (2, 0)."
+240,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) if f(x) = sin(x) and g(x) = ln(x).
+241,,Composite_Implicit_and_Inverse_Functions,"If y = ln(e^(2x + 1)), find dy/dx."
+242,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = x^2 + 3x + 1 and g(x) = √(e^x), find (f∘g)(x) and its domain."
+243,,Composite_Implicit_and_Inverse_Functions,"If u(x) = e^(sinx) and v(x) = cosx, find (u∘v)(x) and simplify the result."
+244,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 2x + 3 and g(x) = √(x+1), find (g∘f)(x) and its range."
+245,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = 2e^(4x).
+246,,Composite_Implicit_and_Inverse_Functions,"If h(x) = e^x and k(x) = ln(x+1), find (h∘k)(x) and its domain."
+247,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function f^(-1)(x) if f(x) = e^(2x-1).
+248,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = cosx and g(x) = e^(2x), find (g∘f)(x) and its range."
+249,,Composite_Implicit_and_Inverse_Functions,"If y = e^(2lnx), find dy/dx."
+250,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function g(f(x)), where f(x) = sin(x) and g(x) = ln(x)."
+251,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = x^3 - 2x + 5 and g(x) = √x + 3, find the derivative of the composite function f(g(x))."
+252,,Composite_Implicit_and_Inverse_Functions,Find the inverse of f(x) = e^(2x) - 3.
+253,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = x^2 + 4 and g(x) = log(x), find the domain of the composite function f(g(x))."
+254,,Composite_Implicit_and_Inverse_Functions,"Find the equation of the tangent line to the curve y = sin(e^x) at the point (0,1)."
+255,,Composite_Implicit_and_Inverse_Functions,"Determine the interval on which the composite function f(g(x)) = 2x^3 - 5x + 3 is increasing, if g(x) = x^2."
+256,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function f⁻¹(x) = ln(2x + 3).
+257,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = cos(x) and g(x) = x^2, find the value of (fog)'(2)."
+258,,Composite_Implicit_and_Inverse_Functions,"Determine the domain and range of the composite function f(g(x)), where f(x)= 1/x and g(x) = sin(x)."
+259,,Composite_Implicit_and_Inverse_Functions,"Find the limit of the composite function f(g(x)) as x approaches 2, if f(x) = x^2 and g(x) = √x."
+260,,Composite_Implicit_and_Inverse_Functions,Find the derivative of f(x) = (cosx)^2 + (sinx)^2 at x = π/6.
+261,,Composite_Implicit_and_Inverse_Functions,"Given g(x) = ln(2x), find g^-1(x), the inverse of the function."
+262,,Composite_Implicit_and_Inverse_Functions,Find the domain and range of the function h(x) = e^x * ln(1/x)
+263,,Composite_Implicit_and_Inverse_Functions,"If f(x) = (x^2 - 1)/(x^2 + 1), find f^-1(x) and verify that it is the inverse function of f(x)."
+264,,Composite_Implicit_and_Inverse_Functions,Find the derivative of y = sin(lnx) using the chain rule.
+265,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = 3x - 4 and g(x) = x^3 + 2x, find the composite function f(g(x))."
+266,,Composite_Implicit_and_Inverse_Functions,"Find the equation of the tangent line to the curve y = sinx + cosx at the point (π/4, sqrt(2))."
+267,,Composite_Implicit_and_Inverse_Functions,Find the value of x where the tangent line to the graph of y = x * e^(-x^2) is parallel to the x-axis.
+268,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^x * ln(x), find f'(x) using implicit differentiation."
+269,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function of y = cos(x) + e^x at x = 0.
+270,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function (g ∘ f)(x) given f(x) = x^2 + 3x and g(x) = √x.
+271,,Composite_Implicit_and_Inverse_Functions,Determine the inverse function of f(x) = 2x + 5.
+272,,Composite_Implicit_and_Inverse_Functions,Solve for x if f(x) = x^2 + 6x and (f ∘ g)(x) = 5x + 3.
+273,,Composite_Implicit_and_Inverse_Functions,Find the second derivative of the composite function (f ∘ g)(x) if f(x) = 3x^2 and g(x) = √x.
+274,,Composite_Implicit_and_Inverse_Functions,"Given the inverse function h(x) = -2x + 1, find the original function f(x)."
+275,,Composite_Implicit_and_Inverse_Functions,Determine the derivative of the inverse function of y = e^x + 1.
+276,,Composite_Implicit_and_Inverse_Functions,Solve for x if f(x) = x^3 and (f ∘ g)(x) = 10x + 6.
+277,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function (f ∘ g)(x) if f(x) = ln(x) and g(x) = x^2 - 5.
+278,,Composite_Implicit_and_Inverse_Functions,"Given the composite function (f ∘ g)(x) = 2x^2 + 1 and the inverse function g^-1(x) = 2/x, find the original function f(x)."
+279,,Composite_Implicit_and_Inverse_Functions,"Determine the limit of the composite function (f ∘ g)(x) as x approaches 2, given f(x) = x + 3 and g(x) = √x."
+280,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function y = cos⁡[sin⁡(x²)].
+281,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = 3e^x and g(x) = x^2 + 5, find the composite function (f ∘ g)(x)."
+282,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = 2x - 3.
+283,,Composite_Implicit_and_Inverse_Functions,"Given the composite function y = (f ∘ g)(x) where f(x) = 4x + 2 and g(x) = √x, find the domain and range of y."
+284,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function f⁻¹(x) = ln(3x + 5).
+285,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x² and g(x) = cos⁡(x), find the value of (f ∘ g)(π/3)."
+286,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = 2e^(3x).
+287,,Composite_Implicit_and_Inverse_Functions,"Given the composite function y = (f ∘ g)(x) where f(x) = x² and g(x) = 1/x, find the domain and range of y."
+288,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function f⁻¹(x) = sin⁡(2x).
+289,,Composite_Implicit_and_Inverse_Functions,"If f(x) = ln(2x + 3) and g(x) = 3x², find the value of (f ∘ g)(1)."
+290,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) where f(x) = x^2 + 3 and g(x) = cos(2x).
+291,,Composite_Implicit_and_Inverse_Functions,Determine the value of x for which the composite function h(f(x)) = cos(2x) + 1 is not differentiable.
+292,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(g(x)) = √(x^3 + 1), find the equation of the tangent line to the curve at the point (1, 2)."
+293,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function y = 2e^x - 3 and determine its domain and range.
+294,,Composite_Implicit_and_Inverse_Functions,"If the composite function f(g(x)) = 3x + 2 is invertible, find the equation of its inverse."
+295,,Composite_Implicit_and_Inverse_Functions,"Given the composite function h(f(x)) = √(sinx + 1), find the domain and range of f(x)."
+296,,Composite_Implicit_and_Inverse_Functions,Find the limit as x approaches infinity of the composite function f(g(x)) where f(x) = e^(2x) and g(x) = ln(x).
+297,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 1/x and g(x) = e^(2x), find the value of the composite function f(g(x))."
+298,,Composite_Implicit_and_Inverse_Functions,Determine the derivative of the composite function f(g(x)) where f(x) = ln(x) and g(x) = sinx.
+299,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(g(x)) = 2x^2 - 3, find the value of x for which f(g(x)) = 10."
+300,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(x) = sin(3x^2)
+301,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 + 2x and g(x) = ln(x), find the value of (f ∘ g)(e)"
+302,,Composite_Implicit_and_Inverse_Functions,"Given the composite function w(x) = (sin x)^2, find w'(x)"
+303,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 - 2x and g(x) = sin(x), find (g ∘ f)'(x)"
+304,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = ln(2x)
+305,,Composite_Implicit_and_Inverse_Functions,Determine the domain and range of the function g(x) = ln(x^2 + 1)
+306,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^x and (g ∘ f)(x) = x^3, what is the value of g(x)?"
+307,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function h(x) = (f ∘ g)(x) where f(x) = x^2 and g(x) = sin(x)
+308,,Composite_Implicit_and_Inverse_Functions,"Given the composite function w(x) = cos(3x + π), find w'(x)"
+309,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = (x^2 + 1) / x
+310,,Composite_Implicit_and_Inverse_Functions,"Given the function f(x) = 2x^2 + 3x - 5 and the function g(x) = e^x, find the composite function g(f(x))."
+311,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function f^-1(x) if f(x) = ln(x^2 + 4x + 6).
+312,,Composite_Implicit_and_Inverse_Functions,Determine the domain and range of the composite function h(x) = sin(cos(x)).
+313,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 and g(x) is the inverse function of f(x), what is the value of g'(1)?"
+314,,Composite_Implicit_and_Inverse_Functions,Evaluate the composite function h(f(x)) if h(x) = sqrt(1 + x^2) and f(x) = cos(x).
+315,,Composite_Implicit_and_Inverse_Functions,Find the critical points of the composite function h(f(x)) if h(x) = x^2 - 3 and f(x) = sin(x).
+316,,Composite_Implicit_and_Inverse_Functions,"Given the composite function h(x) = 2f(g(x)) and the functions f(x) = x^2 and g(x) = e^(2x), find h'(x)."
+317,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function f^-1(x) if f(x) = 2^x.
+318,,Composite_Implicit_and_Inverse_Functions,Find the equation for the inverse of the composite function h(f(x)) if h(x) = sqrt(x) and f(x) = x^2 + 5.
+319,,Composite_Implicit_and_Inverse_Functions,"Given the inverse function f^-1(x) = e^x + 3, what is the value of f^-1'(2)?"
+320,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function y = sin(cos(x)).
+321,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function f(x) = ln(x^2 + 1).
+322,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = x^2 + 3 and g(x) = sin(x), find (f ∘ g)'(x)."
+323,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = ln(√(x + 3)) and g(x) = x^2, evaluate (f ∘ g)'(4)."
+324,,Composite_Implicit_and_Inverse_Functions,Find the equation of the tangent line to the composite function y = (x^2 + 1)^2 at x = -1.
+325,,Composite_Implicit_and_Inverse_Functions,"For the function f(x) = e^(3x), find the inverse function g(x) and evaluate (g ∘ f)'(4)."
+326,,Composite_Implicit_and_Inverse_Functions,"Given the composite function h(x) = cos(ln(2x)), find h'(x) and evaluate it at x = 1."
+327,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse of the function f(x) = (ln(x))^2 + 4 and evaluate it at x = 5.
+328,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 2x + 1 and g(x) = sin(2x), find the inverse of (f ∘ g)(x) and the derivative at x = π/4."
+329,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function y = ln(sin(3x)) and evaluate it at x = π/6.
+330,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = e^x + x
+331,,Composite_Implicit_and_Inverse_Functions,What is the derivative of g(x) = sin(x + ln(x))?
+332,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 + 5 and g(x) = f^-1(x), what is g'(3)?"
+333,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = x^3 + x^2 + x + 1 and g(x) = f^-1(x), determine the domain and range of g(x)."
+334,,Composite_Implicit_and_Inverse_Functions,"If h(x) = (x^2 + 1)^(1/2), find h'(x)."
+335,,Composite_Implicit_and_Inverse_Functions,Find d/dx (sin^-1(x^2)).
+336,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = x^2cos(x) and g(x) = f^-1(x), what is g'(1)?"
+337,,Composite_Implicit_and_Inverse_Functions,"If y = x^2sin^-1(x), find dy/dx."
+338,,Composite_Implicit_and_Inverse_Functions,Determine the inverse of the composite function y = sin(cosx).
+339,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 2x^3 + 3x^2 - 4x + 5 and g(x) = f^-1(x), find g''(1)."
+340,,Composite_Implicit_and_Inverse_Functions,What is the derivative of the composite function (sin(x^2))' ?
+341,,Composite_Implicit_and_Inverse_Functions,At what point does the inverse function of y = 2x + 1 intersect with the curve of f(x) = x^2 - 2x + 3?
+342,,Composite_Implicit_and_Inverse_Functions,How does the graph of the composite function f(g(x)) compare to the original functions f(x) and g(x)?
+343,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function of y = ln(3x + 5).
+344,,Composite_Implicit_and_Inverse_Functions,Determine the domain and range of the composite function f(g(x)) where f(x) = 2x + 1 and g(x) = √x.
+345,,Composite_Implicit_and_Inverse_Functions,What is the slope of the tangent line to the curve of f(x) = x^3 + 2x^2 - 4x + 1 at the point where x = -2?
+346,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 - 4x and g(x) = √x, find the value of f(g(4))."
+347,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = 2x^2 + 3x - 1.
+348,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 - 5x + 3 and g(x) = ln(x), find the derivative of the composite function f(g(x))."
+349,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(g(x)) = (sin x)^2, determine the value of g(π/6)."
+350,,Composite_Implicit_and_Inverse_Functions,Find the rate of change of the circumference of a circle with respect to its radius if the area of the circle is given by the implicit equation x^2 + y^2 = 16.
+351,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 - 2x^2 + x + 1 and g(x) = e^x, find the inverse function of f(g(x))."
+352,,Composite_Implicit_and_Inverse_Functions,"Determine the maximum and minimum values of the function y = ln(x^2 + 2) + 3x on the interval [-1, 2]."
+353,,Composite_Implicit_and_Inverse_Functions,"Find the inverse of the function f(x) = sin(x^2) on the interval [0, ⍬]"
+354,,Composite_Implicit_and_Inverse_Functions,"Given the composite function h(x) = f(g(x)), where f(x) = √(3x + 1) and g(x) = x^2 - 1, evaluate h'(3)."
+355,,Composite_Implicit_and_Inverse_Functions,"If f(g(x)) = x^3 - 5x + 2, find f(x) and g(x)."
+356,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function of f(x) = 2x^3 - 5x^2 + x + 1.
+357,,Composite_Implicit_and_Inverse_Functions,"If f(x) = (1 - x)^5 and g(x) = √(1 - x), find g'(4)."
+358,,Composite_Implicit_and_Inverse_Functions,Determine the slope of the tangent line at x = 2 for the curve defined by the implicit equation x^2 + xy + y^2 = 6.
+359,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^x and g(x) = ln(x), find the inverse of the composite function h(x) = f(g(x))."
+360,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of f(x) = g(x)h(x), where g(x) = x^2 and h(x) = cos(x)."
+361,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = ln(x^2 + 1), find the equation of the tangent line at x = 3."
+362,,Composite_Implicit_and_Inverse_Functions,"The function f(x) = e^x and g(x) are both differentiable. If f(g(x)) = x and g(1) = 2, find the value of g'(1)."
+363,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = e^(cosx) and g(x) = ln(x), find the derivative of (f∘g)(x) at x = 1."
+364,,Composite_Implicit_and_Inverse_Functions,Find the inverse of f(x) = (x^2 + 2x + 1)^3.
+365,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 + 9x and g(x) = 2^x, find the derivative of (f∘g)(2)."
+366,,Composite_Implicit_and_Inverse_Functions,"Find the equation of the normal line to the curve y = x^4 - 3x^3 + 4x^2 at the point (1,2)."
+367,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = 3x^2-2x+7, find the inverse of the composite function (f∘f)(x)."
+368,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 1/x and g(x) = x^3, find the derivative of (f∘g)(4)."
+369,,Composite_Implicit_and_Inverse_Functions,Find the value of x where the tangent line of the inverse function of f(x) = 3x^2 + 4x - 2 is perpendicular to the tangent line of f(x) at x = 1.
+370,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function f(x) = √(sin(x^2 + 5)), where g(x) = sin(x^2 + 5) and h(x) = √x"
+371,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^(sin(2x)), find f'(x) using the chain rule."
+372,,Composite_Implicit_and_Inverse_Functions,"If f(x) = (x^2 + 4)^2 and g(x) = ln(x^2 + 4), find the derivative of f(g(x)) using the chain rule."
+373,,Composite_Implicit_and_Inverse_Functions,Find the derivative of f(x) = sin^-1(3x^2 + 2) using implicit differentiation.
+374,,Composite_Implicit_and_Inverse_Functions,"Given the inverse function f^-1(x) = 2x - 3, what is the derivative of f^-1(x) at x = 4?"
+375,,Composite_Implicit_and_Inverse_Functions,Find the second derivative of f(x) = (x^2 + 3)^3 + cos(2x) at x = π/4.
+376,,Composite_Implicit_and_Inverse_Functions,"If f(x) = (cosx)^3 and g(x) = 2sinx, find the derivative of f(g(x)) using the chain rule."
+377,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function f(x) = e^x + 1.
+378,,Composite_Implicit_and_Inverse_Functions,Find the value of x when f(x) = ln(x) is equal to 2.
+379,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(x) = e^sinx, find f'(x) using implicit differentiation."
+380,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) given f(x) = ln(x) and g(x) = cos(2x).
+381,,Composite_Implicit_and_Inverse_Functions,Determine the inverse function of f(x) = 3x^2 - 2.
+382,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function of f(x) = 4x^3 + 2x^2 + 7x - 1 at x=2.
+383,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = sin(x) and g(x) = e^x, find the value of f(g(π/4))."
+384,,Composite_Implicit_and_Inverse_Functions,Show that the inverse of the function f(x) = 3x - 5 is g(x) = (x+5)/3.
+385,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function g(f(x)) where f(x) = x^3 and g(x) = ln(x).
+386,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 - 3 and g(x) = tan(x), find the value of (fg)(π/4)."
+387,,Composite_Implicit_and_Inverse_Functions,Determine the inverse of the function f(x) = 2^x.
+388,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function of f(x) = cos(2x) at x=π/3.
+389,,Composite_Implicit_and_Inverse_Functions,"Given h(x) = x^3 + 2x + 5 and g(x) = ln(x), find the domain and range of the composite function h(g(x))."
+390,,Composite_Implicit_and_Inverse_Functions,Find the derivative of f(x) = (sin(x))^2 + cos(x) with respect to x.
+391,,Composite_Implicit_and_Inverse_Functions,Use the chain rule to find the derivative of f(x) = ln(x^2 + 1).
+392,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = e^(x+1), find the inverse function and calculate its derivative."
+393,,Composite_Implicit_and_Inverse_Functions,"Find the equation of the tangent line to the curve (x + y)^3 = xy at the point (1,1)."
+394,,Composite_Implicit_and_Inverse_Functions,Differentiate the implicit function y^3 - 3xy = 2x with respect to x.
+395,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = (cos(x))^2, find f^-1'(x)."
+396,,Composite_Implicit_and_Inverse_Functions,Use the quotient rule to find the derivative of f(x) = x/((x+1)^2).
+397,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function of f(x) = x^2 + 4x - 9.
+398,,Composite_Implicit_and_Inverse_Functions,"If f(x) = y^3 + 2y - ln(x) and x = e^y, find f'(x)."
+399,,Composite_Implicit_and_Inverse_Functions,"Find the equation of the tangent line to the curve y^2 = (x-1)e^y at the point (2,1)."
+400,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function f(g(x)), where f(x) = x^2 and g(x) = ln(x)."
+401,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function f(x) = 3x + 5.
+402,,Composite_Implicit_and_Inverse_Functions,"If f(x) = sin(2x^2) and g(x) = x^3, find the derivative of f(g(x))."
+403,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^(x^2) and g(x) = 1 / (x^2 + 1), find the derivative of f(g(x))."
+404,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function f(x) = (x^2 + 2x + 1) / (x^2 - 2).
+405,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^x / x and g(x) = sin(x), find the derivative of f(g(x))."
+406,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the function f(x) = ln(x^2 + 1)^2.
+407,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 + 1 and g(x) = e^x - 1, find the derivative of f(g(x))."
+408,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function f(x) = 2sin(x) - cos(2x).
+409,,Composite_Implicit_and_Inverse_Functions,"If f(x) = ln(x) and g(x) = e^x, find the derivative of f(g(x))."
+410,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function of f(x) = e^x + x
+411,,Composite_Implicit_and_Inverse_Functions,Evaluate the derivative at x = 2 for the inverse function of f(x) = 3x^2 + 5
+412,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(g(x)) = x^2 + cos(x), find the inverse function g(f(x))"
+413,,Composite_Implicit_and_Inverse_Functions,"For the function f(x) = 2x - 3, find f^-1(x) and determine if it is an inverse function"
+414,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) where f(x) = 2x + 3 and g(x) = sin(x)
+415,,Composite_Implicit_and_Inverse_Functions,"Given that f(x) = (x^3 - 2)^2, find the inverse function f^-1(x) and determine its domain"
+416,,Composite_Implicit_and_Inverse_Functions,"For the function f(x) = sqrt(x + 1), find the derivative at x = 4 and the corresponding point on the inverse function's graph"
+417,,Composite_Implicit_and_Inverse_Functions,"Given the composite function (f∘g)(x) = x^3 and f(x) = x^2 - 1, find g(x)"
+418,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^x and g(x) = ln(x), find the value of (f∘g)(1)"
+419,,Composite_Implicit_and_Inverse_Functions,"For the function f(x) = cos(x) + 3, find the inverse function f^-1(x) and determine its range."
+420,,Composite_Implicit_and_Inverse_Functions,1. Find the derivative of the composite function f(g(x)) if f(x) = cos(x) and g(x) = x^2.
+421,,Composite_Implicit_and_Inverse_Functions,"2. Given f(x) = e^x and g(x) = ln(x), find the derivative of the composite function f(g(x))."
+422,,Composite_Implicit_and_Inverse_Functions,"3. If f(x) = sin(x^2) and g(x) = x^4, what is the derivative of the composite function f(g(x))?"
+423,,Composite_Implicit_and_Inverse_Functions,"4. Find the inverse of the function f(x) = 3x + 4, and determine the derivative of f^-1(x)."
+424,,Composite_Implicit_and_Inverse_Functions,"5. Given f(x) = 2x - 1 and g(x) = x^2 + 5x - 3, what is the value of (f∘g)(3)?"
+425,,Composite_Implicit_and_Inverse_Functions,"6. If f(x) = x^3 + 2x and g(x) = x^{-2}, what is the derivative of the composite function g(f(x))?"
+426,,Composite_Implicit_and_Inverse_Functions,"7. Find the inverse of the function f(x) = √(2x + 1), and determine the derivative of f^-1(x)."
+427,,Composite_Implicit_and_Inverse_Functions,"8. Given f(x) = tan(x) and g(x) = ln(x), what is the value of (g∘f)(π)?"
+428,,Composite_Implicit_and_Inverse_Functions,"9. If f(x) = e^{3x} and g(x) = ln(x), what is the derivative of the composite function f(g(x))?"
+429,,Composite_Implicit_and_Inverse_Functions,"10. Find the inverse of the function f(x) = ln(2x - 1), and determine the derivative of f^-1(x)."
+430,,Composite_Implicit_and_Inverse_Functions,Find the derivative of (sin(x))^2 + cos(x) at x = 1.
+431,,Composite_Implicit_and_Inverse_Functions,Determine the inverse function of f(x) = ln(2x + 1).
+432,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = x^3 + 2x and g(x) = 2x - 1, find the composite function f(g(x))."
+433,,Composite_Implicit_and_Inverse_Functions,"Find the equation of tangent line to the curve y = 3x^2 + x + 2 at the point (1,6)."
+434,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 3x + 2 and g(x) = x^2, determine the inverse composite function f(g(x))."
+435,,Composite_Implicit_and_Inverse_Functions,Find the derivative of (e^x)^2 + ln(x) at x = 2.
+436,,Composite_Implicit_and_Inverse_Functions,"Given u(x) = x^2 + 3 and v(x) = sin(x), find the derivative of u(v(x))."
+437,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = 3x^2 + 4x + 1.
+438,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 - 2x and g(x) = sqrt(x), find the composite function f(g(x))."
+439,,Composite_Implicit_and_Inverse_Functions,"Determine the equation of tangent line to the curve y = ln(x) + 2x at the point (1,3)."
+440,,Composite_Implicit_and_Inverse_Functions,"Given the function f(x) = (ln(x))^3, find the derivative of f(x)."
+441,,Composite_Implicit_and_Inverse_Functions,"Given the function g(x) = cos(sin(x)), find the derivative of g(x)."
+442,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 + 7x - 3, and g(x) = 2x + 1, find the composite function (fog)(x)."
+443,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function (fog)(x), if f(x) = √x and g(x) = 3x + 2."
+444,,Composite_Implicit_and_Inverse_Functions,"Given the function f(x) = ln(x^2 + 1), find the inverse function of f(x)."
+445,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function of f(x) = 5x^2 - 3x + 2.
+446,,Composite_Implicit_and_Inverse_Functions,"Given the function f(x) = (x + 1)^4, find the derivative of the inverse function of f(x)."
+447,,Composite_Implicit_and_Inverse_Functions,"If f(x) = sin(x), find the inverse function of f(x) and its derivative."
+448,,Composite_Implicit_and_Inverse_Functions,"Given the function g(x) = 3x^2 - 5x + 4, find the inverse function of g(x) and its derivative."
+449,,Composite_Implicit_and_Inverse_Functions,"Given the function h(x) = ln(cos(x)), find the derivative of the inverse function of h(x)."
+450,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) where f(x) = sin(x) and g(x) = x^2.
+451,,Composite_Implicit_and_Inverse_Functions,What is the inverse function of f(x) = ln(x^2 + 1)?
+452,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 2x + 3 and g(x) = 5x - 1, find (f∘g)(x) and (g∘f)(x)."
+453,,Composite_Implicit_and_Inverse_Functions,Find the limit of (sin(x) + cos(x))^2 / x as x approaches 0.
+454,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 3x^3 - 2x and f'(x) = 12x^2 - 2, what is the derivative of (f∘f)(x)?"
+455,,Composite_Implicit_and_Inverse_Functions,"If g(x) = x^2 + 5 and g'(x) = 2x, what is the derivative of g^-1(x)?"
+456,,Composite_Implicit_and_Inverse_Functions,Find the second derivative of f(x) = e^(sin(x)).
+457,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 + 4x + 3, find f'(x) using the chain rule."
+458,,Composite_Implicit_and_Inverse_Functions,Determine the domain of the inverse function f^-1(x) = √(3 - 2x).
+459,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 + 3x and g(x) = e^x, find the value of (f∘g)(2)."
+460,,Composite_Implicit_and_Inverse_Functions,Find the composite function h(x) = sin(cos(x)) and its derivative h'(x).
+461,,Composite_Implicit_and_Inverse_Functions,"If f(x) = (x - 1)^3 and g(x) = ln(x+2), find (f∘g)(x) and its domain."
+462,,Composite_Implicit_and_Inverse_Functions,Determine the inverse of the function f(x) = 3x^2 + 5x - 8 and its domain.
+463,,Composite_Implicit_and_Inverse_Functions,"Given the composite function g(x) = cos(e^(3x)), find g'(x)."
+464,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function f'(x) = (x^2 - 4x)^-1.
+465,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^(3x) and g(x) = ln(x), find the inverse of (f∘g)(x)."
+466,,Composite_Implicit_and_Inverse_Functions,Find the equation of the tangent line to the curve y = sin(x) at x = pi/6.
+467,,Composite_Implicit_and_Inverse_Functions,"Determine the inverse of the function f(x) = 2x - 5 if the domain of f is [-2, 3]."
+468,,Composite_Implicit_and_Inverse_Functions,"Given the composite function h(x) = cos(tan(x)) and its inverse h^-1(x), find (h^-1)'(x)."
+469,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function f'(x) = (x^2 + 1)^-1.
+470,,Composite_Implicit_and_Inverse_Functions,"Find the implicit derivative of x^2y + y^2 = 5 at the point (1,1)."
+471,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(x) = e^(x^2) - x^3 and g(x) = 2x + 1, find the derivative of f(g(x))."
+472,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 + 2 and g(x) = √x - 1, find the inverse function of f(g(x))."
+473,,Composite_Implicit_and_Inverse_Functions,Find the domain and range of the composite function h(x) = cos(x^2) - 4x.
+474,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(x) = sin(x + 1) and g(x) = 2x - 1, find the domain and range of the inverse function."
+475,,Composite_Implicit_and_Inverse_Functions,Find the derivative of h(x) = ln(g(x)) if g(x) = x^3 + 2x.
+476,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 and g(x) = √x, find the inverse function of h(x) = f(g(x))."
+477,,Composite_Implicit_and_Inverse_Functions,Find the domain of the composite function h(x) = sin(1/x) if f(x) = x^2 - 1 and g(x) = 1/x.
+478,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(x) = 2sin(x) and g(x) = √x, find the inverse function of h(x) = f(g(x))."
+479,,Composite_Implicit_and_Inverse_Functions,Find the second derivative of the composite function h(x) = ln(f(x)) if f(x) = x^2 + 1 and g(x) = x^2.
+480,,Composite_Implicit_and_Inverse_Functions,Find the derivative of f(x) = sin(2x) + ln(x).
+481,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = (1-x)sin(2x), find the equation for the tangent line at x = 0."
+482,,Composite_Implicit_and_Inverse_Functions,"If f(x) = ln(e^x + 4) is the inverse of g(x), what is the derivative of g(x) at x = 2?"
+483,,Composite_Implicit_and_Inverse_Functions,Determine the domain of f(x) = (lnx)^2.
+484,,Composite_Implicit_and_Inverse_Functions,Find the inverse of f(x) = 2x^2 + 3.
+485,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 and g(x) = ln(x), what is the composite function (f∘g)(x)?"
+486,,Composite_Implicit_and_Inverse_Functions,"Given g(x) = sin(x^2) and f(x) = arctan(x), find the value of (g∘f)(π/4)."
+487,,Composite_Implicit_and_Inverse_Functions,"Given the inverse function f(x) = √(8x+1), find f'(x)."
+488,,Composite_Implicit_and_Inverse_Functions,Find the critical points of f(x) = ln(sin(x)).
+489,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 + e^x and g(x) = ln(x), find the composite function (f∘g)'(x)."
+490,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function h(x) = f(g(x)), where f(x) = e^x and g(x) = x^2."
+491,,Composite_Implicit_and_Inverse_Functions,"Given the inverse function f^-1(x), find the equation of the original function f(x)."
+492,,Composite_Implicit_and_Inverse_Functions,"Given the composite function h(x) = f(g(x)), find the inverse function of h(x)."
+493,,Composite_Implicit_and_Inverse_Functions,Find the slope of the tangent line to the graph of the composite function f(g(x)) at x = a.
+494,,Composite_Implicit_and_Inverse_Functions,The composite function f(g(x)) is differentiable at x = a. Find the value of f'(a).
+495,,Composite_Implicit_and_Inverse_Functions,"Given the composite function h(x) = f(g(x)) and the equations of both f(x) and g(x), find the derivative of h(x)."
+496,,Composite_Implicit_and_Inverse_Functions,Find the domain of the composite function f(g(x)).
+497,,Composite_Implicit_and_Inverse_Functions,"Given the composite function h(x) = f(g(x)) and the derivative of f(x), find the derivative of h(x)."
+498,,Composite_Implicit_and_Inverse_Functions,An inverse function f^-1(x) has a critical point at x = a. Find the critical point of the original function f(x).
+499,,Composite_Implicit_and_Inverse_Functions,"Find the limit of the composite function f(g(x)) as x approaches a, where both f(x) and g(x) are continuous at a."
+500,,Composite_Implicit_and_Inverse_Functions,Find the derivative of f(x) = e^(sin(3x))
+501,,Composite_Implicit_and_Inverse_Functions,"If f(x) = ln(5x^2), what is the value of f'(e^2)?"
+502,,Composite_Implicit_and_Inverse_Functions,"Given g(x) = cos(2x) and h(x) = x^3, find the composite function f(x) = g(h(x))."
+503,,Composite_Implicit_and_Inverse_Functions,What is the inverse function of f(x) = ln(x + 2)?
+504,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 - 4x and g(x) = e^x, what is the value of f(g(2))?"
+505,,Composite_Implicit_and_Inverse_Functions,Find the derivative of y = tan(e^(2x)).
+506,,Composite_Implicit_and_Inverse_Functions,"Given h(x) = sin(x) and g(x) = ln(x), find the composite function f(x) = h(g(x))."
+507,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 4x - 3 and g(x) = e^x, find the inverse function of g ∘ f."
+508,,Composite_Implicit_and_Inverse_Functions,Find the derivative of y = cos(ln(2x)).
+509,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 2x^3 and g(x) = √x, what is the value of g(f(2))?"
+510,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the function f(x) = √(sin(2x))
+511,,Composite_Implicit_and_Inverse_Functions,Determine the inverse function of g(x) = ln(2x + 5)
+512,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^x and g(x) = 1/x, find (fog)(x)"
+513,,Composite_Implicit_and_Inverse_Functions,"Find the equation of the tangent line to the curve y = x^2 at the point (2, 4)"
+514,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 + 2x^2 - 3x + 1 and g(x) = √(x), find (gof)(x)"
+515,,Composite_Implicit_and_Inverse_Functions,"Given that f(x) = 3e^x and g(x) = ln(x), find (gof)'(x)"
+516,,Composite_Implicit_and_Inverse_Functions,"If f(x) = sin(x) and g(x) = x^2 + 1, find (fog)'(x)"
+517,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the function f(x) = e^(sin(x))
+518,,Composite_Implicit_and_Inverse_Functions,Determine the inverse of the function g(x) = 2x^3 + 4x - 1
+519,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^x and g(x) = ln(x), find (fog)'(1)"
+520,,Composite_Implicit_and_Inverse_Functions,Find the derivative of f(x) = sin(cos(x)) at x = π/3
+521,,Composite_Implicit_and_Inverse_Functions,Determine the inverse function of g(x) = ln(e^x + 1)
+522,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(x) = 3x^2 and g(x) = √x, find (f◦g)(x) and its domain."
+523,,Composite_Implicit_and_Inverse_Functions,Find the implicit derivative of the equation x^4 + y^4 = 16
+524,,Composite_Implicit_and_Inverse_Functions,Determine the inverse function of f(x) = e^(2x) - 1
+525,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(x) = x^3 and g(x) = (x+1)^2, find the value of x such that (f◦g)(x) = 64."
+526,,Composite_Implicit_and_Inverse_Functions,Find the implicit derivative of the equation xy + x^2 = 5xy - 3
+527,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = ln(5x + 2)
+528,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(x) = x^2 and g(x) = 2√x, find the intervals where (g◦f)(x) is increasing and decreasing."
+529,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function of f(x) = (4x + 1)^3 at x = 2.
+530,,Composite_Implicit_and_Inverse_Functions,1. Find the derivative of f(x) = e^x * sin(x) using the composite function rule.
+531,,Composite_Implicit_and_Inverse_Functions,"2. If f(x) = (x^2 + 3x - 5)^4, find f'(x) and evaluate it at x = 2."
+532,,Composite_Implicit_and_Inverse_Functions,"3. Given f(x) = e^(x^2) and g(x) = sqrt(x), find (f o g)'(x)."
+533,,Composite_Implicit_and_Inverse_Functions,"4. If f(x) = ln(x^2 + 1) and g(x) = e^x, find (f o g)'(x)."
+534,,Composite_Implicit_and_Inverse_Functions,"5. Given f(x) = cos(2x) and g(x) = x^3 + 1, find (f o g)'(x)."
+535,,Composite_Implicit_and_Inverse_Functions,6. Find the inverse function of f(x) = 3x^2 - 6x + 9.
+536,,Composite_Implicit_and_Inverse_Functions,"7. If h(x) = (x^3 - 2x + 1)^2, find h'(x) and evaluate it at x = -1."
+537,,Composite_Implicit_and_Inverse_Functions,"8. Given f(x) = sin(x) and g(x) = x^3 - 4x, find (f o g)'(x)."
+538,,Composite_Implicit_and_Inverse_Functions,9. Find the derivative of f(x) = (x + 2)^3 * cos(x) using the product rule and the chain rule.
+539,,Composite_Implicit_and_Inverse_Functions,"10. If f(x) = e^(2x) and g(x) = x^2 + 3, find (f o g)'(x) and determine the domain of the resulting function."
+540,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function f(g(x)), where f(x) = sin(x) and g(x) = x^3."
+541,,Composite_Implicit_and_Inverse_Functions,"Given the equation y^2 = cos(x), find the inverse function and calculate its derivative."
+542,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 + 3x and g(x) = ln(x), find the inverse function and calculate the second derivative of f(g(x))."
+543,,Composite_Implicit_and_Inverse_Functions,"For the composite function f(g(x)), where f(x) = sqrt(x+1) and g(x) = 2x+1, find the derivative."
+544,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = e^(3x) and determine whether it is differentiable.
+545,,Composite_Implicit_and_Inverse_Functions,"For the functions f(x) = sin(x) and g(x) = x^2 + 1, find the derivative of the composite function f(g(x))."
+546,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function of f(x) = 3x^2 - 2x + 1.
+547,,Composite_Implicit_and_Inverse_Functions,"Given the composite function h(x) = (x^2 + 1)^4, find the inverse function and calculate its derivative."
+548,,Composite_Implicit_and_Inverse_Functions,"For the functions f(x) = cos(x) and g(x) = ln(x), find the derivative of the composite function g(f(x))."
+549,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 and g(x) = sin(x), what is the inverse function of f(g(x)) and what is its derivative?"
+550,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) where f(x) = sin(2x) and g(x) = ln(x)
+551,,Composite_Implicit_and_Inverse_Functions,"Solve for x in the equation ln(y) + ln(x) = 3, where y is a function of x and y = x^2 + 1."
+552,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(g(x)) = (x^3 + 4)^2, find f'(x)."
+553,,Composite_Implicit_and_Inverse_Functions,"Find the inverse of the function f(x) = 3x^2 - 4, and determine the domain and range of the inverse function."
+554,,Composite_Implicit_and_Inverse_Functions,"Given the function f(x) = (x^2 + 1)^3, find its inverse and then find the derivative of the inverse function."
+555,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^(2x) and g(x) = x^3 - 2, find the composite function g(f(x))."
+556,,Composite_Implicit_and_Inverse_Functions,"Given the equation e^(x+y) = 2xy, find the derivative of y with respect to x."
+557,,Composite_Implicit_and_Inverse_Functions,"If f(x) = cos(x^3) and g(x) = 3x + 5, find the composite function g(f(x))."
+558,,Composite_Implicit_and_Inverse_Functions,Determine the domain and range of the function f(x) = ln(cos(x)) and find its inverse.
+559,,Composite_Implicit_and_Inverse_Functions,"The function f(x) = x^3 + 2x has an inverse defined on the interval [-1, 2]. Find the inverse function and determine its domain and range."
+560,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = ln(x^2 + 1)
+561,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = cos(x) and g(x) = sin(x), find the composite function (g o f)(x)"
+562,,Composite_Implicit_and_Inverse_Functions,Find the derivative of y = (cos^2x + 1)^3 with respect to x
+563,,Composite_Implicit_and_Inverse_Functions,"If f(2) = 3, f'(2) = 2 and g(3) = 5, find the value of (g o f)'(2)"
+564,,Composite_Implicit_and_Inverse_Functions,"Suppose f(x) = ln(3x + 2), find the inverse function f^-1(x)"
+565,,Composite_Implicit_and_Inverse_Functions,"If y = tan^2(sin^-1(x)), find the derivative dy/dx"
+566,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = x^2, find the inverse function and its domain and range"
+567,,Composite_Implicit_and_Inverse_Functions,"If y = (2x - 1)^3, find (dy/dx)^-1 when x = 4"
+568,,Composite_Implicit_and_Inverse_Functions,"If f(x) = ln(x - 1), find the composite function (f o f)(x)"
+569,,Composite_Implicit_and_Inverse_Functions,"Given g(x) = 2x + 1 and g^-1(x) = x/2 - 1/2, find the domain and range of g(x) and g^-1(x)."
+570,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(x) = sin(cos(x)).
+571,,Composite_Implicit_and_Inverse_Functions,"If f(x) = ln(x² + 1) and g(x) = e^x, determine the composition (f∘g)(x) and find its derivative."
+572,,Composite_Implicit_and_Inverse_Functions,"Solve for x in the equation (g∘f)(x) = 0, where f(x) = sqrt(1 - x²) and g(x) = sin⁻¹(x)."
+573,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = x² and g(x) = √x, find the inverse functions f⁻¹(x) and g⁻¹(x) and determine their composition (f∘g)(x)."
+574,,Composite_Implicit_and_Inverse_Functions,"If y = (f∘g)(x) and f(x) = e^x and g(x) = ln(x), find an expression for y in terms of x."
+575,,Composite_Implicit_and_Inverse_Functions,Determine the domain and range of the composite function h(x) = sin⁻¹(cos(x)).
+576,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = x² and g(x) = √(1 + x), find the values of x for which the composite function (g∘f)(x) has a horizontal tangent line."
+577,,Composite_Implicit_and_Inverse_Functions,"Find the equation of the tangent line to the curve given by the composite function h(x) = (f∘g)(x), where f(x) = ln(2x) and g(x) = e^x, at the point where x = 0."
+578,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 and g(x) = 1/(2x), determine the derivative of the inverse function f⁻¹(x) and find the equation of the tangent line to the graph of f⁻¹(x) at x = 8."
+579,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = cos(x) and g(x) = sin(x), find the derivatives of the inverse functions f⁻¹(x) and g⁻¹(x) and evaluate (f∘g)'(0)."
+580,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function f(x) = (g(x))^2, where g(x) = cos(x) and f(x) = sin(x)."
+581,,Composite_Implicit_and_Inverse_Functions,"Given the inverse function f^{-1}(x) = sin(x), find f'(x)."
+582,,Composite_Implicit_and_Inverse_Functions,"Evaluate the derivative of the composite function f(x) = e^{2x}, where g(x) = x^3 and f(x) = g(e^x)."
+583,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = ln(x^2 + 1).
+584,,Composite_Implicit_and_Inverse_Functions,"Determine the derivative of the composite function f(x) = (g(x))^3, where g(x) = ln(x) and f(x) = sin(x)."
+585,,Composite_Implicit_and_Inverse_Functions,"Solve for x if f(x) = 2e^{-5x}, where f(x) is the inverse function of g(x) = ln(x^2)."
+586,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function f(x) = (g(x))^2, where g(x) = x^3 and f(x) = cos(x)."
+587,,Composite_Implicit_and_Inverse_Functions,"Given the equation f(x) = (g(x))^4, where g(x) = 2x - 1, find the value of x when f'(x) = 24."
+588,,Composite_Implicit_and_Inverse_Functions,Determine the inverse function of f(x) = 3x + 2.
+589,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function f(x) = (g(x))^2, where g(x) = e^{4x} and f(x) = cos(2x)."
+590,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(x) = (x^2 + 1)^2 and g(x) = ln(x), what is the value of (f ∘ g)(e)?"
+591,,Composite_Implicit_and_Inverse_Functions,"If f(x) = cos(2x) and g(x) = 2x, find the inverse of the composite function f ∘ g(x)."
+592,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function f(x) = 2x^3 - 3x + 1, where g(x) = sin(x) and h(x) = x^2."
+593,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(x) = tan(x) and g(x) = √(1 + x^2), find the domain of the inverse function f^-1(x)."
+594,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^x and g(x) = ln(x), what is the domain of the composite function f ∘ g(x)?"
+595,,Composite_Implicit_and_Inverse_Functions,"Find the inverse of the composite function f(x) = √(x^2 - 1), where g(x) = cos(x)."
+596,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(x) = sin(x) and g(x) = 2x, what is the value of (g ∘ f)(π)?"
+597,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function f(x) = e^x, where g(x) = ln(x) and h(x) = sin(x)."
+598,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 and g(x) = ln(x), what is the value of (f ∘ g)(e)?"
+599,,Composite_Implicit_and_Inverse_Functions,"Find the domain of the inverse of the composite function f(x) = √(x^2 + 1), where g(x) = e^x."
+600,,Composite_Implicit_and_Inverse_Functions,What is the composite function of g(x) = sin(x) and f(x) = 2x + 1?
+601,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function h(x) = ln(5x^2 + 3) when f(x) = x^2 and g(x) = ln(x).
+602,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 and g(x) = √x, what is the derivative of the composite function h(x) = f(g(x))?"
+603,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = x^4 + 3.
+604,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 3x + 2 and g(x) = √x - 1, what is the value of (f∘g)(-3)?"
+605,,Composite_Implicit_and_Inverse_Functions,What is the domain of the composite function h(x) = sin(x)∘cos(x)?
+606,,Composite_Implicit_and_Inverse_Functions,Find the equation of the inverse function of f(x) = 2x + 5.
+607,,Composite_Implicit_and_Inverse_Functions,"If f(x) = (x/2)^2 and g(x) = √x, what is the composite function f∘g?"
+608,,Composite_Implicit_and_Inverse_Functions,What is the range of the inverse function of f(x) = ln(2x+4)?
+609,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 and g(x) = 1/x, what is the value of (g∘f)(-2)?"
+610,,Composite_Implicit_and_Inverse_Functions,Find the derivative of f(x) = sin(cos(x)).
+611,,Composite_Implicit_and_Inverse_Functions,"Given the function f(x) = x^2e^x, find the derivative of its inverse function."
+612,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composition of g(x) = ln(x) and h(x) = sin(x).
+613,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 and g(x) = sin(x), what is the derivative of f∘g(x)?"
+614,,Composite_Implicit_and_Inverse_Functions,"Given the equation xy = 4, find the derivative of the inverse function with respect to x."
+615,,Composite_Implicit_and_Inverse_Functions,The function f(x) = e^(2x) + x^2 has an inverse function g(x). Find the derivative of g(x).
+616,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 1/x^2 and g(x) = √x, what is the derivative of f∘g(x)?"
+617,,Composite_Implicit_and_Inverse_Functions,Find the second derivative of the function f(x) = e^(1/x).
+618,,Composite_Implicit_and_Inverse_Functions,"Given the equation x^2 + y^2 = 25, find the derivative of the inverse function with respect to x."
+619,,Composite_Implicit_and_Inverse_Functions,Find the derivative of g(x) = ln(1+e^x) using implicit differentiation.
+620,,Composite_Implicit_and_Inverse_Functions,What is the composite function of f(x) = sin(x) and g(x) = x^2?
+621,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = 3x + 5.
+622,,Composite_Implicit_and_Inverse_Functions,Determine the derivative of the composite function f(x) = √(x + 2) and g(x) = ln(x).
+623,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(x) = cos(e^x) and g(x) = x^3, what is g'(x)?"
+624,,Composite_Implicit_and_Inverse_Functions,Find the domain and range of the composite function f(x) = √(ln(x)).
+625,,Composite_Implicit_and_Inverse_Functions,"Given the inverse function f(x) = 5x + 10, what is f^-1(30)?"
+626,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(x) = e^(x^2) and g(x) = 2x + 5.
+627,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(x) = tan(3x) and g(x) = sin(x), what is f(g(x))?"
+628,,Composite_Implicit_and_Inverse_Functions,"If f(x) = ln(x) and g(x) = e^x, what is the inverse of the composite function f(g(x))?"
+629,,Composite_Implicit_and_Inverse_Functions,Find the value of x if f(x) = 2x + 3 and g(x) = cos(x) are inverse functions.
+630,,Composite_Implicit_and_Inverse_Functions,"Find the inverse of the composite function f(g(x)), where f(x) = ln(x) and g(x) = e^x."
+631,,Composite_Implicit_and_Inverse_Functions,"If h(x) = (x^2 - 1)(2x + 3), find the inverse function h^-1(x)."
+632,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(g(x)) = x^3 + sinx, find f^-1(x)."
+633,,Composite_Implicit_and_Inverse_Functions,"If f(x) = cos(3x) and g(x) = x^2 - 5, find (f o g)(x) and then determine its inverse."
+634,,Composite_Implicit_and_Inverse_Functions,"Find an equation for the tangent line to the graph of f(x) = e^(x^2+1) at the point (1, e^2)."
+635,,Composite_Implicit_and_Inverse_Functions,Determine the domain of the composite function h(x) = sqrt(4-x) / (4-sqrt(x)).
+636,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = 2x^3 + 5x + 6 and g(x) = sin(x), find (f o g)(x) and simplify the result."
+637,,Composite_Implicit_and_Inverse_Functions,"If h(x) = (lnx)/x, find the values of x for which h^-1(x) does not exist."
+638,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function f(g(x)), where f(x) = ln(x) and g(x) = 4x^2 + 1."
+639,,Composite_Implicit_and_Inverse_Functions,Suppose f(x) = x^2 - 3x + 4 and g(x) = ln(x). Find all values of x for which the composite function (f o g)(x) is defined.
+640,,Composite_Implicit_and_Inverse_Functions,Find the derivative of f(x) = (x^2 + 1) * sin(x).
+641,,Composite_Implicit_and_Inverse_Functions,Calculate the inverse function of g(x) = 2x^3 + x^2.
+642,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = 3x^2 + 2x - 5, find f'(x) and f""(x)."
+643,,Composite_Implicit_and_Inverse_Functions,Find the value of x for which the function f(x) = (x^2 + 2x + 1) * (3x - 4) is increasing.
+644,,Composite_Implicit_and_Inverse_Functions,Determine the derivative of h(x) = sin(2x) - cos(3x).
+645,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function f(x) = 2x - 5 + ln(x).
+646,,Composite_Implicit_and_Inverse_Functions,"If the function f(x) = sqrt(x^2 + 1) is strictly increasing, find the interval where x is defined."
+647,,Composite_Implicit_and_Inverse_Functions,Calculate the second derivative of y = (x - 1)^4.
+648,,Composite_Implicit_and_Inverse_Functions,Evaluate the limit lim x->0 of (x * ln(x)).
+649,,Composite_Implicit_and_Inverse_Functions,"Given the composite function F(x) = sin(2x + 1), find F'(x) and F''(x)."
+650,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function of f(x) = e^(2x) + 3.
+651,,Composite_Implicit_and_Inverse_Functions,"If f(x) = ln(4x + 1), what is the derivative of f^-1(x)?"
+652,,Composite_Implicit_and_Inverse_Functions,Find the derivative of g(x) = sin(4x^2).
+653,,Composite_Implicit_and_Inverse_Functions,"If h(x) = (x^2 + 3)^3, what is the equation of the tangent line to h^-1(x) at x = 2?"
+654,,Composite_Implicit_and_Inverse_Functions,Find the derivative of f(x) = cos(e^x).
+655,,Composite_Implicit_and_Inverse_Functions,"If g(x) = (3x^2 + 1)^5, what is the value of g^-1'(1)?"
+656,,Composite_Implicit_and_Inverse_Functions,Find the value of x for which f(x) = ln(2x - 1) and f^-1(x) = -3x + 5.
+657,,Composite_Implicit_and_Inverse_Functions,"If h(x) = ln(cos(x)), what is the slope of the tangent line to h^-1(x) at x = π?"
+658,,Composite_Implicit_and_Inverse_Functions,Find the derivative of f(x) = tan(3x + 1).
+659,,Composite_Implicit_and_Inverse_Functions,"If g(x) = 1 / (1 + e^x), what is the equation of the tangent line to g^-1(x) at x = 0?"
+660,,Composite_Implicit_and_Inverse_Functions,"Find the equation of the tangent line to the curve x^2 - (y+2)^3 = 0 at the point (3, 2)."
+661,,Composite_Implicit_and_Inverse_Functions,Calculate the derivative of the inverse function f^-1(x) = (3x + 2)^2.
+662,,Composite_Implicit_and_Inverse_Functions,"Given the functions f(x) = x^3 + 5x^2 and g(x) = (2x+5)/(x+3), find (f∘g)(x) and its domain."
+663,,Composite_Implicit_and_Inverse_Functions,Determine the inverse of the function f(x) = e^(2x) + 4.
+664,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function h(x) = ln(cosx^2).
+665,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 and g(x) = ln(x), find (f∘g)(x) and (g∘f)(x)."
+666,,Composite_Implicit_and_Inverse_Functions,The equation y = x^3 - 3x + 2 represents a smooth curve. Find the equation of its inverse function.
+667,,Composite_Implicit_and_Inverse_Functions,"Given the composite function h(x) = sin(cosx), find the derivative h'(x)."
+668,,Composite_Implicit_and_Inverse_Functions,Suppose g(x) = x+3 and f(x) = √(x^2 + 5). Find the domain of (g∘f)(x).
+669,,Composite_Implicit_and_Inverse_Functions,The function f(x) = 2x^2 - 1 is a one-to-one function. Find the inverse function f^-1(x) and its domain.
+670,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function f(x) = sin(2x^2 + 3x), where g(x) = 2x^2 + 3x."
+671,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(x) = (ln(x^2))^3, find the derivative at x = 1."
+672,,Composite_Implicit_and_Inverse_Functions,"Find the inverse function of f(x) = e^(x^3), where g(x) = ln(x)."
+673,,Composite_Implicit_and_Inverse_Functions,"Determine the critical points of the composite function f(x) = (x^2 + 1)^2, where g(x) = x^2 + 1."
+674,,Composite_Implicit_and_Inverse_Functions,"Find the limit as x approaches 1 of the composite function f(x) = (sin(2x) / x), where g(x) = 2x."
+675,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(x) = ln(tan(x)), where g(x) = tan(x), find the derivative at x = π/4."
+676,,Composite_Implicit_and_Inverse_Functions,"Find the inverse of the composite function f(x) = 3x^2 + 4x - 1, where g(x) = (x - 1)^2."
+677,,Composite_Implicit_and_Inverse_Functions,"Determine the domain and range of the composite function f(x) = e^cos(x), where g(x) = cos(x)."
+678,,Composite_Implicit_and_Inverse_Functions,"Find the tangent line to the composite function y = log(3x - 1)^2 at the point (1, 0)."
+679,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the inverse of f(x) = x^2 - 2x, where g(x) = x^2 - 2x + 1."
+680,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the function f(x) = (sinx)^2cosx.
+681,,Composite_Implicit_and_Inverse_Functions,"If f(x) = (x^2 - 4)^3, find f'(x)."
+682,,Composite_Implicit_and_Inverse_Functions,Find the antiderivative of g(x) = (3x^2 - 2)sin(2x).
+683,,Composite_Implicit_and_Inverse_Functions,"Given the functions f(x) = lnxcosx and g(x) = sin(x^2), find the composite function (f∘g)(x)."
+684,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of h(x) = cos(x)/x^2.
+685,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 2x + 3 and g(x) = x^2, find (f∘g)'(2)."
+686,,Composite_Implicit_and_Inverse_Functions,Find the domain and range of the inverse function of f(x) = e^(2x) + 1.
+687,,Composite_Implicit_and_Inverse_Functions,"Given the function f(x) = x^2 - 3, find the point at which the tangent line to f(x) is parallel to the line y = 4x + 2."
+688,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function of f(x) = 2x^3 + 5.
+689,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^x and g(x) = ln(x+1), find the composite function (g∘f)(x)."
+690,,Composite_Implicit_and_Inverse_Functions,"Given a composite function f(g(x)) = sin(ln(2x)), find f'(4)."
+691,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function f(x) = e^(2x+1).
+692,,Composite_Implicit_and_Inverse_Functions,"If y = f(g(x)) = x^2 + 3x + 2, find dy/dx."
+693,,Composite_Implicit_and_Inverse_Functions,Find the critical points of the composite function h(x) = sin(ln(x)).
+694,,Composite_Implicit_and_Inverse_Functions,"Given a composite function f(g(x)) = √(x^4+1), find g'(1)."
+695,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function f(x) = ln(e^(2x)).
+696,,Composite_Implicit_and_Inverse_Functions,"If y = f(g(x)) = x^3 - 5x + 2, find d²y/dx²."
+697,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function f^(-1)(x) = (1/4)x^4.
+698,,Composite_Implicit_and_Inverse_Functions,"Given a composite function f(g(x)) = cos(e^x), find g''(π/2)."
+699,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function f(x) = sin(e^(2x)).
+700,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(x) = cos(sin(x)) and its inverse function g(x), find the derivative of g at x = pi/4."
+701,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function f(x) = 3x^2 - 5x + 2.
+702,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 and g(x) = ln(x), find the composite function f(g(x))."
+703,,Composite_Implicit_and_Inverse_Functions,"Given the implicit function x^2 + y^2 = 9, find the derivative dy/dx."
+704,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function f(x) = sin(2x).
+705,,Composite_Implicit_and_Inverse_Functions,"If f(x) = log(x) and g(x) = e^x, find the composite function f(g(x))."
+706,,Composite_Implicit_and_Inverse_Functions,"Given the implicit function x^3 + y^3 = 8, find the derivative dy/dx at the point (1, 1)."
+707,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function f(x) = 2x + 3.
+708,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^x and g(x) = ln(x), find the composite function f(g(x))."
+709,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(x) = sin(e^x) and its inverse function g(x), find the derivative of g at x = 0."
+710,,Composite_Implicit_and_Inverse_Functions,Find the derivative of (sinx)^(cosx).
+711,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = ln(cosx), find f'(x)."
+712,,Composite_Implicit_and_Inverse_Functions,"If f(x) = (x^2 + 1)/(x - 1) and g(x) = arctan(x), find (f ∘ g)(x) and its domain."
+713,,Composite_Implicit_and_Inverse_Functions,Find the inverse of f(x) = 2x + sinx.
+714,,Composite_Implicit_and_Inverse_Functions,Let f(x) = (x - 1)^2 - 4 and g(x) = x^3 - 3x. Find the composite function (f ∘ g)(x).
+715,,Composite_Implicit_and_Inverse_Functions,"Given d/dx (ln(cosx)) = cotx, find the value of d/dx (cos(x^2))."
+716,,Composite_Implicit_and_Inverse_Functions,Find the domain and range of the inverse of f(x) = xcosx.
+717,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 - 3x + 5 and (f ∘ g)(x) = 10x, find g(x)."
+718,,Composite_Implicit_and_Inverse_Functions,Find the inverse of f(x) = e^(x^2).
+719,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^(-x) and g(x) = ln(x), find the derivative of (f ∘ g)(x)."
+720,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function $f(x)=\ln(2x-3)$.
+721,,Composite_Implicit_and_Inverse_Functions,"Given the function $f(x)=\sin(x^2+1)$, find the composite function $f(f(x))$"
+722,,Composite_Implicit_and_Inverse_Functions,Find $h'(x)$ if $h(x)=\sqrt{\cos(x)+e^x}$.
+723,,Composite_Implicit_and_Inverse_Functions,Suppose $f(x)=\frac{1}{\ln(x)}$ and $g(x)=\sin(e^x)$. Find $(f\circ g)(x)$.
+724,,Composite_Implicit_and_Inverse_Functions,"Given the function $y=\cos^{-1}(xe^x)$, find $\frac{dy}{dx}$."
+725,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function $f(x)=x^2e^{2x}$.
+726,,Composite_Implicit_and_Inverse_Functions,"If $f(x)=\ln(x^2+1)$ and $g(x)=e^x$, find $(f\circ g)(x)$."
+727,,Composite_Implicit_and_Inverse_Functions,Find the derivative of $y=\sin^{-1}(2x^2+3x)$.
+728,,Composite_Implicit_and_Inverse_Functions,"Given $f(x)=e^{x\sqrt{x+1}}$, find the composite function $(f\circ f)(x)$."
+729,,Composite_Implicit_and_Inverse_Functions,"If $f(x)=\sqrt{\cos(x)}$ and $g(x)=\ln(x)$, find $\left(\frac{f}{g}\right)'(x)$."
+730,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the function y = xsin(x).
+731,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(g(x)) = x^2, find f'(x)."
+732,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = ln(x^2).
+733,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the implicit function y + x^2 = 10.
+734,,Composite_Implicit_and_Inverse_Functions,"Given the inverse function f^-1(x) = (x+3)^2, find the value of f^-1(10)."
+735,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) = cos(x)sin(x).
+736,,Composite_Implicit_and_Inverse_Functions,"Determine whether the implicit function x^2 + y^2 = 9 has a unique solution for y' at (3,0)."
+737,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(g(x)) = x^2 - 2, find the domain of f(x)."
+738,,Composite_Implicit_and_Inverse_Functions,Find the second derivative of the implicit function xy + x^2 = 5.
+739,,Composite_Implicit_and_Inverse_Functions,"Given the inverse function f^-1(x) = 3x + 5, find the value of f^-1(7)."
+740,,Composite_Implicit_and_Inverse_Functions,Find the derivative of f(x) = e^(sin(3x)) at x = π/2.
+741,,Composite_Implicit_and_Inverse_Functions,"If f(x) = cos(2x) and g(x) = sin(x), what is the value of (f ◦ g)(π/6)?"
+742,,Composite_Implicit_and_Inverse_Functions,Let f(x) = √(2x + 1) and g(x) = ln(x). Find the derivative of (f ◦ g)(x).
+743,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function f(x) = e^(2x+1).
+744,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 and g(x) = e^x, what is the derivative value of (f ◦ g)(ln(2))?"
+745,,Composite_Implicit_and_Inverse_Functions,Find the equation of the tangent line to the inverse function of f(x) = ln(2x) at x = 3.
+746,,Composite_Implicit_and_Inverse_Functions,"For f(x) = ln(x) and g(x) = sin(x), what is the value of (g ◦ f)'(e)?"
+747,,Composite_Implicit_and_Inverse_Functions,Let f(x) = x^2 + 3 and g(x) = e^x. Find the value of (f ◦ g)'(2).
+748,,Composite_Implicit_and_Inverse_Functions,"If f(x) = √(ln(x)) and g(x) = e^x, evaluate (g ◦ f)'(1)."
+749,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function f(x) = 3x - ln(x).
+750,,Composite_Implicit_and_Inverse_Functions,"What is the derivative of f(x) = g(x)^2, where g(x) = sin(x^2)?"
+751,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = ln(x^2 + 1).
+752,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = sin 3x and g(x) = sin x, find (fog)(x)."
+753,,Composite_Implicit_and_Inverse_Functions,"What is the derivative of f(x) = cos(g(x)), where g(x) = 2x + 1?"
+754,,Composite_Implicit_and_Inverse_Functions,Find the point(s) where the tangent line to f(x) = x^2 + 3x + 1 is horizontal.
+755,,Composite_Implicit_and_Inverse_Functions,Determine the inverse of f(x) = 3x - 5.
+756,,Composite_Implicit_and_Inverse_Functions,"Given that f(x) = ln(x) and g(x) = e^x, what is (fog)(x)?"
+757,,Composite_Implicit_and_Inverse_Functions,Find the equation of the tangent line to f(x) = 2x^2 - 5 at x = 3.
+758,,Composite_Implicit_and_Inverse_Functions,"If f(x) = (x + 1)^2 and g(x) = √x, what is (gof)(x)?"
+759,,Composite_Implicit_and_Inverse_Functions,Find the derivative of f(x) = ln(1 + x^2).
+760,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function f(x) = sin(2x^2 + 3x), where g(x) = 2x^2 + 3x."
+761,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(x) = (x + 1)^2, where g(x) = x^2 + 2x + 1, find the inverse function f^-1(x)."
+762,,Composite_Implicit_and_Inverse_Functions,"Determine the domain and range of the function f(x) = cos(x^3), where g(x) = x^3."
+763,,Composite_Implicit_and_Inverse_Functions,The function f(x) = 2x - 3 has an inverse function f^-1(x) = (x + 3)/2. Find the inverse function for g(x) = e^x - 2.
+764,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(x) = (2x - 1)^4 where g(x) = 2x - 1.
+765,,Composite_Implicit_and_Inverse_Functions,"If f(x) = ln(sin(x)) and g(x) = sin(x), find the composite inverse function f^-1(g(x))."
+766,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(x) = (x^2 + 1)^(1/2) where g(x) = x^2 + 1.
+767,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(x) = e^(cos(x)), where g(x) = cos(x), find the inverse function f^-1(x)."
+768,,Composite_Implicit_and_Inverse_Functions,"Determine the domain and range of the function f(x) = tan(cos(x)), where g(x) = cos(x)."
+769,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(x) = ln(sqrt(sin(x))) where g(x) = sin(x).
+770,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the function f(x) = sin(x^(2))cos(x).
+771,,Composite_Implicit_and_Inverse_Functions,"Given the function f(x) = (2x + 1)^(2) , find the inverse function f^(-1)(x)."
+772,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 3x^(2) + 2x + 5 and g(x) = sin(x), find (f o g)(x)."
+773,,Composite_Implicit_and_Inverse_Functions,What is the domain of the inverse function f^(-1)(x) if f(x) = ln(x) + e^(x)?
+774,,Composite_Implicit_and_Inverse_Functions,"Given the composite function (f o g)(x) = f(g(x)) and f(x) = x^(3), g(x) = sqrt(x), find the derivative of (f o g)(x)."
+775,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function f(x) = (x^(2) + 3x + 4)^(3).
+776,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 2sin(cos(x)) and g(x) = tan(x), find the value of (f o g)(0)."
+777,,Composite_Implicit_and_Inverse_Functions,Determine the inverse of the function f(x) = ln(2x).
+778,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 4x^(3) + 2x - 8, find the value of (f o f^(-1))(x) at x = 1."
+779,,Composite_Implicit_and_Inverse_Functions,Find the antiderivative of the function f(x) = 1/(x^(2) + 4).
+780,,Composite_Implicit_and_Inverse_Functions,"Find an expression for the derivative of the composite function (sin(2x))^2 + 2x^3, where y = sin(2x)."
+781,,Composite_Implicit_and_Inverse_Functions,"Given the function f(x) = √(x^2 + 1) and g(x) = e^x, find the expression for the composite function (f ∘ g)(x)."
+782,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = ln(3x + 4).
+783,,Composite_Implicit_and_Inverse_Functions,"If y = (ln x)^2, find the derivative dy/dx using implicit differentiation."
+784,,Composite_Implicit_and_Inverse_Functions,"Given the inverse function f^(-1)(x) = √(x-2), find the value of f^(-1)(4)."
+785,,Composite_Implicit_and_Inverse_Functions,Use the chain rule to find the derivative of f(x) = sin(x^3).
+786,,Composite_Implicit_and_Inverse_Functions,Determine the value of x for which the inverse function f^(-1)(x) of f(x) = 2x^3 - 1 is not differentiable.
+787,,Composite_Implicit_and_Inverse_Functions,Find the domain and range of the composite function h(x) = ln(3x+5)^2.
+788,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = cos(x) and g(x) = x^2, what is the value of (g ∘ f)(π/6)?"
+789,,Composite_Implicit_and_Inverse_Functions,"Find an expression for the composite function (g ∘ h)(x) where g(x) = e^x and h(x) = cos(x), showing all steps of the composite rule."
+790,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function h(x) = (f(g(x)))' given f(x) = cos(x) and g(x) = x^2.
+791,,Composite_Implicit_and_Inverse_Functions,Determine the inverse of the function f(x) = ln(2x+3).
+792,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 + 2x + 1 and g(x) = √(x+2), find the derivative of the inverse function (f^-1)'(x)."
+793,,Composite_Implicit_and_Inverse_Functions,Solve for x in the equation cos(arctan(x)) = 0.
+794,,Composite_Implicit_and_Inverse_Functions,"Given the inverse function f^-1(x) = √(x+4), find the derivative of f(x) = x^2 - 2x + 1."
+795,,Composite_Implicit_and_Inverse_Functions,Find the domain of the composite function h(x) = (f(g(x)))^-1 where f(x) = x^2 and g(x) = √x.
+796,,Composite_Implicit_and_Inverse_Functions,Determine the derivative of the inverse function (f^-1)'(x) where f(x) = sin(cos(x)).
+797,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x + 1 and g(x) = √(x+1), find the value of (f◦g)'(2)."
+798,,Composite_Implicit_and_Inverse_Functions,"Given the inverse function f^-1(x) = e^x, find the derivative of f(x) = ln(x)."
+799,,Composite_Implicit_and_Inverse_Functions,Find the limit lim x->π/2 tan^-1(cos(x)).
+800,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function f(g(x)), where f(x) = x^3 and g(x) = sin(x)."
+801,,Composite_Implicit_and_Inverse_Functions,"If the composite function f(g(x)) = √(cos(x)) and f(x) = x^2, find g(x)."
+802,,Composite_Implicit_and_Inverse_Functions,"Find the inverse function of the composite function f(g(x)), where f(x) = ln(x^2 + 1) and g(x) = sin(x)."
+803,,Composite_Implicit_and_Inverse_Functions,"If f(g(x)) = x^2 + 2x, and g(x) = 2x - 5, what is f(x)?"
+804,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(g(x)) = √(x^3 + 1), find the value of f'(2) if g'(2) = 4."
+805,,Composite_Implicit_and_Inverse_Functions,"Find the inverse of the composite function f(g(x)), where f(x) = e^x and g(x) = 2x + 3."
+806,,Composite_Implicit_and_Inverse_Functions,"If f(g(x)) = cos(3x), what is the value of f'(1) if g'(1) = 2?"
+807,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function f(g(x)) = (3x + 1)^2, where f(x) = sin(x) and g(x) = 3x + 1."
+808,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(g(x)) = ln(2x), find the value of g'(1) if f'(x) = 2/x."
+809,,Composite_Implicit_and_Inverse_Functions,"If f(g(x)) = x^2 + 3x, find the inverse function of g(x)."
+810,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(x) = cos(2x^3) with g(x) = x^2.
+811,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^(x^2) and g(x) = ln(x), find the value of f'(x) at x = e."
+812,,Composite_Implicit_and_Inverse_Functions,"Given the composite function h(x) = (x^2 + 1)^3, find the inverse function h^-1(x)."
+813,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 - 5x and g(x) = √(x + 1), find the value of (f◦g)(2)."
+814,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 3x + cos x and g(x) = e^x, find the value of (g◦f)(π)."
+815,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function f^-1(x) = e^(2x + 1).
+816,,Composite_Implicit_and_Inverse_Functions,"If f(x) = ln(3x + 5) and g(x) = (2x)^3, find the equations of the tangent lines to the curve (f◦g)(x) at x = 1."
+817,,Composite_Implicit_and_Inverse_Functions,"Given the composite function h(x) = sin(cos(x)), find the intervals where h(x) is increasing."
+818,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 2x^2 + 5x and g(x) = sin x, find the domain and range of (f◦g)(x)."
+819,,Composite_Implicit_and_Inverse_Functions,Find the second derivative of the implicit function x^2 + y^2 = 4xy.
+820,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = x^2 and g(x) = cos(x), find (fog)^-1(1)."
+821,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 2x + 3 and g(x) = sin(x), what is (gof)'(x)?"
+822,,Composite_Implicit_and_Inverse_Functions,A circular oil spill is expanding at a rate of 5 m^2/minute. How fast is the radius increasing when the area is 100 m^2?
+823,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function f^-1(x) where f(x) = ln(3x + 1).
+824,,Composite_Implicit_and_Inverse_Functions,"The resources of a certain region can be divided into 3 different types, each of which follows a different distribution. Given that the first type follows an exponential distribution with mean 1, while the second type follows a Weibull distribution with shape 2 and mean 2, and the third type follows a gamma distribution with shape 3 and mean 3, what is the overall distribution of the resources for this region?"
+825,,Composite_Implicit_and_Inverse_Functions,"If f(x) = sin(ln(x)) and g(x) = x^2 + 1, what is (gof)^-1(3)?"
+826,,Composite_Implicit_and_Inverse_Functions,"A ball is thrown off the top of a cliff with an initial velocity of 25 m/s and follows the path of the function f(x) = -0.5x^2 + 25x + 100, where x represents time in seconds. At what time will the ball reach its highest point?"
+827,,Composite_Implicit_and_Inverse_Functions,"Given the function f(x) = x + ln(x), what is the value of x when f'(x) = 1?"
+828,,Composite_Implicit_and_Inverse_Functions,The area of a rectangle is increasing at a rate of 16 m^2/sec and the width is increasing at a rate of 4 m/sec. At what rate is the length of the rectangle increasing?
+829,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 and g(x) = 2x + 1, find (fog)^-1(18)."
+830,,Composite_Implicit_and_Inverse_Functions,Find the derivative of f(x) = cos(2x) at x = 2.
+831,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = x^3 ln(x^2), find the equation of the tangent line to the graph of f at x = e."
+832,,Composite_Implicit_and_Inverse_Functions,"If f(x) = sin(πx) and g(x) = x^2 + 1, find (f∘g)(x) and its domain."
+833,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 + sin(x) and g(x) = e^x, find (g∘f)(x) and its domain."
+834,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = ln(2x - 5).
+835,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = (x^2 + 1)^3, find the critical points of f and determine whether they are local maxima, local minima, or neither."
+836,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 3x - 1 and (f^-1)(x) = 2x + 4, find the value of f(f^-1)(-5)."
+837,,Composite_Implicit_and_Inverse_Functions,Find the derivative of f(x) = e^(x^2) at x = 1.
+838,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = 2x/(x^2 + 1), find the average rate of change of f(x) over the interval [-1,3]."
+839,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^x and g(x) = ln(x), what is the value of (g∘f)(1)?"
+840,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) = e^(cos(x)).
+841,,Composite_Implicit_and_Inverse_Functions,"Given the function y = ln(4x+1), find the inverse function and its domain."
+842,,Composite_Implicit_and_Inverse_Functions,What is the equation of the tangent line to the curve y = cos(x^2) at x = pi/4?
+843,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function f^-1(x) = sin(2x).
+844,,Composite_Implicit_and_Inverse_Functions,A rectangular box with a square base and a height of 6 inches has a volume of 200 cubic inches. What are the dimensions of the box that minimize the total surface area?
+845,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 + 6x - 9 and g(x) = 2x + 5, find (f ∘ g)(3)."
+846,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composition of the inverse functions f(x) = ln(x+4) and g(x) = e^x.
+847,,Composite_Implicit_and_Inverse_Functions,"A car travels at a constant speed of 40 mph on a straight road for 2 hours. If the car then decreases its speed by 10 mph for the next hour, what is the average speed of the car for the entire 3 hour journey?"
+848,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(g(x)) = sqrt(1 + ln(2x)), find the domain and range of f(x)."
+849,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 + 3x + 2 and g(x) is the inverse function of f(x), what is the value of g(-5)?"
+850,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the function y = (x^2 + 3)^2.
+851,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(g(x)) = x^2 + 1, where g(x) = x + 1, find f'(x)."
+852,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 2x + 1 and g(x) = sin(x), find the derivative of the composite function f(g(x))."
+853,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = 2x + 3.
+854,,Composite_Implicit_and_Inverse_Functions,"Given the function f(x) = 2x^2 - 3x + 5, find the critical points and determine if they are minimum or maximum points."
+855,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the function f(x) = (3x + 2)^5.
+856,,Composite_Implicit_and_Inverse_Functions,"Given the inverse functions f(x) = √x and g(x) = x^4, find the composite function f(g(x))."
+857,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the function f(x) = 2x/(x^2 + 1).
+858,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 - 3x + 1 and its inverse function is g(x), what is the value of g(4)?"
+859,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(g(x)) = (2x + 1)^3, where g(x) = 1/x, find f'(x)."
+860,,Composite_Implicit_and_Inverse_Functions,Find the derivative of f(x) = (sinx)^2 / (lnx)^3
+861,,Composite_Implicit_and_Inverse_Functions,"Given y = 2x^3 - 5x + 1, find y' and y'' using implicit differentiation."
+862,,Composite_Implicit_and_Inverse_Functions,"Simplify the equation xy + y^2 = x + 2y at the point (2,4)"
+863,,Composite_Implicit_and_Inverse_Functions,"If f(x) = cos(xy) and g(x) = x^3, find (f o g)'(x)"
+864,,Composite_Implicit_and_Inverse_Functions,Find the inverse of f(x) = (2x + 1)^2
+865,,Composite_Implicit_and_Inverse_Functions,Find the inverse of f(x) = ln(2x + e)
+866,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = y^3 + x^2 = 8, find the equation of the tangent line at the point (y,2)"
+867,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 - 4x + 2 and g(x) = 3x, find (g^-1 o f^-1)'(2)"
+868,,Composite_Implicit_and_Inverse_Functions,"Find the equation of the line tangent to the curve y = e^(2x) at the point (0,1)."
+869,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 + y^2 + z^2 = 9, find the equation of the normal line at the point (1,2,2)"
+870,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function f(g(x)), where f(x)= ln(x^2+1) and g(x) = e^(x^2)."
+871,,Composite_Implicit_and_Inverse_Functions,"Given the function h(x) = (cosx)^3 and its inverse function h^-1(x), find the derivative of h^-1 at x=1."
+872,,Composite_Implicit_and_Inverse_Functions,"If f(x) = cos(x^2) and g(x) = arcsin(2x), what is the value of (f ◦ g)'(1)?"
+873,,Composite_Implicit_and_Inverse_Functions,"Given the composite function F(x) = ln(sin(x)), find the derivative of F^-1 at x=1."
+874,,Composite_Implicit_and_Inverse_Functions,"For the function y=x^3 + ln(x), determine at what values of x is the derivative of the inverse function y^-1 equal to 3."
+875,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function y = (ln(x))^3, where x = sin(t) and y = cos(t)."
+876,,Composite_Implicit_and_Inverse_Functions,"If f(x)= e^(x^2) and g(x) = ln(x), what is the value of (g ◦ f)'(1)?"
+877,,Composite_Implicit_and_Inverse_Functions,"Given the inverse function h^-1(x) = 2ln(x), what is the value of h'(2)?"
+878,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function of f(x) = x^2 + 2x + 5.
+879,,Composite_Implicit_and_Inverse_Functions,"Given the functions f(x) = e^x and g(x) = sin(x), what is the value of (f ◦ g)'(π/6)?"
+880,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function f(g(x)), where f(x) = ln(x) and g(x) = cos(x)."
+881,,Composite_Implicit_and_Inverse_Functions,"If f(x) = sin(x) and g(x) = x^2, find f'(g(π))."
+882,,Composite_Implicit_and_Inverse_Functions,"Given that f(x) = 2x + 5 and g(x) = √x, find (f∘g)'(4)."
+883,,Composite_Implicit_and_Inverse_Functions,Determine the domain of the inverse function of f(x) = e^x + 3.
+884,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of g(x) = ln(x^2 + 1).
+885,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 3x^2 and g(x) = √x, what is the value of (g∘f)(1)?"
+886,,Composite_Implicit_and_Inverse_Functions,Calculate the derivative of the inverse function of f(x) = cos(2x).
+887,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of g(x) = 1/(x^2 + 1).
+888,,Composite_Implicit_and_Inverse_Functions,"Given that f(x) = e^x and g(x) = √x, find the equation for the composite function (f∘g)(x)."
+889,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function of f(x) = ln(2x).
+890,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the function f(x) = sin(cos(x)) at x = π/4.
+891,,Composite_Implicit_and_Inverse_Functions,"Given the function f(x) = ln(sin(x)), find the inverse function."
+892,,Composite_Implicit_and_Inverse_Functions,"If the composite function f(g(x)) = √(x² + 1), and g(x) = e^x, find the derivative of f(x)."
+893,,Composite_Implicit_and_Inverse_Functions,Express the function f(x) = 3/2 * ln(x² + 1) as a composite function.
+894,,Composite_Implicit_and_Inverse_Functions,Find the equation of the inverse function of f(x) = x² + 2x.
+895,,Composite_Implicit_and_Inverse_Functions,"If the graph of a function f(x) is symmetric about the line y = x, what can be said about its inverse function?"
+896,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the function f(x) = e^(-sinx).
+897,,Composite_Implicit_and_Inverse_Functions,"If the composite function f(g(x)) = x² - 3x + 2 and g(x) = x + 1, find the inverse function of f(x)."
+898,,Composite_Implicit_and_Inverse_Functions,Find the equation of the tangent line to the curve y = sin(e^x) at x = 0.
+899,,Composite_Implicit_and_Inverse_Functions,"If the inverse function of f(x) = x² + 3x - 2 is denoted by f^-1(x), find the derivative of f^-1(x) at x = 2."
+900,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(x) = (sinx)^2 for x = cos(2x)
+901,,Composite_Implicit_and_Inverse_Functions,Determine the inverse function g(x) for f(x) = 2x^3 - 6x + 5
+902,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = e^(x^2), find the inverse function and evaluate it at x = ln(2)"
+903,,Composite_Implicit_and_Inverse_Functions,"If f(x) = y^2 + 5 and g(x) = sqrt(x-5), find the composite function (f ∘ g)(x)."
+904,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function of f(x) = 4x^3 - 9x + 2 at x = 2.
+905,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = cosx and g(x) = x^2, find the composite function (f ∘ g)(x)."
+906,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = ln(x + 2) and evaluate it at x = 1.
+907,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 and g(x) = √x, find the composite function (g ∘ f)(x)."
+908,,Composite_Implicit_and_Inverse_Functions,Find the inverse function of f(x) = e^(4x) and evaluate it at x = ln(2).
+909,,Composite_Implicit_and_Inverse_Functions,"If f(x) = sin(2x) and g(x) = 3x^2, find the composite function (g ∘ f)(x)."
+910,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the function f(x) = sin(cos(x)).
+911,,Composite_Implicit_and_Inverse_Functions,"Given the equation y = ln(x^2 + 1), find the slope of the tangent line at x = 3."
+912,,Composite_Implicit_and_Inverse_Functions,"If f(x) = (x^2 + 1)^3, what is the value of f'(x) at x = 2?"
+913,,Composite_Implicit_and_Inverse_Functions,"If g x = x^2 + 3x - 5 and h x = sqrt(x), find the composite function (h ∘ g)(x)."
+914,,Composite_Implicit_and_Inverse_Functions,"Given the function f(x) = 3x^2 + 2 cos(x), find the equation of the tangent line at x = π/6."
+915,,Composite_Implicit_and_Inverse_Functions,"If f(x) = ln(5 - 3x), what is the value of f'(x) when x = 1?"
+916,,Composite_Implicit_and_Inverse_Functions,"Given the inverse function f^-1(x) = x^3 + 5, find the equation of the tangent line to the inverse graph at the point (5, 10)."
+917,,Composite_Implicit_and_Inverse_Functions,"If g(x) = sqrt(3x^2 + 6) and h(x) = 2x^3 - 1, find the derivative of the composite function (g ∘ h)(x)."
+918,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function y = e^(2x - 3) at x = 2.
+919,,Composite_Implicit_and_Inverse_Functions,"Given the equation y = tan^-1(x) + e^x, find the point on the graph where the tangent line is horizontal."
+920,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = ln(sin(x)) and g(x) = cos(x), find the inverse of f(g(x))."
+921,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 - 5x^2 + 4x + 2 and g(x) = ln(x), what is the derivative of (f(g(x)))^2?"
+922,,Composite_Implicit_and_Inverse_Functions,Let f(x) = e^(3x) and g(x) = 2x - 1. Find the value of f^-1(4).
+923,,Composite_Implicit_and_Inverse_Functions,"If f(x) = cos(3x) and g(x) = e^(2x), find the derivative of f^-1(g(x))."
+924,,Composite_Implicit_and_Inverse_Functions,Suppose f(x) = 2x + 5 and g(x) = x^2 + 3x -1. Find the domain and range of (f^-1 o g)(x).
+925,,Composite_Implicit_and_Inverse_Functions,Find the equation of the tangent line to the composite function h(x) = (cos(x))^3 at the point x = π/4.
+926,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 3x^2 + 5 and g(x) = ln(x), what is the maximum value of (f o g)(x)?"
+927,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = e^(2x) and g(x) = 3x + 4, find the value of x when f(g(x)) = 64."
+928,,Composite_Implicit_and_Inverse_Functions,Suppose f(x) = x^2 - 4x and g(x) = |x|. Find the value of x when f(g(x)) = 4.
+929,,Composite_Implicit_and_Inverse_Functions,"Find the inverse of h(x) = x^3 - 2x + 1, using the fact that h(f^-1(x)) = x."
+930,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) given that f(x) = x^2 and g(x) = sin(x).
+931,,Composite_Implicit_and_Inverse_Functions,"Given the function f(x) = 3x + cos(x), find the inverse function f^-1(x) and evaluate f^-1(3)."
+932,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^3 and g(x) = ln(x), find the composite function f(g(x))."
+933,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function f^-1(x) = e^x + 2x.
+934,,Composite_Implicit_and_Inverse_Functions,"Given the function f(x) = 2x + 5 and its inverse function f^-1(x), what is the value of f^-1(9)?"
+935,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function h(x) = f(g(x)) where f(x) = x^2 and g(x) = e^x.
+936,,Composite_Implicit_and_Inverse_Functions,"If f(x) = tan^-1(x), find the composite function f(g(x)) where g(x) = e^x."
+937,,Composite_Implicit_and_Inverse_Functions,"Given that f(x) = cos(x) and g(x) = x^2, find the value of the derivative of the composite function h(x) = f(g(x))."
+938,,Composite_Implicit_and_Inverse_Functions,Find the inverse function f^-1(x) of the composite function f(x) = 3x^2 + 2x + 1 and evaluate f^-1(10).
+939,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 2x + 1 and g(x) = e^(x^2), find the composite function h(x) = f(g(x))."
+940,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) if f(x) = cos(x) and g(x) = x^2.
+941,,Composite_Implicit_and_Inverse_Functions,"Given the implicit equation x^2 + y^2 = 25, find the slope of the tangent line at the point (3, 4)."
+942,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 and f^-1(x) = 1/x, what is the derivative of f^-1(x)?"
+943,,Composite_Implicit_and_Inverse_Functions,Find the domain and range of the composite function f(g(x)) if f(x) = x^2 and g(x) = |x|.
+944,,Composite_Implicit_and_Inverse_Functions,"If f(x) = tan(x) and g(x) = sin(x) - cos(x), what is the derivative of f(g(x))?"
+945,,Composite_Implicit_and_Inverse_Functions,"Given the composite function h(x) = f(g(x)) where f(x) = x^2 and g(x) = ln(x), find h'(e)."
+946,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the composite function f(g(x)) if f(x) = x^3 and g(x) = √x.
+947,,Composite_Implicit_and_Inverse_Functions,"Given the inverse function f^-1(x) = 3x + 4, what is the value of x when f(x) = 10?"
+948,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^x and g(x) = 1/x, what is the derivative of f(g(x))?"
+949,,Composite_Implicit_and_Inverse_Functions,"Find the equation of the tangent line to the curve xy + cos(y) = 6 at the point (π, 1)."
+950,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the function 𝑦 = 𝑓(𝑔(𝑥)) on the interval (0, 2)."
+951,,Composite_Implicit_and_Inverse_Functions,Solve for 𝑦 in the equation 𝑦 = 𝑔(𝑥) − 𝑓(𝑦).
+952,,Composite_Implicit_and_Inverse_Functions,"Given 𝑦 = (𝑔 ◦ 𝑓)(𝑥), where 𝑔(𝑥) = √𝑥 and 𝑓(𝑥) = −𝑥² + 5, find 𝑦'(2)."
+953,,Composite_Implicit_and_Inverse_Functions,Determine the inverse of the function 𝑦 = 𝑓(𝑥) = 𝑥³ + 2𝑥 − 1.
+954,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function 𝑦 = 𝑔(𝑓(𝑥)) where 𝑓(𝑥) = 𝑥² + 1 and 𝑔(𝑥) = ln(𝑥).
+955,,Composite_Implicit_and_Inverse_Functions,"Given the function 𝑦 = 𝑓(𝑥) = √(𝑔(𝑥)), find 𝑦'(4) if 𝑔(𝑥) = 2𝑥 − 1."
+956,,Composite_Implicit_and_Inverse_Functions,Solve for 𝑥 in the equation 𝑔(𝑓(𝑥)) = 𝑦 if 𝑦 = 5 and 𝑓(𝑥) = 𝑥² − 3𝑥 + 2 and 𝑔(𝑥) = √𝑥.
+957,,Composite_Implicit_and_Inverse_Functions,"Find the inverse of the function 𝑦 = 𝑓(𝑥) = 𝑥³ + 2𝑥 − 1 on the interval (−1, 2)."
+958,,Composite_Implicit_and_Inverse_Functions,"Given 𝑦 = (𝑔 ◦ 𝑓)(𝑥), where 𝑔(𝑥) = 𝑥 − 2 and 𝑓(𝑥) = 𝑥², find the domain of 𝑦."
+959,,Composite_Implicit_and_Inverse_Functions,"Find the maximum value of 𝑦 = (𝑔 ◦ 𝑓)(𝑥) on the interval [−1, 2], where 𝑔(𝑥) = cos("
+960,,Composite_Implicit_and_Inverse_Functions,"Find the derivative of the composite function f(g(x)), where f(x) = tan(x) and g(x) = sin(x)."
+961,,Composite_Implicit_and_Inverse_Functions,"Given the function f(x) = sin(x) and its inverse function f^-1(x), find the derivative of f^-1(x)."
+962,,Composite_Implicit_and_Inverse_Functions,"If h(x) = (x^2+1)^5 and g(x) = x^2, find the derivative of the composite function h(g(x))."
+963,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function f(x) = x^2 + 5.
+964,,Composite_Implicit_and_Inverse_Functions,"Given that f(x) = cos(x) and its inverse function f^-1(x), find the value of f^-1(1)."
+965,,Composite_Implicit_and_Inverse_Functions,The composite function f(g(x)) is defined as f(x) = x^2 and g(x) = sin(x). Find the value of f(g(π/6)).
+966,,Composite_Implicit_and_Inverse_Functions,A function f(x) has the property that f(x) = f^-1(x). Find the value of f(1).
+967,,Composite_Implicit_and_Inverse_Functions,"If f(x) = √(2x+3) and g(x) = x^2, find the value of g(f(4))."
+968,,Composite_Implicit_and_Inverse_Functions,A function f(x) has the property that f(x) = f^-1(x). Find the derivative of f(x).
+969,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(g(x)) = x^2 - 3 and g(x) = x + 2, find the value of f(g(5))."
+970,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the composite function f(g(x)) where f(x) = x^2 + 3x and g(x) = 4x + 2.
+971,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function f(x) = (2x + 5)^3.
+972,,Composite_Implicit_and_Inverse_Functions,"If f(x) = ln(cosx) and g(x) = 1/x, find the derivative of f(g(x))."
+973,,Composite_Implicit_and_Inverse_Functions,Find the domain and range of the composite function f(g(x)) where f(x) = √(1-x^2) and g(x) = |x|.
+974,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^(3x) and g(x) = ln(2x), find the value of x such that f(g(x)) = 4."
+975,,Composite_Implicit_and_Inverse_Functions,Find the derivative of the inverse function f^-1(x) = (2x + 1)^2.
+976,,Composite_Implicit_and_Inverse_Functions,Determine the domain and range of the inverse function f^-1(x) = √(x+2).
+977,,Composite_Implicit_and_Inverse_Functions,"Given the composite function f(g(x)) = 3/(2x-1), where g(x) = 1/x, find the derivative of f(x)."
+978,,Composite_Implicit_and_Inverse_Functions,Find the inverse function f^-1(x) = (1-x)/(2x) and determine its domain and range.
+979,,Composite_Implicit_and_Inverse_Functions,"If f(x) = sin(1/x) and g(x) = ln(x), what is the value of f(g(1))?"
+980,,Composite_Implicit_and_Inverse_Functions,Find the derivative of f(x) = sin(cos(x))
+981,,Composite_Implicit_and_Inverse_Functions,"Given the function g(x) = ln(1 + x^2), find the derivative g'(x)"
+982,,Composite_Implicit_and_Inverse_Functions,"Find the equation of the tangent line to the curve y = x^3 + 2x^2 + 3x at the point (1,6)"
+983,,Composite_Implicit_and_Inverse_Functions,Determine the domain and range of the composite function f(g(x)) if f(x) = 1/x and g(x) = √x
+984,,Composite_Implicit_and_Inverse_Functions,"If y = tan(xsiny), find dy/dx"
+985,,Composite_Implicit_and_Inverse_Functions,"If f(x) = x^2 and g(x) = cos(x), find (f∘g)(x)"
+986,,Composite_Implicit_and_Inverse_Functions,"Given the function h(x) = (cosx)^2, find h^-1(x)"
+987,,Composite_Implicit_and_Inverse_Functions,Find the second derivative of y = (x^3 + 1)^4
+988,,Composite_Implicit_and_Inverse_Functions,Determine the inverse function of f(x) = ln(cosx)
+989,,Composite_Implicit_and_Inverse_Functions,Express the derivative of y = (2x^2 - 5)^3 in terms of g(x) = 2x^2 - 5
+990,,Composite_Implicit_and_Inverse_Functions,Find the composite function f o g given that f(x) = x^2 and g(x) = sin(x).
+991,,Composite_Implicit_and_Inverse_Functions,Solve for x in the implicit equation x^2 + y^2 = 25.
+992,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = x^2 + 3 and its inverse function f^-1(x), find the derivative of f^-1(x) at x = 2."
+993,,Composite_Implicit_and_Inverse_Functions,"Find the slope of the tangent line to the curve x^2 + y^2 = 9 at the point (3,4)."
+994,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = sin(x) and its inverse function f^-1(x), find the derivative of f^-1(x) at x = π/6."
+995,,Composite_Implicit_and_Inverse_Functions,"If f(x) = e^x and g(x) = ln(x), find the derivative of f o g at x = 2."
+996,,Composite_Implicit_and_Inverse_Functions,"Find the equation of the tangent line to the curve y = 2^x at the point (1,2)."
+997,,Composite_Implicit_and_Inverse_Functions,"Given f(x) = x^3 - 2x + 1 and its inverse function f^-1(x), find the second derivative of f(x) at x = 1."
+998,,Composite_Implicit_and_Inverse_Functions,"If f(x) = 1/(x+1) and g(x) = x^2 - 3x, find the derivative of f o g at x = 1."
+999,,Composite_Implicit_and_Inverse_Functions,Find the inverse of the function f(x) = 3x + 2 and determine the value of f^-1(4).

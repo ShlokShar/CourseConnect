@@ -1,0 +1,1001 @@
+,question,topic,quesiton
+0,,Integration_and_Accumulation_of_Change,Find the indefinite integral of f(x) = 3x^2 + 2x + 5
+1,,Integration_and_Accumulation_of_Change,Evaluate the definite integral ∫(2x + 3)dx with bounds from 0 to 4.
+2,,Integration_and_Accumulation_of_Change,"Find the average value of f(x) = 2x + 1 on the interval [0, 5]."
+3,,Integration_and_Accumulation_of_Change,Use the fundamental theorem of calculus to find the derivative of ∫(3x^2 + 4x)dx.
+4,,Integration_and_Accumulation_of_Change,Find the net change in distance traveled by a car whose velocity is described by f(t) = 5t + 10 from t = 0 to t = 5.
+5,,Integration_and_Accumulation_of_Change,"Find the area between the curve y = 2x and the x-axis on the interval [1,3]."
+6,,Integration_and_Accumulation_of_Change,"A tank initially contains 500 liters of water. If water is being drained at a rate of 20 liters per minute, how much water will be in the tank after 30 minutes?"
+7,,Integration_and_Accumulation_of_Change,"The population of a city is growing at a rate of 2% per year. If the population is currently 100,000, find the total population after 10 years."
+8,,Integration_and_Accumulation_of_Change,A ball is thrown straight up with an initial velocity of 20 m/s. Find the total distance the ball traveled during the first 5 seconds.
+9,,Integration_and_Accumulation_of_Change,"A tank initially contains 2000 liters of a chemical solution. If the concentration of the solution is 0.5 grams per liter and the solution is being drained at a rate of 10 liters per minute, how many grams of the chemical will be left after 30 minutes?"
+10,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = x^2 + 3 from x = 0 to x = 2.
+11,,Integration_and_Accumulation_of_Change,A car is accelerating at 5 m/s^2 for 10 seconds. What is the total distance traveled during this time?
+12,,Integration_and_Accumulation_of_Change,"The rate of change of a population is given by P'(t) = 100t + 50, where t is measured in years. If the initial population is 500, what is the total change in population after 10 years?"
+13,,Integration_and_Accumulation_of_Change,"If the velocity of a particle is given by v(t) = 2t, what is the total displacement of the particle from t = 3 to t = 7?"
+14,,Integration_and_Accumulation_of_Change,A tank initially contains 50 gallons of water and is being drained at a rate of 5 gallons per minute. What is the total amount of water that will be drained after 30 minutes?
+15,,Integration_and_Accumulation_of_Change,"The slope of a curve is given by dy/dx = 2x + 3, where x is measured in meters. If the curve passes through the point (1,4), what is the y-coordinate of the point where the slope is 10?"
+16,,Integration_and_Accumulation_of_Change,"The flow rate of water leaving a tank at time t is given by Q(t) = 3t^2 - 6t, where t is measured in minutes. What is the total water flow during the first 5 minutes?"
+17,,Integration_and_Accumulation_of_Change,The function f(x) = 3x^2 + 5x + 2 represents the demand for a product. What is the total increase in demand between x = 1 and x = 5?
+18,,Integration_and_Accumulation_of_Change,"A rocket is fired at the velocity of v(t) = -3t^2 + 12t, where t is measured in seconds. What is the total displacement of the rocket after 4 seconds?"
+19,,Integration_and_Accumulation_of_Change,"The rate of change of temperature T with respect to time t is given by dT/dt = 2t + 5, where t is measured in hours. If the initial temperature is 80 degrees Fahrenheit, what is the total change in temperature after 6 hours?"
+20,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = 2x from x = 1 to x = 3.
+21,,Integration_and_Accumulation_of_Change,"Given the graph of f(x), find the area under the curve from x = 0 to x = 4."
+22,,Integration_and_Accumulation_of_Change,"What is the average value of g(x) = 4x - 2 on the interval [0, 2]?"
+23,,Integration_and_Accumulation_of_Change,"If the rate of change of the area of a circle with respect to its radius is constant, what is the equation for the area as a function of the radius?"
+24,,Integration_and_Accumulation_of_Change,A car is traveling at a constant velocity of 60 mph. Find the displacement of the car from t = 2 to t = 5 seconds.
+25,,Integration_and_Accumulation_of_Change,"What is the total distance traveled by a particle with velocity v(t) = 4t on the interval [0, 6] seconds?"
+26,,Integration_and_Accumulation_of_Change,An object is dropped from a height of 100 feet. How long will it take for the object to reach the ground?
+27,,Integration_and_Accumulation_of_Change,"Find the volume of a solid with base area g(x) = x^3 and cross-sectional length 5 on the interval [0, 2]."
+28,,Integration_and_Accumulation_of_Change,"If the rate of change of pressure with respect to time is given by P'(t) = 5t, and the initial pressure is 50, what is the pressure after 5 seconds?"
+29,,Integration_and_Accumulation_of_Change,"What is the work done by a force F(x) = 3x on the interval [0, 4]?"
+30,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = 2x^3 + 5x^2 - 3x + 1 from x = 1 to x = 5.
+31,,Integration_and_Accumulation_of_Change,"If a car is traveling at a velocity of 30 m/s and has an acceleration of 5 m/s^2, what is its displacement after 10 seconds?"
+32,,Integration_and_Accumulation_of_Change,Calculate the total area under the curve of f(x) = x^2 + 4x + 1 from x = 0 to x = 3.
+33,,Integration_and_Accumulation_of_Change,"A tank initially contains 100 gallons of water. If water is being drained from the tank at a rate of 5 gallons per minute, how much water is left after 20 minutes?"
+34,,Integration_and_Accumulation_of_Change,Determine the integral of g(x) = 3/x from x = 1 to x = e.
+35,,Integration_and_Accumulation_of_Change,A rocket is fired vertically upwards with an initial velocity of 80 m/s. How high does the rocket reach before it starts falling back down?
+36,,Integration_and_Accumulation_of_Change,Calculate the area between the curves f(x) = x^2 and g(x) = 2x - 1 from x = -1 to x = 2.
+37,,Integration_and_Accumulation_of_Change,A company's profit (in millions of dollars) over a time period t (in years) is given by P(t) = 10t^2 - 30t + 20. What is the average profit over the first 5 years?
+38,,Integration_and_Accumulation_of_Change,Find the volume of a cone with a radius of 4 cm and a height of 10 cm using integration.
+39,,Integration_and_Accumulation_of_Change,"Given that the acceleration of an object is equal to its velocity at any given time, determine the position function of the object if it starts at x = 0 with an initial velocity of 5 m/s."
+40,,Integration_and_Accumulation_of_Change,Find the indefinite integral of f(x) = 3x^2 + 5
+41,,Integration_and_Accumulation_of_Change,Calculate the definite integral from 0 to 4 of g(x) = x^3 + 2x + 1
+42,,Integration_and_Accumulation_of_Change,Use the Fundamental Theorem of Calculus to find the derivative of F(x) = ∫(2x + 3)dx
+43,,Integration_and_Accumulation_of_Change,"Determine the area between the curves f(x) = x^2 + 2x and g(x) = 4x + 1 over the interval [0, 2]."
+44,,Integration_and_Accumulation_of_Change,The velocity of a particle at time t is given by v(t) = 3t^2. Find the position of the particle at t = 4 if its initial position is 2.
+45,,Integration_and_Accumulation_of_Change,A population of bacteria grows according to the function P(t) = 100e^(0.5t). Find the total change in population between t = 0 and t = 10.
+46,,Integration_and_Accumulation_of_Change,The rate of water emptying from a tank at time t is given by r(t) = 5t - 2. Find the total amount of water that has emptied from the tank between t = 2 and t = 7.
+47,,Integration_and_Accumulation_of_Change,"Find the average value of g(x) = 5x + 2 over the interval [0, 3]."
+48,,Integration_and_Accumulation_of_Change,The force on an object at time t is given by F(t) = 3t + 4. Find the work done by the force between t = 1 and t = 5.
+49,,Integration_and_Accumulation_of_Change,"A bird is flying at a constant speed of 10 m/s. If its height above the ground at time t is given by h(t) = 5t + 2, find the total distance traveled by the bird between t = 2 and t = 6."
+50,,Integration_and_Accumulation_of_Change,Find the antiderivative of f(x) = 3x^2 + 5.
+51,,Integration_and_Accumulation_of_Change,Use integration to find the area under the curve y = 2x from x = 0 to x = 3.
+52,,Integration_and_Accumulation_of_Change,What is the relationship between a function and its antiderivative?
+53,,Integration_and_Accumulation_of_Change,Find the indefinite integral of cos(2x).
+54,,Integration_and_Accumulation_of_Change,Solve the differential equation dy/dx = 2x.
+55,,Integration_and_Accumulation_of_Change,Calculate the definite integral of f(x) = x^2 - 4x from x = -1 to x = 2.
+56,,Integration_and_Accumulation_of_Change,"Determine the average value of f(x) = 2x + 3 on the interval [0,2]."
+57,,Integration_and_Accumulation_of_Change,Use the Fundamental Theorem of Calculus to evaluate ∫cos(x) dx from 0 to π.
+58,,Integration_and_Accumulation_of_Change,"Find the area between the curve y = x^2 and the x-axis on the interval [0,3]."
+59,,Integration_and_Accumulation_of_Change,Evaluate ∫2x(1+5x^2)dx using u-substitution.
+60,,Integration_and_Accumulation_of_Change,What is the definite integral of f(x) = 2x + 3 from x=0 to x=5?
+61,,Integration_and_Accumulation_of_Change,Calculate the indefinite integral of g(x) = 4x^3 + 6x^2 + 2x + 9.
+62,,Integration_and_Accumulation_of_Change,A car is traveling at a constant speed of 50 mph. What is the total distance traveled in 2 hours?
+63,,Integration_and_Accumulation_of_Change,"Find the area bounded by the curves y = x^2, y = 2x + 3, and the x-axis."
+64,,Integration_and_Accumulation_of_Change,"A factory produces 1000 widgets per day, with production increasing by 5% every week. How many widgets will be produced in 4 weeks?"
+65,,Integration_and_Accumulation_of_Change,Evaluate the integral of h(t) = 1/t from t = 3 to t = 9.
+66,,Integration_and_Accumulation_of_Change,"The rate of change of a population is given by p'(t) = 0.02t + 100, where t is in days. How many people are expected to be in the population after 3 months?"
+67,,Integration_and_Accumulation_of_Change,Find the volume of the solid generated by rotating the region bounded by y = x^2 and y = 4x around the y-axis.
+68,,Integration_and_Accumulation_of_Change,A tank initially contains 100 gallons of water. Water is being drained from the tank at a rate of 5 gallons per minute. How much water will be left in the tank after 20 minutes?
+69,,Integration_and_Accumulation_of_Change,Evaluate the integral of f(x) = 3e^x from x = 0 to x = 2.
+70,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = 3x^2 + 4x + 1 from x = 0 to x = 5.
+71,,Integration_and_Accumulation_of_Change,Calculate the area bounded by the curve y = sin(x) and the x-axis from x = 0 to x = π.
+72,,Integration_and_Accumulation_of_Change,"A car travels with velocity v(t) = 30 + 5t m/s, where t is measured in seconds. Find the displacement of the car after 10 seconds."
+73,,Integration_and_Accumulation_of_Change,What is the total work done in pumping water out of a cylindrical tank with a height of 10 meters and a radius of 5 meters if the water level drops by 2 meters?
+74,,Integration_and_Accumulation_of_Change,A particle moves along the x-axis with a velocity of v(t) = t^2 + 2t - 3 m/s. Find the displacement of the particle from t = 5 to t = 8.
+75,,Integration_and_Accumulation_of_Change,Calculate the volume of the solid generated by rotating the region bounded by y = x^2 and y = 2x about the y-axis.
+76,,Integration_and_Accumulation_of_Change,"The rate of change of a population of bacteria is given by P'(t) = 0.02P, where P is the population at time t. If there are 1000 bacteria initially, find the total population after 10 hours."
+77,,Integration_and_Accumulation_of_Change,"A company's revenue, in thousands of dollars, is given by R(t) = 5t^2 + 20t + 100, where t is the number of years since the start of the company. Find the total revenue earned in the first 5 years."
+78,,Integration_and_Accumulation_of_Change,Find the area between the curves y = x^2 and y = 4x + 3 for values of x between -1 and 3.
+79,,Integration_and_Accumulation_of_Change,"A tank initially contains 100 liters of water, and water is being poured into the tank at a rate of 5 liters per minute. If the tank can hold a maximum of 500 liters, how long will it take to fill the tank completely?"
+80,,Integration_and_Accumulation_of_Change,"Find the definite integral of f(x) = 3x^2 + 4x, from x = 0 to x = 5."
+81,,Integration_and_Accumulation_of_Change,"Given the velocity function v(t) = 5t + 2, find the displacement of the object from t = 0 to t = 4."
+82,,Integration_and_Accumulation_of_Change,"A tank initially contains 500 gallons of water. If water is leaking out of the tank at a rate of 10 gallons per hour, how much water is left after 8 hours?"
+83,,Integration_and_Accumulation_of_Change,Determine the area under the curve of f(x) = 4x + 2 from x = 0 to x = 3.
+84,,Integration_and_Accumulation_of_Change,"The rate of change of a population is given by P'(t) = 0.01t + 5. If the population starts at 10 people, find the population after 10 years."
+85,,Integration_and_Accumulation_of_Change,"Find the total work done by a force of 2x^2 + 5x + 3 N over the interval [1,2]."
+86,,Integration_and_Accumulation_of_Change,A car is accelerating at a rate of 3t^2 m/s^2. Find the distance traveled by the car from t = 0 to t = 5 seconds.
+87,,Integration_and_Accumulation_of_Change,"Given the function g(x) = x^3 + 2x + 1, find the area bounded by the x-axis and the graph of g(x) from x = 1 to x = 3."
+88,,Integration_and_Accumulation_of_Change,"Refrigerator A is unplugged and losing a temperature of 1 degree Celsius per minute. Refrigerator B is plugged in and gaining a temperature of 2 degrees Celsius per minute. If both refrigerators start at 20 degrees Celsius, at what time will they have the same temperature?"
+89,,Integration_and_Accumulation_of_Change,"The rate of change of a chemical reaction is given by r'(t) = 2sin(t) + 3cos(t). If the reaction starts at time t = 0, find the total change in the reaction from t = 0 to t = 4."
+90,,Integration_and_Accumulation_of_Change,What is the integral of x^2?
+91,,Integration_and_Accumulation_of_Change,Find the area under the curve y = x^3 from x = 0 to x = 2.
+92,,Integration_and_Accumulation_of_Change,Evaluate the definite integral of sin(x) from x = 0 to x = π.
+93,,Integration_and_Accumulation_of_Change,Determine the total distance traveled by an object with velocity v(t) = 2t - 3 from t = 0 to t = 5.
+94,,Integration_and_Accumulation_of_Change,A particle moves along the x-axis according to the position function x(t) = e^t. Find the total displacement of the particle from t = 1 to t = 4.
+95,,Integration_and_Accumulation_of_Change,What is the anti-derivative of 5x^2 + 6x?
+96,,Integration_and_Accumulation_of_Change,"Find the average value of f(x) = x^3 on the interval [0,1]."
+97,,Integration_and_Accumulation_of_Change,Calculate the net change in population from t = 0 to t = 10 if the rate of change of a population is dP/dt = 5t^2 - 8t + 3.
+98,,Integration_and_Accumulation_of_Change,"A tank is filled with water at a rate of 3 gallons per minute. If there are 20 gallons of water in the tank initially, how much water is in the tank after 10 minutes?"
+99,,Integration_and_Accumulation_of_Change,"The function f(x) represents the velocity of an object at time t. Find the displacement of the object from t = 0 to t = 4, given that f(t) = t^2 - 4t + 3."
+100,,Integration_and_Accumulation_of_Change,Find the definite integral of the function f(x) = 3x^2 + 6x + 2 from x = 0 to x = 5.
+101,,Integration_and_Accumulation_of_Change,"Given the velocity of an object in feet per second as v(t) = 5t - 2, find the displacement of the object from t = 0 to t = 10 seconds."
+102,,Integration_and_Accumulation_of_Change,"A tank initially contains 1000 gallons of water. Water is being pumped into the tank at a rate of 50 gallons per minute, while the water is being drained out at a rate of 20 gallons per minute. How long will it take for the tank to be completely filled?"
+103,,Integration_and_Accumulation_of_Change,"The population of a city is given by the function P(t) = 500,000e^(0.05t), where t is measured in years. Find the total increase in population from t = 0 to t = 10 years."
+104,,Integration_and_Accumulation_of_Change,A ball is thrown upward with an initial velocity of 30 ft/s from a building that is 100 feet tall. How long will it take for the ball to reach the ground?
+105,,Integration_and_Accumulation_of_Change,"The rate at which rain is falling onto a flat surface at a certain time is given by r(t) = 2t + 5, where t is measured in minutes and r(t) is measured in inches per hour. Find the total amount of rain that has fallen from t = 0 to t = 30 minutes."
+106,,Integration_and_Accumulation_of_Change,"A particle moves along a coordinate axis with a velocity given by v(t) = 4t - 2, where t is measured in seconds and v(t) is measured in meters per second. Find the total distance traveled by the particle from t = 0 to t = 6 seconds."
+107,,Integration_and_Accumulation_of_Change,"The total revenue generated by a company is given by the function R(x) = 50x^2 - 20x, where x is the number of units sold. How many units must be sold to maximize revenue and what is the maximum revenue?"
+108,,Integration_and_Accumulation_of_Change,"A car is driving along a straight road with a velocity given by v(t) = 60 + 2t, where t is measured in seconds and v(t) is measured in miles per hour. How far has the car traveled from t = 0 to t = 3 seconds?"
+109,,Integration_and_Accumulation_of_Change,The rate at which heat is being transferred from a hot object is given by Q(t) = 100t -
+110,,Integration_and_Accumulation_of_Change,Determine the indefinite integral of f(x) = 2x + sin(x).
+111,,Integration_and_Accumulation_of_Change,Find the area under the curve y = x^2 + 3x between x = 1 and x = 5.
+112,,Integration_and_Accumulation_of_Change,Calculate the definite integral of g(t) = 4t^2 - 6t + 10 from t = -2 to t = 2.
+113,,Integration_and_Accumulation_of_Change,Find the total displacement of a particle with position function s(t) = 4t^3 - 2t^2 + 7t between t = 1 and t = 5.
+114,,Integration_and_Accumulation_of_Change,"What is the average value of h(x) = 3x^4 + cos(x) on the interval [0, π]?"
+115,,Integration_and_Accumulation_of_Change,A car accelerates from 10 m/s to 25 m/s in the first 5 seconds. What distance does the car travel during this time?
+116,,Integration_and_Accumulation_of_Change,"Calculate the net change in the population of a city over a 5-year period if the population is modeled by P(t) = 500t^2 + 1000t + 10,000 where t represents years."
+117,,Integration_and_Accumulation_of_Change,Find the work done by a force of 15 N pushing a block 10 meters up a ramp at a 30-degree angle.
+118,,Integration_and_Accumulation_of_Change,"The velocity of a moving object is given by v(t) = 8t - 2. Find its displacement over the interval [2, 6]."
+119,,Integration_and_Accumulation_of_Change,A tank is being filled with water at a rate of 5 liters/minute. How much water is in the tank after 20 minutes if the initial amount of water was 10 liters?
+120,,Integration_and_Accumulation_of_Change,What is the value of ∫ x^2 + 1 dx from 0 to 5?
+121,,Integration_and_Accumulation_of_Change,Find the indefinite integral of f(x) = 3x^2 + 2x + 1.
+122,,Integration_and_Accumulation_of_Change,"If the velocity of an object is given by v(t) = t^3 + 2t, what is the displacement of the object from t=0 to t=3?"
+123,,Integration_and_Accumulation_of_Change,What is the total area under the curve of y = 2x between x=0 and x=4?
+124,,Integration_and_Accumulation_of_Change,Find the antiderivative of sin(x) + 2cos(x).
+125,,Integration_and_Accumulation_of_Change,"If revenue is given by R(x) = 2x^2 + 5x, what is the total profit when x=4?"
+126,,Integration_and_Accumulation_of_Change,What is the definite integral of e^x - 2x from x=0 to x=3?
+127,,Integration_and_Accumulation_of_Change,A tank initially contains 50 gallons of water and is being drained at a rate of 5 gallons per minute. How much water is left in the tank after 10 minutes?
+128,,Integration_and_Accumulation_of_Change,"Find the area bounded by y = x^3, x-axis, and the lines x=0 and x=2."
+129,,Integration_and_Accumulation_of_Change,"If the rate of change of velocity is given by a(t) = t + 2, what is the velocity of the object when t=5 if the initial velocity was 3?"
+130,,Integration_and_Accumulation_of_Change,What is the integral of 2x + 3 from 1 to 5?
+131,,Integration_and_Accumulation_of_Change,Find the area under the curve y = x^2 + 3x + 4 from x = 1 to x = 5.
+132,,Integration_and_Accumulation_of_Change,A car is accelerating at a rate of 3 m/s^2. How far has it travelled after 5 seconds?
+133,,Integration_and_Accumulation_of_Change,"The rate of change of population P is given by dP/dt = 0.05P. If P(0) = 1000, what is the population after 10 years?"
+134,,Integration_and_Accumulation_of_Change,What is the total distance covered by an object if its velocity is v(t) = 2t - 3 m/s for 5 seconds?
+135,,Integration_and_Accumulation_of_Change,"A tank initially holds 1000 gallons of water. Water is pumped into the tank at a rate of 10 gallons per minute, and water is drained out at a rate of 5 gallons per minute. After 10 minutes, how much water is in the tank?"
+136,,Integration_and_Accumulation_of_Change,An airplane is flying at a constant speed of 500 miles per hour. How far has it travelled after flying for 6 hours?
+137,,Integration_and_Accumulation_of_Change,"If the velocity of a particle is given by v(t) = 4t - 3 at time t seconds, what is the position of the particle at t = 10 seconds?"
+138,,Integration_and_Accumulation_of_Change,A car is travelling at a speed of 60 miles per hour. How long will it take to travel 200 miles?
+139,,Integration_and_Accumulation_of_Change,"The rate of change of the concentration of a chemical in a tank is given by dC/dt = 5x + 7, where x is the volume of the tank. If the initial concentration is 10 mol/L and the volume at t = 0 is 5L, what is the concentration after 2 minutes?"
+140,,Integration_and_Accumulation_of_Change,Evaluate the integral ∫ (3x^2 + 4x) dx from x = 0 to x = 5.
+141,,Integration_and_Accumulation_of_Change,Find the area under the curve y = 2x + 5 from x = 0 to x = 6.
+142,,Integration_and_Accumulation_of_Change,Calculate the total distance traveled by a car with velocity function v(t) = 5t + 10 from t = 0 to t = 6.
+143,,Integration_and_Accumulation_of_Change,Use integration to find the volume of a sphere with radius r = 3.
+144,,Integration_and_Accumulation_of_Change,"Find the average value of the function f(x) = x^3 + 3x^2 on the interval [2, 5]."
+145,,Integration_and_Accumulation_of_Change,"Calculate the work done by a force F(x) = 2x + 3 over the interval [1, 10]."
+146,,Integration_and_Accumulation_of_Change,Find the total profit from selling x units of a product at a price of p(x) = 100 - 2x dollars.
+147,,Integration_and_Accumulation_of_Change,Evaluate the integral ∫ cos^2(x) dx from x = 0 to x = π/2.
+148,,Integration_and_Accumulation_of_Change,Use integration to determine the displacement of an object given its velocity function v(t) = t^2 - 10t + 20 from t = 0 to t = 3.
+149,,Integration_and_Accumulation_of_Change,"Find the area between the curves y = x^2 - 4 and y = 2x + 3 on the interval [-2, 3]."
+150,,Integration_and_Accumulation_of_Change,Find the indefinite integral of f(x) = 2x + 3.
+151,,Integration_and_Accumulation_of_Change,"Evaluate the definite integral ∫(0, 5) x^2 dx."
+152,,Integration_and_Accumulation_of_Change,Use integration to find the area under the curve y = 2x + 1 from x = 0 to x = 4.
+153,,Integration_and_Accumulation_of_Change,"Find the average value of the function f(x) = x^2 on the interval [0, 2]."
+154,,Integration_and_Accumulation_of_Change,"Given a rate of change function f(t), what is the total change in the quantity over a certain time period?"
+155,,Integration_and_Accumulation_of_Change,Find the integral of the velocity function of an object to determine its displacement over a given time interval.
+156,,Integration_and_Accumulation_of_Change,"Using integration, find the total work done by a variable force over a given distance interval."
+157,,Integration_and_Accumulation_of_Change,"Use the fundamental theorem of calculus to find the derivative of ∫(0, x^2) sin(t) dt."
+158,,Integration_and_Accumulation_of_Change,"If the rate of change of a function is given by f'(t) = 5/t, what is the original function f(t)?"
+159,,Integration_and_Accumulation_of_Change,How can integration be used to calculate the volume of a three-dimensional object?
+160,,Integration_and_Accumulation_of_Change,Find the definite integral of x^2 from 0 to 5.
+161,,Integration_and_Accumulation_of_Change,Use integration to find the area under the curve y = 2x^3 - 6x^2 + 5 from x = 0 to x = 3.
+162,,Integration_and_Accumulation_of_Change,"If the displacement of an object is given by s(t) = 4t^2 + 3t + 2, what is the total distance traveled from t = 1 to t = 5?"
+163,,Integration_and_Accumulation_of_Change,Use integration to calculate the volume of a solid with a circular base of radius 4 and a height of 6.
+164,,Integration_and_Accumulation_of_Change,"What is the average value of f(x) = 3x^2 + 5x - 2 on the interval [1, 4]?"
+165,,Integration_and_Accumulation_of_Change,Find the derivative of the integral of 2x from x = 0 to x = t.
+166,,Integration_and_Accumulation_of_Change,"Given that the rate of change of f(x) is f'(x) = 2x - 3, what is the value of f(5) if f(0) = 2?"
+167,,Integration_and_Accumulation_of_Change,The velocity of a particle moving along a straight line is given by v(t) = 8 - 4t. What is the total displacement of the particle from t = 0 to t = 3?
+168,,Integration_and_Accumulation_of_Change,"Use integration to find the average value of f(x) = 2/x on the interval [2, 5]."
+169,,Integration_and_Accumulation_of_Change,"Find the area of the region bounded by y = x^2, y = 2x, and the x-axis."
+170,,Integration_and_Accumulation_of_Change,What is the indefinite integral of f(x) = 3x^2 + 5x - 8?
+171,,Integration_and_Accumulation_of_Change,Find the definite integral from 1 to 4 of f(x) = x^2 + 5x.
+172,,Integration_and_Accumulation_of_Change,What is the antiderivative of g(x) = 2/x?
+173,,Integration_and_Accumulation_of_Change,Calculate the area under the curve f(x) = 4x + 2 from x = 1 to x = 5.
+174,,Integration_and_Accumulation_of_Change,What is the average value of f(x) = 2x^3 + 3x^2 - 10 for x from 0 to 2?
+175,,Integration_and_Accumulation_of_Change,Find the antiderivative of h(x) = 3/(x^2 - 4).
+176,,Integration_and_Accumulation_of_Change,Calculate the definite integral from -1 to 3 of f(x) = e^(2x).
+177,,Integration_and_Accumulation_of_Change,What is the total displacement of an object moving at a velocity of v(t) = 2t + 5 from t = 0 to t = 4?
+178,,Integration_and_Accumulation_of_Change,Find the integral of f(x) = sin(x) + 2cos(x) from x = 0 to x = 2π.
+179,,Integration_and_Accumulation_of_Change,What is the area between the curves f(x) = x^2 and g(x) = x for x from 1 to 3?
+180,,Integration_and_Accumulation_of_Change,"Find the definite integral of f(x) = 3x + 5 on the interval [0, 3]."
+181,,Integration_and_Accumulation_of_Change,"Use integration to find the area bounded by the curve y = x^2 and the x-axis on the interval [-1, 1]."
+182,,Integration_and_Accumulation_of_Change,"A car's velocity is given by v(t) = t^2 + t, where t is the time in seconds. Find the total distance traveled by the car from t = 0 to t = 5."
+183,,Integration_and_Accumulation_of_Change,"Find the value of k such that the function f(x) = kx^3 has an average rate of change of 2 over the interval [0, 2]."
+184,,Integration_and_Accumulation_of_Change,Use integration to find the volume of the solid generated by rotating the region bounded by the curves y = x^2 and y = 3x around the x-axis.
+185,,Integration_and_Accumulation_of_Change,"The rate of evaporation of water from a pot is given by r(t) = -0.5t + 1, where t is the time in minutes. How much water has evaporated after 20 minutes?"
+186,,Integration_and_Accumulation_of_Change,"Find the average value of the function f(x) = x^2 over the interval [-2, 2]."
+187,,Integration_and_Accumulation_of_Change,"The population of a city is modeled by the function P(t) = 1000e^(0.01t), where t is the time in years. How many people were living in the city at the end of the 10th year?"
+188,,Integration_and_Accumulation_of_Change,Calculate the work done by a force F(x) = 3x^2 - 4x + 5 in moving an object from x = 1 to x = 5.
+189,,Integration_and_Accumulation_of_Change,"The concentration of a chemical in a tank is given by C(t) = 2t/(t^2+1), where t is the time in hours. Find the total amount of the chemical that has entered the tank between t = 2 and t = 5."
+190,,Integration_and_Accumulation_of_Change,Find the indefinite integral of f(x) = 3x^2 + 2x + 5
+191,,Integration_and_Accumulation_of_Change,Evaluate the definite integral of f(x) = 2x + 6 from x = 0 to x = 5
+192,,Integration_and_Accumulation_of_Change,Calculate the area under the curve y = x^2 from x = 1 to x = 3
+193,,Integration_and_Accumulation_of_Change,What is the total distance traveled by an object with velocity v(t) = 5t + 1 from t = 0 to t = 4?
+194,,Integration_and_Accumulation_of_Change,Find the antiderivative of f(x) = 3sin(x)
+195,,Integration_and_Accumulation_of_Change,A pump is filling a pool at a rate of 10 gallons per minute. How much water is in the pool after 20 minutes?
+196,,Integration_and_Accumulation_of_Change,Evaluate the integral of f(x) = 2e^x - 3x from x = 1 to x = 5
+197,,Integration_and_Accumulation_of_Change,A car is traveling at a constant acceleration of 2 m/s^2. Calculate its position after 5 seconds if it started at x = 0.
+198,,Integration_and_Accumulation_of_Change,What is the accumulated depreciation after 10 years for a car that depreciates at a rate of $1000 per year?
+199,,Integration_and_Accumulation_of_Change,"The rate of change of a population is given by P'(t) = 100 - 2t, where t is measured in years. Find the total change in population from t = 0 to t = 10."
+200,,Integration_and_Accumulation_of_Change,"Find the definite integral of f(x) = 2x + 3 over the interval [1, 4]."
+201,,Integration_and_Accumulation_of_Change,"Use integration to find the area bounded by the x-axis and the function f(x) = x^2 - 4x + 3 over the interval [0, 4]."
+202,,Integration_and_Accumulation_of_Change,"A ball's position is given by s(t) = 2t^3 - 6t^2 + 10t, where t is in seconds and s is in meters. Find the total distance traveled by the ball from t = 0 to t = 5 seconds."
+203,,Integration_and_Accumulation_of_Change,"The rate of change of population, P, in a town is given by dP/dt = 2t^2 + 10t + 20, where t is in years. If the initial population of the town is 100, find the total change in population after 10 years."
+204,,Integration_and_Accumulation_of_Change,"Find the volume of the solid formed by rotating the region bounded by y = x^2, x = 0, and x = 2 about the y-axis."
+205,,Integration_and_Accumulation_of_Change,"A car's velocity is given by v(t) = 3t^2 - 6t + 10, where t is in seconds and v is in meters per second. Find the total distance traveled by the car from t = 0 to t = 3 seconds."
+206,,Integration_and_Accumulation_of_Change,Use the disk method to find the volume of the solid formed by rotating the region bounded by y = x^3 and the y-axis about the line y = -1.
+207,,Integration_and_Accumulation_of_Change,"An object is moving along the x-axis with a velocity given by v(t) = 4t - 3 m/s. If the object's initial position is 5 meters, find its position after 10 seconds."
+208,,Integration_and_Accumulation_of_Change,"Find the average value of the function f(x) = x^2 + 4x on the interval [-2, 2]."
+209,,Integration_and_Accumulation_of_Change,"Use integration to find the area of the region bounded by y = 2x^2 + 3x + 1 and the x-axis over the interval [-1, 3]."
+210,,Integration_and_Accumulation_of_Change,What is the integral of 2x dx?
+211,,Integration_and_Accumulation_of_Change,Find the indefinite integral of cos(x).
+212,,Integration_and_Accumulation_of_Change,Evaluate the definite integral from 0 to 3 of (x^2 + 3x + 1) dx.
+213,,Integration_and_Accumulation_of_Change,"Determine the area under the curve y = 4x^3 + 2x^2 + 5x + 3 on the interval [2, 5]."
+214,,Integration_and_Accumulation_of_Change,What is the antiderivative of e^(2x)?
+215,,Integration_and_Accumulation_of_Change,A particle is moving along the x-axis with a velocity of v(t) = t^2 - t + 2. Find the displacement of the particle after 5 seconds.
+216,,Integration_and_Accumulation_of_Change,Calculate the definite integral from 1 to 4 of 1/x dx.
+217,,Integration_and_Accumulation_of_Change,"Given the function f(x) = 3sin(x), find the definite integral from 0 to π/2."
+218,,Integration_and_Accumulation_of_Change,"The demand function for a product is p(x) = 15/(x+3)^2, where x is the quantity demanded. Find the total revenue generated by selling 100 units of the product."
+219,,Integration_and_Accumulation_of_Change,A rectangular tank with a length of 10 meters and a width of 5 meters is being filled with water at a rate of 2 cubic meters per minute. How long will it take to fill the tank if the depth of the water starts at 0 meters and reaches 8 meters?
+220,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = x^3 + 2x^2 - 5x + 3 from x = 1 to x = 5.
+221,,Integration_and_Accumulation_of_Change,A particle moves along the x-axis with velocity v(t) = 4t + 2. Find the displacement of the particle from t = 1 to t = 4.
+222,,Integration_and_Accumulation_of_Change,"A tank initially contains 500 liters of water. Water is being pumped into the tank at a rate of 10L/min while water is being drained out at a rate of 5L/min. If the tank is full after 20 minutes, what was the initial amount of water in the tank?"
+223,,Integration_and_Accumulation_of_Change,Find the area between the curves y = x^2 and y = 2x - 1.
+224,,Integration_and_Accumulation_of_Change,"The rate at which a cup of coffee cools down is directly proportional to the difference between the temperature of the coffee and the room temperature. If the coffee is initially at 100°C and cools to 80°C after 5 minutes, find the room temperature."
+225,,Integration_and_Accumulation_of_Change,"A spring has a natural length of 2 meters and is stretched an additional 4 meters by a weight. If the weight is pulled down an additional 2 meters and then released, find the total work done by the weight as it returns to its natural length."
+226,,Integration_and_Accumulation_of_Change,Find the average value of f(x) = x^2 from x = 0 to x = 2.
+227,,Integration_and_Accumulation_of_Change,A rocket is initially at rest on the ground. It accelerates at a constant rate of 10 m/s^2 for 5 seconds before reaching its maximum speed of 100 m/s. Find the total distance traveled by the rocket.
+228,,Integration_and_Accumulation_of_Change,"Find the volume of the solid generated by rotating the region bounded by y = x^2, x = 0, and y = 4 about the y-axis."
+229,,Integration_and_Accumulation_of_Change,A car starts from rest and accelerates at a rate of 6 m/s^2 for 5 seconds. It then maintains a constant speed of 30 m/s for another 10 seconds before decelerating at a rate of 4 m/s^2 until it comes to a stop. Find the total displacement of the car during this time.
+230,,Integration_and_Accumulation_of_Change,"Find the area bounded by the curves y = x, y = 2x and the lines x = 0 and x = 2 using integration."
+231,,Integration_and_Accumulation_of_Change,Calculate the volume of the solid obtained by rotating the curve y = x^2 between x = 0 and x = 3 around the y-axis.
+232,,Integration_and_Accumulation_of_Change,A particle moves along the x-axis according to the equation x = 3t^2 + 2t + 1. Find the displacement of the particle between t = 0 and t = 2.
+233,,Integration_and_Accumulation_of_Change,"The rate at which a chemical reaction is occurring is given by the equation R = 2e^-0.5t kg/s, where t is in seconds. Find the amount of substance that has reacted between t = 0 and t = 10 seconds."
+234,,Integration_and_Accumulation_of_Change,"Find the average value of the function y = x^2 + 1 on the interval [0, 4]."
+235,,Integration_and_Accumulation_of_Change,A rocket is launched from the surface of the moon with an initial velocity of 100 m/s. How high will the rocket be after 10 seconds assuming the acceleration due to gravity on the moon is 1.6 m/s^2?
+236,,Integration_and_Accumulation_of_Change,"A spherical tank is being filled with water at a rate of 10 m^3/min. If the radius of the tank is 5 meters, find the rate of change of the water level when the water depth is 4 meters."
+237,,Integration_and_Accumulation_of_Change,"A swimmer is swimming in a lake and the speed at which they are swimming at any time is given by v(t) = t^-3, where v is in m/s and t is in seconds. Find the distance traveled between t = 1 and t = 4 seconds."
+238,,Integration_and_Accumulation_of_Change,"The population of a city is growing at a rate of 2% per year. If the current population is 100,000, what will be the population after 10 years?"
+239,,Integration_and_Accumulation_of_Change,A tank has a diameter of 6 feet and a height of 8 feet. It is being filled with water at a rate of 3 cubic feet per minute. Find the time it takes for the tank to completely fill.
+240,,Integration_and_Accumulation_of_Change,"Given the equation f(x) = 3x^2 + 2x + 5, what is the definite integral for f(x) from x=0 to x=3?"
+241,,Integration_and_Accumulation_of_Change,A car is traveling at a constant speed of 60 miles per hour. How far does the car travel in 5 hours?
+242,,Integration_and_Accumulation_of_Change,What is the area under the curve y = 2x^3 + 5x^2 + 3x + 4 from x=0 to x=2?
+243,,Integration_and_Accumulation_of_Change,A store's revenue is modeled by the function R(x) = 2x^2 + 5x + 10. Find the average revenue over the interval x=1 to x=5.
+244,,Integration_and_Accumulation_of_Change,A ball is thrown into the air with an initial velocity of 15 m/s. Find the displacement of the ball after 4 seconds.
+245,,Integration_and_Accumulation_of_Change,"A tank is initially filled with 500 gallons of water. If water is being pumped into the tank at a rate of 10 gallons per minute, how much water is in the tank after 40 minutes?"
+246,,Integration_and_Accumulation_of_Change,"The rate of change of temperature of a substance is given by dT/dt = -0.5t + 2, where t is the time in minutes. Find the change in temperature after 10 minutes."
+247,,Integration_and_Accumulation_of_Change,A particle is moving along the x-axis with velocity v(t) = 2t + 4. Find the total distance traveled by the particle from t=0 to t=5.
+248,,Integration_and_Accumulation_of_Change,"The rate at which bacteria is growing in a petri dish is given by dN/dt = 0.5N, where N is the number of bacteria. If there are initially 100 bacteria, how many will there be after 3 hours?"
+249,,Integration_and_Accumulation_of_Change,A rocket is launched with an initial acceleration of 10 m/s^2. Find the displacement of the rocket after 5 seconds.
+250,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = 3x + 2 from x = 0 to x = 4
+251,,Integration_and_Accumulation_of_Change,"Given the position function s(t) = 2t^2 + 5t + 1, find the velocity function v(t)"
+252,,Integration_and_Accumulation_of_Change,"A particle moves along the x-axis with the acceleration given by a(t) = 4t + 6. If the initial velocity is 2, find the velocity function"
+253,,Integration_and_Accumulation_of_Change,"The rate of change of the population of a city is given by P'(t) = 0.04t + 1000, where t is in years. Find the total change in population over the first 5 years."
+254,,Integration_and_Accumulation_of_Change,"If the graph of f(x) has an area of 24 square units under the curve from x = 1 to x = 3, find the value of f(3) - f(1)"
+255,,Integration_and_Accumulation_of_Change,"The rate of change of a bacteria population is modeled by the equation dP/dt = 0.05P, where P represents the population. If the initial population is 100, find the population after 10 hours."
+256,,Integration_and_Accumulation_of_Change,Find the area between the curves y = x^2 and y = 2x from x = 0 to x = 4
+257,,Integration_and_Accumulation_of_Change,"A tank initially contains 200 gallons of a solution. The concentration (in lbs/gallon) of chemical in the solution at any time t is given by C(t) = 4t, where t is measured in hours. Find the total amount of chemical that has entered the tank after 5 hours."
+258,,Integration_and_Accumulation_of_Change,"If the rate of water flow into a tank is modeled by the function R(t) = 20t + 50, where t is in minutes, find the volume of water in the tank after 10 minutes, given that the tank is initially empty."
+259,,Integration_and_Accumulation_of_Change,"A company's profit function is given by P(x) = 50x - 0.5x^2, where x is the number of units sold. Find the number of units that must be sold to maximize profit."
+260,,Integration_and_Accumulation_of_Change,What is the indefinite integral of x^2 + 3x + 2?
+261,,Integration_and_Accumulation_of_Change,How do you use integration to find the area under a curve?
+262,,Integration_and_Accumulation_of_Change,Find the derivative of the integral from 0 to x of (x^2 + 3x + 2)dx.
+263,,Integration_and_Accumulation_of_Change,What is the relationship between differentiation and integration?
+264,,Integration_and_Accumulation_of_Change,How do you use integration to find the volume of a solid of revolution?
+265,,Integration_and_Accumulation_of_Change,What is the definite integral of e^x from 0 to 3?
+266,,Integration_and_Accumulation_of_Change,Find the value of the integral from 0 to ∞ of 1/(1+x^2).
+267,,Integration_and_Accumulation_of_Change,How do you use integration to find the center of mass of a region?
+268,,Integration_and_Accumulation_of_Change,What is the antiderivative of cos(x)?
+269,,Integration_and_Accumulation_of_Change,How can integration be used in physics to solve problems involving acceleration and velocity?
+270,,Integration_and_Accumulation_of_Change,"Find the definite integral, from 2 to 5, of x^2 + 3x - 4dx."
+271,,Integration_and_Accumulation_of_Change,"If f(x) = 3x^2 + 4x, then what is the indefinite integral of f(x)?"
+272,,Integration_and_Accumulation_of_Change,A particle moves along a line with velocity given by v(t) = 4t + 5. Find the displacement of the particle from t = 0 to t = 3.
+273,,Integration_and_Accumulation_of_Change,The rate at which a population is changing is given by dP/dt = 4t + 10. Find the total change in population from t = 0 to t = 5.
+274,,Integration_and_Accumulation_of_Change,"Given the function f(x) = e^x, find the definite integral from 0 to 2."
+275,,Integration_and_Accumulation_of_Change,"A tank initially contains 1000 L of water, and water is pumped in at a rate of 10 L/min. If the outflow rate is given by -0.5t + 5 L/min, what will be the volume of water in the tank after 10 minutes?"
+276,,Integration_and_Accumulation_of_Change,"If the function f(x) = x^2 + 4x + 1 represents the area under the curve between limits a and b, what are the values of a and b?"
+277,,Integration_and_Accumulation_of_Change,Find the area of the region bounded by the curves y = x^2 and y = x^3 from x = 0 to x = 2.
+278,,Integration_and_Accumulation_of_Change,"If a car is accelerating from rest with a rate of a(t) = 3t m/s^2, what is the distance traveled by the car after 5 seconds?"
+279,,Integration_and_Accumulation_of_Change,Find the volume of the solid generated by revolving the region between the x-axis and the curve y = x^2 about the y-axis.
+280,,Integration_and_Accumulation_of_Change,What is the value of the definite integral from 0 to 5 of 3x^2 dx?
+281,,Integration_and_Accumulation_of_Change,"Given the velocity function v(t) = 2t + 5, find the position function s(t) at t=3."
+282,,Integration_and_Accumulation_of_Change,An object moves with an acceleration of 2t + 3 m/s^2 and an initial velocity of 10 m/s. Find the displacement of the object after 5 seconds.
+283,,Integration_and_Accumulation_of_Change,Find the area under the curve y = x^3 + 2x^2 - 4x from x = 1 to x = 4.
+284,,Integration_and_Accumulation_of_Change,"A continuous rate of change is given by f(x) = 2x^3. If the initial condition is f(0) = 5, find the accumulation function."
+285,,Integration_and_Accumulation_of_Change,"A body starts from rest and moves with a uniform acceleration of 4 m/s^2. If the total displacement is 60 m, find the time taken."
+286,,Integration_and_Accumulation_of_Change,A particle moves along the x-axis with position given by x(t) = t^3 + 2t. Find the total displacement of the particle from t=1 to t=4.
+287,,Integration_and_Accumulation_of_Change,Suppose the acceleration of an object is given by a(t) = t + 4 and its initial position is x(0) = 3. Find the position function x(t) and evaluate it at t=3.
+288,,Integration_and_Accumulation_of_Change,"Find the average value of the function f(x) = 2x + 5 on the interval [-3, 5]."
+289,,Integration_and_Accumulation_of_Change,"A water tank is filled with water at a constant rate of 5 liters/min. If the tank initially contains 10 liters of water, how much water is in the tank after 20 minutes?"
+290,,Integration_and_Accumulation_of_Change,Find the antiderivative of x^2 + 3x.
+291,,Integration_and_Accumulation_of_Change,Evaluate the definite integral from 0 to 6 of 2x + 5.
+292,,Integration_and_Accumulation_of_Change,"Given the velocity function v(t) = 5t^2 - 3t, find the displacement function s(t)."
+293,,Integration_and_Accumulation_of_Change,"Find the average value of the function f(x) = x^3 + 2x^2 on the interval [0, 3]."
+294,,Integration_and_Accumulation_of_Change,Use the trapezoidal rule with 4 subintervals to approximate the integral from 2 to 5 of 3x^2 - 2x + 1.
+295,,Integration_and_Accumulation_of_Change,"Given the equation for a curve y = x^2 - 5x + 8, find the area between the curve and the x-axis on the interval [1, 4]."
+296,,Integration_and_Accumulation_of_Change,"If the population P(t) of a certain species is modeled by the function P(t) = 1000e^0.1t, find the total change in population from t = 0 to t = 10."
+297,,Integration_and_Accumulation_of_Change,Use integration by substitution to find the antiderivative of 2x/(x^2 + 4).
+298,,Integration_and_Accumulation_of_Change,"The function f(x) is continuous and has the property that f'(x) = x^2 + 3x. If f(2) = 4, find the value of f(5)."
+299,,Integration_and_Accumulation_of_Change,"Given the acceleration function a(t) = 9 - 4t, find the initial velocity v(0) of an object knowing that its initial position is s(0) = 10."
+300,,Integration_and_Accumulation_of_Change,What is the indefinite integral of f(x) = 3x^2 + 2x?
+301,,Integration_and_Accumulation_of_Change,Find the definite integral of g(x) = 2sinx from x=0 to x=π.
+302,,Integration_and_Accumulation_of_Change,"Given the velocity function v(t) = 10t, what is the position function s(t) when t=3 seconds?"
+303,,Integration_and_Accumulation_of_Change,Find the area bounded by the curve y = x^2 - 3x + 2 and the x-axis from x=0 to x=5.
+304,,Integration_and_Accumulation_of_Change,"If the rate of change of a population is given by P'(t) = 100 - t, what is the total change in population from t=0 to t=10 years?"
+305,,Integration_and_Accumulation_of_Change,A tank initially contains 200 liters of water and is draining at a rate of 20 liters per minute. What is the amount of water remaining after 15 minutes?
+306,,Integration_and_Accumulation_of_Change,"If the rate of rainfall is given by r(t) = 2 + t, what is the accumulated rainfall over a period of 1 to 5 hours?"
+307,,Integration_and_Accumulation_of_Change,"Find the average value of the function f(x) = x^2 - 2x on the interval x=[0,2]."
+308,,Integration_and_Accumulation_of_Change,"Given the velocity function v(t) = 4t, what is the displacement of an object from t=1 second to t=5 seconds?"
+309,,Integration_and_Accumulation_of_Change,"The rate at which the surface area of a sphere is changing with radius r is given by dS/dt = 4πr, what is the change in surface area from r=2 to r=5?"
+310,,Integration_and_Accumulation_of_Change,Find the integral of 2x + 5 from 0 to 1
+311,,Integration_and_Accumulation_of_Change,What is the area under the curve y = x^3 from x = 0 to x = 2?
+312,,Integration_and_Accumulation_of_Change,"Given the velocity function v(t)= 3t^2 + 5, find the displacement from t = 0 to t = 2"
+313,,Integration_and_Accumulation_of_Change,"A water tank has a cone-shaped bottom with a radius of 3 ft and a height of 8 ft. If water is being poured into the tank at a rate of 2 ft^3/min, how much water is in the tank after 10 minutes?"
+314,,Integration_and_Accumulation_of_Change,"The rate at which an oil slick spreads is given by the function R(t) = 2t + 1, where t is in hours and R(t) is in square feet per hour. If the slick has been spreading for 3 hours, what is the total area covered by the slick?"
+315,,Integration_and_Accumulation_of_Change,"A spring has a displacement function given by x(t) = 5cos(2t), where x is in meters and t is in seconds. What is the acceleration of the mass at t = 3 seconds?"
+316,,Integration_and_Accumulation_of_Change,Find the indefinite integral of 4/(x^2 + 9)
+317,,Integration_and_Accumulation_of_Change,"The population of a city is given by the function P(t) = 200e^(0.05t), where t is in years. How much has the population grown after 10 years?"
+318,,Integration_and_Accumulation_of_Change,"A car is traveling along a straight road with a velocity of v(t) = t^2 - t, where v is in meters per second and t is in seconds. What is the total distance traveled from t = 0 to t = 2?"
+319,,Integration_and_Accumulation_of_Change,"A radioactive substance decays at a rate proportional to its mass. If it initially has a mass of 50 grams and after 15 days, it has a mass of 25 grams, what is the half-life of the substance?"
+320,,Integration_and_Accumulation_of_Change,The velocity of a particle at time t is given by the function v(t) = 4t + 3. Find the displacement of the particle between t = 0 and t = 5.
+321,,Integration_and_Accumulation_of_Change,Find the total area between the curve y = 2x + 5 and the x-axis from x = 0 to x = 3.
+322,,Integration_and_Accumulation_of_Change,A tank initially contains 100 gallons of water and is being filled at a rate of 2 gallons per minute. How much water is in the tank after 20 minutes?
+323,,Integration_and_Accumulation_of_Change,"Determine the average value of the function f(x) = x^2 + 3x - 1 on the interval [1,5]."
+324,,Integration_and_Accumulation_of_Change,A circular plate has a radius of 4 inches and its thickness increases by 0.5 inches per second. Find the rate of change of volume of the plate after 3 seconds.
+325,,Integration_and_Accumulation_of_Change,A particle moves along the x-axis according to the position function s(t) = 3t^2 + 2t - 1. Find the total distance travelled by the particle from t = 0 to t = 4.
+326,,Integration_and_Accumulation_of_Change,A rocket is launched from a height of 300 meters with an initial velocity of 50 meters per second. How long will it take for the rocket to reach a height of 800 meters?
+327,,Integration_and_Accumulation_of_Change,"A car accelerates at a rate of 2 meters per second squared, starting from rest. Find its velocity after 5 seconds."
+328,,Integration_and_Accumulation_of_Change,Find the total work done by a force of 25 Newtons pushing a crate a distance of 10 meters along a frictionless surface.
+329,,Integration_and_Accumulation_of_Change,"Given the function g(t) = t^3 - 2t + 7, find the value of the definite integral ∫g(t) dt from t = -1 to t = 2."
+330,,Integration_and_Accumulation_of_Change,Find the integral of f(x) = 3x^2 + 2x + 7.
+331,,Integration_and_Accumulation_of_Change,Calculate the area under the curve y = 4x^2 from x = 0 to x = 2.
+332,,Integration_and_Accumulation_of_Change,Determine the volume of the solid generated by rotating the region bounded by the curves y = x^2 and y = 2x about the x-axis.
+333,,Integration_and_Accumulation_of_Change,"Find the average value of the function f(x) = x^3 on the interval [1, 5]."
+334,,Integration_and_Accumulation_of_Change,"A car is moving along a straight line with a velocity given by v(t) = 10t + 5, where t is measured in seconds. What is the total distance traveled by the car on the interval 0 ≤ t ≤ 5 seconds?"
+335,,Integration_and_Accumulation_of_Change,Calculate the work done by a force of F(x) = 2x on an object moving from x = 1 to x = 4.
+336,,Integration_and_Accumulation_of_Change,A conical tank has a height of 10 meters and a radius of 5 meters. How fast is the water level rising when the water is 5 meters deep?
+337,,Integration_and_Accumulation_of_Change,"Given the position function s(t) = 3t + 2, find the total displacement of an object between t = 0 and t = 5."
+338,,Integration_and_Accumulation_of_Change,"A particle is moving along the curve y = x^2 with a velocity of v(t) = 2t. What is the total distance traveled by the particle on the interval [0, 2] seconds?"
+339,,Integration_and_Accumulation_of_Change,An assembly line has a production rate described by P(t) = 100e^(0.2t) units per day. How many units are produced on the interval 0 ≤ t ≤ 10 days?
+340,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = x^2 + 3x from x = 0 to x = 5.
+341,,Integration_and_Accumulation_of_Change,A car is being driven with a velocity of v(t) = 20t m/s. Find the distance traveled by the car from t = 2 seconds to t = 5 seconds.
+342,,Integration_and_Accumulation_of_Change,"The rate of change of the population of a city is given by P'(t) = 2t^2 + 50t people/year. If the population of the city is 1000 people in year 2020, what will be the population in 2030?"
+343,,Integration_and_Accumulation_of_Change,Find the area bounded by the curves y = x^2 and y = 2x.
+344,,Integration_and_Accumulation_of_Change,"A water tank is being filled at a constant rate of 10 L/minute. If the tank can hold a maximum of 1000 L, how long will it take to fill the tank completely?"
+345,,Integration_and_Accumulation_of_Change,The velocity of a rocket is given by v(t) = t^2 - 5t + 10 m/s. Find the displacement of the rocket from t = 0 to t = 4 seconds.
+346,,Integration_and_Accumulation_of_Change,"The total revenue of a company in thousands of dollars is given by R(x) = 5x^2 - 10x + 50, where x is the number of units sold. Find the marginal revenue when x = 100."
+347,,Integration_and_Accumulation_of_Change,"Find the volume of the solid generated by rotating the region bounded by y = x^2, y = 4, and x = 0 about the x-axis."
+348,,Integration_and_Accumulation_of_Change,"The mass of a radioactive substance is decreasing at a rate of 5 grams per day. What is the initial mass of the substance if after 10 days, there is only 25 grams remaining?"
+349,,Integration_and_Accumulation_of_Change,"An object is moving along the x-axis with a velocity of v(t) = 2t + 1 m/s. Find the position of the object when t = 5 seconds, given that the initial position is x(0) = 3 meters."
+350,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = x^2 + 3x + 5 from x=0 to x=4.
+351,,Integration_and_Accumulation_of_Change,Use the Fundamental Theorem of Calculus to evaluate the definite integral of g(t) = 8/t^2 from t=1 to t=4.
+352,,Integration_and_Accumulation_of_Change,Find the antiderivative of h(x) = 2x^3 + 6x^2 - 4x + 5.
+353,,Integration_and_Accumulation_of_Change,Calculate the area under the curve of y = 2x + 1 from x=0 to x=5.
+354,,Integration_and_Accumulation_of_Change,Evaluate the definite integral of f(x) = 3sin(x) + 4cos(x) from x=0 to x=pi.
+355,,Integration_and_Accumulation_of_Change,Find the total change in position of an object moving with velocity v(t) = 2t + 3 from t=0 to t=5.
+356,,Integration_and_Accumulation_of_Change,Use integration to find the volume of a solid with cross-sectional area of A(x) = 3x^2 and base of length 6 from x=0 to x=4.
+357,,Integration_and_Accumulation_of_Change,Solve for the constant A if the area under the curve of y = Ax + 4 from x=0 to x=2 is equal to 15.
+358,,Integration_and_Accumulation_of_Change,A rocket is fired with an initial velocity v0 = 100m/s. Find the height of the rocket after 10 seconds using integration.
+359,,Integration_and_Accumulation_of_Change,Find the average value of f(x) = 5x^2 - 2x + 1 from x=0 to x=3.
+360,,Integration_and_Accumulation_of_Change,Find the definite integral: $\int_0^2 (3x^2 + 4)dx$
+361,,Integration_and_Accumulation_of_Change,"Given the rate of change function $f(x) = 4x^3 + 5x + 2$, find the position function $s(x)$ if $s(0) = 1$."
+362,,Integration_and_Accumulation_of_Change,Find the antiderivative of $f(x) = \frac{2}{x^2} + 4x - 3$.
+363,,Integration_and_Accumulation_of_Change,Solve the exponential growth problem: A population of bacteria doubles every 3 hours and there are initially 200 bacteria. How many bacteria will there be after 12 hours?
+364,,Integration_and_Accumulation_of_Change,"A particle's position is given by the function $s(t) = 4t^3 + 2t^2 - 5$, where $t$ is time in seconds. Find the average velocity over the interval $[1,3]$."
+365,,Integration_and_Accumulation_of_Change,"Calculate the area between the curves $y = 3x^2 + 1$ and $y = 2x^2 + 5$ in the interval $[0,2]$."
+366,,Integration_and_Accumulation_of_Change,A sphere with radius 3 cm is being filled with water at a rate of 5 cm$^3$/s. How fast is the water level rising when the radius is 1 cm?
+367,,Integration_and_Accumulation_of_Change,"A car travels at a constant velocity of 60 km/h for 2 hours, then accelerates at a rate of 10 km/h$^2$ for 3 hours, and finally travels at a constant speed of 100 km/h for 1 hour. Find the total distance traveled."
+368,,Integration_and_Accumulation_of_Change,"Using the product rule for integration, evaluate $\int x^3\cos x dx$."
+369,,Integration_and_Accumulation_of_Change,"A cylinder has a radius of 5 cm and a height of 10 cm. Water flows into the cylinder at a rate of 3 cm$^3$/s. After 2 minutes, half of the cylinder is filled. What is the volume of the cylinder?"
+370,,Integration_and_Accumulation_of_Change,What is the integral of 2x?
+371,,Integration_and_Accumulation_of_Change,"Find the total area under the curve y = x^2, bounded by x = 0 and x = 3."
+372,,Integration_and_Accumulation_of_Change,What is the definite integral of cos(x) from 0 to pi?
+373,,Integration_and_Accumulation_of_Change,Calculate the integral of 1/(1+x) from x = 0 to x = 5.
+374,,Integration_and_Accumulation_of_Change,"Find the volume of the solid generated by rotating the region bounded by y = x^2, x = 0, and x = 2 about the x-axis."
+375,,Integration_and_Accumulation_of_Change,"What is the average value of f(x) = 2x + 3 on the interval [1,5]?"
+376,,Integration_and_Accumulation_of_Change,Evaluate the improper integral of e^(-x) from x = 0 to x = infinity.
+377,,Integration_and_Accumulation_of_Change,"Find the total displacement of an object with a velocity of 4t and starting at position 3m, after 3 seconds."
+378,,Integration_and_Accumulation_of_Change,"Calculate the work done by a force F(x) = 3x on the interval [0,10] using integration."
+379,,Integration_and_Accumulation_of_Change,"If the rate of change of a population is given by dP/dt = 2t, what will the population be after 5 years if the initial population is 100?"
+380,,Integration_and_Accumulation_of_Change,Evaluate the definite integral ∫ 4x^3 + 2x - 5 dx from 0 to 2.
+381,,Integration_and_Accumulation_of_Change,Find the indefinite integral ∫(3x^2 + 5x) dx.
+382,,Integration_and_Accumulation_of_Change,"Calculate the area under the curve y = x^2 + 2x on the interval [1, 4]."
+383,,Integration_and_Accumulation_of_Change,What is the total accumulated change in position of an object moving at a velocity of 6 meters per second for 10 seconds?
+384,,Integration_and_Accumulation_of_Change,"Determine the average value of the function f(x) = 2x^3 + 4x^2 - 7x + 1 on the interval [-2, 2]."
+385,,Integration_and_Accumulation_of_Change,A tank initially holds 100 liters of water and is being filled at a rate of 5 liters per minute. How much water will be in the tank after 30 minutes?
+386,,Integration_and_Accumulation_of_Change,"For the function f(x) = 2/x, find the derivative of the definite integral ∫2to3 f(t) dt with respect to x."
+387,,Integration_and_Accumulation_of_Change,"If the rate of change of a function is given by f '(x) = e^x, what is the total accumulated change in the function from x = 1 to x = 5?"
+388,,Integration_and_Accumulation_of_Change,A ball is thrown into the air with a velocity of 30 m/s. Find the total distance traveled by the ball before it hits the ground.
+389,,Integration_and_Accumulation_of_Change,"Given that the derivative of a function f(x) is f '(x) = x^2 + 2x, what is the value of f(x) at x = 2, if f(0) = 5?"
+390,,Integration_and_Accumulation_of_Change,Find the area under the curve y=x^2 from x=0 to x=2 using integration.
+391,,Integration_and_Accumulation_of_Change,What is the accumulated area between the curves y=x and y=x^2 from x=0 to x=3?
+392,,Integration_and_Accumulation_of_Change,Calculate the integral of cos(x) with respect to x from x=0 to x=π.
+393,,Integration_and_Accumulation_of_Change,How many square units are enclosed by the curves y=2x and y=x^2 from x=0 to x=4?
+394,,Integration_and_Accumulation_of_Change,Determine the antiderivative of f(x) = 3x^2 + 5x - 2.
+395,,Integration_and_Accumulation_of_Change,"Given the function f(x) = 2x + 1, what is the area under the curve from x=0 to x=5?"
+396,,Integration_and_Accumulation_of_Change,"Find the average value of f(x) = 3x^2 - 2x + 1 over the interval [0, 2]."
+397,,Integration_and_Accumulation_of_Change,What is the net change of the position function s(t) = t^2 - 3t + 1 from t=0 to t=5?
+398,,Integration_and_Accumulation_of_Change,Calculate the integral of ln(x) with respect to x.
+399,,Integration_and_Accumulation_of_Change,"If the rate of rainfall is f(t) = 2t liters per hour, what is the total amount of rain accumulated between t=0 and t=6 hours?"
+400,,Integration_and_Accumulation_of_Change,Find the indefinite integral of f(x) = 3x^2 + 4x + 2.
+401,,Integration_and_Accumulation_of_Change,"Evaluate the definite integral of g(x) = 2x^3 - 5x^2 + 3x, from x=1 to x=5."
+402,,Integration_and_Accumulation_of_Change,Use the fundamental theorem of calculus to find the derivative of h(x) = ∫x^2cos(x)dx.
+403,,Integration_and_Accumulation_of_Change,A particle moves along a straight line with velocity v(t) = 3t^2 - 4t + 5. Find the displacement of the particle from t=1 to t=4.
+404,,Integration_and_Accumulation_of_Change,The net force acting on a mass of 2 kg is given by F(x) = x^2 + 2x - 3. Find the work done in moving the mass from x=1 to x=4.
+405,,Integration_and_Accumulation_of_Change,"Find the average value of the function f(x) = 2x^2 + 3x + 1 on the interval [0, 5]."
+406,,Integration_and_Accumulation_of_Change,"The rate of change of water level in a tank is given by dV/dt = 4t - 2. If the initial volume of water is 10 liters, find the water level after 5 seconds."
+407,,Integration_and_Accumulation_of_Change,A spring has a natural length of 10 cm and a force constant of 8 N/cm. Find the work done in stretching the spring from 10 cm to 20 cm.
+408,,Integration_and_Accumulation_of_Change,Use integration to find the area enclosed by the curves y = x^2 and y = 2x^2 - 1.
+409,,Integration_and_Accumulation_of_Change,"The concentration of a chemical in a solution is given by C(t) = 4/t + 3t. Find the total amount of the chemical in the solution over the interval [1, 4]."
+410,,Integration_and_Accumulation_of_Change,"Given the function f(x) = 3x^2, find the definite integral of f(x) from 2 to 5."
+411,,Integration_and_Accumulation_of_Change,Find the area under the curve y = 2x + 1 from x = 0 to x = 4.
+412,,Integration_and_Accumulation_of_Change,Calculate the definite integral of f(x) = sin(x) from 0 to π/2.
+413,,Integration_and_Accumulation_of_Change,"A particle moves along a straight line with a velocity of v(t) = 4t + 2 at time t, starting at t = 0. Find the total displacement of the particle from t = 0 to t = 3."
+414,,Integration_and_Accumulation_of_Change,Find the volume of the solid generated when the region bounded by y = x^2 and y = 4x in the first quadrant is revolved around the y-axis.
+415,,Integration_and_Accumulation_of_Change,"The velocity of a car is given by v(t) = 6t^2 + 2t - 5, where t is time in seconds. Find the total distance traveled by the car from t = 0 to t = 5 seconds."
+416,,Integration_and_Accumulation_of_Change,"A tank initially contains 20 liters of water. Water enters the tank at a rate of r(t) = 3t liters per minute, where t is time in minutes. Find the volume of water in the tank after 10 minutes."
+417,,Integration_and_Accumulation_of_Change,A particle moves along the x-axis with a velocity given by v(t) = t^2 - 3t + 2. Find the acceleration of the particle at t = 2.
+418,,Integration_and_Accumulation_of_Change,"Find the area of the region bounded by y = x^2, x = 0, and x = 2 using the left endpoint Riemann sum with n = 4."
+419,,Integration_and_Accumulation_of_Change,"The marginal cost of producing x units of a product is given by C'(x) = 2x + 3. If the total cost of producing 10 units is $500, find the total cost of producing 20 units."
+420,,Integration_and_Accumulation_of_Change,Find the indefinite integral of f(x) = 3x^2 + 5x - 2.
+421,,Integration_and_Accumulation_of_Change,"If the velocity of a car is given by v(t) = t^2 + 5t - 3, what is the displacement of the car from t = 0 to t = 5?"
+422,,Integration_and_Accumulation_of_Change,Evaluate the definite integral ∫x^2 dx from x = -2 to x = 2.
+423,,Integration_and_Accumulation_of_Change,"A tank is being filled with water at a constant rate of 5 gallons per minute. If the tank holds 500 gallons of water when full, how much water is in the tank after 10 minutes?"
+424,,Integration_and_Accumulation_of_Change,"Given the function g(x) = (x^3 + 2x + 1)/x^2, find the derivative of g(x)."
+425,,Integration_and_Accumulation_of_Change,A ball is thrown vertically upward with an initial velocity of 60 ft/s. How long does it take for the ball to reach a height of 100 feet?
+426,,Integration_and_Accumulation_of_Change,"A company's monthly revenue, in thousands of dollars, is given by R(x) = 3x^2 + 10x, where x is the number of units sold. What is the company's average revenue per unit?"
+427,,Integration_and_Accumulation_of_Change,Find the area bounded by the curves y = x^2 and y = x.
+428,,Integration_and_Accumulation_of_Change,A particle moves along the x-axis with velocity v(t) = t^2 + 2t - 3. What is the acceleration of the particle after 5 seconds?
+429,,Integration_and_Accumulation_of_Change,"A cylinder has a height of 10 inches and a radius of 5 inches. If the height of the liquid inside is changing at a rate of 2 inches per minute, at what rate is the volume of the liquid changing when the height is 8 inches?"
+430,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = x^2 + 3x + 5 from x = 1 to x = 4.
+431,,Integration_and_Accumulation_of_Change,A tank is being filled with water at a rate of 0.5 gallons per minute. Find the total amount of water in the tank at the end of 30 minutes.
+432,,Integration_and_Accumulation_of_Change,A car is traveling at a velocity of v(t) = 20t mph for t seconds. Find the total distance traveled by the car in the first 5 seconds.
+433,,Integration_and_Accumulation_of_Change,"A population of rabbits increases at a rate of dP/dt = 60t + 100, where t is in years. Find the total change in population after 3 years."
+434,,Integration_and_Accumulation_of_Change,A spherical balloon is being inflated at a rate of 2 cm^3/s. How fast is the surface area of the balloon increasing when the radius is 5 cm?
+435,,Integration_and_Accumulation_of_Change,An object is moving on a straight line with a velocity of v(t) = 4t m/s. Find the displacement of the object from t = 1 to t = 4 seconds.
+436,,Integration_and_Accumulation_of_Change,A curve has the equation y = 2x^3 + 4x^2. Find the area between the curve and the x-axis from x = -1 to x = 2.
+437,,Integration_and_Accumulation_of_Change,"The concentration of a drug in a person's blood is given by c(t) = 2t^2 + 4t ng/mL, where t is in hours since the drug was taken. Find the amount of the drug in the person's system after 6 hours."
+438,,Integration_and_Accumulation_of_Change,A particle is moving along the curve y = x^2 with a constant speed of 2 m/s. Find the total distance traveled by the particle when x goes from 0 to 5.
+439,,Integration_and_Accumulation_of_Change,The force on an object is given by F(t) = 5t N. Find the total work done on the object from t = 0 to t = 3 seconds.
+440,,Integration_and_Accumulation_of_Change,Find the integral of 3x^2 + 5x + 10 with respect to x.
+441,,Integration_and_Accumulation_of_Change,Evaluate the integral of sin(x) from 0 to pi/2.
+442,,Integration_and_Accumulation_of_Change,Use the Fundamental Theorem of Calculus to determine the derivative of the integral of x^3 from 1 to t.
+443,,Integration_and_Accumulation_of_Change,Find the accumulated value of $5000 invested at a continuous interest rate of 7% for 6 years.
+444,,Integration_and_Accumulation_of_Change,What is the total area under the curve y = x^2 + 3x + 2 from x = 0 to x = 5?
+445,,Integration_and_Accumulation_of_Change,A car is accelerating at a constant rate of 5 m/s^2. Find the displacement of the car from t = 0 to t = 6 seconds.
+446,,Integration_and_Accumulation_of_Change,Calculate the average value of the function f(x) = x^2 + 3 from x = 2 to x = 5.
+447,,Integration_and_Accumulation_of_Change,A particle moves along the x-axis according to the position function x(t) = 2t^3 - 3t^2 + 6t. Find the total distance traveled from t = 0 to t = 5.
+448,,Integration_and_Accumulation_of_Change,Find the total work done by a force of 10 Newtons in moving an object along a straight line from x = 2 to x = 7.
+449,,Integration_and_Accumulation_of_Change,"A tank initially contains 100 liters of water. Water is pumped into the tank at a rate of 5 liters/minute, and the tank is draining at a rate of 3 liters/minute. How many liters of water are in the tank after 20 minutes?"
+450,,Integration_and_Accumulation_of_Change,"What is the value of ∫(3x^2)dx, evaluated from x = 0 to x = 5?"
+451,,Integration_and_Accumulation_of_Change,"Find the area under the curve y = 4x + 2, bounded by x = 0 and x = 4."
+452,,Integration_and_Accumulation_of_Change,"Evaluate the integral ∫(5t + 2)dt, with respect to t, from t = 1 to t = 3."
+453,,Integration_and_Accumulation_of_Change,"Find the total displacement of an object with velocity v(t) = 2t + 5, over the time interval t = 0 to t = 4."
+454,,Integration_and_Accumulation_of_Change,"Determine the value of ∫(x^2 + 3x + 1)dx, evaluated from x = 1 to x = 5."
+455,,Integration_and_Accumulation_of_Change,"A function f(x) has a derivative of f'(x) = cos(x). Find the value of ∫f(x)dx, evaluated from x = 0 to x = π."
+456,,Integration_and_Accumulation_of_Change,A car travels at a constant speed of 60 mph. Find the distance traveled after 4 hours.
+457,,Integration_and_Accumulation_of_Change,"The rate of change in a population of bacteria is given by the equation dp/dt = ke^(-kt), where p is the population and k is a constant. How many bacteria are present after 6 hours, if the initial population is 1000?"
+458,,Integration_and_Accumulation_of_Change,Find the volume of a solid created by rotating the region bounded by the curves y = x^2 and y = 4 about the x-axis.
+459,,Integration_and_Accumulation_of_Change,An object's acceleration is given by the function a(t) = 2 + 6t. Find the total change in velocity over the time interval t = 0 to t = 5.
+460,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = 2x + 5 from x=0 to x=4.
+461,,Integration_and_Accumulation_of_Change,Calculate the area between the curve y = x^2 + 3x and the x-axis using integration.
+462,,Integration_and_Accumulation_of_Change,"What is the total work done by a force of 5N acting on an object over a distance of 10m, represented by the integral of F(x)dx?"
+463,,Integration_and_Accumulation_of_Change,A particle moves horizontally with a velocity given by v(t) = 3t^2. Find its displacement over the time interval t=2 to t=5 using integration.
+464,,Integration_and_Accumulation_of_Change,Find the volume of the solid generated by rotating the region bounded by y = x^2 and the y-axis about the x-axis using the disk method.
+465,,Integration_and_Accumulation_of_Change,"A tank is being filled at a rate of 4 liters per minute. What is the total amount of water in the tank after 10 minutes, represented by the accumulation function?"
+466,,Integration_and_Accumulation_of_Change,"Using integration, derive the formula for the arc length of a curve y = f(x) between x=a and x=b."
+467,,Integration_and_Accumulation_of_Change,"If the current in a circuit is given by I(t) = 3t + 2, find the charge passed through the circuit over the time interval t=0 to t=5 using integration."
+468,,Integration_and_Accumulation_of_Change,"Given the velocity function v(t) = 5t + 2, find the acceleration function a(t) and calculate the total acceleration over the interval t=2 to t=6 using integration."
+469,,Integration_and_Accumulation_of_Change,"Find the center of mass of a thin plate with density function ρ(x,y) = x^2 + 2y, using the double integral for mass and the formula x = ∫(xdm)/M where M is the total mass."
+470,,Integration_and_Accumulation_of_Change,Find the indefinite integral of f(x) = 2x + 1
+471,,Integration_and_Accumulation_of_Change,Evaluate the definite integral of g(x) = x^2 from x = 0 to x = 5
+472,,Integration_and_Accumulation_of_Change,"Calculate the average value of h(x) = 3x^2 + 4x - 2 on the interval [1, 4]"
+473,,Integration_and_Accumulation_of_Change,Use integration to determine the area bounded by the curves f(x) = x^2 and g(x) = 2x - 3
+474,,Integration_and_Accumulation_of_Change,"Find the volume of the solid generated when the region bounded by y = x, y = 0, and x = 3 is rotated about the x-axis"
+475,,Integration_and_Accumulation_of_Change,Use the Fundamental Theorem of Calculus to find the derivative of the function F(x) = ∫x^3 sin(t) dt
+476,,Integration_and_Accumulation_of_Change,Verify the continuity of a piecewise function using integration
+477,,Integration_and_Accumulation_of_Change,A tank is being filled with water at a rate of 5 liters per minute. How much water is in the tank after 10 minutes?
+478,,Integration_and_Accumulation_of_Change,Find the work done by a force of 10 N pushing an object at a constant velocity of 3 m/s for 5 seconds
+479,,Integration_and_Accumulation_of_Change,A particle moves along the x-axis according to the equation x(t) = 3t^2 - 2t + 1. Find the distance traveled by the particle from t = 0 to t = 5.
+480,,Integration_and_Accumulation_of_Change,1. Find the definite integral of f(x) = 3x^2 + 5x from x = 1 to x = 5.
+481,,Integration_and_Accumulation_of_Change,2. Calculate the area under the curve y = x^2 + 2x + 3 between x = 0 and x = 4.
+482,,Integration_and_Accumulation_of_Change,3. Evaluate the definite integral ∫x(cosx)dx from x = 0 to x = π.
+483,,Integration_and_Accumulation_of_Change,4. Determine the total displacement of an object with velocity given by v(t) = 5t - 2 from t = 0 to t = 3.
+484,,Integration_and_Accumulation_of_Change,5. A car is accelerating at a rate of 2 m/s^2. Find the distance traveled after 5 seconds starting from rest.
+485,,Integration_and_Accumulation_of_Change,6. A tank is being filled with water at a rate of 2 m^3/min. How much water is in the tank after 10 minutes if it was initially empty?
+486,,Integration_and_Accumulation_of_Change,7. Find the work done by a force of F(x) = x^2 + 3x + 1 N moving an object 5 meters.
+487,,Integration_and_Accumulation_of_Change,"8. The population of a city is growing at a rate of 1% per year. What will the population be after 10 years if it is currently 100,000?"
+488,,Integration_and_Accumulation_of_Change,9. A particle is moving with position function s(t) = 2t^3 - t^2 + 4t - 5. Find the total distance traveled from t = 0 to t = 5.
+489,,Integration_and_Accumulation_of_Change,10. A bucket is being lifted from a 10 meter deep well at a rate of 1 m/min. How much work is required to fully lift the bucket?
+490,,Integration_and_Accumulation_of_Change,What is the area under the curve y = 2x^2 + 3x + 1 from x = 1 to x = 5?
+491,,Integration_and_Accumulation_of_Change,Find the indefinite integral of f(x) = 3x^2 - 4x.
+492,,Integration_and_Accumulation_of_Change,Determine the volume of a sphere with radius r using integration.
+493,,Integration_and_Accumulation_of_Change,"If the velocity of an object at time t is given by v(t) = 3t^2 + 4, what is the displacement of the object from t = 2 to t = 5?"
+494,,Integration_and_Accumulation_of_Change,"A company's profit function is given by P(x) = 1000 - 2x^2, where x represents the number of units sold. What is the maximum profit that can be earned?"
+495,,Integration_and_Accumulation_of_Change,Find the total distance traveled by a particle moving along the x-axis with velocity v(t) = 6t - t^2 from t = 0 to t = 5.
+496,,Integration_and_Accumulation_of_Change,"Determine the average value of the function f(x) = x^2 + 3 on the interval [0, 5]."
+497,,Integration_and_Accumulation_of_Change,"A tank initially contains 1000 liters of a solution with concentration 4 kg/L. If the solution is being drained at a rate of 10 liters per minute, how long will it take for the concentration to reach 2 kg/L?"
+498,,Integration_and_Accumulation_of_Change,Find the work done by a force of 10 N moving an object along a straight line from x = 2 to x = 5.
+499,,Integration_and_Accumulation_of_Change,"The density of a rod in centimeters is given by ρ(x) = 2x + 5, where x represents the distance from one end of the rod in centimeters. What is the mass of the rod if it is 50 cm long?"
+500,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = 3x^2 from x=0 to x=2.
+501,,Integration_and_Accumulation_of_Change,"Determine the accumulated value of an investment that earns 6% interest annually for 5 years, if the initial investment is $10,000."
+502,,Integration_and_Accumulation_of_Change,A car is traveling with a velocity of v(t) = 30t km/h. What is the total distance traveled by the car in 5 hours?
+503,,Integration_and_Accumulation_of_Change,Find the area under the curve of f(x) = (x^2 + 3x + 2) between x=0 and x=4.
+504,,Integration_and_Accumulation_of_Change,The temperature of a room is increasing at a rate of 5 degrees per hour. How much will the temperature increase in 6 hours?
+505,,Integration_and_Accumulation_of_Change,"Determine the volume of a sphere with radius r, using the formula V = (4/3)πr^3."
+506,,Integration_and_Accumulation_of_Change,"The rate of change of the volume of a balloon is given by dV/dt = 4πr^2, where r is the radius of the balloon. If the radius is increasing at a rate of 2 cm/s, find the rate of change of the volume when r = 5 cm."
+507,,Integration_and_Accumulation_of_Change,"A company's revenue is given by R(t) = 5000t + 20t^2, where t is the number of months. Find the total increase in revenue over the first 6 months."
+508,,Integration_and_Accumulation_of_Change,"A tank initially contains 5000 gallons of water and is being filled at a rate of 50 gallons per minute. After 10 minutes, water is being drained from the tank at a rate of 30 gallons per minute. How much water is in the tank after 20 minutes?"
+509,,Integration_and_Accumulation_of_Change,"The rate of change of the angle of elevation of a kite is given by dθ/dt = 0.2πt, where t is the time in minutes. If the kite starts at an angle of 0 degrees, find the angle of elevation after 12 minutes."
+510,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = 3x^2 + 2x - 5 from x = 1 to x = 5.
+511,,Integration_and_Accumulation_of_Change,Evaluate the indefinite integral of g(x) = cos(x) + 2x.
+512,,Integration_and_Accumulation_of_Change,A tank is being filled with water at a rate of 5 gallons per minute. How much water will be in the tank after 30 minutes if it was empty to start with?
+513,,Integration_and_Accumulation_of_Change,"The velocity of an object is given by v(t) = 9t – 5, where t is in seconds. Find the distance traveled by the object from t = 0 to t = 6 seconds."
+514,,Integration_and_Accumulation_of_Change,"A car is traveling along a straight road with a velocity given by v(t) = t^2 – 2t – 6, where t is in seconds. What is the net change in position of the car from t = 5 to t = 8 seconds?"
+515,,Integration_and_Accumulation_of_Change,Find the area between the curve y = x^3 and the x-axis from x = 1 to x = 4.
+516,,Integration_and_Accumulation_of_Change,"A force of 10N is applied to a mass of 5kg for 2 seconds, initially at rest. Find the final velocity of the mass."
+517,,Integration_and_Accumulation_of_Change,An object is subjected to a resistive force of 4x – 5 N and an initial velocity of 10 m/s. Find the distance the object travels in 5 seconds.
+518,,Integration_and_Accumulation_of_Change,The volume of a cone increases at a rate of 20 cm^3/s. How fast is the height of the cone increasing when the radius is 4 cm and the volume is 200π cm^3?
+519,,Integration_and_Accumulation_of_Change,"The acceleration of a particle is given by a(t) = 2t + 3, where t is in seconds. Find the displacement of the particle from t = 1 to t = 4 seconds if its initial velocity is 5 m/s."
+520,,Integration_and_Accumulation_of_Change,What is the definite integral of x^2 from 0 to 5?
+521,,Integration_and_Accumulation_of_Change,Find the antiderivative of 3x^2 + 2x + 1.
+522,,Integration_and_Accumulation_of_Change,"If a car is traveling at a rate of 60 mph, how far will it travel in 2 hours?"
+523,,Integration_and_Accumulation_of_Change,Evaluate the definite integral of 1/x from 1 to e.
+524,,Integration_and_Accumulation_of_Change,What is the derivative of the function f(x) = 4x^3 + 6x^2 + 2x?
+525,,Integration_and_Accumulation_of_Change,"A water tank has a height of 10 meters. If the water level is rising at a rate of 2 meters per hour, how much water is being added to the tank in 3 hours?"
+526,,Integration_and_Accumulation_of_Change,Find the area bounded by the functions f(x) = x^2 - 4x + 5 and g(x) = 2x + 1 from x = 0 to x = 3.
+527,,Integration_and_Accumulation_of_Change,"If the velocity of an object is given by v(t) = 2t + 3, what is the total distance traveled from t = 0 to t = 5?"
+528,,Integration_and_Accumulation_of_Change,Evaluate the indefinite integral of e^x.
+529,,Integration_and_Accumulation_of_Change,"A population of bacteria doubles every hour. If there are initially 100 bacteria, how many will there be after 6 hours?"
+530,,Integration_and_Accumulation_of_Change,"Find the definite integral: ∫(x^2 + 4x)dx, from x = 1 to x = 5"
+531,,Integration_and_Accumulation_of_Change,"If a position function is given by s(t) = 5t + 2, what is the total distance traveled by the object from t = 0 to t = 2?"
+532,,Integration_and_Accumulation_of_Change,"Solve the initial value problem: dy/dx = 2x, y(2) = 1"
+533,,Integration_and_Accumulation_of_Change,"What is the net change in velocity of an object given by v(t) = t^2 + 3t, between t = 2 and t = 5?"
+534,,Integration_and_Accumulation_of_Change,"Evaluate the definite integral: ∫(4x^3 - 9x)dx, from x = 0 to x = 3"
+535,,Integration_and_Accumulation_of_Change,"Find the rate of change of the area of a circle with respect to its radius, when the radius is 4 cm."
+536,,Integration_and_Accumulation_of_Change,"If the rate of water flow in a pipe is given by f(t) = t^2, what is the total amount of water that has flowed after 5 seconds?"
+537,,Integration_and_Accumulation_of_Change,Use integration by parts to evaluate: ∫x cos(x)dx
+538,,Integration_and_Accumulation_of_Change,"The acceleration of a particle is given by a(t) = 6t + 2. If the initial velocity of the particle is 3 m/s, what is the particle's velocity at t = 5 seconds?"
+539,,Integration_and_Accumulation_of_Change,Find the average value of f(x) = x^2 from x = 0 to x = 2.
+540,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = 2x^2 + 3x - 5 from x = 1 to x = 5.
+541,,Integration_and_Accumulation_of_Change,Evaluate the indefinite integral of g(x) = sqrt(4x + 3) + 2x.
+542,,Integration_and_Accumulation_of_Change,"Calculate the average value of h(x) = sin(2x) on the interval [0, π/2]."
+543,,Integration_and_Accumulation_of_Change,"Use integration to find the area bounded by the curve y = x^3, the x-axis, and the lines x = 0 and x = 2."
+544,,Integration_and_Accumulation_of_Change,"Find the total distance traveled by an object moving with velocity v(t) = t^2 - 3t + 2 over the time interval [1, 4]."
+545,,Integration_and_Accumulation_of_Change,"The rate of change of a function f(x) is given by the function g(x) = 2x + 1. If f(2) = 5, what is the value of f(4)?"
+546,,Integration_and_Accumulation_of_Change,"Determine the equation for the line tangent to the curve y = 2x^2 + 4x - 3 at the point (1, 3)."
+547,,Integration_and_Accumulation_of_Change,A ball is dropped from a height of 100 meters. How much work is done by gravity on the ball by the time it hits the ground?
+548,,Integration_and_Accumulation_of_Change,"A population of bacteria grows at a rate of 1000(1+t)^2, where t is the time in minutes. How many bacteria are present after 5 minutes?"
+549,,Integration_and_Accumulation_of_Change,A car is accelerating at a rate of 5 m/s^2. How far does it travel in the first 10 seconds?
+550,,Integration_and_Accumulation_of_Change,"What is the area under the curve f(x) = x^2 on the interval [0, 5]?"
+551,,Integration_and_Accumulation_of_Change,How can we use integration to determine the volume of a cone with a radius of 4 and a height of 10?
+552,,Integration_and_Accumulation_of_Change,Find the indefinite integral of f(x) = 3x^3 + 2x^2 - 5x + 1.
+553,,Integration_and_Accumulation_of_Change,A car is accelerating at a rate of 3 m/s^2. Find the distance traveled in 5 seconds starting from rest.
+554,,Integration_and_Accumulation_of_Change,"If the rate of change of bacteria in a petri dish is given by f(t) = 2t, what is the total number of bacteria after 8 hours?"
+555,,Integration_and_Accumulation_of_Change,What is the work done by a force of 10 N pushing a box a distance of 5 meters using integration?
+556,,Integration_and_Accumulation_of_Change,"Find the average value of f(x) = 2x^2 + 3x - 1 on the interval [-1, 1]."
+557,,Integration_and_Accumulation_of_Change,"If the velocity of an object is given by the equation v(t) = 3t^2, what is the displacement of the object after 6 seconds?"
+558,,Integration_and_Accumulation_of_Change,A swimming pool is being filled at a constant rate of 10 gallons per minute. How many gallons of water will be in the pool after 2 hours?
+559,,Integration_and_Accumulation_of_Change,"By integrating the function f(x) = 2/x, find the equation for a line tangent to the curve at the point (1,2)."
+560,,Integration_and_Accumulation_of_Change,"Find the definite integral of the function f(x) = 3x^2 + 2x over the interval [1,4]."
+561,,Integration_and_Accumulation_of_Change,Calculate the area under the curve y = 4x^3 + 2x between x = 0 and x = 5 using integration.
+562,,Integration_and_Accumulation_of_Change,"Given the velocity function v(t) = 2t + 5, what is the displacement of an object between t = 0 and t = 3?"
+563,,Integration_and_Accumulation_of_Change,"Find the definite integral of the function g(x) = 6x^4 + 2x^2 - 5x over the interval [2,5]."
+564,,Integration_and_Accumulation_of_Change,"A tank initially has 500 liters of water. If water is being added at a rate of 10 liters per minute, find the total amount of water after 30 minutes."
+565,,Integration_and_Accumulation_of_Change,"The rate of radioactive decay of a substance is modeled by the function f(t) = 100e^(-0.02t), where t is measured in hours. Find the amount of decay over the interval [3,6]."
+566,,Integration_and_Accumulation_of_Change,"A car is traveling at a constant acceleration of 3 m/s^2. If it starts at a speed of 10 m/s, what is its velocity after 5 seconds?"
+567,,Integration_and_Accumulation_of_Change,"Find the integral of the rate of change of a population function given by P'(t) = 0.02P(t) + 100, with an initial population of 1000."
+568,,Integration_and_Accumulation_of_Change,"The marginal cost of producing x units of a product is given by C'(x) = 1/x + 5. If the fixed cost is $500, find the total cost of producing 100 units."
+569,,Integration_and_Accumulation_of_Change,A particle moves along the x-axis with a position function s(t) = e^t + 2t. What is its average velocity between t = 2 and t = 5?
+570,,Integration_and_Accumulation_of_Change,Find the definite integral ∫_0^π (4sin(x) + 2x)dx
+571,,Integration_and_Accumulation_of_Change,"Given the graph of f(x), find the area bounded by the curve, the x-axis, and the vertical lines x=0 and x=5."
+572,,Integration_and_Accumulation_of_Change,Use integration to find the volume of a cone with height 6 and base radius 4.
+573,,Integration_and_Accumulation_of_Change,A car travels with a velocity of v(t) = 20t^2 m/s for t seconds. Find the total distance traveled in the first 3 seconds.
+574,,Integration_and_Accumulation_of_Change,A cylindrical tank is filling with water at a rate of 1000 cubic meters per hour. Find the amount of water in the tank after 2 hours.
+575,,Integration_and_Accumulation_of_Change,A particle moves along a line with a position function s(t) = t^2 - 3t. Find the total displacement of the particle from t=1 to t=5.
+576,,Integration_and_Accumulation_of_Change,"If the rate of change of a function is 6t + 8, with initial condition f(1) = 4, find the integral of the function from t=1 to t=5."
+577,,Integration_and_Accumulation_of_Change,"Given the rate of change of a function is given by f'(t) = 2t, with initial condition f(0) = 5, find the value of f(5)."
+578,,Integration_and_Accumulation_of_Change,"A company's revenue R in dollars is given by R(x) = 100x - 2x^2, where x is the number of items sold. Find the marginal revenue when x=10."
+579,,Integration_and_Accumulation_of_Change,A baseball is hit with a velocity of 30m/s at an angle of 45 degrees. Find the maximum height reached by the ball and the total horizontal distance traveled.
+580,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = x^2 + 3x + 5 from x = 0 to x = 2.
+581,,Integration_and_Accumulation_of_Change,Evaluate the indefinite integral of g(x) = 3x + cos(x) + e^x.
+582,,Integration_and_Accumulation_of_Change,"A car's velocity function is given by v(t) = 5t^2 + 4t, where t is measured in seconds and v(t) is measured in meters per second. Find the total distance traveled by the car from t = 0 to t = 3 seconds."
+583,,Integration_and_Accumulation_of_Change,A tank is empty at t = 0 and is being filled with water at a constant rate of 2 liters per second. Write an expression for the volume of water in the tank after t seconds and calculate the amount of water in the tank after 5 seconds.
+584,,Integration_and_Accumulation_of_Change,A ball is thrown upward with an initial velocity of 20 m/s. Write an equation for the ball's height after t seconds and use integration to find the time it takes for the ball to reach maximum height.
+585,,Integration_and_Accumulation_of_Change,"A company's revenue from selling a product is given by R = 200q - 4q^2, where q is the quantity sold. Find the total profit made from selling 10 units of the product."
+586,,Integration_and_Accumulation_of_Change,"A flower garden has a rate of growth given by r(t) = 3t^2 + 5t, where t is measured in weeks and r(t) is measured in centimeters. What is the total increase in height of the flowers after 4 weeks?"
+587,,Integration_and_Accumulation_of_Change,"The rate of change of velocity of a particle is given by a(t) = t^2 + 4t, where t is measured in seconds. If the particle has an initial velocity of 6 m/s, find its velocity after 4 seconds."
+588,,Integration_and_Accumulation_of_Change,"A population of bacteria follows the logistic growth model given by P(t) = 1000 / (1 + 9e^(-2t)), where t is measured in hours. How many bacteria will there be after 6 hours?"
+589,,Integration_and_Accumulation_of_Change,"A rocket's acceleration is given by a(t) = 50t - 10, where t is measured in seconds and a(t) is measured in meters per second squared. Find the total velocity of the rocket from t = 0 to t = 8 seconds."
+590,,Integration_and_Accumulation_of_Change,1. What is the integral of 2x + 3 from x=0 to x=5?
+591,,Integration_and_Accumulation_of_Change,Find the area under the curve y = x^2 from x=0 to x=3.
+592,,Integration_and_Accumulation_of_Change,What is the total displacement of an object with velocity v(t) = 4t + 3 from t=0 to t=10?
+593,,Integration_and_Accumulation_of_Change,Evaluate the definite integral ∫_2^4 3x^2 - 2x + 5 dx
+594,,Integration_and_Accumulation_of_Change,A grocery store sells 50 bags of apples per week. What is the total number of apples sold in a month?
+595,,Integration_and_Accumulation_of_Change,"Given the rate of water flow in a pipe, what is the total volume of water that will flow through the pipe in 10 minutes?"
+596,,Integration_and_Accumulation_of_Change,Find the accumulated value of an investment of $1000 with an annual interest rate of 5% over a period of 10 years.
+597,,Integration_and_Accumulation_of_Change,The population of a city increases at a rate of 2% per year. What is the total increase in population over a span of 20 years?
+598,,Integration_and_Accumulation_of_Change,A car accelerates from 0 to 60 mph in 5 seconds. What is the total distance traveled during this time?
+599,,Integration_and_Accumulation_of_Change,A rocket's velocity changes according to the equation v(t) = 9.8t - 4.9t^2. What is the total distance traveled by the rocket during the first 10 seconds of its flight?
+600,,Integration_and_Accumulation_of_Change,Evaluate the definite integral: ∫ (2x + 3) dx from x = 0 to 5
+601,,Integration_and_Accumulation_of_Change,Find the antiderivative of f(x) = 2x^3 + 4x^2 + 3x
+602,,Integration_and_Accumulation_of_Change,Determine the area bounded by the curves y = 3x^2 and y = 2x + 3 using integration
+603,,Integration_and_Accumulation_of_Change,"What is the total distance traveled by an object moving at a velocity of v(t) = 5t, where t ranges from 0 to 10 seconds?"
+604,,Integration_and_Accumulation_of_Change,A tank contains 1000 liters of water and is being filled at a rate of 10 liters per minute. How much water will the tank hold after 20 minutes?
+605,,Integration_and_Accumulation_of_Change,"Find the volume of a solid generated by revolving the region bounded by y = 2x - 3, y = 0, and x = 2 about the y-axis"
+606,,Integration_and_Accumulation_of_Change,"Calculate the average value of the function f(x) = x^2 + 2x on the interval [0, 4]"
+607,,Integration_and_Accumulation_of_Change,A particle moving along the x-axis has a velocity of v(t) = 4t + 5. Find the total displacement of the particle from t = 0 to t = 6 seconds.
+608,,Integration_and_Accumulation_of_Change,"A colony of bacteria grows according to the function N(t) = 1000e^0.8t, where t is measured in hours. What is the total population after 5 hours?"
+609,,Integration_and_Accumulation_of_Change,"The acceleration of an object is given by a(t) = 6t. If the initial velocity is 10 m/s, what is the total change in displacement from t = 0 to t = 4 seconds?"
+610,,Integration_and_Accumulation_of_Change,Find the indefinite integral of f(x) = 3x^2 + 2x + 5.
+611,,Integration_and_Accumulation_of_Change,"Evaluate the definite integral of f(x) = 2x + 3 on the interval [0, 5]."
+612,,Integration_and_Accumulation_of_Change,"Using the Fundamental Theorem of Calculus, find the derivative of the function g(x) = ∫(t^2 + 3) dt."
+613,,Integration_and_Accumulation_of_Change,"For a given velocity function v(t) = 2t + 5, find the total distance traveled from t = 0 to t = 3."
+614,,Integration_and_Accumulation_of_Change,"If the rate of change of a population is given by P'(t) = 500 - 2t, what is the total change in population from t = 0 to t = 10?"
+615,,Integration_and_Accumulation_of_Change,"A car is accelerating at a constant rate of 5 m/s^2. If its initial velocity is 10 m/s, what is its position after 5 seconds?"
+616,,Integration_and_Accumulation_of_Change,Find the integral of the function f(x) = 4x^2e^x.
+617,,Integration_and_Accumulation_of_Change,"A tank is being filled with water at a rate of 5 gallons per minute. If the tank can hold a maximum of 100 gallons, how long will it take to fill the tank from empty?"
+618,,Integration_and_Accumulation_of_Change,The velocity of an object at time t is given by v(t) = 0.5t^2 + 2t. What is the displacement of the object from t = 1 to t = 3?
+619,,Integration_and_Accumulation_of_Change,"Find the integral of the function g(x) = 4cos(x) + 2sin(x) on the interval [0, π/2]."
+620,,Integration_and_Accumulation_of_Change,"Find the area between the graph of f(x) = 2x + 4 and the x-axis over the interval [0, 5]."
+621,,Integration_and_Accumulation_of_Change,What is the integral of 3x^2 from x = 0 to x = 4?
+622,,Integration_and_Accumulation_of_Change,"A car is accelerating from rest, with its acceleration in feet per second given by a(t) = 5t - 3. What is the total distance traveled by the car from t = 0 to t = 5 seconds?"
+623,,Integration_and_Accumulation_of_Change,"If the rate of change of a population is given by P'(t) = 0.02t^2 - 5t + 200 people per year, what is the total change in population from t = 0 to t = 10 years?"
+624,,Integration_and_Accumulation_of_Change,A population of bacteria is growing at a rate of 10t^2 + 100t + 5000 bacteria per hour. How many bacteria will there be after 4 hours if there were initially 1000 bacteria?
+625,,Integration_and_Accumulation_of_Change,A rocket is launched with its velocity in meters per second described by v(t) = 100 + 5t - 0.5t^2. How far will the rocket have traveled after 20 seconds?
+626,,Integration_and_Accumulation_of_Change,"If the concentration of a drug in a patient's bloodstream is described by C(t) = 0.1t^2 - 2t + 10 micrograms per milliliter, what is the total amount of drug in the patient's system after 6 hours?"
+627,,Integration_and_Accumulation_of_Change,An object is dropped from a height of 50 meters. How long does it take to reach the ground? (Assume acceleration due to gravity is -9.8 m/s^2)
+628,,Integration_and_Accumulation_of_Change,"A bucket is being filled with water at a rate of 4 liters per minute. After 10 minutes, how much water has been accumulated in the bucket?"
+629,,Integration_and_Accumulation_of_Change,"The temperature of a cup of coffee decreases according to the formula T(t) = 70e^(-0.05t) degrees Celsius, where t is measured in minutes. What is the average temperature of the coffee over the first 5 minutes?"
+630,,Integration_and_Accumulation_of_Change,What is the integration of (2x+5) with respect to x?
+631,,Integration_and_Accumulation_of_Change,Find the area under the curve y = x^2 from x = 0 to x = 3.
+632,,Integration_and_Accumulation_of_Change,Evaluate the integral of e^x/x dx from 1 to 2.
+633,,Integration_and_Accumulation_of_Change,Use integration to find the volume of a solid of revolution when y = 4x^2 is rotated around the x-axis.
+634,,Integration_and_Accumulation_of_Change,What is the antiderivative of 5x^3 + 2x - 3?
+635,,Integration_and_Accumulation_of_Change,Calculate the integral of cos(x)/(1+sin^2(x)) from 0 to pi/2.
+636,,Integration_and_Accumulation_of_Change,A bucket is being filled with water at a constant rate of 2 liters/min. How much water is in the bucket after 10 minutes?
+637,,Integration_and_Accumulation_of_Change,Find the displacement of a particle when given its velocity function v(t) = 3t^2 from t = 0 to t = 5.
+638,,Integration_and_Accumulation_of_Change,"Use integration to find the average value of the function f(x) = 2x+1 on the interval [0,3]."
+639,,Integration_and_Accumulation_of_Change,A car is slowing down at a rate of -2 m/s^2. What is its final velocity after 5 seconds if it started with an initial velocity of 10 m/s?
+640,,Integration_and_Accumulation_of_Change,Find the integral of f(x) = 3x^2 + 5x + 2
+641,,Integration_and_Accumulation_of_Change,"What is the total distance traveled by an object with velocity v(t) = 2t + 5 over the interval [0, 4]?"
+642,,Integration_and_Accumulation_of_Change,A water tank is being filled at a rate of 10 gallons per minute. Find the total amount of water in the tank after 30 minutes.
+643,,Integration_and_Accumulation_of_Change,"Given the curve y = x^3 - 2x^2 + 5x, find the area between the curve and the x-axis from x = 0 to x = 4."
+644,,Integration_and_Accumulation_of_Change,A particle is moving along a curve described by the equation y = x^2 + 4. Find the total displacement of the particle from x = 2 to x = 6.
+645,,Integration_and_Accumulation_of_Change,"Find the average value of g(x) = x^4 + 3x - 2 on the interval [-1, 2]."
+646,,Integration_and_Accumulation_of_Change,"A car is accelerating at a constant rate of 2 m/s^2. Find the distance traveled by the car after 8 seconds, starting from a velocity of 10 m/s."
+647,,Integration_and_Accumulation_of_Change,Evaluate the following improper integral: ∫(1/x)dx from 1 to infinity.
+648,,Integration_and_Accumulation_of_Change,A tank contains 100 gallons of water. Water is then added at a rate of 5 gallons per minute. Find the amount of water in the tank after 30 minutes.
+649,,Integration_and_Accumulation_of_Change,"If the rate of change of the radius of a sphere is 0.6 cm/min, find the rate of change of its surface area when the radius is 10 cm."
+650,,Integration_and_Accumulation_of_Change,"Find the definite integral of f(x) = x^2 + 3x over the interval [1, 5]."
+651,,Integration_and_Accumulation_of_Change,Evaluate the improper integral ∫(1/x) from x = 1 to x = ∞.
+652,,Integration_and_Accumulation_of_Change,"Given that the derivative of a function f(x) is f'(x) = 2x, find the original function f(x)."
+653,,Integration_and_Accumulation_of_Change,Find the area between the curves y = 2x and y = x^2 from x = 0 to x = 4.
+654,,Integration_and_Accumulation_of_Change,A car travels at a constant speed of 50 miles per hour. Find the total distance traveled in 4.5 hours.
+655,,Integration_and_Accumulation_of_Change,"A tank is being filled with water at a rate of 2 liters per minute. If the tank starts empty and can hold a maximum of 100 liters, how long will it take to fill the tank?"
+656,,Integration_and_Accumulation_of_Change,"For the function f(x) = 2x + 5, find the value of x for which the accumulated area under the curve from x = 1 to x = 3 is equal to 16."
+657,,Integration_and_Accumulation_of_Change,"A company produces and sells 100 units of a product. The cost function is C(x) = 5x + 20, where x is the number of units produced. Find the minimum average cost of production."
+658,,Integration_and_Accumulation_of_Change,Use integration to find the average value of the function f(x) = x^3 + 3 from x = 2 to x = 5.
+659,,Integration_and_Accumulation_of_Change,"The rate of change of the temperature of a room is given by dT/dt = -0.05t + 0.5, where t is time in minutes. If the temperature is initially 80 ℉, find the temperature after 20 minutes."
+660,,Integration_and_Accumulation_of_Change,Find the integral of f(x) = 2x + 5 from x = 0 to x = 4.
+661,,Integration_and_Accumulation_of_Change,"If the rate of change of a function f(x) is given by f'(x) = 3x^2, what is the value of f(x) at x = 2 when f(0) = 5?"
+662,,Integration_and_Accumulation_of_Change,The position of a particle at time t is given by s(t) = 2t^2 + 3t + 6. What is the velocity of the particle at t = 3?
+663,,Integration_and_Accumulation_of_Change,A water tank is being filled at a constant rate of 2 liters/sec. How much water has accumulated in the tank after 10 seconds?
+664,,Integration_and_Accumulation_of_Change,"If the rate at which a snowball is melting is given by -4t + 15 (in grams per minute), what is the total change in mass of the snowball from t = 2 to t = 5 minutes?"
+665,,Integration_and_Accumulation_of_Change,A population of bacteria is growing at a rate of 5e^(0.2t) bacteria per hour. What is the total increase in the population after 8 hours?
+666,,Integration_and_Accumulation_of_Change,"A fence is being built along the perimeter of a rectangular field with dimensions 20m by 10m. If the fence costs $3 per meter, what is the total cost of the fence?"
+667,,Integration_and_Accumulation_of_Change,The rate at which a car is traveling is given by v(t) = 5t^2 - 10t + 25. How far has the car traveled from t = 0 to t = 3 seconds?
+668,,Integration_and_Accumulation_of_Change,A car is driving in a straight line with a velocity given by v(t) = 2t + 10. What is the displacement of the car from t = 2 to t = 5 seconds?
+669,,Integration_and_Accumulation_of_Change,"The rate at which a leaky faucet drips is given by f(t) = 0.5t^2 + 3t + 10 (in drops per minute). If the faucet has been dripping for 10 minutes, how many drops of water have accumulated?"
+670,,Integration_and_Accumulation_of_Change,What is the definite integral of f(x) = x^2 from x = 0 to x = 5?
+671,,Integration_and_Accumulation_of_Change,Find the indefinite integral of g(x) = cos(x).
+672,,Integration_and_Accumulation_of_Change,"Given a velocity function of v(t) = 3t, what is the total distance traveled by the object from t = 0 to t = 4?"
+673,,Integration_and_Accumulation_of_Change,Determine the area between the curve f(x) = e^x and the x-axis from x = 0 to x = 3.
+674,,Integration_and_Accumulation_of_Change,"What is the average value of the function h(x) = 2x + 1 on the interval [0,5]?"
+675,,Integration_and_Accumulation_of_Change,"Given the function y(x) = 2x^3 - 6x^2 + 5x, find the volume of the solid generated when the region bounded by the curve and the x-axis is rotated about the x-axis."
+676,,Integration_and_Accumulation_of_Change,"If the position of an object is given by s(t) = t^3 - 2t + 4, what is the total displacement of the object from t = 0 to t = 5?"
+677,,Integration_and_Accumulation_of_Change,Find the rate of change of the area of a circle with respect to its radius when the radius is r = 3 meters.
+678,,Integration_and_Accumulation_of_Change,Calculate the volume of a cone with a radius of 4 cm and a height of 10 cm using integration.
+679,,Integration_and_Accumulation_of_Change,"Given the rate of change of a population, r(t) = 0.1t^2 + 5t + 100, what is the total change in population from t = 0 to t = 10?"
+680,,Integration_and_Accumulation_of_Change,Find the definite integral ∫(2x+3)dx from x=1 to x=10.
+681,,Integration_and_Accumulation_of_Change,Evaluate the indefinite integral ∫(4x^3+5x+2)dx.
+682,,Integration_and_Accumulation_of_Change,Compute the area under the curve y=3x^2-2 from x=0 to x=5.
+683,,Integration_and_Accumulation_of_Change,Determine the value of the definite integral ∫(1/(x^2+1))dx from x=0 to x=∞.
+684,,Integration_and_Accumulation_of_Change,Find the derivative of the function f(x)=∫(x+1)^3dx.
+685,,Integration_and_Accumulation_of_Change,"Using the Fundamental Theorem of Calculus, evaluate ∫(x+2)^2dx from x=1 to x=3."
+686,,Integration_and_Accumulation_of_Change,"Calculate the average value of the function f(x)=2x^2+5x+3 on the interval [1,5]."
+687,,Integration_and_Accumulation_of_Change,Determine the area between the curves y=3x+1 and y=x^2+2x from x=0 to x=2.
+688,,Integration_and_Accumulation_of_Change,Find the volume of the solid generated by rotating the region bounded by the curves y=x^2 and y=2x about the y-axis.
+689,,Integration_and_Accumulation_of_Change,"Given the position function s(t)=3t^2-4t+6, find the total distance traveled from t=0 to t=5."
+690,,Integration_and_Accumulation_of_Change,Determine the definite integral from 0 to 3 of 4x^3 + 2x^2 + 5x - 1.
+691,,Integration_and_Accumulation_of_Change,Find the area bounded by the curves y = x^2 - 2 and y = x - 3.
+692,,Integration_and_Accumulation_of_Change,Evaluate the definite integral from 0 to 6 of 2sin(x) + 3cos(x).
+693,,Integration_and_Accumulation_of_Change,What is the antiderivative of 7x^2 + 4x + 1?
+694,,Integration_and_Accumulation_of_Change,"Calculate the displacement of an object with velocity v(t) = 5t - 2, from t = 0 to t = 4."
+695,,Integration_and_Accumulation_of_Change,"Find the total distance traveled by a car with velocity v(t) = 10/t, from t = 1 to t = 5."
+696,,Integration_and_Accumulation_of_Change,Determine the definite integral from 1 to 10 of (2/x) + 4.
+697,,Integration_and_Accumulation_of_Change,"What is the average value of f(x) = x^2 over the interval [1, 5]?"
+698,,Integration_and_Accumulation_of_Change,Estimate the area under the curve y = 3x^2 from x = 0 to x = 4 using 4 rectangles.
+699,,Integration_and_Accumulation_of_Change,"Find the total distance traveled by a particle with velocity v(t) = 2/(t+1), from t = 0 to t = 3."
+700,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = 3x^2 + 4x + 7 from x = 1 to x = 5.
+701,,Integration_and_Accumulation_of_Change,A car's velocity at time t is given by v(t) = 2t + 5. Find the distance traveled by the car from t = 2 to t = 7.
+702,,Integration_and_Accumulation_of_Change,A particle moves along the x-axis with position function s(t) = 2t^2 + 5t. Find the displacement of the particle from t = 0 to t = 4.
+703,,Integration_and_Accumulation_of_Change,"A water tank is being filled at a constant rate of 10 liters per minute. If the tank can hold 1000 liters, how long will it take to fill the tank completely?"
+704,,Integration_and_Accumulation_of_Change,Find the average value of f(x) = 4x^2 + 2x from x = 0 to x = 3.
+705,,Integration_and_Accumulation_of_Change,A circular pond has a radius of 10 meters. Water is being pumped into the pond at a rate of 3 cubic meters per minute. How fast is the water level rising after 10 minutes?
+706,,Integration_and_Accumulation_of_Change,A particle moves along the x-axis with position function x(t) = 4t^2 – 6t + 3. Find the total distance traveled by the particle from t = 0 to t = 5.
+707,,Integration_and_Accumulation_of_Change,A capacitor with a resistance of 20 ohms is being charged at a rate of 2 volts per second. How long will it take for the capacitor to reach a charge of 50 volts?
+708,,Integration_and_Accumulation_of_Change,The rate of change of a population in an ecosystem is given by dP/dt = 2t^2 + 3. Find the total change in population from t = 0 to t = 10.
+709,,Integration_and_Accumulation_of_Change,"The temperature of a room is changing at a rate of -0.5 degrees Celsius per minute. If the temperature starts at 20 degrees Celsius, what will be the temperature after 30 minutes?"
+710,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = 3x^2 + 5x -2 from x=0 to x=2
+711,,Integration_and_Accumulation_of_Change,A ball is thrown upward with an initial velocity of 30 m/s. Find the displacement of the ball after 5 seconds.
+712,,Integration_and_Accumulation_of_Change,The function y = 2x represents the velocity of an object moving along a straight line. Find the displacement of the object when t=4 if its initial position was x=5.
+713,,Integration_and_Accumulation_of_Change,A tank initially contains 200 gallons of water and is being drained at a rate of 5 gallons per minute. Find the time it takes for the tank to be completely drained.
+714,,Integration_and_Accumulation_of_Change,"If the rate of change of temperature of an object is given by f(t) = 5t + 2, where t is measured in minutes, find the total change in temperature from t=0 to t=10."
+715,,Integration_and_Accumulation_of_Change,"A car accelerates from rest at a rate given by f(t) = 5t, where t is measured in seconds. Find the distance the car travels in the first 10 seconds."
+716,,Integration_and_Accumulation_of_Change,A cylindrical tank with a height of 10 feet is being filled with water at a rate of 2 cubic feet per minute. Find the time it takes to fill the tank if the initial volume is 50 cubic feet.
+717,,Integration_and_Accumulation_of_Change,"A rectangular plot of land has dimensions of 50 feet by 100 feet. If the rate at which the area of the plot changes is 2 square feet per year, find the time it takes for the plot to increase in size by 500 square feet."
+718,,Integration_and_Accumulation_of_Change,"A population of bacteria is growing exponentially with a growth rate of 0.5% per hour. If the initial population is 100 bacteria, find the number of bacteria after 6 hours."
+719,,Integration_and_Accumulation_of_Change,"A rocket is launched vertically with an initial velocity of 100 m/s. If its acceleration is given by a(t) = 10 - 0.2t, where t is measured in seconds, find the maximum height reached by the rocket."
+720,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = x^2 + 5x from x = 0 to x = 3.
+721,,Integration_and_Accumulation_of_Change,Use the fundamental theorem of calculus to find the derivative of F(x) = ∫cos(t) dt from a to x.
+722,,Integration_and_Accumulation_of_Change,"If the velocity of an object is v(t) = 2t + 4, what is the position function, and what is the displacement of the object from t = 0 to t = 4?"
+723,,Integration_and_Accumulation_of_Change,"If the rate of change of the area of a circle with respect to its radius is given by dA/dr = 2πr, what is the formula for the area of the circle?"
+724,,Integration_and_Accumulation_of_Change,Find the definite integral of √(x+3) from x = -3 to x = 1.
+725,,Integration_and_Accumulation_of_Change,A tank initially contains 200 liters of water and the rate of water passing through the tank is given by R(t) = 5 + 2t liters per minute. How many liters of water have passed through the tank after 15 minutes?
+726,,Integration_and_Accumulation_of_Change,Use integration to find the area between the curve y = x^2 and the x-axis from x = 0 to x = 5.
+727,,Integration_and_Accumulation_of_Change,"If a particle's position is given by x(t) = t^3 + t^2 + 2t, find the velocity and acceleration functions."
+728,,Integration_and_Accumulation_of_Change,"A baseball is hit straight up from a height of 3 feet with initial velocity of 95 feet per second. How high will the ball go, and after how many seconds will it reach its peak height?"
+729,,Integration_and_Accumulation_of_Change,"Find the volume of the solid generated when the area bounded by y = 4x, x = 0, y = 16, and x = 8 is rotated about the y-axis."
+730,,Integration_and_Accumulation_of_Change,Evaluate the following definite integral: ∫ 2x dx from x = 1 to x = 3.
+731,,Integration_and_Accumulation_of_Change,Find the area bounded by the curve y = x^2 and the x-axis from x = 1 to x = 2.
+732,,Integration_and_Accumulation_of_Change,Calculate the definite integral ∫ (3x^2 + 2x + 1) dx from x = 0 to x = 4.
+733,,Integration_and_Accumulation_of_Change,Find the value of k such that the area under the curve y = kx^3 from x = 0 to x = 2 is equal to 8/3.
+734,,Integration_and_Accumulation_of_Change,Evaluate the definite integral ∫ (4x^2 + 3x + 2) dx from x = -2 to x = 2.
+735,,Integration_and_Accumulation_of_Change,Find the area bounded by the curves y = x^2 and y = 2x - 1 from x = -1 to x = 2.
+736,,Integration_and_Accumulation_of_Change,Calculate the indefinite integral of ∫ (6x^2 + 4x - 2) dx.
+737,,Integration_and_Accumulation_of_Change,Find the area under the curve y = 2/x from x = 1 to x = e.
+738,,Integration_and_Accumulation_of_Change,Determine the value of a such that the function f(x) = 4x + a has a stationary point at x = 3 and the area between the curve and the x-axis from x = 1 to x = 4 is equal to 9/2.
+739,,Integration_and_Accumulation_of_Change,Evaluate the definite integral ∫ (2x + 1)/√x dx from x = 1 to x = 4.
+740,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = 3x^2 + 5 from x = 2 to x = 5.
+741,,Integration_and_Accumulation_of_Change,"What is the area enclosed by the curve y = x^2, the x-axis, and the vertical lines x = 0 and x = 2?"
+742,,Integration_and_Accumulation_of_Change,Evaluate the indefinite integral ∫ (2x^3 + 4x + 9) dx.
+743,,Integration_and_Accumulation_of_Change,A particle moves along the x-axis according to the function x(t) = t^2 + 3t + 1. Find the total distance traveled by the particle from t = 0 to t = 4.
+744,,Integration_and_Accumulation_of_Change,Approximate the area under the curve y = √(4 - x^2) from x = 0 to x = 2 using four rectangles of equal width.
+745,,Integration_and_Accumulation_of_Change,"Use the fundamental theorem of calculus to find the derivative of the function g(x) = ∫ sin(t) dt, where the upper limit of integration is x."
+746,,Integration_and_Accumulation_of_Change,A tank initially contains 200 gallons of water. Water is being poured into the tank at a rate of 5 gallons per minute. How much water is in the tank after 30 minutes?
+747,,Integration_and_Accumulation_of_Change,"Find the volume generated when the region bounded by the x-axis, the curve y = 3x^2, and the lines x = 0 and x = 2 is rotated about the x-axis."
+748,,Integration_and_Accumulation_of_Change,"A population of bacteria is growing according to the function P(t) = 500e^(0.02t), where t is measured in hours. Find the total number of bacteria after 12 hours."
+749,,Integration_and_Accumulation_of_Change,"The velocity of a car on a straight road is given by v(t) = t^2, where v is in meters per second and t is in seconds. What is the change in position of the car between t = 0 and t = 5 seconds?"
+750,,Integration_and_Accumulation_of_Change,"Given the function f(x) = 2x + 3, what is the integral of f(x) between x = 0 and x = 5?"
+751,,Integration_and_Accumulation_of_Change,Find the area under the curve y = x^2 + 3x + 5 from x = 0 to x = 4 using integration.
+752,,Integration_and_Accumulation_of_Change,"A car's velocity is given by v(t) = 2t + 5, what is the displacement of the car from t = 0 to t = 4?"
+753,,Integration_and_Accumulation_of_Change,What is the total distance traveled by an object with velocity v(t) = 5t between t = 0 and t = 3?
+754,,Integration_and_Accumulation_of_Change,"Given the function g(x) = 3x^3 + 2x^2 + 4x, what is the average rate of change of g(x) from x = 0 to x = 2?"
+755,,Integration_and_Accumulation_of_Change,"The rate of change of a population is given by P'(t) = t^2 + 3t, find the total change in population from t = 0 to t = 5."
+756,,Integration_and_Accumulation_of_Change,Find the total profit generated by a company with profit function P(x) = 2x^2 + 3x + 4 from x = 0 to x = 10.
+757,,Integration_and_Accumulation_of_Change,A tank is being filled with water at a constant rate of 5 liters per second. What is the total volume of water in the tank after 10 seconds?
+758,,Integration_and_Accumulation_of_Change,"The displacement of an object is given by s(t) = 4t^3 + 2t^2, find the average velocity of the object from t = 0 to t = 4."
+759,,Integration_and_Accumulation_of_Change,What is the total work done by a force of 10 N applied to an object moving along the x-axis for a distance of 3 meters?
+760,,Integration_and_Accumulation_of_Change,Find the indefinite integral of f(x) = 3x^2 + 5x + 1
+761,,Integration_and_Accumulation_of_Change,What is the area under the curve y = x^3 from x = 1 to x = 5?
+762,,Integration_and_Accumulation_of_Change,Evaluate the definite integral from 0 to pi/4 of sin(x) + cos(x) dx
+763,,Integration_and_Accumulation_of_Change,"Given the position function s(t) = -16t^2 + 40t + 5, what is the displacement of an object during the first 3 seconds?"
+764,,Integration_and_Accumulation_of_Change,"Find the average value of f(x) = x^2 - 4 on the interval [1, 6]"
+765,,Integration_and_Accumulation_of_Change,What is the rate of change of the volume of a sphere with respect to its radius at r = 4?
+766,,Integration_and_Accumulation_of_Change,"If the velocity of an object is given by v(t) = 3t^2 - 6t + 2, what is the total distance traveled by the object from t = 0 to t = 5?"
+767,,Integration_and_Accumulation_of_Change,"If the rate of change of a population is modeled by P'(t) = 0.1P(t) - 50, what is the total increase in population after 10 years?"
+768,,Integration_and_Accumulation_of_Change,Evaluate the definite integral from 1 to 3 of e^x/(1 + e^x) dx
+769,,Integration_and_Accumulation_of_Change,"Find the average rate of change of f(x) = 6x^2 + 4 on the interval [0, 2]"
+770,,Integration_and_Accumulation_of_Change,Find the indefinite integral of f(x) = 2x + 5.
+771,,Integration_and_Accumulation_of_Change,Determine the area between the curves y = x^2 and y = x + 2 from x = 1 to x = 3.
+772,,Integration_and_Accumulation_of_Change,A particle moves with acceleration a(t) = 6t + 2 m/s^2. Find the displacement of the particle from t = 2 to t = 5.
+773,,Integration_and_Accumulation_of_Change,"Given a velocity function v(t) = t^2 + 6t − 4, find the position function s(t)."
+774,,Integration_and_Accumulation_of_Change,A tank initially contains 1000 L of oil with a concentration of 2 g/L. Oil with a concentration of 3 g/L flows into the tank at a rate of 5 L/min. What is the concentration of oil in the tank after 30 minutes?
+775,,Integration_and_Accumulation_of_Change,Find the total distance traveled by a particle with velocity v(t) = t^2 − 3t from t = 0 to t = 4.
+776,,Integration_and_Accumulation_of_Change,"A force of 20 N is applied to a spring with a spring constant of 5 N/m. If the spring is stretched from 5 cm to 15 cm, find the work done."
+777,,Integration_and_Accumulation_of_Change,A car travels with a velocity v(t) = t^2 + 6 t m/s. Find the displacement of the car from t = 0 to t = 10.
+778,,Integration_and_Accumulation_of_Change,A ball is thrown with a velocity v(t) = 20t − 4 m/s. What is the maximum height reached by the ball?
+779,,Integration_and_Accumulation_of_Change,A tank initially contains 100 L of water with a salt concentration of 0.5 g/L. Water with a salt concentration of 1 g/L flows into the tank at a rate of 2 L/min. Find the total amount of salt in the tank after 45 minutes.
+780,,Integration_and_Accumulation_of_Change,Determine the definite integral of f(x) = 3x^2 + 2x + 1 from x = 1 to x = 5
+781,,Integration_and_Accumulation_of_Change,Find the area bounded by the curves y = x^2 and y = 2x + 1
+782,,Integration_and_Accumulation_of_Change,"Given the velocity function v(t) = 5t^2 - 10t + 4, what is the displacement of the object from time t = 1 to t = 3?"
+783,,Integration_and_Accumulation_of_Change,An object moves with a velocity of v(t) = t^2 - 6t + 8 ft/s. How many feet did the object travel from t = 2 to t = 5?
+784,,Integration_and_Accumulation_of_Change,What is the total distance traveled by a car whose velocity is given by v(t) = 40/t mph from t = 1 to t = 8?
+785,,Integration_and_Accumulation_of_Change,The acceleration of a particle is given by a(t) = 6t - 5. Find the distance traveled by the particle from t = 1 to t = 3.
+786,,Integration_and_Accumulation_of_Change,A water tank has a constant outflow of 2 gallons per hour and a variable inflow given by i(t) = 4e^(-2t) gallons per hour. How many gallons of water are in the tank after 5 hours?
+787,,Integration_and_Accumulation_of_Change,The density of a material at position x is given by ρ(x) = 2x + 1. Find the mass of the material between x = 1 and x = 5.
+788,,Integration_and_Accumulation_of_Change,Find the volume of a solid with a circular base of radius 2 and cross sections perpendicular to the base are squares.
+789,,Integration_and_Accumulation_of_Change,A chemical reaction has a constant production rate of 10 moles per minute and a concentration given by c(t) = 4t^2 moles per liter. How many moles of the chemical are present after 3 minutes?
+790,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = 2x from x=1 to x=4.
+791,,Integration_and_Accumulation_of_Change,Evaluate the area under the curve of y = x^2 from x=0 to x=5 using integration.
+792,,Integration_and_Accumulation_of_Change,Use integration to find the average value of the function y = 3x + 2 from x=1 to x=5.
+793,,Integration_and_Accumulation_of_Change,Determine the total displacement of an object moving at a velocity of v(t) = 4t m/s from t=0 to t=2 seconds.
+794,,Integration_and_Accumulation_of_Change,Find the volume of a cone with radius r and height h using integration.
+795,,Integration_and_Accumulation_of_Change,Calculate the average rate of change of f(x) = x^3 from x=2 to x=5 using integration.
+796,,Integration_and_Accumulation_of_Change,Determine the deflection of a beam with a variable cross-sectional area using integration.
+797,,Integration_and_Accumulation_of_Change,Find the net force acting on a particle moving in a circular path using integration.
+798,,Integration_and_Accumulation_of_Change,Use integration to calculate the work needed to pump water from a tank with a changing depth.
+799,,Integration_and_Accumulation_of_Change,Find the center of mass of a thin plate with a variable density using integration.
+800,,Integration_and_Accumulation_of_Change,Find the integral of f(x)=3x+2
+801,,Integration_and_Accumulation_of_Change,Evaluate the definite integral from 0 to 5 of (12x+5)
+802,,Integration_and_Accumulation_of_Change,"Given the position function s(t)= -16t^2 + 100, find the velocity function"
+803,,Integration_and_Accumulation_of_Change,Calculate the area between the x-axis and the curve y=x^2 from x=0 to x=4
+804,,Integration_and_Accumulation_of_Change,What is the definite integral of cos(x)?
+805,,Integration_and_Accumulation_of_Change,"An object moves with a velocity given by v(t)=5t, where t is in seconds. Find the distance traveled by the object from t=0 to t=6."
+806,,Integration_and_Accumulation_of_Change,Use integration to find the volume of a solid with a circular base of radius 4 and a height of 10.
+807,,Integration_and_Accumulation_of_Change,Evaluate the integral of f(x)= 2/x from 1 to 5
+808,,Integration_and_Accumulation_of_Change,A car is moving along a straight track and its velocity at time t is given by v(t)= 2t^2 - 8t. Find the total distance traveled by the car from t=0 to t=6.
+809,,Integration_and_Accumulation_of_Change,"Given the function g(x)=3x^2 + 6x, what is the value of the definite integral from 0 to 4?"
+810,,Integration_and_Accumulation_of_Change,Find the definite integral ∫(x + 1)^2 dx from 0 to 5.
+811,,Integration_and_Accumulation_of_Change,"Find the area under the curve y = x^2 + 2x + 3 on the interval [1, 4] using integration."
+812,,Integration_and_Accumulation_of_Change,"If the velocity of a particle is given by v(t) = 5t + 10, what is the position of the particle at t = 2?"
+813,,Integration_and_Accumulation_of_Change,Evaluate ∫ 3x^2 dx using the power rule of integration.
+814,,Integration_and_Accumulation_of_Change,A tank with a capacity of 100 liters is initially empty. Water is being pumped into the tank at a rate of 5 liters per minute. How long will it take to fill the tank?
+815,,Integration_and_Accumulation_of_Change,A car is traveling at a constant speed of 50 miles per hour. What is the total distance traveled by the car in 2 hours?
+816,,Integration_and_Accumulation_of_Change,"The rate of change of the radius of a circle is given by dr/dt = 2t. If the radius of the circle is initially 5 meters, find the equation for the area of the circle as a function of time."
+817,,Integration_and_Accumulation_of_Change,"Find the average value of f(x) = 2x^3 on the interval [1, 3]."
+818,,Integration_and_Accumulation_of_Change,"If the acceleration of a particle is given by a(t) = 6t, what is the velocity of the particle at t = 5?"
+819,,Integration_and_Accumulation_of_Change,A manufacturing company produces 1000 units per day. The cost function for producing x units is given by C(x) = 0.1x^2 + 50x + 1000. What is the total cost of producing 200 units?
+820,,Integration_and_Accumulation_of_Change,Evaluate the definite integral: ∫0^5 (4x+3) dx
+821,,Integration_and_Accumulation_of_Change,Find the indefinite integral: ∫(x^3-5x^2+4x) dx
+822,,Integration_and_Accumulation_of_Change,What is the integral of sin(x) with respect to x?
+823,,Integration_and_Accumulation_of_Change,Calculate the area under the curve of y = 3x^2 - 2 from x = 2 to x = 5
+824,,Integration_and_Accumulation_of_Change,Compute the definite integral: ∫1^4 (2/x) dx
+825,,Integration_and_Accumulation_of_Change,What is the antiderivative of 1/(x+1)?
+826,,Integration_and_Accumulation_of_Change,Find the total displacement of a particle moving along the x-axis with velocity function v(t) = 2t+1 from t=0 to t=4.
+827,,Integration_and_Accumulation_of_Change,Calculate the work done by a force F(x) = x^2 - 2 when an object moves from x = 1 to x = 4.
+828,,Integration_and_Accumulation_of_Change,Evaluate the definite integral: ∫-2^2 (x^2 + 3x) dx
+829,,Integration_and_Accumulation_of_Change,Find the area enclosed by the parabola y = x^2 + 2x and the x-axis from x = -3 to x = 2.
+830,,Integration_and_Accumulation_of_Change,Find the definite integral of 2x^3 + 5x + 1 from x = 0 to x = 5.
+831,,Integration_and_Accumulation_of_Change,"Given the velocity function v(t) = 3t^2 + 1, what is the total displacement of an object between t = 0 and t = 4?"
+832,,Integration_and_Accumulation_of_Change,"If the rate of change of a population is modeled by the function P'(t) = 100e^(-0.5t), what is the total change in population from t = 0 to t = 10?"
+833,,Integration_and_Accumulation_of_Change,"A bucket has a leak that causes the water level to decrease at a rate of 10 cm/min. If the initial water level is 100 cm, what is the total amount of water that leaks out in 20 minutes?"
+834,,Integration_and_Accumulation_of_Change,Find the definite integral of 6sin(x) + 2cos^2(x) from x = 0 to x = π/2.
+835,,Integration_and_Accumulation_of_Change,"A car is accelerating at a rate of 4 m/s^2. If it initially had a velocity of 10 m/s, what is its total displacement after 5 seconds?"
+836,,Integration_and_Accumulation_of_Change,A ball is dropped from a height of 10 meters and experiences a constant acceleration due to gravity of -9.8 m/s^2. How long does it take for the ball to reach the ground?
+837,,Integration_and_Accumulation_of_Change,Find the area bounded by the curves y = x^2 + 3 and y = 2x - 3.
+838,,Integration_and_Accumulation_of_Change,"At a business, the profit function is given by P(x) = 3x^2 - 6x + 100. What is the total profit for the business when it sells 50 units?"
+839,,Integration_and_Accumulation_of_Change,"A cylinder has a radius of 2 cm. If its volume is increasing at a rate of 6π cm^3/s, what is the rate of change of its height when the height is 5 cm?"
+840,,Integration_and_Accumulation_of_Change,What is the notation for the indefinite integral of a function f(x)?
+841,,Integration_and_Accumulation_of_Change,How do you find the area under a curve using integration?
+842,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) from 0 to 2.
+843,,Integration_and_Accumulation_of_Change,What is the relationship between the derivative and the integral of a function?
+844,,Integration_and_Accumulation_of_Change,Evaluate the integral of 3x^2.
+845,,Integration_and_Accumulation_of_Change,How can integration be used to solve problems involving rate of change?
+846,,Integration_and_Accumulation_of_Change,"Given the velocity function v(t)=-3t+4, what is the displacement of an object from t=0 to t=5?"
+847,,Integration_and_Accumulation_of_Change,"What is the area bounded by the x-axis, the graph of y=2x+5, and the x=3 line?"
+848,,Integration_and_Accumulation_of_Change,How does the trapezoidal rule estimate the area under a curve?
+849,,Integration_and_Accumulation_of_Change,Find the total distance traveled by a car whose velocity is given by v(t)= 2t from t=0 to t=5.
+850,,Integration_and_Accumulation_of_Change,What is the area under the curve y = 2x+3 between x = 1 and x = 5?
+851,,Integration_and_Accumulation_of_Change,Calculate the definite integral of f(x) = 3x^2 from x = 2 to x = 6.
+852,,Integration_and_Accumulation_of_Change,"If the rate of change of a function f(x) is given by f'(x) = x, what is the total change in the function from x = 2 to x = 7?"
+853,,Integration_and_Accumulation_of_Change,"Find the average value of the function f(x) = x^3 - 4x + 1 on the interval [1, 5]."
+854,,Integration_and_Accumulation_of_Change,Use integration to find the volume of a sphere with radius r.
+855,,Integration_and_Accumulation_of_Change,A tank of water is being drained at a rate given by the function r(t) = 5 - 0.2t liters per minute. How much water is drained in the first 10 minutes?
+856,,Integration_and_Accumulation_of_Change,"For the function f(x) = 2x + 4, find the function F(x) such that F'(x) = f(x)?"
+857,,Integration_and_Accumulation_of_Change,The velocity of an object is given by v(t) = 3t^2 + 4. What is the position of the object at t = 5 if it starts at position 2?
+858,,Integration_and_Accumulation_of_Change,"A window in the shape of a trapezoid has a top length of 10 m, bottom length of 8 m, and height of 5 m. Find the amount of glass needed to cover the window if it has a width of 3 m."
+859,,Integration_and_Accumulation_of_Change,"A particle moves along the x-axis and its velocity at time t is v(t) = t^2 + 5. If the particle starts at x = 2, find the position of the particle after 5 seconds."
+860,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = 2x + 3 from x = 2 to x = 5.
+861,,Integration_and_Accumulation_of_Change,"If the velocity of an object at time t is given by v(t) = 3t^2 + 4t, what is the total distance traveled by the object from t = 0 to t = 4?"
+862,,Integration_and_Accumulation_of_Change,Evaluate the indefinite integral of g(x) = 6x^4 + 5x^3 + 2x^2 + 1.
+863,,Integration_and_Accumulation_of_Change,A tank initially contains 50 gallons of water. It is being filled at a rate of 3 gallons per minute. How much water is in the tank after 10 minutes?
+864,,Integration_and_Accumulation_of_Change,Find the area under the curve of y = x^2 from x = 0 to x = 4.
+865,,Integration_and_Accumulation_of_Change,A chemical reaction is occurring at a rate of 5 grams per minute. How much of the substance will have accumulated after 20 minutes?
+866,,Integration_and_Accumulation_of_Change,"Using the trapezoidal rule with 4 subintervals, approximate the integral of h(x) = 1/x from x = 1 to x = 2."
+867,,Integration_and_Accumulation_of_Change,A car is traveling at a constant speed of 60 miles per hour for 2 hours. How much distance did the car cover during this time?
+868,,Integration_and_Accumulation_of_Change,"Find the total work done when lifting a 500 lb crate to a height of 10 feet, assuming a constant force of 100 lbs."
+869,,Integration_and_Accumulation_of_Change,"The rate at which a population of bacteria is growing is given by P'(t) = 5P(t), where P(t) is the population after t hours. If the initial population is 1000 bacteria, how many bacteria will there be after 6 hours?"
+870,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = 2x + 3 from x = 1 to x = 5.
+871,,Integration_and_Accumulation_of_Change,What is the natural log of the integral from 1 to 4 of x^2 + 2x?
+872,,Integration_and_Accumulation_of_Change,"Using the fundamental theorem of calculus, find the derivative of the integral from 0 to x of 3t^2 + 5t."
+873,,Integration_and_Accumulation_of_Change,"Given the function g(x) = x^2 + 5, find the constant c that makes the integral from 0 to 2 of g(x) equal to 12."
+874,,Integration_and_Accumulation_of_Change,Calculate the area of the region bounded by the curves y = x^2 and y = x + 1 using integration.
+875,,Integration_and_Accumulation_of_Change,"What is the average value of the function h(x) = 3x^2 + 2 on the interval [1,4]?"
+876,,Integration_and_Accumulation_of_Change,Find the volume of the solid generated by rotating the region bounded by the curves y = x^2 and y = 2x around the x-axis.
+877,,Integration_and_Accumulation_of_Change,"Given the velocity function v(t) = 3t + 2, find the displacement of an object from t = 0 to t = 5."
+878,,Integration_and_Accumulation_of_Change,"Determine the work done by a force of 5N in moving an object from x = 0 to x = 10 meters, given the force function F(x) = 5x."
+879,,Integration_and_Accumulation_of_Change,What is the antiderivative of the function f(x) = e^x + 2x^-2?
+880,,Integration_and_Accumulation_of_Change,Find the anti-derivative of f(x) = 2x^3 + 5x^2 + 3
+881,,Integration_and_Accumulation_of_Change,Evaluate the definite integral ∫2x^2 dx from x = 0 to x = 3
+882,,Integration_and_Accumulation_of_Change,Use integration by parts to find ∫xsin(x) dx
+883,,Integration_and_Accumulation_of_Change,Find the area under the curve y = 4x^2 + 3x + 2 from x = 1 to x = 5
+884,,Integration_and_Accumulation_of_Change,"If the position of an object at time t is given by s(t) = 3t^2 + 2t + 4, find the velocity and acceleration at t = 2"
+885,,Integration_and_Accumulation_of_Change,Use Simpson's rule to approximate the integral ∫x^3sin(x) dx from x = 0 to x = π
+886,,Integration_and_Accumulation_of_Change,Find the volume of a solid generated by rotating the region between y = x^2 and y = 4x about the x-axis
+887,,Integration_and_Accumulation_of_Change,A tank initially contains 100 gallons of water. Water is being pumped into the tank at a rate of 5 gallons per minute and being drained at a rate of 2 gallons per minute. How much water is in the tank after 15 minutes?
+888,,Integration_and_Accumulation_of_Change,Find the work done by a force F(x) = 2x^3 against a displacement of 5 meters using integration
+889,,Integration_and_Accumulation_of_Change,A ball is thrown upwards from 5 feet above the ground with an initial velocity of 15 ft/s. Find the distance the ball travels before hitting the ground.
+890,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = 2x^3 from x = 1 to x = 5.
+891,,Integration_and_Accumulation_of_Change,Evaluate the indefinite integral of g(x) = 6/x^2.
+892,,Integration_and_Accumulation_of_Change,"Given the rate of change function f'(x) = 8x + 3, find the accumulation function F(x) and evaluate F(4)."
+893,,Integration_and_Accumulation_of_Change,"If the velocity of an object is given by v(t) = 5t^2, find the distance traveled by the object in the first 3 seconds."
+894,,Integration_and_Accumulation_of_Change,"A tank is initially filled with 100 gallons of water. If the rate of change of the water level is given by h'(t) = 5/t, where t is in minutes, find the amount of water that has flowed out after 10 minutes."
+895,,Integration_and_Accumulation_of_Change,"The temperature of a cooling cup of coffee decreases at a rate of 4 degrees Celsius per minute. If the coffee is initially at 90 degrees Celsius, what is its temperature after 15 minutes?"
+896,,Integration_and_Accumulation_of_Change,Find the area of the region between the curves y = x^2 and y = 3x + 4.
+897,,Integration_and_Accumulation_of_Change,"If the concentration of a chemical in a solution is given by C(t) = 2e^-0.1t, where t is in minutes, find the amount of the chemical that has entered the solution after 20 minutes."
+898,,Integration_and_Accumulation_of_Change,The displacement of an object is given by s(t) = 5t^2 - 10t + 3. Find the total distance traveled by the object from t = 0 to t = 4.
+899,,Integration_and_Accumulation_of_Change,Evaluate the indefinite integral of h(x) = sin(x) + 3xcos(x) + 5.
+900,,Integration_and_Accumulation_of_Change,What is the integral of 2x for the bounds of 0 to 5?
+901,,Integration_and_Accumulation_of_Change,How do you calculate the area under the curve y = x^2 from x = 1 to x = 3?
+902,,Integration_and_Accumulation_of_Change,Find the definite integral of sin(x)dx with the bounds of 0 to pi.
+903,,Integration_and_Accumulation_of_Change,What is the antiderivative of 3x^2 + 4x?
+904,,Integration_and_Accumulation_of_Change,Find the area between the curves y = x^2 and y = 2x for the bounds of 0 to 3.
+905,,Integration_and_Accumulation_of_Change,How do you use integration to calculate the volume of a solid with known cross-sectional areas?
+906,,Integration_and_Accumulation_of_Change,Evaluate the definite integral of e^x with the bounds of 0 to ln(2).
+907,,Integration_and_Accumulation_of_Change,Find the antiderivative of 5cos(x) + 2x^3.
+908,,Integration_and_Accumulation_of_Change,What is the rate of change of the area under the curve y = 6x^2 + 2x from x = 2 to x = 5?
+909,,Integration_and_Accumulation_of_Change,Use the fundamental theorem of calculus to evaluate the integral of (x^2 + 5)dx with the bounds of 0 to 4.
+910,,Integration_and_Accumulation_of_Change,Find the indefinite integral of f(x) = 3x^2 - 2x + 5
+911,,Integration_and_Accumulation_of_Change,Calculate the definite integral of f(x) = 2x + 1 from x = 0 to x = 5
+912,,Integration_and_Accumulation_of_Change,Find the derivative of the function g(x) = ∫(x^3 + 4x)dx
+913,,Integration_and_Accumulation_of_Change,Use the Fundamental Theorem of Calculus to solve ∫0^5 f(x)dx if f(x) = 2x^3 + 3x^2 + 5x
+914,,Integration_and_Accumulation_of_Change,Evaluate the integral ∫5^10 (x^2/2 - x)dx
+915,,Integration_and_Accumulation_of_Change,Solve the initial value problem dy/dx = xcos(x) with y(0) = 4
+916,,Integration_and_Accumulation_of_Change,"Given a particle's velocity function v(t) = t^2 - 3t + 2, find its acceleration and position functions"
+917,,Integration_and_Accumulation_of_Change,Use integration by parts to evaluate ∫e^x sin(x)dx
+918,,Integration_and_Accumulation_of_Change,A tank originally contains 100 gallons of water and is filled at a rate of 5 gallons per minute. Find the amount of water in the tank after 10 minutes.
+919,,Integration_and_Accumulation_of_Change,"Find the area between the curves y = x^2 + 2 and y = 3x on the interval [0, 2]."
+920,,Integration_and_Accumulation_of_Change,Find the area under the curve y = x^2 from x = 0 to x = 3.
+921,,Integration_and_Accumulation_of_Change,"What is the total displacement of an object with a velocity function v(t) = 2t+5 in the time interval [0, 4]?"
+922,,Integration_and_Accumulation_of_Change,Calculate the definite integral of f(x) = 3x^2 + 4x + 1 from x = 1 to x = 5.
+923,,Integration_and_Accumulation_of_Change,At what time does a falling object reach a velocity of 20 m/s if its acceleration is given by a(t) = -9.8 m/s^2?
+924,,Integration_and_Accumulation_of_Change,Evaluate the integral of g(x) = 2cos(x) + 3sin(x) from x = 0 to x = π/2.
+925,,Integration_and_Accumulation_of_Change,How much heat is required to raise the temperature from 10°C to 20°C in a substance with a specific heat of 0.5 J/g°C and mass of 50 g?
+926,,Integration_and_Accumulation_of_Change,"Find the average value of the function f(x) = 2x + 3 over the interval [0, 2]."
+927,,Integration_and_Accumulation_of_Change,A tank initially contains 500 gallons of water and water is being added at a rate of 3 gallons per minute. How much water is in the tank after 2 hours?
+928,,Integration_and_Accumulation_of_Change,Find the volume of a cone with radius 5 cm and height 8 cm using integration.
+929,,Integration_and_Accumulation_of_Change,A car with a speed of 40 mph is slowing down with a constant acceleration of -5 ft/s^2. How many feet does the car travel before coming to a stop after applying the brakes?
+930,,Integration_and_Accumulation_of_Change,What is the integral of f(x) = 3x^2 + 2x + 5?
+931,,Integration_and_Accumulation_of_Change,"Calculate the area between the curves f(x) = x^2 and g(x) = 2x - 1, for x = 1 to x = 3."
+932,,Integration_and_Accumulation_of_Change,"Given the velocity function v(t) = 5t, find the total distance traveled after 4 seconds."
+933,,Integration_and_Accumulation_of_Change,A leaky faucet drips 0.5 liters of water per hour. How many liters of water will have leaked after 6 hours?
+934,,Integration_and_Accumulation_of_Change,"Use Riemann sums to approximate the volume of a region bounded by the curves y = x^2 and x = 0, revolved around the y-axis."
+935,,Integration_and_Accumulation_of_Change,"Find the average value of f(x) = x^3 + 2x on the interval [0,2]."
+936,,Integration_and_Accumulation_of_Change,"The rate of change of a population is given by the function P'(t) = 5000e^(-t/10), where t is measured in years. Find the change in population from t = 0 to t = 10."
+937,,Integration_and_Accumulation_of_Change,"What is the area of the region bounded by the curves y = x^3, y = 0, and x = 1, rotated about the line x = -1?"
+938,,Integration_and_Accumulation_of_Change,"A ladder 10 meters long is leaning against a wall. If the bottom of the ladder slides away 3 m from the wall, how far does the top of the ladder slide down?"
+939,,Integration_and_Accumulation_of_Change,Use the Fundamental Theorem of Calculus to evaluate the definite integral ∫(x^3 + 2x)dx from 0 to 2.
+940,,Integration_and_Accumulation_of_Change,What is the integral of x^2 + 3x + 5?
+941,,Integration_and_Accumulation_of_Change,Calculate the area under the curve y= 2x^2 + 4x + 3 from x=0 to x=5.
+942,,Integration_and_Accumulation_of_Change,Compute the definite integral of ∫(3x+4)dx from x=-1 to x=3.
+943,,Integration_and_Accumulation_of_Change,"Given a velocity function v(t), what is the total distance traveled by an object from t=0 to t=10 seconds?"
+944,,Integration_and_Accumulation_of_Change,Find the derivative of the function F(x)=∫x^3cosx^2dx.
+945,,Integration_and_Accumulation_of_Change,Evaluate the indefinite integral ∫sec^2x dx.
+946,,Integration_and_Accumulation_of_Change,"What is the average value of the function f(x)=2x+3 on the interval [0,4]?"
+947,,Integration_and_Accumulation_of_Change,"If the rate of change for a function is given by g(x)= 4x+5, what is the original function?"
+948,,Integration_and_Accumulation_of_Change,"Using integration, find the volume of a cone with a radius of 5cm and height of 10cm."
+949,,Integration_and_Accumulation_of_Change,"In a chemical reaction, the rate of change of a substance is given by f(t)=3t^2+4t+2. Find the amount of the substance present at t=5 seconds, given that it was initially 100 grams."
+950,,Integration_and_Accumulation_of_Change,1. Calculate the indefinite integral of f(x) = 3x^2 + 4x + 5.
+951,,Integration_and_Accumulation_of_Change,Find the derivative of the integral of g(x) = 2x cos(x).
+952,,Integration_and_Accumulation_of_Change,"Given the velocity function v(t) = 4t^2 + 5t, find the position function s(t) by integrating with respect to time."
+953,,Integration_and_Accumulation_of_Change,A car is slowing down with a velocity function given by v(t) = 12/t. Find the distance the car travels from t = 1 to t = 4.
+954,,Integration_and_Accumulation_of_Change,Find the area of the region bounded by the curve y = 2x + 3 and the x-axis from x = 1 to x = 5.
+955,,Integration_and_Accumulation_of_Change,"A tank initially contains 100 gallons of water. Water is pumped into the tank at a rate of 5 gallons per minute, while water is drained from the tank at a rate of 2 gallons per minute. How much water is in the tank after 30 minutes?"
+956,,Integration_and_Accumulation_of_Change,"The rate of change of the population of a town is given by P'(t) = 0.4t^2 - 3t + 10, where P is the population in thousands and t is the time in years. Find the change in population from t = 2 to t = 5."
+957,,Integration_and_Accumulation_of_Change,A spherical balloon is being inflated at a rate of 10 cubic feet per minute. How fast is the radius of the balloon increasing when the volume is 500 cubic feet?
+958,,Integration_and_Accumulation_of_Change,A particle moves according to the position function s(t) = 2t^3 + 4t^2 - 5t + 7. Find the total distance traveled by the particle from t = 1 to t = 5.
+959,,Integration_and_Accumulation_of_Change,"The rate at which a chemical reaction progresses is given by r(t) = 2t^2 + 5t + 3, where t is time in minutes. Find the total amount of product formed after 6 minutes. (Hint: This can be solved using the Fundamental Theorem of Calculus.)"
+960,,Integration_and_Accumulation_of_Change,What is the indefinite integral of x^2 + 2x + 5?
+961,,Integration_and_Accumulation_of_Change,Find the area under the curve of y = 2x^3 - 5x^2 + 7x - 3 from x = 0 to x = 3.
+962,,Integration_and_Accumulation_of_Change,"Given that the position function of an object is s(t) = 4t^2 - 3t + 8, what is the object's total displacement from t = 1 to t = 6?"
+963,,Integration_and_Accumulation_of_Change,Find the definite integral of the function f(x) = 2x + 5 from x = 0 to x = 4.
+964,,Integration_and_Accumulation_of_Change,What is the average rate of change of the function f(x) = 3x^2 + 4x - 1 from x = 2 to x = 5?
+965,,Integration_and_Accumulation_of_Change,"If the rate of change of a function is given by f'(x) = x - 3, what is the original function f(x), in terms of x?"
+966,,Integration_and_Accumulation_of_Change,"Find the area between the curves y = 2x^2 + 4x + 7 and y = x^3 - 2x + 5 in the interval [0,2]."
+967,,Integration_and_Accumulation_of_Change,A car is traveling at a constant speed of 40 miles per hour. How far will it travel in 2 hours?
+968,,Integration_and_Accumulation_of_Change,"If the amount of water in a tank is given by V(t) = 2t^2 - t + 5, what is the rate at which the water is changing at t = 3?"
+969,,Integration_and_Accumulation_of_Change,"Find the average value of the function f(x) = 3x^2 + 2x - 1 on the interval [1,4]."
+970,,Integration_and_Accumulation_of_Change,Find the definite integral of f(x) = x^2 + 5x + 3 from x = 0 to x = 4.
+971,,Integration_and_Accumulation_of_Change,Calculate the area under the curve y = 2x + 1 from x = 2 to x = 6.
+972,,Integration_and_Accumulation_of_Change,Evaluate the integral: ∫ (4x^3 + 2x) dx
+973,,Integration_and_Accumulation_of_Change,"Find the average value of the function f(x) = 3x^2 - 4 on the interval [0, 5]."
+974,,Integration_and_Accumulation_of_Change,What is the total change in velocity of an object with initial velocity of 5 m/s and constant acceleration of 2 m/s^2 over a time interval of 4 seconds?
+975,,Integration_and_Accumulation_of_Change,"Determine the displacement of a particle moving with a velocity function v(t) = 3t + 2 over the time interval [0, 4]."
+976,,Integration_and_Accumulation_of_Change,A tank initially contains 100 gallons of water. Water is being drained from the tank at a constant rate of 2 gallons per minute. How much water is left in the tank after 30 minutes?
+977,,Integration_and_Accumulation_of_Change,"An investment of $10,000 earns interest at a rate of 4% per year. What is the total amount of interest earned after 5 years?"
+978,,Integration_and_Accumulation_of_Change,"The rate at which a population of rabbits is growing is given by the function R(t) = 3t^2 + 5t, where t is measured in years. What is the total change in population after 2 years?"
+979,,Integration_and_Accumulation_of_Change,A force of 10 Newtons is applied to an object over a displacement of 5 meters. Determine the work done by the force on the object in Joules.
+980,,Integration_and_Accumulation_of_Change,What is the definite integral of f(x) from 0 to 5?
+981,,Integration_and_Accumulation_of_Change,Find the area under the curve of y = 2x^3 + 5x - 3 from x = -1 to x = 2.
+982,,Integration_and_Accumulation_of_Change,"If the velocity of an object is given by v(t) = 3t^2 + 5t, what is its displacement from t = 0 to t = 4?"
+983,,Integration_and_Accumulation_of_Change,"Given f(x) = 4x^2, what is the antiderivative of f(x)?"
+984,,Integration_and_Accumulation_of_Change,Compute the definite integral of g(x) = 1/x from x = 1 to x = 3.
+985,,Integration_and_Accumulation_of_Change,Determine the total distance traveled by an object with velocity v(t) = 4t^2 + 6t from t = 0 to t = 5.
+986,,Integration_and_Accumulation_of_Change,Find the antiderivative of h(x) = 2sin(x) + 3cos(x).
+987,,Integration_and_Accumulation_of_Change,A bowl of soup starts at 200°F and cools to room temperature (70°F) in 10 minutes. Find the average rate of change of temperature in Fahrenheit per minute.
+988,,Integration_and_Accumulation_of_Change,A car is traveling at a constant velocity of 50 mph. How far does it travel in 4 hours?
+989,,Integration_and_Accumulation_of_Change,"Given the function f(x) = 8x^3 - 12x + 5, what is the change in the function from x = 1 to x= 5?"
+990,,Integration_and_Accumulation_of_Change,Find the indefinite integral of f(x) = 3x^2 + 5x + 2.
+991,,Integration_and_Accumulation_of_Change,Evaluate the definite integral ∫^1_0 2x^3 + 4x^2 dx.
+992,,Integration_and_Accumulation_of_Change,Determine the area under the curve y = 4x + 3 from x = 0 to x = 5.
+993,,Integration_and_Accumulation_of_Change,Calculate the net change in position of an object moving at a constant velocity of 5 m/s for 10 seconds.
+994,,Integration_and_Accumulation_of_Change,"Given the derivative of a function f(x), find the original function."
+995,,Integration_and_Accumulation_of_Change,"Find the average value of the function g(x) = 2x + 1 on the interval [0, 5]."
+996,,Integration_and_Accumulation_of_Change,A water tank is being filled at a rate of 2 liters/minute. Find the volume of water in the tank after 10 minutes.
+997,,Integration_and_Accumulation_of_Change,Use the method of integration by parts to evaluate ∫xe^x dx.
+998,,Integration_and_Accumulation_of_Change,Find the total distance traveled by an object with velocity v(t) = 2t^2 - 3t + 4 from t = 0 to t = 5.
+999,,Integration_and_Accumulation_of_Change,Determine the total work done by lifting a 50 kg box from the ground to a height of 10 meters.

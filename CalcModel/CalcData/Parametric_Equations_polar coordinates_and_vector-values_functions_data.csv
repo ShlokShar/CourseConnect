@@ -1,0 +1,1004 @@
+,question,topic,quesiton
+0,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the equation of the tangent line to the polar curve r=2cos(theta)+3sin(theta) at the point (pi/4, sqrt(2))."
+1,,Parametric_Equations_polar coordinates_and_vector-values_functions,"For a particle moving along the polar curve r=4sin(theta), determine the velocity and speed at theta=pi/3."
+2,,Parametric_Equations_polar coordinates_and_vector-values_functions,Write the parametric equations for the polar curve r=2sin(2theta) in Cartesian form.
+3,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the length of the arc of the polar curve r=2theta from theta=0 to theta=pi/4.
+4,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t)=<cos(t), t, sin(t)> for t in [0, 2pi], find the velocity, acceleration, and speed at t=pi/4."
+5,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Solve the differential equation d^2r/dt^2 = -c^2r for a particle moving along a polar curve, where c is a constant."
+6,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar equation r=3+2cos(theta), find the horizontal and vertical asymptotes of the curve."
+7,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area enclosed by the polar curve r=5cos(theta).
+8,,Parametric_Equations_polar coordinates_and_vector-values_functions,"For a particle moving along the path r=2sin(theta)+3cos(theta), find the total distance traveled when theta goes from 0 to 2pi."
+9,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the vector-valued function representing the line tangent to the polar curve r=2/(1+2cos(theta)) at the point (pi/3, 2)."
+10,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the area under the curve r=2cos(t), from θ=0 to θ=π"
+11,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the tangent line to the curve r=3sin(t)+2cos(t) at θ=π/4
+12,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the length of the arc of the curve r=4ln(t)+3 at θ=1 and θ=2
+13,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector function r(t)=[3sin(t), 4cos(t)], find the curvature of the curve at t=π/6"
+14,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the function r(t)=[3t^2, 2e^t] with respect to t"
+15,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the points on the polar curve r=2sin(θ) where the tangent line is horizontal
+16,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the equation of the normal line to the polar curve r=3θ at θ=π/3
+17,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Calculate the rate of change of the vector function r(t)=[t^2, e^-t] at t=2"
+18,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x=2cos(t), y=3sin(t), find the equation of the tangent line at t=π/4"
+19,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the minimum value of r=2sin(θ)+5cos(θ) and the θ-value associated with it.
+20,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the parametric equations x = 2cos(t) and y = 3sin(t).
+21,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the tangent line to the polar curve r = 2sin(θ) + cos(θ) at θ = π/4.
+22,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = <2t, 3t^2, 5t>, find the velocity and acceleration vectors at t = 2."
+23,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area of the region bounded by the polar curve r = 1 + 2sin(θ).
+24,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If the position vector of a particle in motion is given by r(t) = <3cos(t), 4sin(t)>, find its speed and acceleration at t = π/2."
+25,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the derivative of the vector-valued function r(t) = <cos(t), sin(t), t>."
+26,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the equation of the tangent line to the parametric curve x = t^2, y = 3t at t = 1."
+27,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar curve r = 4cos(θ), find the distance traveled by a particle on the curve in one full revolution (from θ = 0 to θ = 2π)."
+28,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the equation of the normal line to the polar curve r = 2sin(2θ) at θ = π/4.
+29,,Parametric_Equations_polar coordinates_and_vector-values_functions,"For the vector-valued function r(t) = <e^t, t^2, t>, find the unit tangent vector at t = 1.]"
+30,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the tangent line to the parametric curve x = cos(t), y = sin(t) at t = pi/4."
+31,,Parametric_Equations_polar coordinates_and_vector-values_functions,Solve for the area enclosed by the polar curve r = 3sin(theta).
+32,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the derivative of the vector-valued function r(t) = t^2 i + 3t j - 4t k?
+33,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = t^2, y = t+1, find the coordinates of the intersection point between the curve and the line y = x + 2."
+34,,Parametric_Equations_polar coordinates_and_vector-values_functions,Calculate the distance traveled by an object moving along the polar curve r = 2cos(theta) from theta = 0 to theta = pi/3.
+35,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the unit vector tangent to the curve represented by r(t) = t i + 2sin(2t) j + 3 cos(2t) k.
+36,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the slope of the tangent line to the polar curve r = 3cos(theta) + 4sin(theta) at theta = pi/6.
+37,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector function r(t) = 2t^2 i + 3sin(t) j + 6t k, find the magnitude of the acceleration vector at t = 2."
+38,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Solve for the area enclosed by the parametric curve x = 2cos(t), y = 2sin(t), z = 3sin(2t)."
+39,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If a vector-valued function r(t) = 2t i + 5t^2 j + 3k is used to represent the motion of an object, at what time t will the object have the maximum speed?"
+40,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the parametrically defined curve $x = \cos(t)$, $y = \sin(t)$ at the point $(\frac{\pi}{4}, \frac{\sqrt{2}}{2})$."
+41,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar curve $r = 2\cos\theta$, what is the value of $r$ when $\theta = \frac{\pi}{6}$?"
+42,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the vector-valued function $\vec{f}(t) = \langle 2t, 3t^2 + 1, \frac{1}{t} \rangle$."
+43,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations $x = t^2 + 1$, $y = t^3 + 2t$, find the point(s) on the curve where the tangent line is parallel to the line $y = 2x + 3$."
+44,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the slope of the tangent line at the point where the polar curve $r = 3\sin(2\theta)$ intersects the line $\theta = \frac{\pi}{4}$.
+45,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the arc length of the vector-valued function $\vec{g}(t) = \langle \cos(t), \sin(t), t \rangle$ over the interval $[0, \frac{\pi}{2}]$."
+46,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations $x = \cos t$, $y = \sin t$, find the area bounded by the curve and the y-axis for $0 \leq t \leq \frac{\pi}{4}$."
+47,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the angle between the tangent lines at the points where the parametric curve $x = \sin t$, $y = 3 \cos t$ intersects itself."
+48,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the polar curve $r = 2\cos^2 \theta + 3\sin \theta$ at the point where $\theta = \frac{3\pi}{4}$.
+49,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function $\vec{h}(t) = \langle e^t, \frac{1}{t^2 + 1}, \ln(|t| + 1) \rangle$, find the unit tangent vector at $t = 1$."
+50,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Calculate the arc length of the parametric curve defined by x = sin t, y = cos t for t in [0, pi]."
+51,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the tangent line to the polar curve r = 2 + 4 cos theta at the point (2, pi/2)."
+52,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area enclosed by the polar curve r = 1 + cos theta.
+53,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the limit of the vector-valued function v(t) = (t^2, 4/t, t) as t approaches infinity."
+54,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the radius of curvature of the polar curve r = 1 + cos theta at the point (1, pi/4)."
+55,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Compute the double integral over the region enclosed by the curves x = r cos theta, y = r sin theta, and r = 4."
+56,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the vector-valued function r(t) = (cos t, sin t, t^2)."
+57,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area of the region bounded by the polar curves r = 3 sin theta and r = 6 cos theta.
+58,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the limit of the polar curve r = theta as theta approaches zero.
+59,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = (t, t^2, t^3), find the unit tangent vector at t = 3."
+60,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the polar equation for a circle centered at the origin with radius 3?
+61,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the vector-valued function r(t) = <cos(t), sin(t)>."
+62,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area enclosed by the cardioid r = 2 + 2cos(theta).
+63,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = 2t, y = t^2, find the slope of the tangent line at t = 1."
+64,,Parametric_Equations_polar coordinates_and_vector-values_functions,"For the polar equation r = 3cos(2theta), what is the distance between the origin and the point where theta = pi/4?"
+65,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the unit tangent vector for the vector-valued function r(t) = <t, 2t^2>."
+66,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the Cartesian equation for the polar graph r = 3sin(theta)?
+67,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area of the region enclosed by the curves r = 2 + cos(theta) and r = 4 - sin(theta).
+68,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar equation r = 3cos(theta) + 2, what is the maximum value of r?"
+69,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the parametric equations x = cos(t)^2, y = sin(t)^2."
+70,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the gradient of the parametric equation x = t^2 + 5, y = 2t + 1."
+71,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the velocity and acceleration vectors of a particle in polar coordinates with a position function given by r(t) = 2cos(t) i + 3sin(t) j.
+72,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What is the curvature of the curve defined by the parametric equation x = 3t^2 + 2, y = 2t^3 – 5 at t = 1?"
+73,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the arc length of a curve described by r(t) = t^2 i + t j at t = 5.
+74,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the unit tangent vector for the vector-valued function r(t) = 4t^2 i + 3√t j at t = 4?
+75,,Parametric_Equations_polar coordinates_and_vector-values_functions,Calculate the surface area of the surface generated by rotating the polar curve r = sin(θ) over the interval π/3 ≤ θ ≤ 2π/3 about the x-axis.
+76,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the normal vector of the curve described by the vector-valued function r(t) = 2t i + (t^2 + 3) j at t = 2.
+77,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area enclosed by the polar curve r= 2sin(2θ).
+78,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the limit as t approaches 0 of the vector-valued function r(t) = t sin(1/t) i + t cos(1/t) j.
+79,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the vector equation of the tangent line to the polar curve r = 2θ at θ = π/4.
+80,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the parametric curve given by x = 2t^2, y = t^3 at the point t = 2."
+81,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the length of the curve described by x = cos(t), y = sin(t) from t = 0 to t = 2π."
+82,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find all points on the circle r = 3sin(t) that have a tangent line with slope -1/2.
+83,,Parametric_Equations_polar coordinates_and_vector-values_functions,Evaluate ∫cos(t) dt from 0 to π/2 using the substitution u = sin(t).
+84,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the points of intersection between the curves r = 1+cos(t) and r = 1-sin(t).
+85,,Parametric_Equations_polar coordinates_and_vector-values_functions,A particle moves along the curve r = 4θ as θ increases from 0 to π/2. Find the displacement of the particle.
+86,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the curvature of the parametric curve x = 2cos(t), y = 2sin(t) at t = π/4."
+87,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area enclosed by the polar curve r = 4sin(3θ).
+88,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the length of the curve given by r = 2θ^(1/3) from θ = 0 to θ = 8.
+89,,Parametric_Equations_polar coordinates_and_vector-values_functions,A vector-valued function is given by r(t) = cos(t) i + sin(t) j. Find the velocity and acceleration vectors when t = π/2.
+90,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the parametric equations for the line tangent to the curve defined by the polar equation r = 3cos(θ) at θ = π/4.
+91,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area bounded by the polar curve r = 2sin(2θ) and the line θ = π/4.
+92,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Express the vector-valued function r(t) = (2cost, 3sint, 5t) in terms of cylindrical coordinates."
+93,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the unit tangent and normal vectors for the curve defined by the vector-valued function r(t) = (t, t^2, t^3)."
+94,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the arc length of the curve given by the vector-valued function r(t) = (3cos(t), 3sin(t), 2t) from t = 0 to t = π/4."
+95,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What is the derivative of the parametric equations x = 4t^2, y = 5t^3 with respect to t?"
+96,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the polar equation for the line through the point (3,π/6) with slope 2."
+97,,Parametric_Equations_polar coordinates_and_vector-values_functions,Express the polar equation r = 2sin(2θ) in cartesian coordinates.
+98,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the vector-valued function for the curve defined by the polar equation r = 4cos(2θ).
+99,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the curvature at θ = π/3 for the curve given by the parametric equations x = cos(2θ), y = sin(2θ)."
+100,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equations for the ellipse with foci at (-3,0) and (3,0) and major axis of length 8."
+101,,Parametric_Equations_polar coordinates_and_vector-values_functions,Convert the polar equation r = 4cosθ to Cartesian coordinates.
+102,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the curve defined by the vector-valued function r(t) = <3t, t^2, 2t> at the point (1,1,2)."
+103,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area enclosed by the polar curve r = 2sin(2θ).
+104,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the parametric equations x = 2t^2 + 1, y = t - 2t^2."
+105,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Convert the vector-valued function r(t) =<cos(t), sin(t), t> to polar coordinates."
+106,,Parametric_Equations_polar coordinates_and_vector-values_functions,"A particle moves along the curve defined by the vector-valued function r(t) = <4cos(2t), 9sin(2t), 8t>. Find the particle's speed at t=π/4."
+107,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area of the region bounded by the polar curve r = 5sin(2θ) and the line θ = π/4.
+108,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = 3cos(t), y = 2sin(t), find the equation of the tangent line at t=π/6."
+109,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Convert the vector-valued function r(t) = <e^t, t, e^-t> to Cartesian coordinates."
+110,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equations for the line segment connecting the points (3,2) and (6,4)."
+111,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the curvature of the polar curve r = 2cos(θ) at θ = π/4.
+112,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the vector-valued function r(t) = <3cos(t), 4sin(t)> representing the motion of a point on a circle with radius 5."
+113,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the slope of the tangent line to the polar curve r = 3sin(2θ) at θ = π/6?
+114,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = <2cos(t), 3sin(t)>, what is the acceleration vector at t = 3?"
+115,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 4sin(θ) and the line θ = π/4.
+116,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the vector-valued function r(t) = <2cos(t), 4sin(t)>."
+117,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the length of the polar curve r = 3cos(2θ) from θ = 0 to θ = π/4?
+118,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the parametric equations for the curve represented by the polar equation r = 5 - 3sin(θ).
+119,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = <2sin(t), 3cos(t)>, find the unit tangent vector at t = π/3."
+120,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the tangent line to the parametric curve x(t) = 3t^2 + 5t, y(t) = 2t + 6 at t = 2."
+121,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area enclosed by the polar curve r = 4sin(2θ).
+122,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the velocity and acceleration vectors for the particle moving along the curve r = 2cos(3θ) at θ = π/2.
+123,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If a particle travels along the curve r(t) = 2t^2 i + 6t j + t^3 k, find its distance traveled after 4 seconds."
+124,,Parametric_Equations_polar coordinates_and_vector-values_functions,Convert the polar equation r = 4sec(θ) to Cartesian coordinates.
+125,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the slope of the tangent line to the curve r = 3 + 8sin(θ) at θ = π/6.
+126,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Write the vector-valued function for the curve given by x(t) = cos(t), y(t) = sin(t), z(t) = t^2 - 1."
+127,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the unit normal vector to the curve r(t) = t^2 i + 3t j + 2k at t = 4.
+128,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area of the region enclosed by the curves r = sin(θ) and r = 2cos(θ).
+129,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = 4t^2 i + 3cos(3t) j + 7sin(t) k, find the velocity and acceleration vectors at t = 5."
+130,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equations for the curve defined by the polar coordinates (3, pi/4)"
+131,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Calculate the slope of the vector-valued function r(t) = <t^2, 3t> at t = 2"
+132,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = <sin t, t>, find the unit tangent vector at t = pi/3"
+133,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Express the vector-valued function r(t) = <e^t, cos t> in polar coordinates"
+134,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the vector-valued function r(t) = <2t^3, sin t> with respect to t"
+135,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the Cartesian equation of the curve defined by the parametric equations x = 2 + cos t, y = 3 + sin t"
+136,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = <t^2, ln t>, find the unit normal vector at t = 1"
+137,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Convert the parametric equations x = cos t, y = sin t into a vector-valued function"
+138,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the curvature of the curve defined by the parametric equations x = 4t^2, y = 3t^3 at t = 1"
+139,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Differentiate the vector-valued function r(t) = <t^2, e^t> with respect to t and find the equation for the tangent line at t = 0"
+140,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the polar coordinates of the point (3, 4) in Cartesian coordinates."
+141,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the vector-valued function for the curve defined by the parametric equations x = cos(t) and y = sin(t).
+142,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What is the derivative of the vector-valued function r(t) = (2t, t^2, 4t + 1)?"
+143,,Parametric_Equations_polar coordinates_and_vector-values_functions,A particle moves along the curve defined by the parametric equations x = cos(t) and y = sin(t). Find the velocity vector at t = pi/4.
+144,,Parametric_Equations_polar coordinates_and_vector-values_functions,Graph the parametric equations x = 2cos(t) and y = 4sin(t) and determine the shape of the resulting curve.
+145,,Parametric_Equations_polar coordinates_and_vector-values_functions,The curve defined by the parametric equations x = 2t^3 and y = 3t^2 has a tangent line at t = 1. Find the slope of the tangent line.
+146,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = (3cos(t), 2sin(t)), find the curvature at t = pi/3."
+147,,Parametric_Equations_polar coordinates_and_vector-values_functions,A particle moves along the polar curve r = 4sin(2theta). Find the acceleration vector at theta = pi/6.
+148,,Parametric_Equations_polar coordinates_and_vector-values_functions,The polar equation r = 2cos(theta) describes a circle. Find the radius and center of the circle.
+149,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 1 + cos(theta).
+150,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equations for a circle with center (3,2) and radius 5."
+151,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x=3cos(t) and y=4sin(t), find the Cartesian equation for the curve."
+152,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the polar coordinates of the point (4, -3) given the Cartesian coordinates x=4 and y=-3."
+153,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the length of the curve given by the parametric equations x=t^2, y=3t from t=0 to t=4."
+154,,Parametric_Equations_polar coordinates_and_vector-values_functions,"A car drives along a straight road with parametric equations x=2t, y=t^2. Find the velocity and acceleration of the car at t=2."
+155,,Parametric_Equations_polar coordinates_and_vector-values_functions,"A particle moves along a path described by the vector-valued function r(t) = <t^2, 3t, -4t>. Find the position, velocity, and acceleration at t=2."
+156,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equations for the line passing through the points (3,2) and (6,5)."
+157,,Parametric_Equations_polar coordinates_and_vector-values_functions,The graph of a polar curve is given by the equation r=4sin(4θ). Find the maximum and minimum distance from the origin.
+158,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r=3θ and the line θ=π/6.
+159,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the unit tangent and normal vectors to the curve r=2sin(3θ) at θ=π/4.
+160,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the parametric equations for the curve given by the polar equation r = 2sin(2θ).
+161,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the slope of the tangent line to the curve defined by the parametric equations x = 3cos(t), y = 4sin(t) at t = π/4."
+162,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the polar equation of the line passing through the point (2,π/4) with slope -1."
+163,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = <3cos(t), 2sin(t), t>, find the unit tangent and normal vectors at t = π/3."
+164,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the area enclosed by the curve with parametric equations x = 3sin(2t), y = 4cos(t) for -π/2 ≤ t ≤ π/2."
+165,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the curvature of the curve defined by the polar equation r = 2sin(3θ)?
+166,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the parametric equation for the tangent line to the curve x = 2t, y = t^2 at the point (3, 9)."
+167,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the vector-valued function describing the motion of an object with position vector r(t) = <2cos(t), 5sin(t), t^2>."
+168,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the polar equation for the circle with center (1,π/4) and radius 3."
+169,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = <t^2, 2t, 3>, find the velocity and acceleration at t = π/3."
+170,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the polar curve r = 2cos(2θ).
+171,,Parametric_Equations_polar coordinates_and_vector-values_functions,"A projectile is launched at a speed of 30 m/s and an angle of 45° with respect to the horizontal. Express the path of the projectile in terms of parametric equations, where x represents the horizontal distance traveled and y represents the vertical distance traveled."
+172,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Calculate the curvature of the vector-valued function r(t) = (t, t^2, t^3) at t = 2."
+173,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar equation r = a sin(θ), where a is a constant, find the area enclosed by one loop of the curve."
+174,,Parametric_Equations_polar coordinates_and_vector-values_functions,"A race car is traveling around a circular track with a radius of 100 meters. The car's position at any given time is described by the vector-valued function r(t) = (100cos(t), 100sin(t)). Find the speed and acceleration of the car at t = π/2 seconds."
+175,,Parametric_Equations_polar coordinates_and_vector-values_functions,Convert the polar equation r = 2sin(3θ) to Cartesian form.
+176,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the arc length of the curve described by the parametric equations x = t^2, y = t^3, from t = 0 to t = 1."
+177,,Parametric_Equations_polar coordinates_and_vector-values_functions,"The vector-valued function r(t) = (cos(t), t^2, sin(t)) represents the position of a particle in three-dimensional space at time t. Find the speed and acceleration of the particle at t = π."
+178,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the slope of the tangent line to the polar curve r = 2 + cos(θ) at θ = π/4.
+179,,Parametric_Equations_polar coordinates_and_vector-values_functions,"An object is moving on a straight line and its position at time t is given by the vector-valued function r(t) = (2t, t², 3t³). Find the average velocity of the object on the interval [1, 3] and the instantaneous velocity when t = 2."
+180,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the curve given by the parametric equations x = 2cos(t), y = 3sin(t) at t = π/4."
+181,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the points of intersection between the curve r = 2sin(θ) and the line θ = π/3.
+182,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Show that the parametric equations x = t^3, y = t^2 represent a parabola."
+183,,Parametric_Equations_polar coordinates_and_vector-values_functions,Calculate the velocity vector for the particle moving along the curve r = 5sin(2θ) at θ = π/6.
+184,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the equation of the normal line to the curve given by the vector-valued function r(t) = <3t, 2t^2, t^3> at t = 2."
+185,,Parametric_Equations_polar coordinates_and_vector-values_functions,What are the domain and range of the function represented by the polar curve r = 2cos(θ)?
+186,,Parametric_Equations_polar coordinates_and_vector-values_functions,Show that the polar curve r = 1 + 2sin(θ) and the cartesian curve y = 1 + 2x have the same shape.
+187,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 3sin(2θ).
+188,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What is the derivative of the vector-valued function r(t) = <4t, t^2, 2t^3>?"
+189,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the polar equation for the conic section represented by the cartesian equation x^2 + y^2 = 9.
+190,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equations for a circle with center (3,4) and radius 5."
+191,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the curve r = 4sin(θ) in polar coordinates.
+192,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = t^2 and y = 2t, find the equation for the tangent line at t = 3."
+193,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the velocity and acceleration vectors for the parametric equations x = cos(t) and y = sin(t).
+194,,Parametric_Equations_polar coordinates_and_vector-values_functions,At what point on the curve r = 3sin(2θ) does the tangent line have a slope of 1?
+195,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the vector-valued function r(t) = t^2 i + (1/t) j at t = 2.
+196,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Write the vector-valued function for a line passing through the points (1,2) and (5,7)."
+197,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the length of the curve given by the parametric equations x = t^3 and y = 3t^2 from t = 0 to t = 2.
+198,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the unit tangent and unit normal vectors for the curve r(t) = t i + cos(t) j + sin(t) k.
+199,,Parametric_Equations_polar coordinates_and_vector-values_functions,The position of a particle moving along a curve in three-dimensional space is given by r(t) = (2t)i + (t^2 + 1)j + (3-2t)k. Find the acceleration at t = 1.
+200,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed between the curves r=3 and r=4sin(theta).
+201,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the slope of the tangent line at the point (pi/4, 2) on the curve r=3sin(theta)+5."
+202,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given a position vector r(t)=3t^2i + 4e^tj, find the velocity and acceleration vectors at t=2."
+203,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the length of the polar curve r=2-2sin(theta).
+204,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given a vector-valued function r(t)=4sin(t)i + 5cos(t)j, find the value of t that maximizes the magnitude of r(t)."
+205,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the curvature of the parametric curve x=3cos(t) and y=2sin(t) at t=pi/6.
+206,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the intersection points between the polar curves r=2cos(theta) and r=4sin(theta).
+207,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given a velocity vector v(t)=3sin(t)i + 4cos(t)j and a position vector r(0)=i + 2j, find the position vector at t=pi."
+208,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the vector-valued function r(t)=e^tcos(t)i + e^tsin(t)j.
+209,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given a vector-valued function r(t)=2cos(t)i + 3sin(t)j, find the value of t that minimizes the distance from the point (5,2) to the curve."
+210,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the parametric equations for the curve described by x = 3cos(t) and y = 2sin(t).
+211,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the polar coordinates for the point (3,4)."
+212,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = <2t, t^2, 3>, find r'(t)."
+213,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the parametric equations x = cos(t) and y = sin(t)^2.
+214,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 2cos(3θ).
+215,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the unit vector in the direction of the vector v = <2, 4>."
+216,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the curvature of the helix r(t) = <3cos(t), 3sin(t), 4t>."
+217,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the equation of the tangent line to the curve x = t^2 - 3t and y = t^3 + 2 at the point (1,3)."
+218,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the equation of the plane containing the points P(-1,3,2), Q(2,4,6), and R(5,1,4)."
+219,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the arc length of the curve represented by the vector-valued function r(t) = <t^2, 2t, t>."
+220,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equations for the line segment connecting the points (3, 2) and (6, 5)."
+221,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the area enclosed by the function r = 4sin(θ) in polar coordinates?
+222,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the vector-valued function r(t) for the position of a particle moving along the curve y = 2x^2 + 1, where t is time."
+223,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the slope of the tangent line to the parametric curve x = t^2 and y = 3t at t = 2.
+224,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the length of the arc of the parametric curve x = cos(t) and y = sin(t) from t = 0 to t = π.
+225,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = 2t^2i + 3tj + (3/t)k, find the acceleration vector at t = 2."
+226,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the closest point on the curve x = cos(t) and y = sin(t) to the point (2, -1)."
+227,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the area of the region bounded by the parametric curve x = 2t and y = t^2 from t = 0 to t = 3?
+228,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar equation r = 3cos(θ) and the point P(1, π/4), find the slope of the line tangent to the curve at P."
+229,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area of the region bounded by the polar curve r = cos(3θ) and the lines θ = π/4 and θ = π/2.
+230,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the composite function for a parametric equation in polar coordinates given by r = 2cosθ and θ = 3t.
+231,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Calculate the polar derivative of a vector-valued function V(t) = (2t, 3sin(t)) at t = π/4."
+232,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Simplify the integral of a vector-valued function F(t) = (sin(t), cos(t), 1) from 0 to π/2."
+233,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = rcosθ and y = rsinθ, find a polar equation for the curve r = 3sin(2θ)."
+234,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the arc length of a polar curve given by r = 4θ and θ = t² from θ = 0 to θ = 4.
+235,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the equation of the tangent line at t = π/4 for a vector-valued function F(t) = (3cos(t), 2sin(t), t)."
+236,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = cos(2θ) and θ = t from t = 0 to t = π/4.
+237,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Calculate the gradient of a polar vector-valued function V(t) = (3sin(2t), 4cos(2t)) at t = π/6."
+238,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the curvature of a parametric equation in polar coordinates given by r = 3cos(5θ) and θ = 2t.
+239,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function H(t) = (sin(t), 2cos(t), t), find the limit as t approaches infinity."
+240,,Parametric_Equations_polar coordinates_and_vector-values_functions,
+241,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the arc length of the polar curve r = 3sin(θ) from θ = 0 to θ = π.
+242,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the vector-valued function r(t) = ⟨3cost, 4sint⟩."
+243,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = 2t, y = 3t^2, find the points where the curve intersects the x-axis."
+244,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If a particle travels along the path defined by the vector-valued function r(t) = ⟨2cost, sint, t^2⟩, what is the speed of the particle at t = 2?"
+245,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 2sin(θ).
+246,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = ⟨t + 1, 2t^2 - 1⟩, find the velocity and acceleration at t = 3."
+247,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What is the slope of the tangent line to the parametric curve x = sin(t), y = sin(2t) at t = π/6?"
+248,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the unit tangent vector to the polar curve r = 2cos(θ) at θ = π/4.
+249,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the acceleration of a particle moving along the path defined by the vector-valued function r(t) = ⟨t^2, t + 1, 2t^2⟩."
+250,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If a curve is defined by the parametric equations x = 2sin(t), y = cos(2t), find the points where the curve intersects the y-axis."
+251,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the parametric equations for the line given by the vector-valued function r(t) = (2t+1)i + (3t+2)j.
+252,,Parametric_Equations_polar coordinates_and_vector-values_functions,Graph the polar curve r = 3cos(2θ) and find its slope at θ=π/6 using calculus.
+253,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the polar curve r = e^θ with respect to θ and evaluate it at θ = 0.
+254,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the tangent line to the polar curve r = 2cosθ at θ=π/4.
+255,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the equation of the tangent line to the polar curve r = 4sinθ at the point (π/2, 2)."
+256,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 2θ and the ray θ=π/3 using integration.
+257,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the length of the arc on the polar curve r = 3sinθ, between θ=0 and θ=π/3 using calculus."
+258,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the curl of the 2D vector field F = (y, -x) at the point (1, 2)."
+259,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the divergence of the 3D vector field F = (2x, 3y, z) at the point (3, 2, 1)."
+260,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the surface S defined by the vector-valued function r(u,v) = (u-v)i + (2u+v)j + (3u^2)k, find the unit normal vector at the point (1,0,3) on the surface using calculus."
+261,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = 3cos(t), y = 2sin(t), find the equation of the tangent line at t = 2."
+262,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If a particle moves along a circular path given by r = 4 + 2cos(θ), find the magnitude of the velocity vector when θ = π/3."
+263,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the angle between the vectors u = 3i + 2j and v = -2i + j using the dot product.
+264,,Parametric_Equations_polar coordinates_and_vector-values_functions,The initial position of a particle is given by r(0) = -2i + 3j and its velocity is given by v(t) = 2cos(t)i + 3sin(t)j. Find the position function r(t).
+265,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 3sin(2θ).
+266,,Parametric_Equations_polar coordinates_and_vector-values_functions,The position of a particle is given by r(t) = 2cos(t)i + 3sin(t)j + 4t^2k. Find the particle's speed and acceleration at t = 4.
+267,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the length of the curve given by the parametric equations x = cos(t), y = sin(t), z = t from t = 0 to t =π/2."
+268,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the equation of the tangent line at the point (π/4, -π/3) on the curve r = 2 + 3cos(θ)."
+269,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector function r(t) = 2cos(t)i + 3sin(t)j + 4tk, find the acceleration vector at t = π/2."
+270,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the maximum and minimum points of the polar function r = 2sin(θ) on the interval [0, 2π]."
+271,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equations for the line segment connecting the points (3,4) and (-2,-5)."
+272,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the polar coordinates of the point (2,-2) and find the distance from the origin."
+273,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x=3cos(t), y=4sin(t), find the corresponding rectangular equation."
+274,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the curve defined by the polar equation r=2θ at the point (π/4,√2)."
+275,,Parametric_Equations_polar coordinates_and_vector-values_functions,Convert the rectangular equation x^2+y^2=25 to polar coordinates.
+276,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the loop of the polar curve r=4sin(2θ).
+277,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Consider the vector-valued function r(t)=<2cos(t), 3sin(t)> for t≥0. Find the velocity, speed, and acceleration at t=π/6."
+278,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t)=<t, t^2, 2t>, calculate the unit tangent vector and unit normal vector at t=2."
+279,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Convert the vector-valued function r(t)=<2t, t^2, 3> into parametric equations."
+280,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Using the parametric equations x=cos(t) and y=sin(2t), find the equation of the tangent line to the curve at the point (1,√3/2)."
+281,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the polar function r = 2cos(θ) + 3sin(θ).
+282,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = <2t, t^2, 3>, find the unit tangent vector T(t)."
+283,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What is the slope of the tangent line to the parametric equation x = 4sin(t), y = 2cos(t) at t = π/4?"
+284,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the area enclosed by the parametric curve x = 3cos(t), y = 2sin(t) for t ∈ [0, 2π]."
+285,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = <2sin(t), 2cos(t), 3t>, find the acceleration vector a(t) at t = π/2."
+286,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the angle between the tangent line and the radius vector to the polar curve r = 3sin(θ).
+287,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Suppose a particle is moving along the curve described by the parametric equations x = t^2, y = t^3. Find the speed of the particle at t = 2."
+288,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Evaluate the line integral ∫C xy ds, where C is the curve described by the parametric equations x = 4sin(t), y = 6cos(t) for t ∈ [0, π/2]."
+289,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the curvature of the polar curve r = 2sin(θ) + cos(θ).
+290,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = <2cos(t), 2sin(t), t>, find the length of the curve traced out by r(t) for t ∈ [0, π/4]."
+291,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope and curvature of the parametric curve described by x=2cos(t), y=3sin(t)."
+292,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r=2+4cos(theta).
+293,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function v(t)=(2t, 3t+4, 5t^2), determine the velocity, acceleration, and speed at t=2."
+294,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the tangent line to the parametric curve described by x=4t^2, y=(1/2)t^3 at the point (4,16)."
+295,,Parametric_Equations_polar coordinates_and_vector-values_functions,Solve for theta in the polar equation r=4sin(theta).
+296,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the limit as t approaches 5 of the vector-valued function v(t)=(2t-1, 5t^2-3, 4t+2)."
+297,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equations for the line that passes through the points (2,4) and (5,6)."
+298,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the polar curve r=3sin(2theta).
+299,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the arc length of the polar curve r=5cos(theta) from theta=0 to theta=pi/4.
+300,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the velocity and acceleration vectors at t=3 of the vector-valued function v(t)= (ln(t), e^t, t^2)."
+301,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the vector-valued function r(t)= 3t^2 i + 2tj.
+302,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x=cos(t) and y=sin(2t), find the coordinates of the points where the curve intersects the x-axis."
+303,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 2sin(θ).
+304,,Parametric_Equations_polar coordinates_and_vector-values_functions,A particle moves along the curve r = 3sin(2θ) in a polar coordinate system. What is the velocity of the particle at θ= π/4?
+305,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If a curve is described by the parametric equations x=3t^2 and y=5t, find the equation for the tangent line at t=2."
+306,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the slope and equation of the tangent line to the polar curve r=6sin(θ) at the point where θ=π/2.
+307,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t)= 2ti + tj + k, find the unit tangent vector at t=π/3."
+308,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the length of the curve r = 4θ^(3/2) in a polar coordinate system.
+309,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If x=e^t and y=ln(t), find the equation for the tangent line to the curve at t=1."
+310,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the curvature of the curve defined by the parametric equations x = 3t^2 and y = 2t at the point where t = 4.
+311,,Parametric_Equations_polar coordinates_and_vector-values_functions,1. Find the parametric equations for the curve defined by the polar equation r = 2cos(theta).
+312,,Parametric_Equations_polar coordinates_and_vector-values_functions,"2. Determine the vector-valued function for the curve defined by the parametric equations x = t^2, y = 2t^3."
+313,,Parametric_Equations_polar coordinates_and_vector-values_functions,"3. Find the derivative of the parametric equations x = 4cos(t), y = 3sin(t)."
+314,,Parametric_Equations_polar coordinates_and_vector-values_functions,"4. Given a curve with parametric equations x = 2t, y = 4+3t^2, find the slope of the tangent line at t = 1."
+315,,Parametric_Equations_polar coordinates_and_vector-values_functions,"5. Find the length of the curve defined by the vector-valued function r(t) = <t^2, cos(t), sin(t)>."
+316,,Parametric_Equations_polar coordinates_and_vector-values_functions,6. What are the Cartesian coordinates of the point on the curve defined by the polar equation r = 3cos(theta) where theta = pi/4?
+317,,Parametric_Equations_polar coordinates_and_vector-values_functions,"7. If a curve has a parametric equation x = 3cos(t), y = 2sin(t), find the curvature at t = pi/4."
+318,,Parametric_Equations_polar coordinates_and_vector-values_functions,"8. Find the equation of the tangent line to the curve defined by the parametric equations x = 2t^2, y = 5t at the point (2, 20)."
+319,,Parametric_Equations_polar coordinates_and_vector-values_functions,"9. Given a curve with a vector-valued function r(t) = <cos(t), sin(t), t>, find the arc length between t = 0 and t = pi."
+320,,Parametric_Equations_polar coordinates_and_vector-values_functions,10. Find the area enclosed by the curve defined by the polar equation r = 2+cos(theta).
+321,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 2sin(θ).
+322,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the parametric equations for the circle with radius 5 centered at (3, -2)."
+323,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the parametric curve x = 2sin(θ), y = 3cos(θ) at θ = π/4."
+324,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the vector-valued function for the curve given by x = cos(t), y = sin(2t), z = t^2."
+325,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the polar form of the complex number -2 + 4i?
+326,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the parametric equation x = 3 + cos(t), y = 4sin(t)."
+327,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar curve r = 2cos(3θ), find the coordinates of the points of intersection with the line y = 2."
+328,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the equation of the tangent line to the circle with parametric equations x = 4cos(t), y = 4sin(t) at t = π/6."
+329,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the rectangular form of the complex number 3+3i?
+330,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equations for the line passing through the points (1, 2) and (5, 7)."
+331,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the polar curve r = 2cos(θ) at the point (π/4, √2)."
+332,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the area enclosed by the vector-valued function r(t) = (t, t²) and the x-axis for t ∈ [0, 2]."
+333,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Calculate the unit tangent vector T(t) for the parametric curve x = 2t, y = 3t², z = t³ at t = 4."
+334,,Parametric_Equations_polar coordinates_and_vector-values_functions,Express the polar equation r = 2sec(θ) in rectangular form.
+335,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the velocity and acceleration vectors for the parametric curve x = 2cos(3t), y = 5sin(3t), z = 4t at t = π/6."
+336,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area enclosed by the polar curve r = 2sin(2θ) and the origin.
+337,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the unit normal vector N(t) for the vector-valued function r(t) = (t, t², t³) at t = 2."
+338,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Write the vector-valued function r(t) = (t, t², 4t) in cylindrical coordinates."
+339,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the coordinates of the point on the polar curve r = 3sin(θ) closest to the origin.
+340,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the curvature κ(t) for the parametric curve x = 3cos(t), y = 5sin(t), z = 2t at t = π/3."
+341,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the parametric equation x = sin(t), y = cos(t)."
+342,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the slope of the tangent line to the polar curve r = 2cosθ at θ = π/4.
+343,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the curve r = 3sinθ between θ = 0 and θ = π/2.
+344,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Calculate the speed of a particle moving along the curve r = 2θ, θ = 0 at t = 2."
+345,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the unit tangent vector to the curve r = 4 + 3cosθ at θ = π/3.
+346,,Parametric_Equations_polar coordinates_and_vector-values_functions,Evaluate the integral ∫ cos2θ dθ for θ = 0 to θ = 2π.
+347,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the curvature of the curve r = 5sinθ at θ = π/6.
+348,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the equation of the normal line to the curve r = 4θ at θ = π/2.
+349,,Parametric_Equations_polar coordinates_and_vector-values_functions,Calculate the area between the curves r = 2 + 5cosθ and r = 4 - cosθ for θ = 0 to θ = 2π.
+350,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parameterization of the curve in vector-valued form given by x = t2 - t, y = t3 - t, z = 2t for t = 0 to t = 2."
+351,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the vector-valued function for a curve given by the equation x = 3 + 2cos(t), y = 2 + 4sin(t), z = t^2."
+352,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the parametric equations for a circle centered at (1, 2) with a radius of 5 in polar coordinates."
+353,,Parametric_Equations_polar coordinates_and_vector-values_functions,Write the polar equation for a cardioid with a focus at the origin and a distance between each loop of 3.
+354,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector function r(t) = <2t, t^2, 3t>, find the velocity and acceleration vectors at t = 3."
+355,,Parametric_Equations_polar coordinates_and_vector-values_functions,Solve for the polar coordinates of the point where the line x + y = 5 intersects with the circle x^2 + y^2 = 10.
+356,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equations for the line with the vector equation <3, 4, 5> + t<2, -1, 3>."
+357,,Parametric_Equations_polar coordinates_and_vector-values_functions,What are the polar coordinates of the point where the curve r(t) = 3sin(t)i + 2cos(t)j intersects with the line y = 4x?
+358,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the equation of the tangent line to the curve given by the vector-valued function <2t, 3t^2, 2t^3> at the point (2, 12, 16)."
+359,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the polar equation of a spiral with 5 loops and a radius increasing by 2 with each loop.
+360,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector function v(t) = <2sin(t), 4cos(t), t^2>, what is the speed of the particle at t = 5?"
+361,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = t^2 and y = t^3, find the slope of the tangent line at t = 2."
+362,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the polar equation of the curve represented by the parametric equations x = 3cos(t) and y = 4sin(t).
+363,,Parametric_Equations_polar coordinates_and_vector-values_functions,A particle moves along a path described by the parametric equations x = 2t and y = 4t^2. Find the speed of the particle at t = 3.
+364,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the curve described by the parametric equations x = 2cos(t) and y = 3sin(t).
+365,,Parametric_Equations_polar coordinates_and_vector-values_functions,"A vector-valued function is given by r(t) = <2t, 3t^2, 4t + 5>. Find the velocity and acceleration of the particle at t = 2."
+366,,Parametric_Equations_polar coordinates_and_vector-values_functions,A curve is defined by the parametric equations x = cos(t) and y = sin(t). Find the length of the arc from t = 0 to t = π/2.
+367,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the equation of the tangent line to the polar curve r = 2cos(θ) at θ = π/4.
+368,,Parametric_Equations_polar coordinates_and_vector-values_functions,"A particle moves along a curve described by the vector-valued function r(t) = <2t, t^2, √t>. Find the unit tangent and normal vectors at t = 3."
+369,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area of the region enclosed by the cardioid described by the polar equation r = 2 - 2cos(θ).
+370,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If a particle moves along the curve described by the parametric equations x = sin(t) and y = cos(t), find the points where the curvature is zero."
+371,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the parametric curve x = t^2, y = t^3 at the point (4, 8)."
+372,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the length of the arc on the curve r = 2θ + 1 from θ = 0 to θ = π?
+373,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the speed of a particle moving along the vector-valued function r(t) = <t^2, 3t, cos(t)> at t = 2."
+374,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Show that the parametric equations x = 2sin(t), y = 3cos(t) represent a circle and find the radius."
+375,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the curve r = 4θ and the line θ = π/4.
+376,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = <e^t, t^2, sin(t)>, find the velocity and acceleration at t = 3."
+377,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the length of the tangent line from the point (4, 3) to the curve r = 3θ^2 + 2θ."
+378,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the equation of the tangent line to the parametric curve x = 4cos(t), y = 2sin(t) at the point (0, 2)."
+379,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area of the region bounded by the curves r = 2sin(θ) and r = cos(2θ).
+380,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the unit tangent and unit normal vectors to the curve r = 3cos(θ) at θ = π/3.
+381,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the parametric equation x = 2sin(t), y = 3cos(t)."
+382,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the slope of the polar curve r = 3sin(theta) at theta = pi/6?
+383,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = t^2 and y = 3t, find the equation of the tangent line at t = 2."
+384,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the area between the curves r = 2 + cos(theta) and r = 2 - sin(theta)?
+385,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the second derivative of the vector-valued function r(t) = <cos(t), sin(t), t^2>."
+386,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar function r = 2 + 5sin(theta), find the slope of the tangent line at theta = pi/4."
+387,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the curve r = 2sin(2theta) and the line theta = pi/4.
+388,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the arc length of the vector-valued function r(t) = <2t, 3sin(t), 4cos(t)> on the interval [0, pi]."
+389,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the curvature of the polar curve r = 4cos(theta)^2 + 3sin(theta)^2 at theta = pi/3.
+390,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = t, y = t^2, and z = t^3, find the equation of the tangent plane at t = 2."
+391,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given a parametric curve represented by the equations x = cos(t) and y = sin(t), find the derivative of the curve at t = π/4."
+392,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the polar curve r = 2cosθ + 3sinθ.
+393,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the tangent line to the curve x = t^2 + 1, y = 2t at the point (1, 3)."
+394,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the cardioid r = 3cosθ + 3sinθ.
+395,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If an object is moving along a path given by the parametric equations x = 2t^2, y = t^3, find the acceleration vector at t = 3."
+396,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What is the length of the curve given by the parametric equations x = 2cosθ, y = 2sinθ, where θ ∈ [0, π/2]?"
+397,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the vector function r(t) = (t^2, t^3, t^4)."
+398,,Parametric_Equations_polar coordinates_and_vector-values_functions,"For the polar equation r = 2 + cosθ, find the slope of the tangent line at θ = 3π/4."
+399,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the area bounded by the curve x = t^3, y = t^2, and the x-axis, where t ∈ [0, 2]."
+400,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the velocity and acceleration vectors for the helicopter whose position is given by the vector function r(t) = (2t^2 + 3, 3t - 1, t^3 + 2)."
+401,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the vector-valued function r(t) = <cos(t), 2sin(t), t^2>."
+402,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the slope of the tangent line to the polar curve r = 2cos(3θ) at the point (π/4, 2)."
+403,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = 2t^3 + t, y = t^2 + 3, find the equation of the tangent line to the curve at t = 1."
+404,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 3sin(2θ).
+405,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the arc length of the curve r = 4θ^2 from θ = 0 to θ = π/2.
+406,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector function F(t) = <e^t, 2sin(t), ln(t)>, find the curvature at t = 1."
+407,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the equation of the tangent plane to the surface given by the parametric equations x = θcos(2θ), y = θsin(2θ), z = 5θ at the point (1,1,π)."
+408,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the limit of the polar function r = 1 + (π/4 - θ)^2 as θ approaches π/4.
+409,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Solve for t if the distance between the points P(t) = (t^3, t^2) and Q(t) = (1+t^2, 3) is constant."
+410,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the curvature at the point (2,π/6) for the parametric curve x = t^2 + 1, y = 3t + π/6."
+411,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the parametric equations for the intersection of the parabola y = x^2 and the line y = 3x + 5.
+412,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Write the polar coordinates for the point (-3, 4)"
+413,,Parametric_Equations_polar coordinates_and_vector-values_functions,Calculate the slope of the curve given by the parametric equations x = cos(t) and y = sin(2t) at t = π/4.
+414,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the vector-valued function that represents the path of a particle moving along the curve given by the equation x = t^2, y = t^3, z = t."
+415,,Parametric_Equations_polar coordinates_and_vector-values_functions,Convert the polar equation r = 1 + cosθ to cartesian coordinates.
+416,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = t^3i + 2tj + (5t^2 + 1)k, find the velocity and acceleration vectors at t = 2."
+417,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the length of the polar curve r = 2cosθ from θ = 0 to θ = π/2.
+418,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Write the dot product of the vector (2, -3, 4) and the vector-valued function r(t) = ti + t^2j + tk."
+419,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 3cos(2θ).
+420,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = t^2 + 1, y = 4t^2 - 3t + 1, find the equation of the tangent line at t = 2."
+421,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the arc length of the curve described by the parametric equations x = cos(t) and y = sin(t) from t = 0 to t = 2π.
+422,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What is the slope of the tangent line to the curve r = 2θ at the point (0, π/4)?"
+423,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = <t, t^2, t^3>, find the velocity and acceleration vectors at t = 2."
+424,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the curve r = 3sin(θ).
+425,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the curvature of the curve r = 2 + cos(3θ) at the point (1, π)."
+426,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the length of the polar curve r = 1 + 2sin(θ) from θ = 0 to θ = π.
+427,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar curve r = cos(3θ), find the equation of the tangent line at the point (1, π/3)."
+428,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the curve r = 2θ at the point (1, 2)."
+429,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the acceleration vector for the vector-valued function r(t) = <3t, 4t^2, t^3>."
+430,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area between the polar curves r = 2cos(θ) and r = sin(2θ).
+431,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the parametric curve x = 2cos(t), y = 3sin(t) at t = π/4."
+432,,Parametric_Equations_polar coordinates_and_vector-values_functions,Calculate the arc length of the polar curve r = 2θ from θ = 0 to θ = π.
+433,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the equation of the tangent line to the vector-valued function r(t) = <cos(t), sin(t), t> at t = π/3."
+434,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area bounded by the polar curve r = 3sin(2θ).
+435,,Parametric_Equations_polar coordinates_and_vector-values_functions,What are the parametric equations for the line tangent to the curve r = 2cos(5t) at t = π/6 in polar coordinates?
+436,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the curvature of the curve r(t) = <3t, t^2, 4t> at t = 2."
+437,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the limit of the vector-valued function r(t) = <t^2, e^t, sin(t)> as t approaches ∞."
+438,,Parametric_Equations_polar coordinates_and_vector-values_functions,Calculate the slope of the tangent line to the polar curve r = 2+2cos(θ) at θ = π/4.
+439,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the vector-valued function r(t) that has the slope function f(t) = 2t^3 + 4 as its derivative.
+440,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the parametric curve x = 2t^2, y = 3t^3 with respect to t."
+441,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the parametric equations for the curve described by the polar equation r = sin(3θ).
+442,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar equation r = 2cosθ, find the corresponding Cartesian equation."
+443,,Parametric_Equations_polar coordinates_and_vector-values_functions,Write the parametric equations for a circle centered at the origin with radius 2.
+444,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the parametric equations x = t^2, y = e^t."
+445,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the slope of the tangent line to the polar curve r = 2sin(θ) at θ = π/4?
+446,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the curve given by the polar equation r = 3cos(2θ).
+447,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If a particle moves along a polar curve r = 2θ and its angular speed is constant, what is its linear speed?"
+448,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the second derivative of the parametric equations x = sin(t), y = cos(3t)."
+449,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = t^3 + t, y = t^2 - t, at what point does the curve cross the x-axis?"
+450,,Parametric_Equations_polar coordinates_and_vector-values_functions,"A particle is moving along a spiral with polar equation r = 5e^θ. Find its position, velocity, and acceleration vectors at θ = π/6."
+451,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the tangent line to the polar curve r = 2sin(θ) at the point (π/3, √3)."
+452,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar equation r = 3cos(θ), find the area bounded by the curve and the line θ = π/6."
+453,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the polar curve r = 4cos(2θ) at the point (π/4, -2)."
+454,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area between the curves r = 2 + cos(θ) and r = 3sin(θ) in the first quadrant.
+455,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the length of the arc for the polar curve r = 5θ from θ = 0 to θ = π/2.
+456,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector function r(t) = ⟨t, 2t^2, 3t⟩, find the unit tangent vector at t = 1."
+457,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the curvature of the vector-valued function r(t) = ⟨cos(t), sin(t), t⟩."
+458,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the limit of the vector-valued function r(t) = ⟨t^2, 2t, t^3⟩ as t approaches infinity."
+459,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = cos(2t), y = sin(t), find the polar equation for the curve."
+460,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the area bounded by the vector-valued curve r(t) = ⟨e^t, t, ln(t)⟩ and the y-axis for t ∈ [0, 1]."
+461,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the polar curve r = 2cosθ + 4sinθ at θ = π/3.
+462,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar curve r = 6cos3θ, find the equation of the tangent line at the point (3, π/6)."
+463,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 4sinθ + 2cosθ.
+464,,Parametric_Equations_polar coordinates_and_vector-values_functions,Evaluate the integral ∫(r³sinθ) dθ from θ = 0 to θ = π/4.
+465,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Sketch the parametric curve x = 2cosθ, y = sinθ and find the points where the curve intersects the x-axis."
+466,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the gradient vector of the vector-valued function r(t) = costi + sintj at t = π/4.
+467,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector function r(t) = 3costi + 2sintj + tk, find the unit tangent vector at t = π/6."
+468,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equations for a tangent line to the curve x = 3t², y = 2/3t³ at t = 2."
+469,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the length of the parametric curve x = sinθ, y = cosθ from θ = 0 to θ = π/2."
+470,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector function r(t) = 3costi + 4sintj + 2k, find the velocity, speed, and acceleration at t = π/3."
+471,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the parametric equations x = sin(t) and y = cos(t) at t = π/4.
+472,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the arc length of the polar curve r = 2θ^2 from θ = 0 to θ = π/2?
+473,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the points of intersection between the parametric equations x = t^2 and y = t^3.
+474,,Parametric_Equations_polar coordinates_and_vector-values_functions,Write the equation of the tangent line to the polar curve r = 3sin(θ) at θ = π/6.
+475,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If a ball is thrown with a velocity of 20 m/s at an angle of 30 degrees from the horizontal, what is its parametric equation for the position in terms of time?"
+476,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 4θ and the origin.
+477,,Parametric_Equations_polar coordinates_and_vector-values_functions,"A particle moves along the curve r = t^2 + 1, θ = t^3 + 1. What is the unit tangent vector at t = 2?"
+478,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the vector-valued function r(t) = <sin(t), cos(t), t> at t = π/3."
+479,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Convert the parametric equations x = 3cos(t), y = 2sin(t) to polar coordinates."
+480,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the acceleration vector for the vector-valued function r(t) = <t, t^2, 3t + 2>."
+481,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equation for a line passing through the points (2,5) and (7,12)."
+482,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What are the polar coordinates for the point (3,4) in radians?"
+483,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Write the vector-valued function for a line with its initial point at (1,3) and a direction vector of <4,2>."
+484,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the area enclosed by the cardioid r=2cos(θ)?
+485,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the parametric equation x=3cos(t), y=5sin(t)."
+486,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the slope of the tangent line to the curve r=3sin(2θ) at θ=π/6?
+487,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Write the parametric equations for a circle centered at (0,2) with a radius of 5."
+488,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the velocity vector for a particle with the position vector function r(t)=<3t, 4t^2>."
+489,,Parametric_Equations_polar coordinates_and_vector-values_functions,Compute the arc length of the curve r=3θ^2 between θ=0 and θ=2π.
+490,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the unit tangent vector for the curve r=4sin(θ), where θ=π/4."
+491,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the parametric equations x = t^2, y = cos(t)."
+492,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar coordinates (3, 45°) and (5, 120°), find the distance between the points."
+493,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the vector-valued function r(t) of a particle moving along the curve x = cos(t), y = sin(t), z = t."
+494,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the position vector of a particle with initial position (1, 2) and velocity vector <2, 5> at time t."
+495,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the curve r(t) = 3t^2 + 2, at the point (2, 14)."
+496,,Parametric_Equations_polar coordinates_and_vector-values_functions,Calculate the arc length of the polar curve r = 2θ from θ = 0 to θ = π/2.
+497,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the unit normal vector to the curve r(t) = <4cos(t), 2sin(t), t^2> at the point (2, 1, 4)."
+498,,Parametric_Equations_polar coordinates_and_vector-values_functions,Convert the polar equation r = 2sin(θ) to a set of parametric equations.
+499,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = <3t^2, t, 4t>, find its velocity and acceleration at t = 2."
+500,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curves r = 2θ and r = 3sin(θ).
+501,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the polar function r(θ) = 3cosθ + 4sinθ.
+502,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area enclosed by the polar curve r = 2sin(2θ) and the line θ = π/4.
+503,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = t^2, y = t^3, find the equation of the tangent line at the point (2,8)."
+504,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the slope of the tangent line to the curve r = 3cosθ at the point θ = π/6.
+505,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the arc length of the polar curve r = 4θ^2 from θ = 0 to θ = π.
+506,,Parametric_Equations_polar coordinates_and_vector-values_functions,"For the parametric equations x = 2sinθ, y = 3cosθ, find the second derivative of y with respect to x."
+507,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the vector-valued function that represents the position of a particle moving along the polar curve r = 2θ at a constant speed of 5 units per second.
+508,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If a particle is moving along the polar curve r = 2sin(4θ) with a velocity of 8 units per second, find the acceleration of the particle at θ = π/4."
+509,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area between the curves r = 2sinθ and r = 3cosθ in polar coordinates.
+510,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = 4t, t^2, find the unit tangent vector at the point (2,4)."
+511,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = <t^2, cos(t)>, find the velocity vector at t=1."
+512,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the parametric equations for the curve defined by the polar equation r = 2cos(θ).
+513,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If a particle moves along the curve defined by the parametric equations x = sin(2t), y = cos(t), find the acceleration vector at t=π/4."
+514,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the arc length of the curve defined by the vector-valued function r(t) = <e^t, ln(t+1)> over the interval [0,1]."
+515,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the area enclosed by the curve defined by the parametric equations x = cos(t), y = sin(t), and the line x=1."
+516,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar equation r = 3sin(θ), find the slope of the tangent line at θ=π/6."
+517,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the limit of the vector-valued function r(t) = <t^3, (t-2)^2> as t approaches 2."
+518,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the curvature of the curve defined by the parametric equations x = t, y = 3√t, where t ≥ 0."
+519,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If a particle moves along the curve defined by the vector-valued function r(t) = <ln(t), e^t>, find the total displacement over the interval [1,2]."
+520,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the equations of the tangent and normal lines at t=π/4 for the curve defined by the parametric equations x = sin(t), y = cos(2t)."
+521,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What is the derivative of the vector-valued function, r(t) = cos(t)i + sin(t)j, at t = pi/4?"
+522,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the polar coordinates of the point (-3, 4)."
+523,,Parametric_Equations_polar coordinates_and_vector-values_functions,"A particle moves along the curve described by the parametric equations x = 4sin(t), y = 3cos(t). Find the velocity and acceleration vectors at t = pi/6."
+524,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What is the slope of the tangent line at the point (2, pi/3) on the polar curve r = 4cos(2theta)?"
+525,,Parametric_Equations_polar coordinates_and_vector-values_functions,A projectile is launched with an initial velocity v0 = 50 m/s at an angle of 30 degrees above the horizontal. Express the position of the projectile at time t using parametric equations.
+526,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the angle between the tangent line and the radius at the point (4, pi/4) on the polar curve r = 2theta."
+527,,Parametric_Equations_polar coordinates_and_vector-values_functions,"A curve is described by the parametric equations x = 3t^2, y = t^3. Find the point on the curve where the x-coordinate is increasing at a rate of 4 units per second."
+528,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the area enclosed by the curve r = sin(2theta) in polar coordinates?
+529,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the curvature of the vector-valued function r(t) = t^3i + (3t + 1)j at t = 2.
+530,,Parametric_Equations_polar coordinates_and_vector-values_functions,"A particle moves along the curve described by the parametric equations x = 4cos(t), y = 4sin(t), where t is measured in seconds. Find the speed of the particle at t = pi/3."
+531,,Parametric_Equations_polar coordinates_and_vector-values_functions,
+532,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the derivative of the parametric equations x = cos(t) and y = sin(2t)?
+533,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the curve r = 3sin(t) at the point (π/4, 3√2/4)."
+534,,Parametric_Equations_polar coordinates_and_vector-values_functions,Evaluate the parametric integral ∫cos^2(t)dt from 0 to 2π.
+535,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the velocity vector of a particle moving along the polar curve r = 2θ̲ at the point (π/6, π/3)."
+536,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the curvature at t = π/2 of the vector-valued function r = 4cos(t)i + (t^2)j.
+537,,Parametric_Equations_polar coordinates_and_vector-values_functions,Calculate the area of the region enclosed by the polar curve r = 2sinθ and the line θ = π/6.
+538,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the slope of the tangent line to the vector-valued function r = t^3i +( e^t)j + tk at t = 2?
+539,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equations for the line tangent to the polar curve r = 3sin2θ at the point (π/6, 3/2)."
+540,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Evaluate the curl of the vector field F = (3y)i + (2x)j at the point (2,-3)."
+541,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the arc length of the polar curve r = 4cos3θ from θ = 0 to θ = π/6?
+542,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the polar curve r = 3sin(θ) at θ = π/4.
+543,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area of the region bounded by r = 2sin(2θ) and r = 2cos(2θ).
+544,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = 3sin(t), y = 4cos(t), find the slope of the tangent line at t = π/6."
+545,,Parametric_Equations_polar coordinates_and_vector-values_functions,"A particle moves along a curve defined by the equations x = cos(t), y = sin(t), and z = t. Find the velocity and acceleration vectors at t = π/3."
+546,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the length of the polar curve r = 2θ in the interval [0, π]."
+547,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area of the region bounded by the polar curve r = 2cos(2θ).
+548,,Parametric_Equations_polar coordinates_and_vector-values_functions,"The position of a particle in 3-dimensional space is given by the equations x = e^t, y = t^2, z = t. Find the velocity and acceleration vectors at t = 2."
+549,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the vector-valued function r(t) = 2t^3 i + (2-t^2) j + sqrt(t) k.
+550,,Parametric_Equations_polar coordinates_and_vector-values_functions,"A particle moves along the curve defined by the equations x = t^2, y = t^3, z = t. Find the unit tangent vector at t = 1."
+551,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the surface area of the cone defined by the parametric equations x = rcos(θ), y = rsin(θ), z = r, in the interval [0, 2π] for r = 4."
+552,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the parametric curve x = cos(t), y = sin(t)."
+553,,Parametric_Equations_polar coordinates_and_vector-values_functions,Express the polar equation r = 3sin(θ) in Cartesian coordinates.
+554,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the tangent vector of the curve r = 2 + sin(θ), θ = 2t at t = π/3."
+555,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the curve r = 5θ^2 and the line θ = π/2.
+556,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the curvature of the curve r = 3cos(θ), θ = 2t at t = π/6."
+557,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Convert the vector-valued function r(t) = <cos(t), sin(t), t> to cylindrical coordinates."
+558,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the unit tangent vector of the space curve r(t) = <2cos(t), 2sin(t), t> at t = π/4."
+559,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the length of the curve r = aθ^2 from θ = 0 to θ = 2π.
+560,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 3sin(2θ).
+561,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Convert the vector-valued function r(t) = <cos(t), sin(t), sin(2t)> to spherical coordinates."
+562,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the parametric curve given by x=3cos(t), y=2sin(t) at t=π/4."
+563,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the polar coordinates of the point (4,5) in standard form."
+564,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If a vector-valued function r(t) = <t, t^2, 3t>, find the velocity vector and acceleration vector at t=2."
+565,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar curve r=2cos(θ) + 3sin(θ), find the equation of the tangent line at θ=π/6."
+566,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area bounded by the polar curve r=4sin(θ) and the line θ=π/4.
+567,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If a particle moves along the polar curve r=4cos(2θ) at a constant speed of 5 cm/s, find the distance it travels after 2 seconds."
+568,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = <sin(t), cos(t), 2t>, determine the unit tangent vector at t=π/3."
+569,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the slope of the curve r=3sin(2θ) at θ=π/6.
+570,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x=4t^2, y=2t^3, find the equation of the tangent line at t=2."
+571,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the angle between the vectors v=2i+3j+k and u=i+4j+2k.
+572,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the tangent line to the curve defined by the parametric equations x = t^2 and y = 2t at the point (4,8)."
+573,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = sin(t) and y = cos(t), find the Cartesian equation for the curve."
+574,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the vector-valued function v(t) = (t^2, 3t, 4t^3) with respect to t."
+575,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the parametric equations for a circle with radius 6 centered at (3,4)."
+576,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar equation r = 3sin(θ), find the corresponding Cartesian equation."
+577,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the exact value of the limit lim θ→π/2 (sin(θ) + cos(θ)) for the polar curve r = 2^θ.
+578,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = 2t^3 i + (t^2+1) j + 3 cos(t) k, find the velocity and acceleration vectors."
+579,,Parametric_Equations_polar coordinates_and_vector-values_functions,Convert the Cartesian equation x^2 + y^2 = 4 to an equivalent polar equation.
+580,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 4cos(3θ).
+581,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = ln(t) and y = t^2, find the equation of the tangent line at the point (1,0)."
+582,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the slope of the curve defined by the parametric equations x = cos(t) and y = sin(t) at t = π.
+583,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area of the region enclosed by the polar curve r = 2sin(3θ).
+584,,Parametric_Equations_polar coordinates_and_vector-values_functions,At what value of t does the vector-valued function r(t) = sin(t)i + cos(t)j have a maximum magnitude?
+585,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the polar curve r = 4θ with respect to θ.
+586,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = t^2 + 1 and y = t^3, find the equation of the tangent line at the point (2, 8)."
+587,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What is the maximum value of the vector-valued function r(t) = t^2i + t^3j on the interval [0, 1]?"
+588,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the curvature of the parametric curve x = 2cos(t) and y = 3sin(t) at t = π/4.
+589,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the polar equation for the line passing through the points (1,π/4) and (2,π/6)."
+590,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the velocity vector of the particle moving along the vector-valued function r(t) = sin(t)i + cos(t)j at t = π/2?
+591,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area of the region bounded by the polar curve r = 2cos(3θ).
+592,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = 2t and y = t^2, what is the slope of the curve at the point (2,4)?"
+593,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the vector value function r(t) = <t^2,2t,3> and determine the velocity vector at t=2."
+594,,Parametric_Equations_polar coordinates_and_vector-values_functions,Rewrite the polar equation r = cos(2theta) in terms of x and y.
+595,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the equation of the tangent line to the polar curve r = 3cos(theta) at theta = pi/4.
+596,,Parametric_Equations_polar coordinates_and_vector-values_functions,"The vector function r(t) = <3cos(t), 4sin(t), 5t> represents the position of an object at time t. Find the acceleration vector at t=2."
+597,,Parametric_Equations_polar coordinates_and_vector-values_functions,Convert the polar equation r = 2sin(theta) + 3cos(theta) into rectangular form.
+598,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the length of the parametric curve x = 2t^3 + 1, y = 3t^2 + 2 from t=0 to t=2."
+599,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the gradient of the scalar function f(x,y) = 5xy^2 at the point (2,3)."
+600,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Sketch the vector field F(x,y) = <2x, y> and find the scalar potential function for the field."
+601,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Convert the parametric equations x = t^2, y = t^3 into polar form."
+602,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line at t=2 for the parametric curve x=3t^2, y=4t-1."
+603,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the polar curve r=2sin(theta)+3cos(theta) for when theta=pi/4.
+604,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If a particle moves according to the position vector r(t)=ti+ejt+k/(2t), find its acceleration at t=2."
+605,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the loop r=3sin(4theta) in polar coordinates.
+606,,Parametric_Equations_polar coordinates_and_vector-values_functions,A vector-valued function is given by v(t)=t^2i-4e^(-t)j+cos(t)k. Determine its velocity and acceleration vectors at t=2.
+607,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the polar function r=2cos(theta)+3sin(theta).
+608,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If the equation of a circle in polar coordinates is r=3cos(theta), find its center and radius."
+609,,Parametric_Equations_polar coordinates_and_vector-values_functions,"The position of a particle is given by x(t)=t^2+1, y(t)=t-1. Find the velocity and acceleration of the particle at t=3."
+610,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the arc length of the polar curve r=2sin(theta) for theta from 0 to pi/2.
+611,,Parametric_Equations_polar coordinates_and_vector-values_functions,Consider the vector-valued function r(t)=6cos(3t)i+4sin(3t)j+2k. Determine the particle's speed and acceleration at t=pi/4.
+612,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = 2cost, y = 3sint, find the tangent line to the curve at t = π/4."
+613,,Parametric_Equations_polar coordinates_and_vector-values_functions,"For the polar equation r = 2cos(4θ), find the area of the region bounded by the curve."
+614,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the velocity and acceleration vectors for the vector-valued function r(t) = 2cos(t)i + 4sin(t)j + t^2k at t = π/2.
+615,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If a particle moves along the curve r(t) = 2t^2i + 3tj, find the total distance traveled from t = 0 to t = 3."
+616,,Parametric_Equations_polar coordinates_and_vector-values_functions,"For the vector field F(x, y) = <x^2, y^2>, find the divergence and curl at the point (2, 3)."
+617,,Parametric_Equations_polar coordinates_and_vector-values_functions,A particle moves along the circular path given by the vector-valued function r(t) = 2cos(t)i + 2sin(t)j. Find the velocity and acceleration vectors at t = π/3.
+618,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the arc length of the curve r(t) = t^2i + 3tj + 7tk from t = 0 to t = 4.
+619,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar equation r = 3sin(θ), find the equation of the tangent line to the curve at the point (π/4, 3/2)."
+620,,Parametric_Equations_polar coordinates_and_vector-values_functions,"For the vector-valued function r(t) = <sin(t), 2cos(t), t>, find the unit tangent vector and the unit normal vector at t = π/6."
+621,,Parametric_Equations_polar coordinates_and_vector-values_functions,"A particle moves along the curve given by the parametric equations x = 2cos(t), y = 3sin(t). Find the velocity of the particle at the point (1, 2)."
+622,,Parametric_Equations_polar coordinates_and_vector-values_functions,"1. What is the distance between the points (3,π/4) and (5,3π/4) in polar coordinates?"
+623,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the derivative of r(t) = 2sin(3t) + 3cos(3t) with respect to t?
+624,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the polar curve r = 2sin(3θ) at the point (π/6, √3)."
+625,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = (3t, 4sin(2t)), find the unit tangent vector at t = π/4."
+626,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 4sin(2θ).
+627,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the derivative of x = aθcos(θ) and y = aθsin(θ) with respect to θ?
+628,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the arc length of the parametric curve x = 2cos(3t), y = 3sin(3t) between t = 0 and t = π/6."
+629,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What is the equation of the tangent line to the polar curve r = 5cos(3θ) at the point (π/3, 0)?"
+630,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the curvature of the polar curve r = 4cos(2θ) at the point (π/4, √2)."
+631,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = (cos(t), sin(t)), find the velocity and acceleration vectors at t = π/4."
+632,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equations of the tangent line to the curve defined by x = sin(t) and y = cos(t) at the point (π/4,π/4)."
+633,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar equation r = 2sin(θ), find the Cartesian equation for the curve in terms of x and y."
+634,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the unit tangent and normal vectors to the curve defined by r = 3cos(2θ) at θ = π/6.
+635,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the angle between the vectors <2, -3> and <-4, 1>."
+636,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If the position vector of a particle is given by r(t) = <t, t^2, 3t>, find the velocity and acceleration vectors at t = 2."
+637,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the vector-valued function r(t) = <4cos(t), 6sin(t), t>."
+638,,Parametric_Equations_polar coordinates_and_vector-values_functions,Convert the Cartesian equation x^2 + y^2 = 4 into a polar equation.
+639,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 3sin(2θ).
+640,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If a vector-valued function r(t) = <t^2, 2t, 3e^t>, find the unit tangent and unit normal vectors at t = 1."
+641,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Write the parametric equations for the line that passes through the point (2, 1, 3) and is perpendicular to the plane defined by x + y + z = 5."
+642,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the parametric equation x = 2cos(t), y = t^2 at the point (2, 4)."
+643,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the length of the polar curve r = t*sin(t), 0 ≤ t ≤ π/2."
+644,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What is the derivative of the vector valued function f(t) = ⟨t^2, sin(t), 3t⟩ ?"
+645,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the equation of the normal line to the polar curve r = 3cos(2θ) at θ = π/6.
+646,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If x = sin(t) and y = sin(2t), find the area bounded by the parametric curve for 0 ≤ t ≤ π."
+647,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the vector function r(t) = ⟨sin(t), cos(2t), e^t⟩."
+648,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the arc length of the parametric curve x = t^2, y = t^3, 0 ≤ t ≤ 1."
+649,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the vector tangent to the vector function r(t) = ⟨3t, 2t^2, 4t^3⟩ at t = π."
+650,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the area enclosed by the polar curve r = 2cos(t) + 2sin(t)?
+651,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the polar function r = t^2 + 1 at the point (2, 5π/4)."
+652,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the curve r = 2cosθ and the line θ = π/4.
+653,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the length of the curve r = 3sinθ, 0≤θ≤π/6."
+654,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the equation of the tangent line to the curve r = 2θ at θ = π/4.
+655,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the limit of (2θcosθ)/(r-3) as r approaches 2.
+656,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the polar function r = 3sinθ + 2cosθ.
+657,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area of the region bounded by the curves r = 4sinθ and r = 4cosθ.
+658,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the arc length of the curve given by r = 6θ, 0≤θ≤π/4."
+659,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the slope of the tangent line to the polar curve r = 2θ + 1 at θ = π/3.
+660,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area of the region enclosed by the curve r = θ^2 and the line θ = π/2.
+661,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the integral of rsinθ over the region bounded by r = 2 and θ = 0, 2π."
+662,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the parametric curve given by x = cos(t), y = sin(t) at t = π/4."
+663,,Parametric_Equations_polar coordinates_and_vector-values_functions,Convert the polar equation r = 2cosθ to cartesian form.
+664,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area enclosed by the curve r = 3sinθ and the polar axis.
+665,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector field F(x,y) = (x^2, y^2), find the line integral of F along the parametric curve x = 2cos(t), y = 3sin(t) from t = 0 to t = π."
+666,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the vector-valued function r(t) = (2sin(t), 3cos(t), t^2) with respect to t."
+667,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Express the vector-valued function r(t) = (2t, 3t^2, t) in parametric form."
+668,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the curvature of the parametric curve x = cos(3t), y = sin(t) at t = 0."
+669,,Parametric_Equations_polar coordinates_and_vector-values_functions,Convert the equation x^2 + y^2 = 16 to a polar equation.
+670,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the unit tangent and unit normal vectors for the curve r(t) = (2cos(t), sin(t), t) at t = π/4."
+671,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the velocity function v(t) = (2cos(t), sin(t), t), find the speed of the particle at t = π/2."
+672,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the curve given by the parametric equations x = 2t^2, y = 3t^3 at t = 1."
+673,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the arc length of the parametric curve with equations x = cos(t), y = sin(t) from t = 0 to t = pi/2."
+674,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What is the area enclosed by the parametric curve x = 2 + 3sin(t), y = 3 + 4cos(t)?"
+675,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the unit tangent vector to the polar curve r = 2sin(2theta).
+676,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = <t, t^2, t^3>, find the velocity and acceleration at t = 2."
+677,,Parametric_Equations_polar coordinates_and_vector-values_functions,"A particle moves along the curve given by the vector-valued function r(t) = <2cos(t), 3sin(t), t>, find the speed at t = pi/4."
+678,,Parametric_Equations_polar coordinates_and_vector-values_functions,"For the polar curve r = 3sin(4theta), find the points of intersection with the line y = 3."
+679,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the integral of the vector-valued function r(t) = <2t, t^2, 5t> from t = 0 to t = 5."
+680,,Parametric_Equations_polar coordinates_and_vector-values_functions,Give a parametric equation for the tangent line to the curve r = 2sin(theta) at theta = pi/6.
+681,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the area enclosed by the parametric curve x = sin(t), y = cos(t), z = t from t = 0 to t = 2pi."
+682,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the polar curve r = 3sin(theta) at the point (pi/4, 3sqrt(2))."
+683,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area of the region enclosed by the polar curve r = 2cos(theta) and the line theta = pi/4.
+684,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the equation of the tangent line to the circle with center (1,2) and radius 5 at the point (-3,4)."
+685,,Parametric_Equations_polar coordinates_and_vector-values_functions,Calculate the arc length of the curve r = 2theta from theta = 0 to theta = pi/2.
+686,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the vector-valued function for the position of a particle moving along the polar curve r = 5cos(theta) at a constant speed of 2 units per second.
+687,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the radius of curvature of the polar curve r = 3sin(2theta) at the point (pi/6, 3sqrt(3))."
+688,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = <cos(t), sin(t)>, find the unit tangent and normal vectors at t = pi/3."
+689,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the polar equation for the conic with focus (2,0) and directrix x = -2."
+690,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the velocity and acceleration vectors for a particle traveling along the polar curve r = 4sin(3theta) at t = pi/4.
+691,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the maximum and minimum values of the polar curve r = 2 + 6sin(theta).
+692,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What are the parametric equations for the polar coordinates of a point on the curve r = 2sinθ, where θ is the angle measured from the positive x-axis?"
+693,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the parametric equations x = cos(t) and y = t^2 with respect to t.
+694,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the polar coordinates of the point on the curve r = 3cos(θ) where θ = 3π/4.
+695,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Evaluate the integral ∫∫ r^2 dA, where r = cos(θ) and A is the region inside the circle r = 1 and outside the circle r = 1/2."
+696,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the vector-valued function r(t) that represents a particle moving along the curve x = t^2 and y = t^3, where t is time."
+697,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the position vector for a particle moving along the curve r(t) = cos(t) i + sin(t) j, where t is measured in radians."
+698,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If a particle moves along the curve r(t) = t^3/3 i + t^2/2 j, what is its acceleration vector?"
+699,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the arc length of the curve r = 2 - 2cos(θ) from θ = 0 to θ = π/4?
+700,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the intersection points of the polar curves r = 4sin(θ) and r = 3cos(θ).
+701,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = t i + (4t^2-2t) j, what is the acceleration of the particle at t = 2?"
+702,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the parametric equations for a circle centered at the origin with radius 3.
+703,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar coordinate equation r = 2sin(θ), find the corresponding parametric equations."
+704,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What is the derivative of the vector-valued function r(t) = ⟨3t, 4t², 5t⟩?"
+705,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the unit vector in the direction of the tangent line to the polar curve r = 3cos(θ) at θ = π/4.
+706,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area enclosed by the cardioid represented by the polar equation r = 2 + 2cos(θ).
+707,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equations for the line passing through the point (2, -1, 3) with direction vector ⟨4, -2, 1⟩."
+708,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = ⟨sin(t), cos(t), 2t⟩, find the velocity and acceleration vectors."
+709,,Parametric_Equations_polar coordinates_and_vector-values_functions,Sketch the polar curve represented by the equation r = 3sin(2θ).
+710,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the parametric equations for the hyperbola represented by the polar equation r = 2/(1 + cos(θ)).
+711,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the length of the curve represented by the polar equation r = 4sin(θ) for 0 ≤ θ ≤ π/2.
+712,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the parametric equations x = 2sin(t), y = 3cos(t)."
+713,,Parametric_Equations_polar coordinates_and_vector-values_functions,Graph the polar curve r = 4sin(3θ) and find the points of intersection with the line θ = π/6.
+714,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the area enclosed by the vector-valued function r(t) = t^2i + t^3j + t^4k in the interval t = [0,1]."
+715,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar equation r = 2cos(θ), find the slope of the tangent line at θ = π/4."
+716,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the limit as t approaches 0 of the parametric equations x = 2t, y = t^2 + 3t."
+717,,Parametric_Equations_polar coordinates_and_vector-values_functions,Graph the vector-valued function r(t) = ti + t^2j + e^t k and find the unit tangent and normal vectors at t = 2.
+718,,Parametric_Equations_polar coordinates_and_vector-values_functions,Evaluate the integral ∫r(t)•dr from t = 0 to t = 1 for the vector-valued function r(t) = 2sin(t)i + 3cos(t)j at t = 1.
+719,,Parametric_Equations_polar coordinates_and_vector-values_functions,Convert the polar equation r = 3 - 2sin(θ) to rectangular coordinates and find the corresponding parametric equations.
+720,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = sin(t)i + cos(t)j - 3t^2k, find the speed and acceleration at t = π/4."
+721,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the exact length of the polar curve r = 2θ^2 in the interval θ = [0,π/2]."
+722,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the Cartesian coordinates of the point (2,π/4) in polar coordinates."
+723,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Calculate the arc length of the parametric curve x=4sin(t), y=2cos(t) between t=0 and t=π/3."
+724,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the equation of the tangent line to the polar curve r=2sin(θ)+3cos(θ) at θ=π/6.
+725,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What is the slope of the tangent line to the parametric curve x=3t, y=4t^2 at t=2?"
+726,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the length of the vector-valued function r(t)=⟨2t^2, 3t, 4t^3⟩ between t=0 and t=2."
+727,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the position vector function r(t) for a particle moving along a circle of radius 5 with center at the origin in a counterclockwise direction.
+728,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the equation of the circle with center (2,4) and radius 5 in polar coordinates."
+729,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What is the acceleration vector for the vector-valued function r(t)=⟨t^3, 2t^2, αt⟩?"
+730,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the polar equation for a parabola with focus at the origin and directrix x=3.
+731,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Solve for t: x=4cost, y=4sint, z=2t^2."
+732,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the parametric equations x = cos(t), y = sin(t) at t = π/2."
+733,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the velocity vector for the polar coordinate system r = 2θ, θ = 3t at t = 2."
+734,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = (t, t^2, t^3), find the acceleration vector at t = 5."
+735,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the length of the curve r(t) = (2cos(t), 2sin(t), t^2) from t = 0 to t = π."
+736,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 2 + cos(θ) and the x-axis.
+737,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = (cos(t), sin(t), e^t), find the tangent and normal vectors at t = π/4."
+738,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the coordinates where the polar curve r = 2 - 3cos(θ) intersects with the line y = -x.
+739,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the arc length of the curve r(t) = (3cos(t), 3sin(t), 3t) from t = 0 to t = π."
+740,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the radius of curvature for the curve r(t) = (cos(t), sin(t), t) at t = π/2."
+741,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the unit tangent vector for the vector-valued function r(t) = (e^t, t^2, ln(t)) at t = 1."
+742,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the Cartesian coordinates of the point on the polar curve r = 2cosθ where θ = π/6.
+743,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = t^2, y = t^3, find the slope of the tangent line at t = 2."
+744,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the parametric equations for the line through the points (1,4) and (3,8)."
+745,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the polar equation r = 3sinθ + 2cosθ.
+746,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = 3cos(t)i + 3sin(t)j + 5t^2k, find the velocity and acceleration vectors."
+747,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the curve r = 4sin(θ) and the line θ = π/6.
+748,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the vector equation of a line that passes through the point (1,2) and is parallel to the vector v = 2i + 3j."
+749,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = 2sin(t), y = 3cos(t), find the value of t where the tangent line is parallel to the x-axis."
+750,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the curvature of the polar curve r = 2 + cos(2θ) at θ = π/4.
+751,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the length of the polar curve r = 2sin(3θ) from θ = 0 to θ = π/2.
+752,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the slope of the tangent line to the curve given by the polar equation r = 2 + 4cos(θ) at θ = π/6.
+753,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area enclosed by the loop of the cardioid given by the polar equation r = 2 + 2sin(θ).
+754,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the parametric equations x = 2sin(t), y = 4cos(t)."
+755,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Calculate the length of the curve given by the parametric equations x = cos(t), y = sin(t), for t ∈ [0, π]."
+756,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the equation of the tangent line to the curve given by the vector-valued function r(t) = <cos(t), sin(t), 3t> at the point (1/√2, 1/√2, π/2)."
+757,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the surface area of the solid generated by rotating the curve given by the vector-valued function r(t) = <cos(t), sin(t), t> for t ∈ [0, 2π] about the x-axis."
+758,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the limit of the vector-valued function r(t) = <t, t^2, sin(1/t)> as t approaches 0."
+759,,Parametric_Equations_polar coordinates_and_vector-values_functions,Solve the polar equation r = 3sin(2θ) for θ in terms of r.
+760,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the projection of the vector <3, 4, 5> onto the vector <1, 2, 2>."
+761,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the parametric equations and Cartesian equation of the plane containing the points (2, 1, 3), (4, -1, 5), and (6, 2, -1)."
+762,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equations for the circle with center (-2,5) and radius 3."
+763,,Parametric_Equations_polar coordinates_and_vector-values_functions,Evaluate the integral ∫cos(t) sin(t) dt from t = 0 to t = π.
+764,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the slope of the tangent line to the curve r= 2+3sin(θ) at θ=π/6.
+765,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = (t, t^2, 2t), find the velocity and acceleration at t= 2."
+766,,Parametric_Equations_polar coordinates_and_vector-values_functions,Convert the Cartesian equation x^2 + y^2 = 1 to a polar equation.
+767,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the cardioid r=2+2sin(θ).
+768,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the arc length of the polar curve r= 2cos(2θ) from θ= 0 to θ= π/3.
+769,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the vector equation for the line passing through the origin and the point (3,4,5)."
+770,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the angle between the vectors u= <3,-2> and v= <5,1>."
+771,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the curve r= 3sin(2θ), find the points of intersection with the line y= 2."
+772,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equations for the line given by the vector equation r(t) = (2,3) + t(1,-2)."
+773,,Parametric_Equations_polar coordinates_and_vector-values_functions,Sketch the graph of the polar equation r = 2sin(θ).
+774,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Evaluate the integral of the vector-valued function ⃗F(t) = (t², 1/t, ln(t)) from t=1 to t=3."
+775,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the parametric equations x = t² + 1 and y = 3t - 2.
+776,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area enclosed by the polar curve r = 2sin(3θ).
+777,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What polar equation represents a parabola with a focus at (4,0) and a directrix at x = -2?"
+778,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If f(t) = t² and g(t) = 2t - 1, what is the vector-valued function ⃗r(t) = ⃗f(t) + ⃗g(t)?"
+779,,Parametric_Equations_polar coordinates_and_vector-values_functions,Convert the parametric equations x = tcos(3t) and y = tsin(3t) to a polar equation.
+780,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the length of the parametric curve given by x = 2t³, y = t² from t=0 to t=3."
+781,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What vector-valued function represents the line segment from (2,1) to (4,3)?"
+782,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x(t) = cos(t) and y(t) = sin(t), find the slope of the curve at t = π/4."
+783,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the curve defined by the parametric equations x(t) = t and y(t) = t^2 in the interval 0 ≤ t ≤ 1.
+784,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the length of the parametric curve defined by x(t) = t^3 and y(t) = t^2 in the interval 0 ≤ t ≤ 2.
+785,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the tangent line to the curve defined by the polar equation r = 2θ at the point (π/4, √2)."
+786,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the curve defined by the polar equation r = 1 + 2sin(θ).
+787,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the velocity and acceleration vectors at t = 2 for the vector-valued function r(t) = (2t, t^2, cos(t))."
+788,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the unit tangent vector and unit normal vector at t = π/3 for the vector-valued function r(t) = (t, t, t)."
+789,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the curvature and radius of curvature at t = 1 for the vector-valued function r(t) = (2t^2, 1/t, 3t^3)."
+790,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the area of the surface generated by rotating the curve defined by r(t) = (t^2, t^3, 2t)  around the z-axis in the interval 0 ≤ t ≤ 1."
+791,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the volume of the solid generated by rotating the region between the curves defined by r(t) = (t, t^2, 0) and r(t) = (t, 0, t^2) around the y-axis in the interval 0 ≤ t ≤ 2."
+792,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the vector-valued function r(t) = <cost, sint>."
+793,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the slope of the tangent line to the polar curve r = 2cos(θ) at θ = π/4.
+794,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the arc length of the parametric curve x = t^3, y = 2t^2 from t = 0 to t = 4."
+795,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the polar curve r = 3sin(θ) + 2cos(2θ).
+796,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 2cos(θ) and the x-axis from θ = 0 to θ = π/2.
+797,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the parametric equations for the line tangent to the curve x = t^2, y = t^3 at t = 1."
+798,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the vector-valued function r(t) = <t^2, t^3, t^4> at t = 2."
+799,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the extrema of the polar curve r = 4sin(θ) + 5cos(θ).
+800,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Evaluate the double integral ∫∫_R (x + y) dA, where R is the region enclosed by the curve r = 2 + 3sin(θ)."
+801,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine whether the vector-valued function r(t) = <t^2, t + 1> intersects with the polar curve r = 2cos(θ) at any point."
+802,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equations of the circle with center (3,4) and radius 5."
+803,,Parametric_Equations_polar coordinates_and_vector-values_functions,Calculate the area enclosed by the polar curve r = 2cos(2θ).
+804,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the velocity and acceleration vector-valued functions for a particle moving along the curve r = 3θ, θ > 0."
+805,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given φ(t) = (2sin(t), 3cos(t)), find the derivative of the position vector at t = π/4."
+806,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the equations of the tangent and normal lines to the polar curve r = 3sin(3θ) at θ = π/6.
+807,,Parametric_Equations_polar coordinates_and_vector-values_functions,"A particle moves along the path r(t) = (1+t, 2+2t+t^2, 4t), find its speed at any time t."
+808,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the polar equation of the line that passes through the point (1,π/3) and has a slope of -2."
+809,,Parametric_Equations_polar coordinates_and_vector-values_functions,"A helicopter flies along a curved path described by r(t) = (2cos(t), sin(t), t). At t = π, what is the direction of motion of the helicopter?"
+810,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What is the length of the curve described by the parametric equations x = 3cos(t), y = 4sin(t) for t ∈ [0, 2π]?"
+811,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the vector-valued function r(t) = (t^2, sin(t), e^t) with respect to t."
+812,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the tangent line to the parametric equation x = 3cos(t), y = 2sin(t) at t = π/4."
+813,,Parametric_Equations_polar coordinates_and_vector-values_functions,Convert the polar equation r = 2cos(θ) to a rectangular equation.
+814,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the curve r = 2sin(θ) in polar coordinates.
+815,,Parametric_Equations_polar coordinates_and_vector-values_functions,Graph the vector-valued function r(t) = 3t i + 2t j + t^2 k and find its magnitude at t = 2.
+816,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the limit of the polar equation r = θ^2 as θ approaches 0.
+817,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the curvature of the parametric equation x = 2 cos(t), y = 3 sin(t) at t = π/6."
+818,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Convert the vector-valued equation r(t) = <5 + 3t, 2t^2 - 4, 3 + t> to parametric form."
+819,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the equation of the tangent line to the polar curve r = 3sin(2θ) at θ = π/4.
+820,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine if the vector-valued function r(t) = sin(t) i + cos(t) j + 3t^2 k is continuous at t = 2.
+821,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the curve r = 3 + 2sin(3θ) in polar coordinates.
+822,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the parametric curve x = 3cos(t), y = 4sin(t) at t = π/6."
+823,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the arc length of the polar curve r = 1 + cos(θ) from θ = 0 to θ = π.
+824,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the limit of the polar curve r = 2cos(θ) as θ approaches π/4.
+825,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the area enclosed by the vector-valued function r(t) = ⟨3cos(t), 2sin(t), 5sin(t)⟩ for 0 ≤ t ≤ 2π."
+826,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the unit normal vector to the plane curve r(t) = ⟨cos(t), sin(t), 2t⟩ at t = π/3."
+827,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the intersection point(s) of the polar curves r = 2 and θ = π/4.
+828,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Evaluate the line integral ∫C (x^2 + xy)ds, where C is the curve r(t) = ⟨3cos(t), 4sin(t)⟩ for t from 0 to π/4."
+829,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the vector-valued function r(t) = ⟨3cos(t), 4sin(t), t⟩."
+830,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the slope of the tangent line to the polar curve r = 2sin(θ) at θ = π/6.
+831,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the surface area of the solid generated by rotating the polar curve r = 3cos(θ) for 0 ≤ θ ≤ π about the y-axis.
+832,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the polar equation r = 2sin(3θ).
+833,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the slope of the tangent line to the curve r = 2θ at θ = π/6?
+834,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equations for a parabola with focus (2,3) and directrix x = 5."
+835,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = (t^2, 2t, t+1), what is the velocity vector at t = 3?"
+836,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the equation of the tangent line to the curve r(t) = (cos t, sin t, t) at t = π/4."
+837,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the polar coordinates for the point on the graph of r(θ) = 3θ where the slope of the tangent line is 2.
+838,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Simplify the vector-valued function v(t) = <t^3, (2-t)^2, −4t> and find its derivative."
+839,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area between the curves r = 2sin(θ) and r = 4sin(2θ) in the first quadrant.
+840,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = t^3, y = t^2 − 2, find the equation of the tangent line at the point (8,4)."
+841,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the arc length of the curve r(θ) = 3θ within the interval 0 ≤ θ ≤ π.
+842,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equations for a circle with radius r, centered at the origin."
+843,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the polar coordinates for the point (3,4)."
+844,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar curve r = 2θ, find the equation for the tangent line at θ = π/4."
+845,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the vector function that represents the path of a particle moving along the curve x = t^2 + 1, y = t^3 - 2t."
+846,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area enclosed by the polar curve r = 2cosθ.
+847,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the polar equation for a cardioid with radius r and center at the origin?
+848,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the curve x = 3cosθ, y = 2sinθ at θ = π/6."
+849,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Write the parametric equations for a line passing through the point (5,2) with a slope of -2."
+850,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the curvature of the polar curve r = 3θ with respect to θ.
+851,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Express the vector-valued function r(t) = <sin t, cos t, t> in Cartesian coordinates."
+852,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equations of a circle with center (3, 4) and radius 2."
+853,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = 2sin(t) and y = 3cos(t), find the Cartesian equation of the curve."
+854,,Parametric_Equations_polar coordinates_and_vector-values_functions,Calculate the slope of the tangent line to the polar curve r = 3sin(2θ) at θ = π/6.
+855,,Parametric_Equations_polar coordinates_and_vector-values_functions,Convert the polar equation r² = 4cos(θ) to Cartesian form.
+856,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the vector equation of the line passing through the points (2, 3) and (4, 5)."
+857,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the magnitude and direction of the vector v = <3, 4> |v|."
+858,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = t² and y = 4t, find the equation of the tangent line to the curve at t = 2."
+859,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 2sin(θ).
+860,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Express the vector field F(x, y) = <x+y, x-y> as a function of position."
+861,,Parametric_Equations_polar coordinates_and_vector-values_functions,"A position vector for a particle moving through space is r(t) = <cos(t), sin(t), t>. Find its velocity and acceleration vectors."
+862,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the polar equation r = 3sin(2θ).
+863,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = t^2, y = e^t, find the equation of the tangent line at t = 1."
+864,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If a particle moves along the curve described by the parametric equations x = cos(t), y = sin(2t), what is the acceleration vector at t = π/2?"
+865,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 2cos(θ).
+866,,Parametric_Equations_polar coordinates_and_vector-values_functions,What is the curvature of the polar curve r = 3θ at θ = π?
+867,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the arc length of the polar curve r = 1 + 2θ from θ = 0 to θ = 2.
+868,,Parametric_Equations_polar coordinates_and_vector-values_functions,"A projectile is launched from a point P(0,0) with initial velocity v0 at an angle θ from the horizontal. Use vector-valued functions to find the position of the projectile at any time t."
+869,,Parametric_Equations_polar coordinates_and_vector-values_functions,"The position of a point on a rotating wheel is given by the vector r(t) = a cos(t) i + a sin(t) j, where a is the radius of the wheel. Find the velocity and acceleration vectors at any time t."
+870,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If a curve in the xy-plane is described by the vector equation r(t) = (t + 1) i + (2t-1) j, find the slope of the tangent line at the point (2,3)."
+871,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = 2t i + (3t^2 + 1) j, find the unit normal vector at t = 1."
+872,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the polar function r(t) = 3t^2 - 5t + 2 at t = 4.
+873,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the equation of the tangent line to the polar curve r = 2θ at the point θ = π/3.
+874,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If a vector-valued function r(t) = 2cos(t)i + 5sin(t)j represents the position of an object at time t, find the velocity and acceleration vectors."
+875,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the length of the curve given by the parametric equations x = 2 cos(t), y = 3 sin(t), 0 ≤ t ≤ π/2."
+876,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area enclosed by the polar curve r = 4sin(2θ).
+877,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the slope of the tangent line to the vector-valued function r(t) = (2t + 3)i + (4t - 1)j at t = 1.
+878,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If r(t) = 4sin(t)i + 6cos(t)j represents the position of an object, find the magnitude and direction of its velocity at t = π/4."
+879,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar equation r = 2θ + cos(θ), find the coordinates of the points where the tangent line is vertical."
+880,,Parametric_Equations_polar coordinates_and_vector-values_functions,"A particle moves along the curve defined by the parametric equations x = 3t^2, y = 4t^3. Find the velocity and acceleration at t = 2."
+881,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 2 + 3θ.
+882,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the tangent line to the curve given by the parametric equations x=t^2, y=t^3 at the point (4,27)."
+883,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the area enclosed by the parametric curve x=2sin(t), y=3cos(t) for 0≤t≤2π."
+884,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = <sin(t), cos(t), t>, find the velocity and acceleration vectors at t=π/4."
+885,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the arc length of the polar curve r=4sin(θ), 0≤θ≤π."
+886,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What is the relationship between the parametric equations x=cos(t), y=sin(t) and the polar equation r=1+cos(θ)?"
+887,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vectors u=<1,2,3> and v=<4,5,6>, find the scalar projection of u onto v."
+888,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the curvature of the curve given by the parametric equations x=t^2, y=3sin(t) at t=π."
+889,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the domain of the vector-valued function r(t) = <2cos(t), 3sin(t), -5t>."
+890,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area under the polar curve r=2θ^2 for 0≤θ≤2π.
+891,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = <t,√t,2t>, find the unit tangent and unit normal vectors at t=2."
+892,,Parametric_Equations_polar coordinates_and_vector-values_functions,
+893,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the velocity vector of a particle moving along the polar curve r = 3cos(2θ) at θ = π/6.
+894,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the maximum and minimum values of the function f(x,y) = e^(x^2+y^2) on the circle x^2 + y^2 = 1."
+895,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Simplify the vector equation r(t) = <cos(t), sin(t), t^2> and find the corresponding parametrized curve."
+896,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar curve r = 3 + 2cos(θ), find the derivative of r with respect to θ."
+897,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the arc length of the curve r = 3θ^2 from θ = 0 to θ = π/2.
+898,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Express the vector function r(t) = <3t, t^2, sin(t)> in polar coordinates."
+899,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the slope of the tangent line to the curve r = ln(θ) at θ = e.
+900,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vectors u = <1, 2, -3> and v = <2, -1, 4>, find the angle between them."
+901,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 4sin(2θ).
+902,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the value of θ when the tangent line to the curve r = θ intersects the x-axis at θ = π/4.
+903,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the parametric equations for the curve represented by the vector-valued function f(t) = <2t, 3-4t>."
+904,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Convert the polar coordinates (4, π/6) to Cartesian coordinates."
+905,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the slope of the tangent line to the curve r = 5cos(θ) at θ = π/3.
+906,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the lemniscate r^2 = 4sin(2θ).
+907,,Parametric_Equations_polar coordinates_and_vector-values_functions,Calculate the curvature of the curve r = 3θ^2 at θ = π/2.
+908,,Parametric_Equations_polar coordinates_and_vector-values_functions,Rewrite the equation x = 2cost - 3sint in terms of polar coordinates.
+909,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What is the maximum value of r = 4cos(θ) on the interval [0, π]?"
+910,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the arc length of the curve r = e^θ from θ = 0 to θ = 1.
+911,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the equation of the tangent line to the polar curve r = 1+2sin(θ) at θ = π/4.
+912,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the directional derivative of the vector-valued function f(x,y) = <2x-y, xy> at the point (1,2) in the direction of the vector <3,-4>."
+913,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the area enclosed by the curve defined by the parametric equations x = 2cos(t) and y = 5sin(t), for 0 ≤ t ≤ π."
+914,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the tangent line to the parametric curve given by x = t^2 - 1 and y = t + 5 at the point (4, 9)."
+915,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the arc length of the curve given by the parametric equations x = 3cos(t) and y = 3sin(t) for 0 ≤ t ≤ π/4.
+916,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the curve described by the parametric equations x = 2t^3 + 3t^2 + 1 and y = 3t^2 + 2t - 5 at the point (2, -3)."
+917,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = <2t^2 + 3, 4t - 5>, find the velocity and acceleration vectors at the point t = 5."
+918,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the area under the curve given in polar coordinates by r = 4cosθ, for 0 ≤ θ ≤ π."
+919,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the limit of the vector-valued function r(t) = <t^3 + 2, 3t^2 - 5t + 4> as t approaches 2."
+920,,Parametric_Equations_polar coordinates_and_vector-values_functions,"If x = sin(t) and y = cos(t), find the value of dy/dx in terms of t."
+921,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the curvature of the curve given by the polar equation r = 2 + cosθ at the point where θ = π/3.
+922,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the length of the tangent vector to the curve defined by the parametric equations x = 2t^3 - 3t^2 and y = t^2 - 2t at the point (1, 1)."
+923,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the vector-valued function for the path of a projectile launched at an initial velocity of 50 m/s and an angle of 45 degrees, assuming no air resistance."
+924,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = 2cos(t) and y = 3sin(t), what is the polar form of the equation?"
+925,,Parametric_Equations_polar coordinates_and_vector-values_functions,A particle is moving along a curve described by the parametric equations x = t^2 and y = t + 1. What is the velocity of the particle at t = 2?
+926,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the equation of the tangent line to the curve described by x = sin(t) and y = 2sin(t) at the point (π/6, √3)."
+927,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the curve described by r = 2cos(θ).
+928,,Parametric_Equations_polar coordinates_and_vector-values_functions,A car is traveling along a curve described by the parametric equations x = 3t^2 and y = 2t. At what time t is the car's acceleration perpendicular to its velocity?
+929,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the vector-valued function for the path of a particle moving in circular motion with a radius of 5 meters and a period of 2 seconds.
+930,,Parametric_Equations_polar coordinates_and_vector-values_functions,A particle moves along the curve described by r = 2θ + 3. What is the ratio of the particle's tangential speed to its angular speed at θ = π/4?
+931,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area under the curve described by r = 2cos(θ) from θ = 0 to θ = π.
+932,,Parametric_Equations_polar coordinates_and_vector-values_functions,"A particle is moving along the helix curve described by x = cos(t), y = sin(t), and z = t. What is the magnitude of the particle's acceleration at t = π/2?"
+933,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the cartesian coordinates of the point on the curve $r = 2\theta$ where $\theta = \frac{\pi}{4}$.
+934,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Calculate the tangent vector of the curve given by $r = \cos{2\theta}$ at the point $(r, \theta) = (3, \frac{\pi}{3})$."
+935,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the curve $r = 2\theta$ between $\theta = 0$ and $\theta = \pi$.
+936,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the length of the curve $r = e^{\theta}$ from $\theta = 0$ to $\theta = \ln{3}$.
+937,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the parametric equations for the tangent line to the curve $r = \frac{1}{\sin{\theta}}$ at the point where $\theta = \frac{\pi}{6}$.
+938,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function $\textbf{r}(t) = (\cos{2t}, \sin{2t})$, find its derivative $\textbf{r}'(t)$."
+939,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the orthogonal projection of the vector $\textbf{v} = \langle 1, 2 \rangle$ onto the vector $\textbf{u} = \langle 3, -4 \rangle$."
+940,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the arclength of the curve described by the vector-valued function $\textbf{r}(t) = (\ln{t}, e^t)$ on the interval $[1, e]$."
+941,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Calculate the area bounded by the curve described by the vector-valued function $\textbf{r}(t) = (3\cos{t}, 3\sin{t})$ and the x-axis on the interval $[0, \frac{\pi}{4}]$."
+942,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the parametric equations for the line of intersection between the planes $x + y + z = 1$ and $3x - 2y - z = 5$.
+943,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the Cartesian coordinates of the point (x, y) on the curve defined by the parametric equations x = sinθ and y = cosθ, where θ = π/4."
+944,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the polar curve r = 2θ at the point (π/2, π)."
+945,,Parametric_Equations_polar coordinates_and_vector-values_functions,Express the parametric equations x = 2t and y = 3t^2 in polar form.
+946,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 2cosθ.
+947,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the arc length of the polar curve r = 3θ between θ = 0 and θ = 4π.
+948,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the vector equation of the tangent line to the curve defined by the parametric equations x = t^2 and y = t at the point (1, 1)."
+949,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the curvature of the polar curve r = 1 + 2sinθ at θ = π/4.
+950,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the polar equation of the tangent line to the curve r = 2 + 3sinθ at θ = π/3 in the form r = a + bsinθ.
+951,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the vector-valued function that represents the motion of a particle with position vector r(t) = (t, t^2, t^3) at time t = 2."
+952,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the angle between the vectors r1(t) = (2t, t^2, t) and r2(t) = (t, t^2, 2t) at t = π/3."
+953,,Parametric_Equations_polar coordinates_and_vector-values_functions,"What is the length of the arc defined by the parametric curve r = 2cos(t),  θ = t for t from 0 to π/2?"
+954,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the equation of the tangent line to the polar curve r = 3 + 2cos(θ) at the point (2, π/6)."
+955,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the position vector function r(t) = t^2i + 4e^tj, what is the velocity at t = 2?"
+956,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the equation of the plane tangent to the surface given by the vector-valued function r(u, v) = sin(u)cos(v)i + sin(u)sin(v)j + cos(u)k at the point (π/4, π/3)."
+957,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar curve r = 2cos(2θ).
+958,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector function r(t) = (2cos(t), t^2+1, √t), find the unit tangent vector at t = π/2."
+959,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the length of the curve given by the vector-valued function r(t) = (sin(t), t^2, t) from t = 0 to t = π."
+960,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the polar equation r = cos(3θ), find the slope of the tangent line at θ = π/4."
+961,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the surface area of the torus given by the parametric equations x = (R + rcos(t))cos(θ), y = (R + rcos(t))sin(θ), z = rsin(t), where R = 2 and r = 1."
+962,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the acceleration vector of the curve defined by the vector function r(t) = (2t, t^2-3, 4e^t) at t = 1."
+963,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given a parametric equation for a curve in the xy-plane, find the slope of the tangent line at a specific point."
+964,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the arc length of the curve given by the polar equation r = 2cos(theta) between theta = 0 and theta = pi.
+965,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given a vector-valued function, find the unit tangent vector and normal vector at a certain point."
+966,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area enclosed by the polar graph r = 3sin(theta).
+967,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given a set of parametric equations, find the equations of the tangent and normal lines at a given point."
+968,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of a vector-valued function at a specific point.
+969,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the position vector and velocity vector for a particle moving along a vector-valued function.
+970,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the polar equation for a circle with center at the origin and radius 3.
+971,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given a set of parametric equations, find the limits of integration for finding the area under the curve."
+972,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the equation of the tangent line to the polar graph r = 2sin(theta) at theta = pi/2.
+973,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the Cartesian coordinates of the point given by the parametric equations r = 2sec(t), θ = 3sin(t)."
+974,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the equation of tangent line to the circle whose parametric equations are given by r = 4cos(t), θ = 5sin(t) at the point (4, π/3)."
+975,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = 2cos(2t), y = 3sin(2t), find the value of t when the slope of the tangent line is 2 at the point (√2, √3)."
+976,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the area bounded by the parametric curve r = 2cos(t), θ = 3t, 0 ≤ t ≤ π/4."
+977,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the points of intersection of the two parametric curves r = 5sin(t), θ = t and r = 7cos(t), θ = 3t."
+978,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = e^t, y = t^2, find the slope of the tangent line at t = 2."
+979,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the arc length of the parametric curve r = 5θ, θ = sin(θ) for 0 ≤ θ ≤ π/2."
+980,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the derivative of the polar function r = 3t^2, θ = t + π/4."
+981,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the parametric equations x = cos^2(t), y = sin^3(t), find the equation of the tangent line at the point (1/2, 1/8)."
+982,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Calculate the area of the region bounded by the parametric curve r = 3 + cos(t), θ = t and the x-axis for 0 ≤ t ≤ π/3."
+983,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the slope of the tangent line to the parametric curve x = t^2, y = t + 3 at the point (4, 7)."
+984,,Parametric_Equations_polar coordinates_and_vector-values_functions,Determine the area enclosed by the polar curve r = 2 + 4cos(theta).
+985,,Parametric_Equations_polar coordinates_and_vector-values_functions,Calculate the derivative of the vector-valued function r(t) = (t + 1)i + (2t + 3)j at t = 2.
+986,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the equation of the normal line to the polar curve r = 3 + 2sin(theta) at the point (pi/2, 4)."
+987,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the arc length of the parametric curve x = 3cos(t), y = 4sin(t) from t = 0 to t = pi/2."
+988,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the limit of the vector-valued function v(t) = (t^2 + 3t)i + (2t - 3)j as t approaches 2.
+989,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Calculate the area enclosed by the parameterized region r = 4sin(theta), 0 ≤ theta ≤ pi/3."
+990,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Determine the velocity and acceleration vectors of the parametric motion x = 2t, y = t^2 at t = 3."
+991,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the derivative of the polar equation r = 2 + 5cos(theta) with respect to theta.
+992,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Calculate the line integral of the vector field F(x,y) = (x^2 + y^2)i + (2xy)j over the curve r(t) = 2sin(t)i + 3cos(t)j from t = 0 to t = pi/4."
+993,,Parametric_Equations_polar coordinates_and_vector-values_functions,Consider the parametric equations x = 2cos(t) and y = 3sin(t). Find the Cartesian equation of the curve described by these equations.
+994,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the points of intersection of the polar curves r = 2sin(θ) and r = 3cos(θ).
+995,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Given the vector-valued function r(t) = <t, t^2, t^3>, find the velocity and acceleration vectors."
+996,,Parametric_Equations_polar coordinates_and_vector-values_functions,A particle moves along the curve given by the parametric equations x = 3cos(t) and y = 4sin(t). Find the slope of the tangent line at t = π/6.
+997,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the area of the region bounded by the curve r = 2sin(θ) and the line θ = π/4.
+998,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Write the vector equation of the tangent line to the curve r = t^2 + 1, θ = 2t at the point (5, 5)."
+999,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the length of the arc of the polar curve r = 4θ between θ = 0 and θ = 2π.
+1000,,Parametric_Equations_polar coordinates_and_vector-values_functions,"For the vector-valued function r(t) = <2cos(t), 5t, t^2>, find the unit tangent vector at t = π/3."
+1001,,Parametric_Equations_polar coordinates_and_vector-values_functions,Find the volume of the solid generated by rotating the curve r = 2 + sin(θ) about the x-axis.
+1002,,Parametric_Equations_polar coordinates_and_vector-values_functions,"Find the length of the curve given by the polar equation r = 3 + 2cos(θ), for π/6 ≤ θ ≤ π/2."

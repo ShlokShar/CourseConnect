@@ -1,0 +1,1033 @@
+,question,topic,quesiton
+0,,Differential_Equations,What is the general solution to the differential equation dy/dx = 2x?
+1,,Differential_Equations,"Find the particular solution to the differential equation y' = 3y + 5, given that y(1) = 10."
+2,,Differential_Equations,"Solve the initial value problem dy/dx = 2x^2, y(0) = 2."
+3,,Differential_Equations,"What is the solution to the differential equation dy/dx = 3xy, given that y(0) = 1?"
+4,,Differential_Equations,Find the general solution to the differential equation dy/dx = 4sin(x).
+5,,Differential_Equations,"What is the solution to the differential equation dy/dx = y + e^x, given that y(0) = 3?"
+6,,Differential_Equations,Find the general solution to the differential equation dy/dx = 6x^2 + 12.
+7,,Differential_Equations,"What is the solution to the differential equation dy/dx = x^2 + 4x, given that y(1) = 5?"
+8,,Differential_Equations,"Find the particular solution to the differential equation dy/dx = x^3 - 5x^2 + 8x, given that y(2) = 10."
+9,,Differential_Equations,What is the general solution to the differential equation dy/dx = x^2y?
+10,,Differential_Equations,Find the general solution to the differential equation dy/dx = x/y
+11,,Differential_Equations,Solve the initial value problem: dy/dx = 3x - 6 and y(0) = 4
+12,,Differential_Equations,Determine whether y = e^x is a solution to the differential equation d^2y/dx^2 + 2dy/dx + y = 0
+13,,Differential_Equations,Find the particular solution to y'' - 4y' + 4y = 6x + 3 with initial conditions y(0) = 0 and y'(0) = 2
+14,,Differential_Equations,Use separation of variables to solve the differential equation dy/dx = (1 + y)^2
+15,,Differential_Equations,Find the solution to the differential equation dx/dt = 1 + x^2 with x(0) = 0 using the method of integrating factors
+16,,Differential_Equations,Use the substitution u = x^2 to transform the differential equation y' + 2xy = x^3 into a separable equation
+17,,Differential_Equations,Solve the differential equation (1+x^2)y' = xy with initial condition y(1) = 2 using the Laplace transform
+18,,Differential_Equations,Find the general solution to the differential equation y'^2 = 4x - 4y
+19,,Differential_Equations,Determine whether y = e^x is a solution to the differential equation dy/dx = y + 1 and find the particular solution with y(0) = 1
+20,,Differential_Equations,"Find the particular solution to the differential equation y' + 2y = 4x, given the initial condition y(0) = 3."
+21,,Differential_Equations,Solve the differential equation y' = 3x^2 + e^y.
+22,,Differential_Equations,Determine the general solution to the differential equation y' = 2xy.
+23,,Differential_Equations,"What is the equilibrium solution to the differential equation y' = -ky, where k is a constant?"
+24,,Differential_Equations,Use the method of separation of variables to solve the differential equation dy/dx = 2x/(x^2 + 1).
+25,,Differential_Equations,"Find the solution to the logistic differential equation dy/dt = ky(1 - y), where k is a constant and y(0) = 0.5."
+26,,Differential_Equations,"Use Euler's method with step size h=0.1 to estimate the value of y(1), where y' = 3x and y(0) = 2."
+27,,Differential_Equations,Find the solution to the differential equation y' = x^2 - 2xy + y^2.
+28,,Differential_Equations,Determine the critical points and state the stability of each solution for the differential equation y' = -2x + 4y.
+29,,Differential_Equations,"Use Laplace transforms to solve the initial value problem y'' + 2y' + y = t, y(0) = 1, y'(0) = 0."
+30,,Differential_Equations,Find the general solution to the differential equation dy/dx + y = x^2
+31,,Differential_Equations,"Solve the initial value problem dy/dx = 2x + 1, y(0) = 4"
+32,,Differential_Equations,"Find the particular solution to the differential equation x^2 + yy' = x, given that y = 1 when x = 2."
+33,,Differential_Equations,Determine if the function y = e^x is a solution to the differential equation y'' - y' = 0.
+34,,Differential_Equations,Find the general solution to the differential equation y' + y = e^(-x)cos(x).
+35,,Differential_Equations,"Solve the initial value problem y' = x^2 - y, y(0) = 3."
+36,,Differential_Equations,"Show that the function y = cx is a solution to the differential equation y' = x^2, where c is any constant."
+37,,Differential_Equations,Find the general solution to the differential equation y' + 2y = 6e^(-2x).
+38,,Differential_Equations,Determine whether the function y = A/x is a solution to the differential equation xy' = 1 where A is a constant.
+39,,Differential_Equations,"Solve the initial value problem y''' + 5y'' + 6y' = 0, y(0) = 0, y'(0) = 1, y''(0) = 2."
+40,,Differential_Equations,"Solve the initial value problem y' = x - y, y(0) = 2"
+41,,Differential_Equations,Find the general solution to the equation y' = 3y + 4
+42,,Differential_Equations,Use the method of undetermined coefficients to solve the differential equation y'' - 2y' + y = 3x + 5
+43,,Differential_Equations,"Determine the particular solution for the differential equation y' - 3xy = 4x^2, given y(1) = 2"
+44,,Differential_Equations,Solve the linear homogeneous differential equation y' + y = 0
+45,,Differential_Equations,Find the general solution to the differential equation y' = 2y + x + 1
+46,,Differential_Equations,"Use Laplace transforms to solve the differential equation y'' + 8y' + 16y = 2, given y(0) = 0 and y'(0) = 5"
+47,,Differential_Equations,"Determine the particular solution to the differential equation y'' + y' - 6y = 10e^-x, given y(0) = 4 and y'(0) = 2"
+48,,Differential_Equations,"Find the solution to the initial value problem y' - 4y = x^2, y(0) = 3"
+49,,Differential_Equations,"Use Euler's Method to approximate the solution to the differential equation y' = x - y, with y(0) = 2 and step size h = 0.2"
+50,,Differential_Equations,Find the particular solution of the differential equation dy/dx = x^2 + 3x + 4 given the initial condition y(0) = 2.
+51,,Differential_Equations,"Determine whether the function y = 2x + 1 is a solution of the differential equation dy/dx = 2x, and explain your reasoning."
+52,,Differential_Equations,Use separation of variables to solve the differential equation dy/dx = 2y/(x+1).
+53,,Differential_Equations,A tank initially contains 100 gallons of water and is being filled with a saline solution at a rate of 5 gallons per minute. The tank is also being drained at a rate of 3 gallons per minute. Write a differential equation that represents the amount of salt in the tank at any given time.
+54,,Differential_Equations,Find the general solution of the first order linear differential equation dy/dx + y = x^2.
+55,,Differential_Equations,A population of bacteria is growing at a rate proportional to its size with a growth constant of k = 0.05. Write a differential equation that represents the population of bacteria at any given time.
+56,,Differential_Equations,Find the general solution of the homogeneous differential equation dy/dx = 2xy.
+57,,Differential_Equations,"A ball is dropped from a height of 50 feet and experiences air resistance modeled by the differential equation dv/dt = 10 - 0.5v, where v is the velocity of the ball. What is the velocity of the ball after 5 seconds?"
+58,,Differential_Equations,Use the substitution method to solve the differential equation dy/dx = y^2/(x^2 + 1).
+59,,Differential_Equations,"A circuit contains a resistor, inductor, and capacitor in series with a voltage source, modeled by the differential equation (LC)d^2q/dt^2 + (RC)dq/dt + q/C = V(t), where q is the charge, L is the inductance, C is the capacitance, and R is the resistance. Find the general solution for q(t)."
+60,,Differential_Equations,"Find the particular solution of the differential equation: y' = x + e^x, with y(0) = 0."
+61,,Differential_Equations,Solve the differential equation: y'' + 4y' + 3y = 0.
+62,,Differential_Equations,"Find the general solution of the differential equation: y' = 3x^2 + 2, with y(1) = 4."
+63,,Differential_Equations,"Solve the initial value problem: y' - y = 2x, with y(0) = 1."
+64,,Differential_Equations,Find the general solution of the differential equation: y' = 2x + e^x.
+65,,Differential_Equations,Solve the differential equation: y'' + y = sinx.
+66,,Differential_Equations,"Find the particular solution of the differential equation: y' = 2xy + x, with y(1) = 7."
+67,,Differential_Equations,"Solve the initial value problem: y'' - 4y' + 4y = 3sinx, with y(0) = 2 and y'(0) = -1."
+68,,Differential_Equations,Find the general solution of the differential equation: y' + y = cos2x.
+69,,Differential_Equations,Solve the differential equation: y'' + 3y' + 2y = 2e^x.
+70,,Differential_Equations,Find the general solution for the differential equation dy/dx = x^2 + y
+71,,Differential_Equations,"Solve the initial value problem for the differential equation y' = 2xy, y(0) = 1"
+72,,Differential_Equations,"For the differential equation y'' + 4y = 0, find the solution using the method of undetermined coefficients."
+73,,Differential_Equations,"Find the particular solution for the differential equation y'' - 3y' + 2y = 6x^2, given that y(0) = 0 and y'(0) = 1."
+74,,Differential_Equations,Determine whether the given function y = x^2 is a solution to the differential equation y' = 2x + y.
+75,,Differential_Equations,Use separation of variables to solve the differential equation y' = x^2 + y^2.
+76,,Differential_Equations,Find the general solution for the differential equation dy/dx = xy + 1.
+77,,Differential_Equations,"Solve the boundary value problem y'' + 3y = e^x, y(0) = 0, y(1) = 2."
+78,,Differential_Equations,"Find a solution to the differential equation y' + y = e^-x, where y(0) = 1."
+79,,Differential_Equations,Determine whether the function y = e^x + 2x - 1 is a solution to the differential equation y' = y - x.
+80,,Differential_Equations,Find the general solution to the differential equation dy/dx = 2x.
+81,,Differential_Equations,Use separation of variables to solve the differential equation dy/dx = x(2y+1).
+82,,Differential_Equations,Find the particular solution to the differential equation y′=5x−3y with the initial condition y(0)=2.
+83,,Differential_Equations,"Solve the initial value problem dy/dx = 3x^2 − 6, y(0) = 5."
+84,,Differential_Equations,Use Euler's method with step size h = 0.5 and starting value y(0) = 0 to estimate y(1) for the differential equation y′=xy with y(0)=0.
+85,,Differential_Equations,Find the general solution to the homogeneous differential equation y'+2y=4x.
+86,,Differential_Equations,"Solve the initial value problem y'=2x+5, y(0)=1."
+87,,Differential_Equations,Use the substitution y = vx to solve the differential equation xy′=y+3x2.
+88,,Differential_Equations,"Find the solution to the initial value problem y''+y=0, y(0)=6, y'(0)=4."
+89,,Differential_Equations,Use separation of variables to solve the differential equation dy/dx = x/y.
+90,,Differential_Equations,What is the general solution to the differential equation dy/dx = x + y?
+91,,Differential_Equations,Find the particular solution to the differential equation d^2y/dx^2 = 3x - 2.
+92,,Differential_Equations,How can you use separation of variables to solve the differential equation dy/dx = sin(x)cos(y)?
+93,,Differential_Equations,Determine the equilibrium points of the system dy/dt = y(3-y) and plot the phase diagram.
+94,,Differential_Equations,"Solve the differential equation dy/dx + 2xy = 3x, given that y(0) = 1."
+95,,Differential_Equations,Find the integrating factor of the differential equation (x+2)ydx + (y-3)dx = 0 and use it to solve the equation.
+96,,Differential_Equations,"Use Euler's method to approximate the solution to the differential equation dy/dx = x^2 + y, with y(0) = 1 and a step size of 0.2."
+97,,Differential_Equations,"A radioactive substance decays according to the differential equation dN/dt = -0.05N, where N is the amount present in grams. If there were initially 100 grams, find the amount remaining after 1 year."
+98,,Differential_Equations,"Solve the initial value problem y'' + 2y' + 5y = 0, y(0) = 1, y'(0) = 0."
+99,,Differential_Equations,Find the general solution to the differential equation (2dy/dx)sinx + 2y = 5.
+100,,Differential_Equations,What is the solution to the differential equation dy/dx = x?
+101,,Differential_Equations,Find the particular solution to the differential equation y'' + 2y' = 4x.
+102,,Differential_Equations,What is the general solution to the differential equation d^2y/dx^2 + 2dy/dx + y = 0?
+103,,Differential_Equations,Solve the differential equation (x^2)y' + xy = x^3.
+104,,Differential_Equations,"Find the solution to the initial value problem dy/dx = 2x + 1, y(0) = 1."
+105,,Differential_Equations,What is the general solution to the differential equation 2x^2y' + 4xy = x^3?
+106,,Differential_Equations,"Find the unique solution to the initial value problem dy/dx = 3x^2 + 4, y(1) = 2."
+107,,Differential_Equations,Solve the second order differential equation d^2y/dx^2 - 4y = 0.
+108,,Differential_Equations,What is the solution to the differential equation (x^2)y'' + x(y')^2 = 1?
+109,,Differential_Equations,Find the general solution to the differential equation 3xy'' + 2y' = 6.
+110,,Differential_Equations,Find the general solution of the differential equation: y'' + 4y' - 5y = 0.
+111,,Differential_Equations,"Determine the particular solution of the initial value problem: y' + y = 6, y(0) = 2."
+112,,Differential_Equations,Solve the differential equation: x^2y'' + xy' - y = 0.
+113,,Differential_Equations,Find the solution of the differential equation: dy/dx = x^2 - 5x + 4.
+114,,Differential_Equations,Determine the general solution of the second-order homogeneous differential equation: y'' - 9y = 0.
+115,,Differential_Equations,"Solve the initial value problem: y' + y = 2x + 4, y(0) = 3."
+116,,Differential_Equations,Find the solution of the differential equation: y' + 2xy = e^x.
+117,,Differential_Equations,Determine the general solution of the nonlinear differential equation: y' = y^2 + 2x.
+118,,Differential_Equations,"Solve the initial value problem: y' - 3y = 6x + 2, y(0) = 1."
+119,,Differential_Equations,Find the general solution of the differential equation: y' + y = 2sinx.
+120,,Differential_Equations,Find the general solution of the differential equation dy/dx = x^2 + 3x + 2
+121,,Differential_Equations,"Solve the initial value problem dy/dx = 2e^x, y(0) = 5"
+122,,Differential_Equations,Verify that y = x + c is a solution to the differential equation dy/dx = 1/x
+123,,Differential_Equations,Find the particular solution to the differential equation d^2y/dx^2 = 2 + 3x with initial conditions y(1) = 3 and y'(1) = 2
+124,,Differential_Equations,Use the method of separation of variables to solve the differential equation dy/dx = y^2 + 2x
+125,,Differential_Equations,Find the integrating factor for the differential equation dy/dx + y = e^x
+126,,Differential_Equations,Solve the differential equation d^2y/dx^2 + 4y = 0
+127,,Differential_Equations,Find the general solution to the differential equation d^2y/dx^2 + y = 2x + 3cos(x)
+128,,Differential_Equations,Use the method of undetermined coefficients to solve the differential equation dy/dx + 3y = 6x^2 + 5
+129,,Differential_Equations,Find the particular solution to the differential equation d^2y/dx^2 + 2dy/dx + 5y = 2e^x with initial conditions y(0) = 1 and y'(0) = 0
+130,,Differential_Equations,What is the general solution of the first-order differential equation dy/dx = x^2 + xy?
+131,,Differential_Equations,Find the particular solution to the differential equation dy/dx = 3x - 2 with initial condition y(0) = 4.
+132,,Differential_Equations,Determine the order of the differential equation d^2y/dx^2 + 2(d^3y/dx^3)^2 = 2x.
+133,,Differential_Equations,"Solve the first-order linear differential equation (1 + x^2)dy/dx + xy = 1, with initial condition y(0) = 3."
+134,,Differential_Equations,Find the general solution to the second-order homogeneous differential equation d^2y/dx^2 - 5(dy/dx) + 6y = 0.
+135,,Differential_Equations,"What is the particular solution to the differential equation d^3y/dx^3 + 3(d^2y/dx^2) - 4(dy/dx) = 10e^2x, with initial conditions y(0) = 1, dy/dx(0) = 4, d^2y/dx^2(0) = 8?"
+136,,Differential_Equations,Determine the order of the differential equation (d^2y/dx^2)(d^3y/dx^3)(dy/dx) = 0.
+137,,Differential_Equations,Solve the first-order separable differential equation dy/dx = sin(x)/y^2.
+138,,Differential_Equations,Find the general solution to the second-order linear differential equation d^2y/dx^2 + 4(dy/dx) + 3y = tan(x).
+139,,Differential_Equations,"What is the particular solution to the differential equation (d^2y/dx^2)(d^3y/dx^3) + 5(dy/dx)^3 = 0, with initial conditions y(0) = 1, dy/dx(0) = 2, d^2y/dx^2(0) = 3?"
+140,,Differential_Equations,What is the general solution to the differential equation dy/dx = 3x + 5?
+141,,Differential_Equations,Find the particular solution to the differential equation y'' - 4y' + 3y = 12x.
+142,,Differential_Equations,Use Euler's method to approximate the solution to the differential equation y' = 2y with initial condition y(0) = 1.
+143,,Differential_Equations,Solve the initial value problem y' = 4xy with y(0) = 2.
+144,,Differential_Equations,Find the integrating factor for the differential equation (3x + 2)y' + 5y = 10.
+145,,Differential_Equations,Use Laplace transforms to solve the initial value problem y'' + 3y' + 2y = 0 with y(0) = 1 and y'(0) = 0.
+146,,Differential_Equations,"Determine the stability of the equilibrium point (0,0) for the differential equation x' = x^2 - y^2, y' = 2xy."
+147,,Differential_Equations,Find the general solution to the linear second-order differential equation y'' - 4y' + 4y = e^(2x).
+148,,Differential_Equations,Use power series methods to find a solution to the differential equation y' = 2xy with y(0) = 1.
+149,,Differential_Equations,Determine whether the differential equation y' = x^2 + y^2 has any limit cycles.
+150,,Differential_Equations,What is the general solution to the differential equation dy/dx = 2x?
+151,,Differential_Equations,"Find the particular solution to the initial value problem dy/dx = y, y(0) = 1."
+152,,Differential_Equations,Write the differential equation that models the rate of change of population growth for a certain species.
+153,,Differential_Equations,"Given the differential equation dy/dx = 3xy, find the solution that satisfies the initial condition y(0) = 2."
+154,,Differential_Equations,"Using separable variables, solve the differential equation dy/dx = x + 2/y."
+155,,Differential_Equations,Find the equilibrium solution for the differential equation dy/dx = 3y - 6.
+156,,Differential_Equations,"A chemical reaction is modeled by the differential equation dx/dt = 0.8xy, y(0) = 5. Find x as a function of t."
+157,,Differential_Equations,A spring system is described by the differential equation d^2x/dt^2 + 5 dx/dt + 6x = 0. Find the general solution.
+158,,Differential_Equations,"A falling object is modeled by the differential equation dv/dt = -9.8 - 0.3v, where v is the velocity. Find the velocity at t = 10 seconds."
+159,,Differential_Equations,"A circuit is modeled by the differential equation dI/dt + 4I = 10, with initial condition I(0) = 2. Solve for the current as a function of time."
+160,,Differential_Equations,Find the general solution to the differential equation dy/dx = cos(x).
+161,,Differential_Equations,Solve the initial value problem dy/dx = 2x + 3 with y(0) = 4.
+162,,Differential_Equations,Determine the particular solution to the equation d^2x/dt^2 + 4x = 6sin(t).
+163,,Differential_Equations,Find the first-order linear differential equation that models the motion of an object with a drag force proportional to its velocity.
+164,,Differential_Equations,Use separation of variables to solve the differential equation dy/dx = 3x^2 cos(x).
+165,,Differential_Equations,Find the solution to the differential equation d^2y/dx^2 + 4y = 0 with initial conditions y(0) = 3 and y'(0) = 1.
+166,,Differential_Equations,Find the general solution to the homogeneous differential equation d^3x/dt^3 + 6d^2x/dt^2 + 8dx/dt + 8x = 0.
+167,,Differential_Equations,Find the particular solution to the equation d^2y/dt^2 + 9y = 2t^2 with initial conditions y(0) = 1 and y'(0) = 0.
+168,,Differential_Equations,Use the method of undetermined coefficients to solve the differential equation d^2y/dt^2 + 4y = sin(2t).
+169,,Differential_Equations,Find the general solution to the equation d^3y/dx^3 - 3d^2y/dx^2 + 3dy/dx - y = e^x.
+170,,Differential_Equations,Find the general solution to the differential equation y' + 2xy = 3x
+171,,Differential_Equations,"Solve the initial value problem y' = x + e^x, y(0) = 2"
+172,,Differential_Equations,Verify that y(x) = e^-x is a solution to the differential equation y' + y = 0
+173,,Differential_Equations,Determine the type of differential equation and its order: y'' + 3xy' - 2y = 0
+174,,Differential_Equations,Find the particular solution to the differential equation y' + y = sin(x) with initial condition y(0) = 1
+175,,Differential_Equations,Solve the differential equation (1 + y^2)dx - 2xydy = 0 analytically
+176,,Differential_Equations,Verify that y(x) = Ce^-x is a solution to the differential equation y' + y = 0 for any constant C
+177,,Differential_Equations,Use the method of separation of variables to solve the differential equation y' = x^2 + y^2
+178,,Differential_Equations,Find the general solution to the homogeneous differential equation x^2y'' + 3y' = 0
+179,,Differential_Equations,"Solve the initial value problem y' = x + x^2, y(0) = 1 using the method of undetermined coefficients"
+180,,Differential_Equations,"Given the differential equation dy/dx = 4x + 3, solve for y."
+181,,Differential_Equations,"Find the solution to the initial value problem dy/dx = 2x + 1, y(1) = 3."
+182,,Differential_Equations,Find the general solution to the differential equation dy/dx = x^2 + 1.
+183,,Differential_Equations,Use separation of variables to solve the differential equation dy/dx = 2x/y.
+184,,Differential_Equations,"Find the particular solution to the differential equation dP/dt = 0.1P(100 - P), where P(0) = 1000."
+185,,Differential_Equations,Use the method of undetermined coefficients to solve the differential equation d^2y/dx^2 + 4dy/dx + 4y = e^(-x).
+186,,Differential_Equations,Find the steady-state solutions (equilibrium solutions) to the differential equations dy/dt = -4y and dP/dt = 0.2P(10 - P).
+187,,Differential_Equations,"If the population of a city is growing exponentially at a rate of 3% per year and there are currently 100,000 people, write a differential equation that models the population growth."
+188,,Differential_Equations,Find the solution to the differential equation dy/dx + y = sin(x) with the initial condition y(0) = 1.
+189,,Differential_Equations,Use the method of variation of parameters to solve the differential equation d^2y/dx^2 - 7dy/dx + 10y = x^3.
+190,,Differential_Equations,"Solve the initial value problem: dy/dx = x + 2y, y(0) = 1"
+191,,Differential_Equations,Find the exact solution of the differential equation: y'' - 3y' + 2y = 0
+192,,Differential_Equations,Use separation of variables to solve the differential equation: x(dy/dx) = y + 1
+193,,Differential_Equations,Find the general solution of the differential equation: y'' + 4y' + 4y = sin(x)
+194,,Differential_Equations,"Solve the boundary value problem: y'' + y = 2x^2, y(0) = 0, y(1) = 1"
+195,,Differential_Equations,Use the method of undetermined coefficients to find a particular solution of the differential equation: y'' - 3y' + 2y = 3x + 1
+196,,Differential_Equations,Find a series solution for the differential equation: y'' + y' - y = 0
+197,,Differential_Equations,"Solve the initial value problem: y' + ky = 3, y(0) = 2"
+198,,Differential_Equations,"Find the eigenvalues and eigenfunctions for the boundary value problem: y'' + 4y = λy, y(0) = y(π) = 0"
+199,,Differential_Equations,"Use the Laplace transform to solve the differential equation: y'' + 2y' + y = cos(2t), y(0) = 1, y'(0) = 0"
+200,,Differential_Equations,
+201,,Differential_Equations,the general solution of the differential equation y'' - 2y' + y = 0.
+202,,Differential_Equations,
+203,,Differential_Equations,"the initial value problem: y' + 2y = 5, y(0) = 1."
+204,,Differential_Equations,
+205,,Differential_Equations,the particular solution of the differential equation y' - 6xy = xe^(3x).
+206,,Differential_Equations,
+207,,Differential_Equations,"separation of variables, solve the initial value problem: y' = x^2 + y, y(1) = 2."
+208,,Differential_Equations,
+209,,Differential_Equations,the solution to the differential equation y' + 3y = 4x^3.
+210,,Differential_Equations,
+211,,Differential_Equations,"the initial value problem: y'' + y = sin(x), y(0) = 1, y'(0) = 0."
+212,,Differential_Equations,
+213,,Differential_Equations,the solution to the differential equation y' + y = x^2e^(-x).
+214,,Differential_Equations,
+215,,Differential_Equations,"the initial value problem: y' = 2xy, y(0) = 1."
+216,,Differential_Equations,
+217,,Differential_Equations,"the method of undetermined coefficients, find the general solution of the differential equation y' - 2y = 3x + 1."
+218,,Differential_Equations,
+219,,Differential_Equations,"the initial value problem: y' = sin(2x), y(0) = 0."
+220,,Differential_Equations,Find the general solution of the differential equation: dy/dx = x cos(x).
+221,,Differential_Equations,"Solve the differential equation: y"" + 4y' + 5y = 0."
+222,,Differential_Equations,"Given the initial value problem y' = 2xy, y(0) = 3, find the particular solution."
+223,,Differential_Equations,Find the solution of the differential equation: x^2y' + x^3y = sin(x).
+224,,Differential_Equations,Solve: y' + y = e^x.
+225,,Differential_Equations,"Find the solution of the differential equation: y' + 2xy = x^2, given y(1) = 2."
+226,,Differential_Equations,Solve the differential equation: dy/dx = (x^2 + y^2)^0.5.
+227,,Differential_Equations,Find the solution of the differential equation: y' = y + x + 1.
+228,,Differential_Equations,"Given the initial value problem y' = y^2 + 1, y(0) = 1, find the particular solution."
+229,,Differential_Equations,"Solve the differential equation: 2xyy' = y, given y(2) = 2."
+230,,Differential_Equations,Solve the initial value problem:
+231,,Differential_Equations,"y' + y = 3, y(0) = 2"
+232,,Differential_Equations,Find the particular solution to the differential equation:
+233,,Differential_Equations,"dy/dx = 3x^2, y(1) = 4"
+234,,Differential_Equations,Determine whether the differential equation is separable or not:
+235,,Differential_Equations,(xy +1)dx + (y^2 + 2x)dy = 0
+236,,Differential_Equations,Find the general solution to the differential equation:
+237,,Differential_Equations,y' = 5y + 3x
+238,,Differential_Equations,Solve the initial value problem:
+239,,Differential_Equations,"y' + y/x - 3 = 0, y(1) = 2"
+240,,Differential_Equations,Determine the particular solution to the differential equation:
+241,,Differential_Equations,"dy/dx = y^2 + x, y(0) = 1"
+242,,Differential_Equations,Find the solution to the differential equation:
+243,,Differential_Equations,"y' = x^3y + 4, y(2) = 5, using the method of integrating factors"
+244,,Differential_Equations,Solve the initial value problem:
+245,,Differential_Equations,"(1+e^x)y' = x, y(0) = 2"
+246,,Differential_Equations,Find the general solution to the differential equation:
+247,,Differential_Equations,y' - 2xy = e^x
+248,,Differential_Equations,Determine the particular solution to the differential equation:
+249,,Differential_Equations,"(1+x)y' - y = 2x, y(1) = 3, using the method of undetermined coefficients"
+250,,Differential_Equations,"Solve the initial value problem: dy/dx = 2x, y(0) = 3"
+251,,Differential_Equations,Find the general solution of the differential equation: dy/dx = x^2 + 6x - 4
+252,,Differential_Equations,"Determine the particular solution of the differential equation: dy/dx + 3y = 4x, given that y(0) = 2"
+253,,Differential_Equations,Use separation of variables to solve the differential equation: dy/dx = 2xy
+254,,Differential_Equations,"Find the solution of the differential equation: dy/dx + y = x^3, given that y(0) = 1"
+255,,Differential_Equations,Use the method of undetermined coefficients to find the solution of the differential equation: dy/dx + y = 5e^(2x)
+256,,Differential_Equations,"Solve the boundary value problem: y'' + 2y' + 3y = 0, y(0) = 2, y(1) = 1"
+257,,Differential_Equations,Find the equilibrium solutions of the differential equation: dy/dx = 2x - y^2
+258,,Differential_Equations,"Use the Laplace transform to solve the differential equation: dy/dx + 2y = 6x, given that y(0) = -4"
+259,,Differential_Equations,"Find the particular solution of the differential equation: d^2y/dx^2 + 5dy/dx + 6y = 2x + 3, given that y(0) = 0 and y'(0) = 2"
+260,,Differential_Equations,What is the general solution to the differential equation dy/dx = 2x?
+261,,Differential_Equations,"Find the particular solution to the initial value problem dy/dx = x^2, y(0) = 1"
+262,,Differential_Equations,Solve the differential equation (x^2 + y)dx + (2xy - 3x)dy = 0
+263,,Differential_Equations,What type of differential equation is d^2y/dx^2 = -2y?
+264,,Differential_Equations,"Using separation of variables, find the solution to dy/dx = 2e^x + 3x"
+265,,Differential_Equations,What is the Laplace transform of the differential equation d^2y/dx^2 + 4y = 0?
+266,,Differential_Equations,"Solve the initial value problem d^2y/dt^2 + 2dy/dt + y = 0, y(0) = 3, dy/dt(0) = 1"
+267,,Differential_Equations,Find the equilibrium solutions for the differential equation dx/dt = x^2 - 4x + 3
+268,,Differential_Equations,"What is the solution to the logistic differential equation dy/dt = ky(1 - y/10), y(0) = 2, k = 0.5"
+269,,Differential_Equations,"Using the method of integrating factors, find the solution to the differential equation (xsinx + ycosx)dx + (ycosx - xsinx)dy = 0"
+270,,Differential_Equations,
+271,,Differential_Equations,What is the general solution to the differential equation y'(x) + y(x) = e^x?
+272,,Differential_Equations,"In logistic growth, what is the differential equation that models the rate of change of population growth?"
+273,,Differential_Equations,"Find the solution to the initial value problem x'' - 4x' + 3x = 0, x(0) = 1, x'(0) = 2."
+274,,Differential_Equations,What is the Laplace transform of the differential equation y'' + 4y' + 3y = sin(2x)?
+275,,Differential_Equations,"In thermodynamics, what is the differential equation that describes the rate of change of temperature in a system?"
+276,,Differential_Equations,"Find the solution to the differential equation xy' + y = x, given that y(1) = 1."
+277,,Differential_Equations,What is the equilibrium solution for the differential equation y' = y(1-y)?
+278,,Differential_Equations,"In electrical engineering, what is the differential equation that models the flow of current in a circuit?"
+279,,Differential_Equations,Find the general solution to the differential equation y'' + 2y' - 8y = 0.
+280,,Differential_Equations,What is the differential equation that describes the motion of a pendulum?
+281,,Differential_Equations,What is the general solution to the differential equation dy/dx = 3x + 2?
+282,,Differential_Equations,Find the particular solution to the differential equation dy/dx = xe^x.
+283,,Differential_Equations,Determine the order and degree of the differential equation 3y'' + 5y' + 2y = cos(x).
+284,,Differential_Equations,"Solve the initial value problem y'' + 4y = 3x, y(0) = 4, y'(0) = 1."
+285,,Differential_Equations,Find the eigenvalues and eigenvectors of the differential equation y'' + 2y' + y = 0.
+286,,Differential_Equations,"Given the differential equation y' = 2x + sin(x), what is the value of y when x = 0?"
+287,,Differential_Equations,Rewrite the second-order differential equation y'' + 3y' + 4y = 0 as a first-order system.
+288,,Differential_Equations,Find the Green's function for the differential equation y'' + 6y' + 8y = 10.
+289,,Differential_Equations,Use the Laplace transform to solve the differential equation y'' + 5y' + 6y = 0.
+290,,Differential_Equations,What is the general solution to the differential equation y' - xy = x?
+291,,Differential_Equations,Find the general solution of the differential equation dy/dx = 2x.
+292,,Differential_Equations,Determine the particular solution of the differential equation d²y/dx² = x² + 3x.
+293,,Differential_Equations,"Solve the initial value problem dy/dx = 2x, y(0) = 5."
+294,,Differential_Equations,Find the explicit solution of the differential equation y' = 3x² + 4y.
+295,,Differential_Equations,"What is the meaning of the term ""separable"" when talking about differential equations?"
+296,,Differential_Equations,Find the implicit solution of the differential equation (1-y)y' = x.
+297,,Differential_Equations,Determine the solution of the differential equation y' = 2x/y.
+298,,Differential_Equations,What is the order of a differential equation and how does it affect its solution?
+299,,Differential_Equations,Solve the Bernoulli differential equation dy/dx + 2xy = x² + y.
+300,,Differential_Equations,Discuss the existence and uniqueness theorem for first-order differential equations.
+301,,Differential_Equations,Find the particular solution of the differential equation dy/dx = 2x + 5 with the initial condition y(0) = 3.
+302,,Differential_Equations,Determine if the function y = x^2 + 1 is a solution to the differential equation dy/dx = 2x.
+303,,Differential_Equations,"Solve the initial-value problem dy/dx = 3x^2 + 6x, y(0) = 2."
+304,,Differential_Equations,Use separation of variables to solve the differential equation dy/dx = x/y.
+305,,Differential_Equations,Find the general solution of the differential equation dy/dx = 4xe^x.
+306,,Differential_Equations,Determine if the function y = cos(x) is a solution to the differential equation dy/dx + y = sin(x).
+307,,Differential_Equations,"Solve the initial-value problem dy/dx = 2xy, y(1) = 1."
+308,,Differential_Equations,Use the method of undetermined coefficients to find a particular solution of the differential equation dy/dx + 4y = 12x^2 + 8x + 3.
+309,,Differential_Equations,Find the general solution of the differential equation dy/dx = 2(x+1)^4.
+310,,Differential_Equations,Determine if the function y = ln(x) is a solution to the differential equation dy/dx = 1/x.
+311,,Differential_Equations,Determine the general solution of the differential equation y' + xy = x.
+312,,Differential_Equations,"Find the particular solution of the differential equation y' = 3x^2 - 4x, given that y(1) = 5."
+313,,Differential_Equations,"Solve the initial value problem y' + sin(x)y = x, y(0) = 2."
+314,,Differential_Equations,"Given the differential equation y'' + 2y' + y = 0, find the general solution."
+315,,Differential_Equations,Use the separation of variables method to solve the differential equation y' = -3xy^2.
+316,,Differential_Equations,Find the general solution of the differential equation x^2y' + 2xy = 3x^4.
+317,,Differential_Equations,"Solve the initial value problem x^2y' + 2xy = 3x^4, y(0) = 1."
+318,,Differential_Equations,"Given the differential equation y'' = -9y, find the general solution."
+319,,Differential_Equations,Use the integrating factor method to solve the differential equation xy' - y = x^2.
+320,,Differential_Equations,Find the general solution of the differential equation y'' - y' = 2x.
+321,,Differential_Equations,Find the general solution to the differential equation dy/dx = x^2
+322,,Differential_Equations,"Solve the initial value problem y' = e^(x-1), y(0) = 5"
+323,,Differential_Equations,Find the particular solution to the differential equation y'' + 2y' + y = sin(x)
+324,,Differential_Equations,"Solve the boundary value problem y'' + 3y' - 4y = 12, y(0) = 0, y(1) = 1"
+325,,Differential_Equations,Use the method of variation of parameters to solve the differential equation y'' - 5y' + 6y = cos(x)
+326,,Differential_Equations,Find the general solution to the differential equation (x^2 + 1)y' + 2xy = 3x
+327,,Differential_Equations,Verify that the function y(x) = -2x + 3 is a solution to the differential equation y'' + 3y' + 2y = 0
+328,,Differential_Equations,"Find the general solution to the initial value problem y' = 2x cos(x), y(π/2) = 1"
+329,,Differential_Equations,Use the Laplace transform to solve the differential equation y'' - 4y = 5e^(2x)
+330,,Differential_Equations,Find the recurrence relation for the coefficients of the power series solution to the differential equation y'' + y = 0
+331,,Differential_Equations,What is the solution to the differential equation dy/dx = x^2 ?
+332,,Differential_Equations,Find the general solution to the differential equation d^2y/dx^2 + 2dy/dx + y = 0.
+333,,Differential_Equations,Use separation of variables to solve the differential equation dy/dx = 2x(1-y).
+334,,Differential_Equations,Find the particular solution to the differential equation dy/dx = 3xy with initial condition y(0) = 2.
+335,,Differential_Equations,Solve the differential equation d^2y/dx^2 + 6dy/dx + 9y = 20e^(-3x).
+336,,Differential_Equations,Determine the general solution to the differential equation dy/dx = y + 2/x.
+337,,Differential_Equations,Find the specific solution to the differential equation dy/dx = 4x^2 + 3x + 2 with initial condition y(1) = 1.
+338,,Differential_Equations,Solve the differential equation d^2y/dx^2 + 9y = 0 using the characteristic equation.
+339,,Differential_Equations,Find the solution to the differential equation dy/dx = x^3y.
+340,,Differential_Equations,Use variation of parameters to solve the differential equation d^2y/dx^2 + 5y = 4x.
+341,,Differential_Equations,Find the general solution to the differential equation dy/dx = 3x^2 + 2x
+342,,Differential_Equations,Determine the particular solution of the differential equation dy/dx = 2x^3 + 5x with initial condition y(0) = 4.
+343,,Differential_Equations,Solve the differential equation (x+1)dy/dx - y = ln(x) e^x
+344,,Differential_Equations,Find the value of c for which the function y = c/x is a solution to the differential equation dy/dx + 2x^2y = 6x.
+345,,Differential_Equations,"Using Euler's method with a step size of 0.1, approximate the solution to the differential equation dy/dx = x^2 + x, with initial condition y(0) = 1."
+346,,Differential_Equations,Find the general solution to the differential equation d^2y/dx^2 + 5dy/dx + 6y = 0.
+347,,Differential_Equations,"Solve the initial value problem d^2y/dx^2 + y = 7sin(2x), y(0) = 2, dy/dx(0) = -1."
+348,,Differential_Equations,"Determine the particular solution to the differential equation d^2y/dx^2 + 4y = 8cos(3x) with boundary conditions y(0) = 1, y(pi/2) = -2."
+349,,Differential_Equations,Find the value of c for which the function y = c/x^2 is a solution to the differential equation x^2dy/dx + 2xy = 2.
+350,,Differential_Equations,"Using Laplace transforms, solve the differential equation d^2y/dx^2 + 4dy/dx + 4y = 2x, with initial conditions y(0) = 3, dy/dx(0) = 1."
+351,,Differential_Equations,the general solution to the differential equation dy/dx = x² + 2x
+352,,Differential_Equations,For what values of k does the differential equation dy/dx = kx² have a solution where y(0) = 5?
+353,,Differential_Equations,"Solve the initial value problem dy/dx = 3x, y(0) = 1"
+354,,Differential_Equations,"Find the particular solution to the differential equation d²y/dx² = 6x, given that y(0) = 5 and dy/dx(0) = 1"
+355,,Differential_Equations,"Solve the differential equation d²y/dx² - 2y = x, given that y(0) = 1 and dy/dx(0) = 2"
+356,,Differential_Equations,"Determine the value of k for which the following equation has a solution: dy/dx = kx, y(2) = 5"
+357,,Differential_Equations,Find the general solution to the differential equation dy/dx = e^(2x) + 3
+358,,Differential_Equations,"Solve the initial value problem d²y/dx² + 4y = 4x, y(0) = 1, dy/dx(0) = 2"
+359,,Differential_Equations,Determine the value of k for which the equation dy/dx = kx has a solution y = 2x + 1.
+360,,Differential_Equations,"Find the particular solution to the differential equation d²y/dx² + 2y = x³, given that y(0) = 2 and dy/dx(0) = -1"
+361,,Differential_Equations,Find the general solution for the differential equation dy/dx = 2x - 3.
+362,,Differential_Equations,"Solve the initial value problem dy/dx = 4x, y(0) = 3."
+363,,Differential_Equations,Determine if the function y = exp(2x) is a solution to the differential equation dy/dx = 2y.
+364,,Differential_Equations,Find the particular solution of the differential equation dy/dx = 5x with the initial condition y(1) = 10.
+365,,Differential_Equations,"Using separation of variables, solve the differential equation dy/dx = 2y exp(-x)."
+366,,Differential_Equations,Find the general solution to the differential equation d²y/dx² = 9y.
+367,,Differential_Equations,Solve the differential equation dy/dx + 3y = 9x using integrating factor.
+368,,Differential_Equations,Find the particular solution to the differential equation dy/dx = 3y - 2x with the initial condition y(0) = 1.
+369,,Differential_Equations,Determine if the function y = exp(x) is a solution to the differential equation d²y/dx² = -y.
+370,,Differential_Equations,Solve the differential equation d²y/dx² + y = sin(x) with the initial conditions y(0) = 1 and y'(0) = 0.
+371,,Differential_Equations,Find the general solution of the differential equation: dy/dx = x + 2y
+372,,Differential_Equations,"Determine the particular solution for the initial value problem: dy/dx = 4cosx, y(π) = 2"
+373,,Differential_Equations,Solve the differential equation: d²y/dx² = 2x - 5
+374,,Differential_Equations,"Find the solution of the initial value problem: dy/dx = x, y(0) = 2"
+375,,Differential_Equations,Determine the general solution of the differential equation: d²y/dx² + y = x²
+376,,Differential_Equations,"Solve the initial value problem: y' + 2xy = x, y(0) = 1"
+377,,Differential_Equations,Find the solution to: dy/dx = 3x²y
+378,,Differential_Equations,Determine the general solution of the differential equation: d²y/dx² + y = e^x
+379,,Differential_Equations,"Solve the initial value problem: d²y/dx² + 4y = 0, y(0) = 2, y'(0) = -3"
+380,,Differential_Equations,Find the solution of the differential equation: d/dx (xy) = x + y
+381,,Differential_Equations,Find the general solution to the differential equation y'' + y' - 3y = 0.
+382,,Differential_Equations,"Solve the initial value problem y' + y = 2x, y(0) = 1."
+383,,Differential_Equations,Determine the solution of the differential equation (x^2 + y^2)dx + 2xydy = 0.
+384,,Differential_Equations,Use separation of variables to solve the differential equation y' + x^2y = 5x.
+385,,Differential_Equations,Find the solution to the differential equation (x^2 + 1)dy/dx + x^3y = x.
+386,,Differential_Equations,"Find the particular solution to the differential equation y' - y = 2e^x, given y(0) = 3."
+387,,Differential_Equations,Use the method of undetermined coefficients to solve the differential equation y'' + 3y' + 2y = 5x^2.
+388,,Differential_Equations,Find the general solution to the differential equation x^2y' + xy = sin(x).
+389,,Differential_Equations,"Solve the initial value problem x^2y' + y = x^2, y(1) = 4."
+390,,Differential_Equations,Use Laplace transforms to solve the differential equation y'' + 4y' + 4y = 3e^(-2t).
+391,,Differential_Equations,What is the general solution to the differential equation dy/dx = x?
+392,,Differential_Equations,"Find the particular solution of the differential equation dy/dx = 2x, where y(0) = 3."
+393,,Differential_Equations,Solve the differential equation d^2y/dx^2 + 4y = 0.
+394,,Differential_Equations,"Given the differential equation dy/dx = 2x + 3y, find the value of y when x = 2."
+395,,Differential_Equations,Find the general solution to the differential equation d^2y/dx^2 + y = 0.
+396,,Differential_Equations,"Solve the initial value problem d^2y/dx^2 + 2dy/dx + y = cos(2x), where y(pi) = 0 and y'(pi) = 1."
+397,,Differential_Equations,"Find the particular solution to the differential equation dy/dx = 3x^2 + 5, where y(1) = 10."
+398,,Differential_Equations,"Solve the differential equation d^2y/dx^2 + 4dy/dx + 4y = x^2, given y(0) = 1 and y'(0) = 2."
+399,,Differential_Equations,What is the general solution to the differential equation d^3y/dx^3 + 2d^2y/dx^2 + dy/dx + y = 0?
+400,,Differential_Equations,"Find the particular solution to the differential equation d^2y/dx^2 - 4y = 8sin(2x), where y(0) = 0 and y'(0) = -1."
+401,,Differential_Equations,What is the general solution to the differential equation dy/dx = 3x^2?
+402,,Differential_Equations,Find the particular solution to the differential equation dy/dx = 2x with initial condition y(0) = 3.
+403,,Differential_Equations,Determine whether the function y=2x+1 is a solution to the differential equation dy/dx = 2x.
+404,,Differential_Equations,Solve the differential equation dy/dx = 4x^3 with initial condition y(1) = 5.
+405,,Differential_Equations,Find the general solution to the differential equation dy/dx = -4x^2 + 6x + 9.
+406,,Differential_Equations,Determine if the function y=e^(3x) is a solution to the differential equation dy/dx = 3e^(2x).
+407,,Differential_Equations,Find the particular solution to the differential equation dy/dx = 2xy with initial condition y(0) = 1.
+408,,Differential_Equations,Solve the differential equation dy/dx = -2x^2 with initial condition y(2) = 10.
+409,,Differential_Equations,Find the general solution to the differential equation dy/dx = (x+y)^2.
+410,,Differential_Equations,Determine if the function y=2cos(x) is a solution to the differential equation dy/dx = -2sin(x).
+411,,Differential_Equations,Find the general solution to the differential equation dy/dx = 2x^2 + 3x + 4.
+412,,Differential_Equations,"Use the method of separation of variables to solve the initial value problem dy/dx = x^2 + y^2, y(0) = 1."
+413,,Differential_Equations,"Find the particular solution to the equation dy/dx = 4x^3, y(1) = 2."
+414,,Differential_Equations,Use the method of integrating factors to solve the differential equation x^2y' + 3xy = x^3.
+415,,Differential_Equations,Determine whether the function y = x^3 - 2x + 5 is a solution to the differential equation dy/dx = 3x^2 - 2.
+416,,Differential_Equations,Find the general solution to the equation y'' + y' = 2.
+417,,Differential_Equations,"Use the Laplace transform to solve the initial value problem y'' + 4y' + 3y = 0, y(0) = 2, y'(0) = 4."
+418,,Differential_Equations,Find the particular solution to the differential equation y'' - 3y' + 2y = e^x.
+419,,Differential_Equations,Use the variation of parameters method to solve the equation y'' + y' = 2sin(x).
+420,,Differential_Equations,Find the general solution to the differential equation (x^2 + 1)y' + y = x.
+421,,Differential_Equations,Give the general solution to the differential equation: y' = 2x + 1
+422,,Differential_Equations,"Find the particular solution to the differential equation: y' = 3x^2 + 2x, given that y(0) = 2"
+423,,Differential_Equations,"Solve the initial value problem: y' = cos(x), y(0) = -1"
+424,,Differential_Equations,Show that the function y = 3ex is a solution to the differential equation: y' = 3y
+425,,Differential_Equations,"Determine the solution to the differential equation: x^2 y' + y = x, given that y(1) = 4"
+426,,Differential_Equations,Use the method of undetermined coefficients to solve the differential equation: y' + 3y = 2x + 6
+427,,Differential_Equations,"Find the particular solution to the differential equation: y'' + 4y' + 3y = 6e^x, given that y(0) = 0 and y'(0) = 1"
+428,,Differential_Equations,"Solve the initial value problem: y'' - 4y' + 4y = e^2x, y(0) = 0 and y'(0) = 1"
+429,,Differential_Equations,Use variation of parameters to solve the differential equation: y'' + 2y' + y = 3e^x
+430,,Differential_Equations,Find the general solution of the differential equation: (x^2 + 1)y' + xy = 0
+431,,Differential_Equations,Find the general solution to the differential equation y''(x) + 4y(x) = 0
+432,,Differential_Equations,"Solve the initial value problem y'(x) = 3x^2, y(0) = 2"
+433,,Differential_Equations,Show that the function y(x) = e^(-x) is a solution to the differential equation y'(x) + y(x) = 0
+434,,Differential_Equations,Find the particular solution to the differential equation y''(x) + 2y'(x) + y(x) = x
+435,,Differential_Equations,Verify that the function y(x) = e^(2x) is a solution to the differential equation y''(x) - 4y(x) = 0
+436,,Differential_Equations,"Solve the initial value problem y'(x) = y(x), y(0) = 1"
+437,,Differential_Equations,Find the general solution to the differential equation y'(x) - y(x) = 4x
+438,,Differential_Equations,Show that the function y(x) = x^2 is a solution to the differential equation y''(x) + 2y'(x) + y(x) = 0
+439,,Differential_Equations,Determine if the function y(x) = e^x is a solution to the differential equation y'(x) + y(x) = x^2
+440,,Differential_Equations,"Solve the initial value problem y''(x) + 3y'(x) + 2y(x) = 6, y(0) = 1, y'(0) = 2"
+441,,Differential_Equations,Find the general solution to the first-order differential equation dy/dx = 2x + 1.
+442,,Differential_Equations,"Solve the initial value problem y' + y = x, y(0) = 1."
+443,,Differential_Equations,"Find the equilibrium solutions of the logistic differential equation y' = ky(1-y), where k is a constant."
+444,,Differential_Equations,Determine whether the given differential equation is separable: xy' = ycos(x).
+445,,Differential_Equations,Solve the second-order differential equation y'' - 3y' + 2y = 0.
+446,,Differential_Equations,Find the particular solution to the differential equation y' = y + 4e^x with the initial condition y(0) = 3.
+447,,Differential_Equations,Determine the stability of the equilibrium solutions for the differential equation y' = y(1+y)(4-y).
+448,,Differential_Equations,"Solve the system of linear first-order differential equations dx/dt = x + y, dy/dt = 3x - y."
+449,,Differential_Equations,Use the method of undetermined coefficients to find a particular solution to the differential equation y'' + 2y' + y = cos(2x).
+450,,Differential_Equations,"Solve the initial value problem y' = y/x, y(1) = e."
+451,,Differential_Equations,"Find the particular solution to the differential equation dy/dx = 2x^2 + 3x, given the initial condition y(0) = 5."
+452,,Differential_Equations,Calculate the general solution to the differential equation d^2y/dx^2 + 5dy/dx - 6y = 0.
+453,,Differential_Equations,"Solve the initial value problem dy/dx = 4x^3, y(1) = 2."
+454,,Differential_Equations,Investigate the existence and uniqueness of solutions to the differential equation dy/dx = x^2 + y.
+455,,Differential_Equations,Find the solution to the first-order linear differential equation (x + 3)y' + 4y = x^2 + 1.
+456,,Differential_Equations,"Determine the interval of validity for the solution to the initial value problem y' = 4x^3 - 2x, y(2) = -4."
+457,,Differential_Equations,Use the method of undetermined coefficients to find the particular solution to the equation d^2y/dx^2 - 4dy/dx + 4y = 2e^x.
+458,,Differential_Equations,"Find the steady-state solution to the differential equation dy/dt = -y + 6t, given that y(0) = 2."
+459,,Differential_Equations,Determine whether the function y(x) = x^2 - 4x + 6 satisfies the differential equation d^2y/dx^2 = 2.
+460,,Differential_Equations,"Solve the second-order differential equation d^2y/dx^2 + 5dy/dx + 6y = 10e^x, with initial conditions y(0) = 3 and y'(0) = -2."
+461,,Differential_Equations,"Determine the particular solution to the differential equation y' = -2x, given the initial condition y(0) = 5."
+462,,Differential_Equations,Find the general solution to the differential equation y' + 3y = 6x.
+463,,Differential_Equations,"Solve the initial value problem y' + y = x, y(0) = 2."
+464,,Differential_Equations,"Find the particular solution to the differential equation y'' - 3y' + 2y = 0, given that y(0) = 3 and y'(0) = 0."
+465,,Differential_Equations,Determine the general solution to the differential equation dy/dx = 2xy/x^2.
+466,,Differential_Equations,"Solve the initial value problem y'' + 5y' = 3, y(0) = 1, y'(0) = -2."
+467,,Differential_Equations,Find the solution to the differential equation (1+y^2)dx + ydy = 0.
+468,,Differential_Equations,"Solve the initial value problem y' = -2x + 4, y(2) = 3."
+469,,Differential_Equations,Find the general solution to the differential equation xy' = 3y.
+470,,Differential_Equations,"Determine the particular solution to the differential equation y'' + 3y' + 2y = cosx, given y(0) = 0 and y'(0) = 1."
+471,,Differential_Equations,Find the general solution to the differential equation dy/dx = 2x + 3.
+472,,Differential_Equations,"Solve the initial value problem dy/dx = 4x, y(0)=3."
+473,,Differential_Equations,Use the method of separation of variables to solve the differential equation dy/dx = x^2 + 5.
+474,,Differential_Equations,"Find the particular solution of the differential equation d^2y/dx^2 + 3dy/dx - 4y = 10x, with initial conditions y(0) = 2, y'(0) = 1."
+475,,Differential_Equations,Show that the function y=e^x is a solution to the differential equation dy/dx = e^x.
+476,,Differential_Equations,"Use Euler's method to approximate the solution to the differential equation dy/dx = x^2 + 1, with initial condition y(0) = 1."
+477,,Differential_Equations,Find the explicit solution to the differential equation d^2y/dx^2 - 2dy/dx + 5y = e^(2x).
+478,,Differential_Equations,Verify that y = x^3 + 2 is a solution to the differential equation d^3y/dx^3 + 3dy/dx = 0.
+479,,Differential_Equations,"Use the Laplace transform to solve the differential equation d^2y/dx^2 + 2dy/dx + 3y = cos(x), with initial conditions y(0) = 0, y'(0) = 1."
+480,,Differential_Equations,Show that the function y=Ce^x is a general solution to the differential equation dy/dx = y.
+481,,Differential_Equations,Find the general solution to the first-order differential equation: dy/dx = 2x + 3.
+482,,Differential_Equations,"Solve the initial value problem dy/dx = x^2, y(0) = 1."
+483,,Differential_Equations,Show that the function y(x) = Ce^(-2x) is a solution to the differential equation dy/dx = -2y.
+484,,Differential_Equations,Find the explicit solution to the first-order linear differential equation dy/dx + 2y = 5x.
+485,,Differential_Equations,Compute the particular solution to the differential equation dy/dx = x^2 + 3 with the initial condition y(1) = 4.
+486,,Differential_Equations,Determine whether the differential equation sin(x) dy/dx = 2y has a unique solution.
+487,,Differential_Equations,Use separation of variables to solve the differential equation dy/dx = sin(x)/cos(y).
+488,,Differential_Equations,Find the general solution to the nonlinear differential equation dy/dx = y^2/x^2.
+489,,Differential_Equations,"Solve the initial value problem dy/dx = 3x + 2y, y(0) = 4."
+490,,Differential_Equations,Show that the function y(x) = x^2 is a solution to the second-order differential equation d^2y/dx^2 + 2dy/dx + y = 0.
+491,,Differential_Equations,Find the general solution of the differential equation dy/dx = x + 2y.
+492,,Differential_Equations,"Determine the particular solution of the initial value problem dy/dx = y^2, y(0) = 1."
+493,,Differential_Equations,Solve the separable differential equation dy/dx = (x^3 + 1)/(x^2 + 2).
+494,,Differential_Equations,Find the solution of the differential equation dy/dx = e^x * cos(x).
+495,,Differential_Equations,Solve the homogeneous differential equation dx/dy = (x + y)/(x - y).
+496,,Differential_Equations,"Determine the particular solution of the initial value problem dy/dx + 2y = sin(x), y(0) = 1."
+497,,Differential_Equations,"Find the equation of the curve whose slope at any point (x,y) is given by dy/dx = (x + 2y) / (x - 2y)."
+498,,Differential_Equations,Solve the exact differential equation (x + y)dx + (y + x^2)dy = 0.
+499,,Differential_Equations,Find the solution of the first-order linear differential equation dy/dx + 3y = 6x.
+500,,Differential_Equations,Determine the implicit solution of the differential equation dx/dy = e^y / (1 + x^2).
+501,,Differential_Equations,What is the solution to the differential equation dy/dx = 2x + 3?
+502,,Differential_Equations,Find the particular solution to the differential equation d^2y/dx^2 + 2dy/dx + y = 0.
+503,,Differential_Equations,"What is the general solution to the differential equation dx/dt = -kx, where k is a constant?"
+504,,Differential_Equations,"A population follows the logistic growth model, where dP/dt = kP(1-P). Find the value of P when t = infinity."
+505,,Differential_Equations,Use separation of variables to solve the differential equation dy/dx = (x+1)/(y+2).
+506,,Differential_Equations,"The growth of a bacteria colony can be modeled by the differential equation dN/dt = kN, where N is the number of bacteria and k is a constant. If N(0) = 100 and N(2) = 200, what is the value of k?"
+507,,Differential_Equations,Find the general solution to the differential equation dx/dy = y/x.
+508,,Differential_Equations,"A capacitor in a circuit follows the differential equation dQ/dt + RCQ = E(t), where Q is the charge, R is the resistance, C is the capacitance, and E(t) is the input voltage. Find the particular solution when E(t) = 10sin(2t)."
+509,,Differential_Equations,Use the integrating factor method to solve the differential equation dy/dx + 2y = 5sin(x).
+510,,Differential_Equations,A particle moving along a straight line has a velocity v(t) = 4t^2 - 6t + 2. Find the position function x(t) if x(0) = 3.
+511,,Differential_Equations,Find the general solution of the differential equation dy/dx = x + y
+512,,Differential_Equations,What is the particular solution of the differential equation d^2y/dx^2 + 2dy/dx + y = 0?
+513,,Differential_Equations,"Solve the differential equation dx/dt = 2x for x, given that x(0) = 1."
+514,,Differential_Equations,"Find the solution of the initial value problem dy/dx = e^x, y(0) = 2"
+515,,Differential_Equations,Determine the equilibrium solution of the differential equation dy/dx = -2y + 4.
+516,,Differential_Equations,"Solve the differential equation d^2y/dx^2 + 5dy/dx + 6y = 0, given that y(0) = 1 and y'(0) = 0."
+517,,Differential_Equations,Find the general solution of the second-order differential equation d^2y/dx^2 + 4dy/dx + 4y = 0.
+518,,Differential_Equations,"What is the solution of the initial value problem dy/dx + y^2 = sin(x), y(0) = 1?"
+519,,Differential_Equations,"Determine the particular solution of the differential equation dx/dt = 3x + 4, given that x(0) = 2."
+520,,Differential_Equations,Find the general solution of the differential equation dy/dx = 3x^2 + 4x.
+521,,Differential_Equations,Find the general solution of the differential equation $y' = \frac{1}{x^2}$
+522,,Differential_Equations,"Solve the initial value problem $y' + y = x$, with $y(0) = 2$"
+523,,Differential_Equations,Determine the particular solution of the differential equation $y' = e^{2x}$
+524,,Differential_Equations,Find the general solution of the differential equation $y' = \sin(x) + 2x$
+525,,Differential_Equations,"Solve the initial value problem $y' = \frac{1}{2}y$, with $y(0) = 4$"
+526,,Differential_Equations,Determine the particular solution of the differential equation $y' + 2y = e^{3x}$
+527,,Differential_Equations,Find the general solution of the differential equation $y' = \cos(2x)$
+528,,Differential_Equations,"Solve the initial value problem $y' = \frac{1}{x}$, with $y(1) = 1$"
+529,,Differential_Equations,Determine the particular solution of the differential equation $y' + y = \frac{1}{x^2}$
+530,,Differential_Equations,Find the general solution of the differential equation $y' = x^2 + \frac{1}{x}$
+531,,Differential_Equations,"What is the solution to the differential equation dy/dx = 2x, with initial condition y(0) = 1?"
+532,,Differential_Equations,"Find the exact solution to the differential equation (x^2 + 1)dy/dx + y = 2x, with initial condition y(2)= 0."
+533,,Differential_Equations,"Solve the differential equation xy' + y = x^2, given that y(1) = 3 using the method of separation of variables."
+534,,Differential_Equations,"Find the particular solution of the differential equation y'' + y = cosx, given that y(0) = 1 and y'(0) = 0."
+535,,Differential_Equations,"Use the Laplace transform to solve the initial value problem y'' − y = 1, y(0) = 2, y'(0) = 3."
+536,,Differential_Equations,Find the general solution of the differential equation x^2y'' + xy' + y = e^x.
+537,,Differential_Equations,"Solve the differential equation y'+ 2y = 6x^2, with initial condition y(0) = 4 using the integrating factor method."
+538,,Differential_Equations,"Find the solution to the initial value problem y'' − 4y' + 4y = 0, y(0) = 0, y'(0) = 1."
+539,,Differential_Equations,Use the power series method to solve the differential equation xy'' - y = 0 with initial conditions y(0) = 1 and y'(0) = 1.
+540,,Differential_Equations,"Find the solution of the initial value problem y'' + 2y' + y = 6e^(-x), y(0) = 3, y'(0) = -2."
+541,,Differential_Equations,What is the general solution to the differential equation dy/dx = 2xy?
+542,,Differential_Equations,"Find the particular solution to the differential equation dy/dx + y = e^x, given that y(0) = 1."
+543,,Differential_Equations,"Determine the value of y(2) for the differential equation dy/dx = x^2 + y, given that y(0) = 1."
+544,,Differential_Equations,Solve the separable differential equation dy/dx = x/y.
+545,,Differential_Equations,Find the solution to the differential equation y'' + 2y' + y = sin(x) using the method of undetermined coefficients.
+546,,Differential_Equations,"Determine the interval of existence for the solution to the initial value problem y' = x/y, y(0) = 1."
+547,,Differential_Equations,Use the substitution y = ux to solve the first-order homogeneous differential equation y' = xy + 2y.
+548,,Differential_Equations,Find the general solution to the linear differential equation y'' + 4y' + 4y = sin(x).
+549,,Differential_Equations,"Solve the initial value problem y' + 2xy = 0, y(0) = 3."
+550,,Differential_Equations,"Find the particular solution to the differential equation y'' + 2y' + 3y = 6e^x, given that y(0) = 0 and y'(0) = 1."
+551,,Differential_Equations,Find the general solution to the differential equation dy/dx = x.
+552,,Differential_Equations,"Solve the initial value problem dy/dx = 2x, y(0) = 3."
+553,,Differential_Equations,Find the particular solution to the differential equation y''+y = sin(x).
+554,,Differential_Equations,"Solve the initial value problem y''+y = xe^x, y(0) = 1, y'(0) = 2."
+555,,Differential_Equations,Find the general solution to the differential equation y' = x^2/(3y).
+556,,Differential_Equations,"Solve the initial value problem y' = 1/x+y, y(1) = 2."
+557,,Differential_Equations,Find the particular solution to the differential equation y''+4y'+4y = 16.
+558,,Differential_Equations,"Solve the initial value problem y' = 2x-y, y(0) = 1."
+559,,Differential_Equations,Find the general solution to the differential equation dy/dx = 2x-y.
+560,,Differential_Equations,"Solve the initial value problem dy/dx = 3x^2+2xy, y(0) = 4."
+561,,Differential_Equations,Find the particular solution to the differential equation dy/dx = 2x + 3 with initial condition y(0) = 5.
+562,,Differential_Equations,"Determine if the differential equation dy/dx = y^2 - x + 1 has any solution that is constant on the interval [0,1]."
+563,,Differential_Equations,"Solve the initial value problem dy/dx = x^3 - 2xy, y(1) = 4."
+564,,Differential_Equations,Show that the function y(x) = x^2 + 2 is a solution to the differential equation dy/dx = 2x.
+565,,Differential_Equations,Find the general solution to the differential equation dy/dx = 2xy + 4x.
+566,,Differential_Equations,"Given the differential equation dy/dx = sin(x)y, find the particular solution that satisfies the initial condition y(0) = 5."
+567,,Differential_Equations,Determine if the function y(x) = e^x + 3 is a solution to the differential equation dy/dx = 3x + y.
+568,,Differential_Equations,Find the particular solution to the differential equation dy/dx = cos(x) + y with initial condition y(pi/2) = 2.
+569,,Differential_Equations,"Solve the initial value problem dy/dx = x^2 + y^2, y(0) = 1."
+570,,Differential_Equations,Find the general solution to the differential equation dy/dx = xy + xcos(y).
+571,,Differential_Equations,Find the general solution of the second-order linear differential equation y'' + 5y' + 6y = 0.
+572,,Differential_Equations,Use the initial condition y(0) = 3 to solve the differential equation y' = 4y with respect to x.
+573,,Differential_Equations,Use the variation of parameters method to find the particular solution of the differential equation y'' + 3y' - 4y = x.
+574,,Differential_Equations,Determine the order and degree of the differential equation dy/dx = 3x^2 + y.
+575,,Differential_Equations,"Find the particular solution of the differential equation y'' - 4y' + 3y = 2x, given that y(0) = 1 and y'(0) = 2."
+576,,Differential_Equations,"Solve the differential equation y' = 2x, using the method of undetermined coefficients."
+577,,Differential_Equations,Determine whether the function y = e^(2x) is a solution of the differential equation y' = 3y.
+578,,Differential_Equations,Use the integrating factor method to solve the differential equation y' + 2x^2y = 0.
+579,,Differential_Equations,Find the domain and range of the solution of the differential equation y' = y^2 - 3.
+580,,Differential_Equations,"Solve the boundary value problem y'' - 2y' + y = 4, y(0) = 2, y(3) = 5, using the method of undetermined coefficients."
+581,,Differential_Equations,"Given the differential equation y'' + 5y = 0, find the general solution for y."
+582,,Differential_Equations,Solve the initial value problem y' = 2x - 3 and y(0) = 4.
+583,,Differential_Equations,"Find the particular solution to the differential equation y' = 2xy, given y(0) = 1."
+584,,Differential_Equations,"Consider the differential equation y' = x^2 + y. If the solution passes through the point (1, 3), what is the value of the constant of integration?"
+585,,Differential_Equations,Solve the differential equation dy/dx = 3x^2 - 8x + 4 with the initial condition y(1) = 2.
+586,,Differential_Equations,Find the general solution to the differential equation y' = x/(x+1).
+587,,Differential_Equations,A tank initially contains 100 gallons of water and is contaminated with 1kg of salt. Water containing 0.02kg per gallon of salt is entering the tank at a rate of 2gal/min while the well stirred mixture is leaving at the same rate. Find the amount of salt in the tank after 10 minutes.
+588,,Differential_Equations,"Solve the differential equation y"" + y = 0 with the initial conditions y(0) = 0 and y'(0) = 3."
+589,,Differential_Equations,"The rate at which water is evaporating from a pond is proportional to the square root of the volume of water remaining. If initially there is 500 liters of water and after 5 hours there are 300 liters remaining, determine when the pond will be completely dry."
+590,,Differential_Equations,"The concentration of a certain drug in a patient's bloodstream is modeled by the differential equation dC/dt = -2C + 5, where C represents the concentration in mg/L and t is measured in hours. If the initial concentration is 10mg/L, find the concentration after 6 hours."
+591,,Differential_Equations,Find the general solution to the differential equation dy/dx = x^3 + 2x + 1.
+592,,Differential_Equations,Use the method of integrating factors to solve the differential equation (x + 1)dy/dx + y = x + 1.
+593,,Differential_Equations,"Determine whether the differential equation dy/dx = y/x has a unique solution, and if so, find it."
+594,,Differential_Equations,"Solve the initial value problem dy/dx = 2x, y(0) = 3."
+595,,Differential_Equations,Find the particular solution to the differential equation d^2y/dx^2 = 5x^2 - 3x + 2 satisfying the initial conditions y(0) = 1 and y'(0) = -2.
+596,,Differential_Equations,Use the Laplace transform to solve the differential equation d^2y/dx^2 + 4y = 0.
+597,,Differential_Equations,Find the general solution to the first-order linear differential equation dy/dx + y = e^x.
+598,,Differential_Equations,Solve the differential equation d^2y/dx^2 - 4y = cos(3x).
+599,,Differential_Equations,Use the method of undetermined coefficients to solve the differential equation d^2y/dx^2 + y = 4e^(-x).
+600,,Differential_Equations,Find the particular solution to the differential equation dy/dx = 2xy^2 satisfying the initial condition y(0) = 1.
+601,,Differential_Equations,Find the particular solution to the differential equation dy/dx = 3x^2 + 2 with initial condition y(0) = 1.
+602,,Differential_Equations,Solve the differential equation (x^2 + 4)y' = 2x^3 - 8x with initial condition y(0) = 2.
+603,,Differential_Equations,Show that y = ce^(x^2/2) is a solution to the differential equation y' + xy = x.
+604,,Differential_Equations,Find the equilibrium solutions to the differential equation y' = y(4-y).
+605,,Differential_Equations,Solve the differential equation y'' - 4y' + 3y = 0.
+606,,Differential_Equations,"A tank initially contains 1000 gallons of water with 4 lbs of salt dissolved in it. Salt-free water flows into the tank at a rate of 10 gallons/min, and the mixture is kept well stirred. Find the amount of salt in the tank at any time t."
+607,,Differential_Equations,Find the general solution to the differential equation y'' - 2y' + 2y = cos(x).
+608,,Differential_Equations,"Solve the initial value problem y' = y(1-y), y(0) = 1."
+609,,Differential_Equations,Show that the differential equation xy' + y = 4x^3 has the solution y = cx^2 + 1.
+610,,Differential_Equations,A population of 500 bacteria is growing exponentially with a growth rate of k=0.02 per minute. How many bacteria will there be after 5 minutes?
+611,,Differential_Equations,"Find the particular solution of the differential equation dy/dx = x^2 + 3x, given that y(1) = 6."
+612,,Differential_Equations,"Solve the initial value problem dy/dx = x^2 + 2x, y(0) = 4 using separation of variables."
+613,,Differential_Equations,Find the general solution of the differential equation dy/dx = 2xy.
+614,,Differential_Equations,Use the method of undetermined coefficients to solve the differential equation dy/dx + 3y = 4x^2.
+615,,Differential_Equations,"Find the steady state solution for the logistic equation dy/dt = 0.2y(1-y/3), where y(0) = 1."
+616,,Differential_Equations,"Use Laplace transforms to solve the initial value problem d^2y/dt^2 + 2dy/dt + 2y = 0, with y(0) = 2 and dy/dt|_(t=0) = 3."
+617,,Differential_Equations,Find the general solution of the homogeneous equation d^2y/dx^2 + y = 0.
+618,,Differential_Equations,"Given the differential equation d^2y/dx^2 + 2dy/dx + 5y = 0 and y(0) = 3, find the solution satisfying the boundary condition y(pi/4) = 6."
+619,,Differential_Equations,Use variation of parameters to solve the nonhomogeneous differential equation d^2y/dx^2 + y = 4cos(x).
+620,,Differential_Equations,"Find the general solution of the first-order linear differential equation dy/dx + (2x-1)y = 4x, using both integrating factor and separation of variables methods."
+621,,Differential_Equations,Find the general solution to the first-order differential equation dy/dx = 2x + 1.
+622,,Differential_Equations,"Solve the initial value problem dy/dx = 3x^2 - 4x, y(0) = 1."
+623,,Differential_Equations,Determine the particular solution to the differential equation y'' + 4y' + 4y = 0.
+624,,Differential_Equations,Find the general solution to the differential equation y' = x^2 + 3xy.
+625,,Differential_Equations,"Solve the initial value problem y' + 2y = 3e^x, y(0) = 2."
+626,,Differential_Equations,Find the solution to the differential equation xy' + 2y = x^2.
+627,,Differential_Equations,Determine the solution to the differential equation y'' - y' - 6y = 0.
+628,,Differential_Equations,"Solve the initial value problem y' + y = e^x, y(0) = 1."
+629,,Differential_Equations,Find the particular solution to the differential equation y'' + 4y' = 5sin 2x.
+630,,Differential_Equations,"Solve the initial value problem y'' - 6y' + 8y = 0, y(0) = 2, y'(0) = 5."
+631,,Differential_Equations,Find the general solution to the differential equation dy/dx = cos(x).
+632,,Differential_Equations,"Solve the initial value problem dy/dx = 2x, y(0) = 3."
+633,,Differential_Equations,Determine the particular solution to the differential equation d^2y/dx^2 + 4y = 0.
+634,,Differential_Equations,"Find the differential equation representing the rate of change of a population of bacteria, given a growth rate of 0.5 per hour."
+635,,Differential_Equations,Solve the separable differential equation dy/dx = 2x + 1.
+636,,Differential_Equations,Find the particular solution to the differential equation d^2y/dx^2 + 3dy/dx + 2y = 5.
+637,,Differential_Equations,Determine the general solution to the differential equation dy/dx = xy.
+638,,Differential_Equations,"Find the differential equation representing the rate of change of temperature in a heated room, given a constant external temperature."
+639,,Differential_Equations,"Solve the initial value problem dy/dx = 2x + 1, y(1) = 3."
+640,,Differential_Equations,Find the particular solution to the differential equation d^2y/dx^2 + 5dy/dx + 6y = 10.
+641,,Differential_Equations,"Find the particular solution of the differential equation dy/dx = 2x, given that y(0) = 3."
+642,,Differential_Equations,"Solve the initial value problem: dy/dx = 4x + 3, y(2) = 5."
+643,,Differential_Equations,Determine the solution to the differential equation y'' - 2y' + y = 0.
+644,,Differential_Equations,Find the general solution of the differential equation dy/dx = x^2 + 2x + 3.
+645,,Differential_Equations,"Solve the initial value problem y' + 2y = x, y(0) = 4."
+646,,Differential_Equations,Find the solution to the differential equation y'' + 4y' + 4y = e^(-2x).
+647,,Differential_Equations,"Determine the equation of a curve that passes through the point (1,3) and satisfies the differential equation dy/dx = 3x^2 + 2x."
+648,,Differential_Equations,"Solve the initial value problem y' = 2x - 1, y(2) = 7."
+649,,Differential_Equations,Find the general solution of the differential equation y'' - 6y' + 9y = 0.
+650,,Differential_Equations,"Determine the solution to the differential equation dy/dx = cos(x), given that y(pi/2) = 4."
+651,,Differential_Equations,Find the general solution to the differential equation y'' + 2y' - 3y = 0
+652,,Differential_Equations,"Solve the initial value problem y' + 4y = 20, y(0) = 5"
+653,,Differential_Equations,Verify whether the function y = e^x + 2x is a particular solution to the differential equation y'' - y' = e^x
+654,,Differential_Equations,Use separation of variables to solve the differential equation y' = 3x^2 + y^2
+655,,Differential_Equations,Find the equilibrium solutions for the differential equation y' = y^2 - 4y + 3
+656,,Differential_Equations,"Solve the differential equation y' = 2xy + 3x, given the initial condition y(1) = 0"
+657,,Differential_Equations,Determine the order and degree of the differential equation y^(4) + 3y'' + y' = 2x^2
+658,,Differential_Equations,"Using the method of undetermined coefficients, find a particular solution to the non-homogeneous differential equation y'' - 3y' + 2y = 10x"
+659,,Differential_Equations,Transform the second-order differential equation y'' + 5y' + 6y = 4x^2 into a system of first-order differential equations
+660,,Differential_Equations,Find the general solution to the differential equation (x + y)y' = 3xy + x
+661,,Differential_Equations,Find the general solution of the following differential equation: y'' - 4y' + 4y = 0
+662,,Differential_Equations,"Given y' - x = 0, find the particular solution for y(3) = 5."
+663,,Differential_Equations,"Solve the initial value problem y' + y = e^(-x), y(0) = 1"
+664,,Differential_Equations,Find the solution to the separable differential equation y' = x^2 + 1/y.
+665,,Differential_Equations,Determine the general solution to the equation y' = (3x^2 + 5)/y.
+666,,Differential_Equations,"Find the solution to the initial value problem y'' + 2y' + y = 6, y(0) = 2, y'(0) = 1."
+667,,Differential_Equations,Solve the differential equation y' + xy = x^2.
+668,,Differential_Equations,"Find the solution to the initial value problem y'' + y = 0, y(0) = 1, y'(0) = -2."
+669,,Differential_Equations,"Given the differential equation y'' - 3y' + 2y = cos(x), find the solution that satisfies the initial conditions y(0) = 0 and y'(0) = 1."
+670,,Differential_Equations,"Find the solution to the differential equation y' = 2xy + 1, with the initial condition y(0) = 1."
+671,,Differential_Equations,Find the general solution to the differential equation: dy/dx = 4x^2 - 5x + 2
+672,,Differential_Equations,"Given the differential equation: 2y'' + 5y' + 3y = 0, find the complementary and particular solutions."
+673,,Differential_Equations,"Solve the initial value problem: dy/dx = 2x, y(0) = 5"
+674,,Differential_Equations,Determine the particular solution to the differential equation: y' + 3y = 12x
+675,,Differential_Equations,"Find the interval of validity for the solution to the differential equation: x^2y' + y = 2x, y(1) = 3"
+676,,Differential_Equations,Solve the differential equation: 2xy' + y = xe^x
+677,,Differential_Equations,"Given the initial value problem: y' = 3x^2 + 2, y(0) = 4, find y(1)."
+678,,Differential_Equations,Find the general solution to the differential equation: y' = x/y
+679,,Differential_Equations,Determine if the differential equation: y'' + 5y' + 6y = 0 is linear or nonlinear.
+680,,Differential_Equations,"Find the particular solution to the differential equation: y' = 2x, y(1) = 8"
+681,,Differential_Equations,Solve the differential equation dy/dx = x^2 + 3x with initial condition y(0) = 1.
+682,,Differential_Equations,Find the particular solution of the differential equation (x^2 + y^2)dx + 2xydy = 0.
+683,,Differential_Equations,Determine the general solution of the differential equation x(dy/dx) + y = x^2.
+684,,Differential_Equations,"Solve the initial value problem dy/dx = x + 1, y(0) = 2."
+685,,Differential_Equations,"Find the solution of the initial value problem dx/dt = 2 - x^2, x(0) = 3."
+686,,Differential_Equations,Solve the differential equation (dy/dx) / (x + y) = 1.
+687,,Differential_Equations,Determine the general solution of dx/dt = 2t - t^2 + 1.
+688,,Differential_Equations,"Find the solution of the initial value problem d2y/dx2 = 2e^x, y(0) = 1, y'(0) = 1."
+689,,Differential_Equations,Solve the differential equation x(dy/dx) + y = x^2 log(x).
+690,,Differential_Equations,"Find the solution of the initial value problem dy/dx = y/2x, y(2) = 4."
+691,,Differential_Equations,Find the particular solution to the differential equation dy/dx = x + sin(x) with initial condition y(0) = 1.
+692,,Differential_Equations,Solve the first-order differential equation y' = 3x^2 + 2xy with initial condition y(0) = -1.
+693,,Differential_Equations,Determine the general solution to the differential equation dy/dx = 2xy + 3x with initial condition y(1) = 2.
+694,,Differential_Equations,Find the particular solution to the differential equation y' = x^3 + 2x + 5 with initial condition y(0) = 4.
+695,,Differential_Equations,Solve the first-order differential equation y' = x + 2y + x^2 with initial condition y(1) = 1.
+696,,Differential_Equations,Determine the general solution to the differential equation dy/dx = 3x^2 + 2x with initial condition y(0) = 0.
+697,,Differential_Equations,Find the particular solution to the differential equation dy/dx = 2xy with initial condition y(1) = -1.
+698,,Differential_Equations,Solve the first-order differential equation y' = x^2 + ln(x) with initial condition y(1) = 0.
+699,,Differential_Equations,Determine the general solution to the differential equation dy/dx = x^3 + e^x with initial condition y(0) = 2.
+700,,Differential_Equations,Find the particular solution to the differential equation dy/dx = x^2 + 3x with initial condition y(1) = 5.
+701,,Differential_Equations,Find the general solution to the differential equation dy/dx = x + 2.
+702,,Differential_Equations,Solve the initial value problem y' = 2x with y(0) = 5.
+703,,Differential_Equations,"Given the differential equation dy/dx = x^2 + xy, find the particular solution passing through the point (1,2)."
+704,,Differential_Equations,Find the equilibrium solution to the differential equation dy/dt = 2t^2 - 10t with y(0) = 2.
+705,,Differential_Equations,"Find the solution to the differential equation dy/dx = 3xy^2, subject to the boundary condition y(0) = 1."
+706,,Differential_Equations,Solve the initial value problem y' = 3x^2 with y(-1) = 4.
+707,,Differential_Equations,Find the general solution to the differential equation d^2y/dx^2 = 3x - 2.
+708,,Differential_Equations,Solve the boundary value problem y'' + 4y = 10sin(x) with y(0) = 0 and y(pi) = 2.
+709,,Differential_Equations,Find the solution to the differential equation (dy/dx)^2 = x^2 - 5x with y(0) = 3.
+710,,Differential_Equations,"Given the differential equation d^2y/dx^2 = 2xy, find the general solution and determine the value of y when x = 2."
+711,,Differential_Equations,Find the general solution of the differential equation dy/dx = x + 5
+712,,Differential_Equations,Solve the initial value problem dy/dx = 2xy with y(0) = 3
+713,,Differential_Equations,Determine the particular solution of the differential equation (y + 3)y' = 2y with y(1) = 4
+714,,Differential_Equations,Find the solution of the differential equation y'' + 2y' + 5y = 0
+715,,Differential_Equations,Solve the initial value problem y' = y - y^2 with y(0) = 1/2
+716,,Differential_Equations,Determine the particular solution of the differential equation y' = 3x^2 with y(2) = 8
+717,,Differential_Equations,Find the general solution of the differential equation dy/dx = 2sin(x)
+718,,Differential_Equations,Solve the initial value problem y'' + 4y' + 4y = 0 with y(0) = 1 and y'(0) = 2
+719,,Differential_Equations,Determine the particular solution of the differential equation y^2y' + 3y = 0 with y(1) = 2
+720,,Differential_Equations,Find the solution of the differential equation y = x^2 + 2xy' + y'^2
+721,,Differential_Equations,Find a particular solution to the differential equation y’ = 2x + 3.
+722,,Differential_Equations,Determine the general solution to the differential equation x^2 y' = 2xy.
+723,,Differential_Equations,"Solve the initial value problem y’ = 4x + 5, y(0) = 2."
+724,,Differential_Equations,"Given the differential equation y’ = x^3 - 2xy, find the equation of the family of curves whose slopes are equal to the slopes of the given differential equation."
+725,,Differential_Equations,Find the solution to the differential equation y’ = cos x - 2xy.
+726,,Differential_Equations,What is the constant “C” in the general solution of the differential equation y’ = 4x - 3?
+727,,Differential_Equations,Find the solution to the differential equation y’ = 5x^2 + 6x + 2 using the method of separation of variables.
+728,,Differential_Equations,"Solve the initial value problem y’ = x^2 + 2x, y(1) = 5."
+729,,Differential_Equations,"Find the particular solution to the differential equation y’ = e^x - 5x, given that y(0) = 3."
+730,,Differential_Equations,Solve the differential equation y’ = x^3 + 4xy using the method of integrating factors.
+731,,Differential_Equations,What is the solution to the differential equation dy/dx = x^2e^x?
+732,,Differential_Equations,Find the particular solution to the differential equation y' = 2x + x^2 with initial condition y(0) = 1.
+733,,Differential_Equations,What is the general solution to the differential equation d^2y/dx^2 + 5dy/dx + 6y = 0?
+734,,Differential_Equations,Solve the initial value problem dy/dx = sin(x)/y with initial condition y(0) = 1.
+735,,Differential_Equations,Find the particular solution to the differential equation d^2y/dx^2 = 2x + e^x with general solution y = Ae^x + Be^x.
+736,,Differential_Equations,What is the solution to the differential equation (y')^2 + y = 0?
+737,,Differential_Equations,Solve the initial value problem d^2y/dx^2 + dy/dx = x^2 with initial conditions y(0) = 0 and y'(0) = 2.
+738,,Differential_Equations,Find the general solution to the differential equation 2y' + y = x^3e^-x.
+739,,Differential_Equations,What is the particular solution to the differential equation (y')^2 = 1 + 2y with initial condition y(0) = 0?
+740,,Differential_Equations,Solve the initial value problem dy/dx = 3y + e^-x with initial condition y(0) = 1.
+741,,Differential_Equations,Find the general solution of the differential equation: dy/dx = e^(2x)
+742,,Differential_Equations,"Solve the initial value problem: y' = 2x^3 + 4x, y(0) = 5"
+743,,Differential_Equations,"Using Euler's method, approximate the value of y at x = 4 for the differential equation y' = x^2 + y with the initial condition y(0) = 1."
+744,,Differential_Equations,"Find the particular solution of the differential equation: y' = -2xy + 2x, given that y(1) = 2."
+745,,Differential_Equations,"Determine the steady-state solution for the logistic growth differential equation: dy/dt = ky(1-y), with initial condition y(0) = 0.5."
+746,,Differential_Equations,Use the method of undetermined coefficients to solve the differential equation: y'' + 4y = 3e^(-2x)
+747,,Differential_Equations,Find the power series solution of the differential equation: y' - 2xy = 0
+748,,Differential_Equations,Solve the Bernoulli differential equation: y' + 2y = 3y^5
+749,,Differential_Equations,Determine the stability of the equilibrium solution for the linear autonomous differential equation: dy/dt = -2y + 1.
+750,,Differential_Equations,"Find the Laplace transform of the differential equation: y'' + y' + y = 6e^(-t), with initial conditions y(0) = 0 and y'(0) = 0."
+751,,Differential_Equations,Find the general solution to the differential equation dy/dx = 3x + 4.
+752,,Differential_Equations,"Solve the initial value problem dy/dx = 2x, y(0) = 1."
+753,,Differential_Equations,Find the particular solution to the differential equation dy/dx = 2y + 3.
+754,,Differential_Equations,Determine whether the function y(x) = e^x is a solution to the differential equation dy/dx = y.
+755,,Differential_Equations,Use separation of variables to solve the differential equation (y^2 + 1)dy/dx = 2x.
+756,,Differential_Equations,Find the equilibrium solution to the differential equation dy/dx = 0.5y(4-y).
+757,,Differential_Equations,"Given the differential equation (x^2 + y^2)dy/dx = 3xy, find the implicit solution."
+758,,Differential_Equations,Determine the constant k for which the function y(x) = ke^x is a solution to the differential equation dy/dx = y + 2x.
+759,,Differential_Equations,"Solve the following initial value problem: (1+y^2)dy/dx = xy, y(0) = 2."
+760,,Differential_Equations,Find the general solution to the differential equation d^2y/dx^2 + 3dy/dx + 2y = 0.
+761,,Differential_Equations,"Find the particular solution to the differential equation dy/dx = -2x, given that y(0) = 5."
+762,,Differential_Equations,Solve the differential equation d^2y/dx^2 + 4y = 0.
+763,,Differential_Equations,"Consider the initial value problem dy/dx = 3x^2, y(1) = 4. Determine the interval of validity for the solution."
+764,,Differential_Equations,"A tank initially contains 100 L of water. Water is added to the tank at a rate of 8 L/min and the contents are well stirred. At the same time, water is drained from the tank at a rate of 2 L/min. Write a differential equation to model the amount of water in the tank over time."
+765,,Differential_Equations,Find the general solution to the differential equation (3xy + 2y)dx + (x^2 + 1)dy = 0.
+766,,Differential_Equations,"Solve the initial value problem dy/dx = y, y(0) = 1."
+767,,Differential_Equations,"The velocity of a falling object is modeled by the differential equation dv/dt = -9.8 - kv, where v is the velocity in m/s and t is the time in seconds. If the object has an initial velocity of 20 m/s, find the value of k that makes the object reach its terminal velocity of 50 m/s."
+768,,Differential_Equations,Consider the differential equation dy/dx = -2y. Find the general solution and draw a direction field for the equation.
+769,,Differential_Equations,"A spring with a mass of 2 kg is attached to a ceiling and hangs at rest. If a force of 10 N is applied to the mass, causing it to stretch the spring 0.5 m, write a differential equation to model the motion of the mass."
+770,,Differential_Equations,"Solve the differential equation dP/dt = kP, where P is the population of a species and k is a constant representing the rate of growth. If the initial population is 1000 and the population doubles every 5 years, what is the value of k and what will be the population after 15 years?"
+771,,Differential_Equations,"What is the solution to the initial value problem dy/dx = x^2 - 1, y(0) = 2?"
+772,,Differential_Equations,Solve the Bernoulli differential equation dy/dx = y/x + y^2/x^2.
+773,,Differential_Equations,Find the general solution of the homogeneous differential equation d^2y/dx^2 + 4y = 0.
+774,,Differential_Equations,Use separation of variables to solve the differential equation dy/dx = 2xy.
+775,,Differential_Equations,"Solve the logistic differential equation dy/dx = ky(1-y), where k is a constant."
+776,,Differential_Equations,"Determine the particular solution of the differential equation dy/dx = x + 1, given that y(0) = 0."
+777,,Differential_Equations,Find the solution to the differential equation (dy/dx)^2 = 4xy.
+778,,Differential_Equations,"Solve the linear differential equation d^2y/dx^2 = 4x + 3, given that y(0) = 1 and y'(0) = 2."
+779,,Differential_Equations,Determine the general solution to the differential equation d^3y/dx^3 + y = 4x + 2.
+780,,Differential_Equations,Find the solution to the exact differential equation (2xy + 3y^2)dx + (x^2 + 3xy)dy = 0.
+781,,Differential_Equations,"Given the differential equation dy/dx = 2x + y, find the particular solution that satisfies the initial condition y(0) = 3."
+782,,Differential_Equations,Determine whether the function y = (x-1)^2 is a solution to the differential equation y' = 2x+1.
+783,,Differential_Equations,Solve the initial value problem dy/dt = e^t + y with initial condition y(0) = 1.
+784,,Differential_Equations,Find the general solution to the differential equation dy/dx = 3xy.
+785,,Differential_Equations,"Given the differential equation y' = 2x - y, find the solution that passes through the point (1,2)."
+786,,Differential_Equations,Determine the coefficients of the power series solution y(x) = Σn=0^∞ a_n * xⁿ for the differential equation xy' + y = 0.
+787,,Differential_Equations,Find the solution to the differential equation dy/dx = x*cos(x) + y*sin(x) given the initial condition y(π/4) = 1.
+788,,Differential_Equations,Solve the initial value problem dy/dx = 2x + y with initial condition y(1) = 3 using the method of separation of variables.
+789,,Differential_Equations,Show that y = (x-1)e^x is a solution to the differential equation xdy/dx = y + x.
+790,,Differential_Equations,Find the general solution to the linear first order differential equation y' + 3y = e^(-2x) + sin(4x).
+791,,Differential_Equations,"Solve the initial value problem: dy/dx = 3x^2, y(1) = 5."
+792,,Differential_Equations,Find the general solution of the differential equation: dy/dx = -2xy.
+793,,Differential_Equations,"Using the given solutions, find the general solution of dy/dx = x^2 + 3."
+794,,Differential_Equations,"Find the particular solution of the differential equation: y' = 4x, y(2) = 10."
+795,,Differential_Equations,"Find the solution of the initial value problem: dy/dx = (x+1)^2, y(0) = -2."
+796,,Differential_Equations,"Using separation of variables, solve the differential equation: dy/dx = x/y."
+797,,Differential_Equations,"Find the solution of the initial value problem: y' = y^2, y(0) = 1."
+798,,Differential_Equations,Solve the differential equation: y'' + 4y' = 0.
+799,,Differential_Equations,"Using the integrating factor method, solve the differential equation: y' + xy = x."
+800,,Differential_Equations,Find the general solution of the differential equation: d^2y/dx^2 - 4dy/dx + 3y = 0.
+801,,Differential_Equations,1: What is the general solution to the differential equation dy/dx = e^x + 2x?
+802,,Differential_Equations,"2: Find the particular solution to the differential equation dx/dt + 2x = t, given that x(0) = 1."
+803,,Differential_Equations,3: Verify if y = e^x is a solution to the differential equation dy/dx = x + y.
+804,,Differential_Equations,4: Solve the homogeneous differential equation dy/dx = y/x.
+805,,Differential_Equations,5: Find the solution to the differential equation d^2y/dx^2 + 4x = 0.
+806,,Differential_Equations,"6: Determine the stability of the solution to the differential equation dN/dt = -0.02N^2 + 2N, where N represents the population size."
+807,,Differential_Equations,7: Find the general solution to the differential equation 3y'' + 2y' - y = 0.
+808,,Differential_Equations,8: Use the method of undetermined coefficients to find the particular solution of the differential equation y'' + 2y' + y = 3sin(2x).
+809,,Differential_Equations,"9: Show that the function y = x^2 - 2x + C is a solution to the differential equation y' + y = x, where C is a constant."
+810,,Differential_Equations,10: Find the general solution to the Bernoulli differential equation y' + (x+1)y = y^2.
+811,,Differential_Equations,"How do you solve the initial value problem f'(x) = x + 3, f(0) = 5 using separation of variables?"
+812,,Differential_Equations,Find the general solution to the differential equation f''(x) + 4f(x) = 0.
+813,,Differential_Equations,Use the Method of Undetermined Coefficients to solve the differential equation f''(x) + 2f'(x) + f(x) = sin(x).
+814,,Differential_Equations,"Determine the particular solution of the differential equation f'(x) = 2f(x) - x, given that f(0) = 3."
+815,,Differential_Equations,"Find the solution to the differential equation f'(x) = x^2 - 2x + 3, where f(1) = 5."
+816,,Differential_Equations,"Use the Laplace Transform to solve the differential equation f''(x) + 6f'(x) + 8f(x) = cos(x), f(0) = 0, f'(0) = 2."
+817,,Differential_Equations,Find the general solution to the first-order linear differential equation xf'(x) + 2f(x) = x^3.
+818,,Differential_Equations,Use the Method of Variation of Parameters to solve the differential equation f''(x) -2f'(x) + f(x) = e^x.
+819,,Differential_Equations,"Determine the solution to the differential equation f'(x) = x^2 + 3x + 2, f(1) = 0."
+820,,Differential_Equations,"Find the solution to the system of differential equations dx/dt = 3x + y, dy/dt = 2x + y, given that x(0) = 1, y(0) = 2."
+821,,Differential_Equations,Find the general solution to the differential equation dy/dx = 2x+1
+822,,Differential_Equations,Use differential equations to model the spread of a disease in a population over time.
+823,,Differential_Equations,"Solve the initial value problem dx/dt = 3e^t, x(0)=1."
+824,,Differential_Equations,"Determine the stability of the solution to the differential equation dx/dt = -3x, x(0)=2."
+825,,Differential_Equations,Use separation of variables to solve the differential equation dy/dt = 2ty.
+826,,Differential_Equations,Find the particular solution to the differential equation d²x/dt² - 4dx/dt + 4x = 8sin(t).
+827,,Differential_Equations,Use Euler's method to approximate a solution to the differential equation dy/dx = x+y with initial condition y(0) = 1.
+828,,Differential_Equations,"Find the steady state solution to the differential equation dP/dt = 0.1P(1000-P), where P represents the population of a species."
+829,,Differential_Equations,Investigate the behavior of a system described by the differential equation dx/dt = -x² + sin(t) using phase plane analysis.
+830,,Differential_Equations,"Solve the boundary value problem d²y/dx² + y = 0, y(0)=1, y(π)=0."
+831,,Differential_Equations,Determine the order and degree of the following differential equation:
+832,,Differential_Equations,$\frac{d^3y}{dx^3}-4\frac{dy}{dx}=-5x^2$
+833,,Differential_Equations,Find the particular solution of the differential equation $y'=2x+3$ with the initial condition $y(0)=5$.
+834,,Differential_Equations,Solve the initial value problem $\frac{d^2y}{dx^2}+9y = 0$ with the initial conditions $y(0)=1$ and $y'(0)=2$.
+835,,Differential_Equations,Use the method of undetermined coefficients to find the general solution of the differential equation $y''+9y'=3e^{-x}$.
+836,,Differential_Equations,Find a solution to the differential equation $2\frac{dy}{dx}-y=x^2e^x$.
+837,,Differential_Equations,Solve the initial value problem $y''-9y'+20y=0$ with the initial conditions $y(0)=0$ and $y'(0)=2$.
+838,,Differential_Equations,Find the value of $k$ such that $y=ke^x$ is a particular solution to the differential equation $\frac{dy}{dx}-3y=2x+1$.
+839,,Differential_Equations,Use separation of variables to solve the differential equation $y'=\frac{e^x}{y}$.
+840,,Differential_Equations,Find the general solution of the differential equation $y'=-\frac{x}{y}$.
+841,,Differential_Equations,Solve the initial value problem $y'=\frac{2}{x}+2y$ with the initial condition $y(1)=3$.
+842,,Differential_Equations,Find the general solution of the differential equation dy/dx = 2x + 3
+843,,Differential_Equations,"Solve the initial value problem y' + 2xy = 4, y(0) = 2"
+844,,Differential_Equations,Determine the particular solution of the differential equation y'' - 5y' + 6y = 0
+845,,Differential_Equations,How do you use Euler's method to approximate the solution to a differential equation?
+846,,Differential_Equations,"Solve the boundary value problem y'' + 2y' + 3y = 5, y(0) = 1, y(2) = 4"
+847,,Differential_Equations,What is separation of variables and how is it used to solve differential equations?
+848,,Differential_Equations,Prove the existence and uniqueness theorem for first-order initial value problems.
+849,,Differential_Equations,Use Laplace transforms to solve the differential equation y'' - 3y' + 2y = e^2t.
+850,,Differential_Equations,Find the general solution to the differential equation d²y/dx² + 5y = sin(x)
+851,,Differential_Equations,How do you use Runge-Kutta methods to solve a system of differential equations?
+852,,Differential_Equations,Find the general solution to the differential equation dy/dx = 2x
+853,,Differential_Equations,"Solve the initial value problem dy/dx = 3y + 2x, y(0)=1"
+854,,Differential_Equations,Use Separation of Variables to solve the differential equation dy/dx = x/y
+855,,Differential_Equations,Find the particular solution to the differential equation y'' + 3y' + 2y = cos(x)
+856,,Differential_Equations,Solve the differential equation y'' - 3y' + 2y = 10ex
+857,,Differential_Equations,Use Variation of Parameters to find the general solution to the differential equation y'' + 2y = cos(x)
+858,,Differential_Equations,"Solve the initial value problem y' + y = 2x, y(1)=3"
+859,,Differential_Equations,Find the general solution to the differential equation y' - 2xy = ex
+860,,Differential_Equations,Solve the differential equation y'' - y' + y = 2cos(x)
+861,,Differential_Equations,Use the substitution u = y' to transform the first-order differential equation y' + y = 3x into a separable equation and then solve it.
+862,,Differential_Equations,Find the general solution of the differential equation dy/dx = 2x + 3y
+863,,Differential_Equations,"Solve the initial value problem x^2 y' = 2y, y(1) = 4"
+864,,Differential_Equations,Verify that y(x) = Ce^x is a solution to the differential equation y' = y
+865,,Differential_Equations,"Find the particular solution to the differential equation dy/dx = sin(x) + x, y(0) = 2"
+866,,Differential_Equations,Solve the separable differential equation (x^2 + 1)dx + xdy = 0
+867,,Differential_Equations,Prove that the function y(x) = 3x^2 + 4 is a solution to the differential equation y' = 6x
+868,,Differential_Equations,Find the equilibrium solutions for the differential equation dy/dx = 2x^2 - 4x
+869,,Differential_Equations,"Solve the initial value problem y'-2y = e^x, y(0) = 5"
+870,,Differential_Equations,"Using the method of undetermined coefficients, find the particular solution to y'' + 6y' + 8y = 4e^2x"
+871,,Differential_Equations,Find the general solution to the second-order differential equation x^2 y'' - 3y' = 0
+872,,Differential_Equations,"Solve the initial value problem y' + 3y = 6x, y(0) = 2"
+873,,Differential_Equations,Find the particular solution to the differential equation y' - y = e^x / x
+874,,Differential_Equations,Determine the general solution to the homogeneous differential equation y' - 2y = 0
+875,,Differential_Equations,"Solve the boundary value problem y' = y^2, y(1) = 2, y(2) = 3"
+876,,Differential_Equations,Find the solution to the differential equation y'' + 4y' + 3y = 0 using the characteristic equation method
+877,,Differential_Equations,Determine the Laplace transform of the differential equation y'' - 2y' + y = cos(3x)
+878,,Differential_Equations,"Solve the initial value problem y' + 2xy = 5x^2, y(0) = 1"
+879,,Differential_Equations,Find the general solution to the linear first-order differential equation y' = 2x/3y
+880,,Differential_Equations,"Solve the boundary value problem y'' + y' = 0, y(0) = 1, y(1) = 2"
+881,,Differential_Equations,"Find the particular solution to the differential equation y' + 3xy = 2x, when y(0) = -1"
+882,,Differential_Equations,Solve the differential equation 3x + 2y = 0.
+883,,Differential_Equations,Find the general solution for the differential equation y' = 3x^2 + 6x + 5.
+884,,Differential_Equations,"Solve the initial value problem y' + 2xy = 4, y(0) = 5."
+885,,Differential_Equations,Determine the particular solution of the differential equation y' = (x^2 + 3x + 2) / (x + 1) with initial value y(1) = 0.
+886,,Differential_Equations,Find the equilibrium solution of the logistic differential equation y' = ky(1-y) with k = 0.05.
+887,,Differential_Equations,"Solve the boundary value problem y'' + y = 6x, y(0) = 0 and y'(1) = 2."
+888,,Differential_Equations,"Determine the Laplace transform of the differential equation y'' + 5y' + 6y = 2, with initial conditions y(0) = 0 and y'(0) = 1."
+889,,Differential_Equations,Find the general solution of the second order linear differential equation y'' - 4y' + 4y = 0.
+890,,Differential_Equations,Solve the differential equation y' = (x^3y + y^2) / x with initial condition y(1) = 3.
+891,,Differential_Equations,"Determine the Fourier series for the solution of the differential equation y'' + y' + y = 0, with initial conditions y(0) = 0 and y'(0) = 1."
+892,,Differential_Equations,"Find the solution to the differential equation y' - 2y = 4, with initial condition y(0) = 3."
+893,,Differential_Equations,"Solve the differential equation x^2y' + 2xy = 1, with initial condition y(1) = 4."
+894,,Differential_Equations,Determine the general solution of the differential equation 3xy' + 5y = 2xe^(-2x).
+895,,Differential_Equations,"Given the differential equation y' + y = ln(x), find the particular solution satisfying the initial condition y(1) = 2."
+896,,Differential_Equations,"Find the solution to the differential equation y' = y^2 - 2y, with initial condition y(0) = 1."
+897,,Differential_Equations,"Solve the differential equation 2y' + y = e^x, with initial condition y(0) = 2."
+898,,Differential_Equations,Determine the general solution of the differential equation x^2y' + 3xy = 2x.
+899,,Differential_Equations,"Find the solution to the differential equation y' = x^2 + 2, with initial condition y(0) = 0."
+900,,Differential_Equations,"Given the differential equation y' + py = 2, find the value of p that makes the solution y = 3e^(px) satisfy the initial condition y(0) = 4."
+901,,Differential_Equations,"Find the solution to the differential equation y' - y = sin(x), with initial condition y(0) = 1."
+902,,Differential_Equations,Find the general solution of the differential equation: y'' + 4y' - 5y = 0
+903,,Differential_Equations,"Solve the initial value problem: y' + 2y = x, y(0) = 1"
+904,,Differential_Equations,"Given a differential equation dy/dx = 4x^3, find the particular solution satisfying the initial condition y(0) = 5."
+905,,Differential_Equations,"Solve the differential equation: y' = 2xy, with the initial condition y(0) = 3."
+906,,Differential_Equations,"Find the general solution of the differential equation: y'' + 2xy' = sin(x), y(0) = 1, y'(0) = -2."
+907,,Differential_Equations,Solve the second-order differential equation: y'' + 4y' + 5y = sin(x) + e^(-x).
+908,,Differential_Equations,"Find the particular solution of the differential equation: y' = 2x + 3y, given the initial condition y(1) = 2."
+909,,Differential_Equations,"Given a differential equation y' + y = 5cos(x), find the solution that satisfies y(0) = 0."
+910,,Differential_Equations,"Solve the initial value problem: y'' + 3y' + 2y = 0, y(0) = 1, y'(0) = -2."
+911,,Differential_Equations,Find the general solution of the differential equation: y' + y = 2e^(2x) + 5x.
+912,,Differential_Equations,Find the general solution to the differential equation: dy/dx = 2x + y
+913,,Differential_Equations,"Solve the initial value problem: dy/dx = 3x, y(0) = 4"
+914,,Differential_Equations,"Given the differential equation: dy/dx = 2x + 3y, find the particular solution that passes through the point (2,5)"
+915,,Differential_Equations,Find the general solution to the differential equation: dy/dx = 2cos(x)
+916,,Differential_Equations,"Solve the initial value problem: dy/dx = 3x^2, y(1) = 6"
+917,,Differential_Equations,Find the general solution to the differential equation: dy/dx = 1/x(y-1)
+918,,Differential_Equations,"Solve the initial value problem: dy/dx = 4xcos(y), y(0) = π/2"
+919,,Differential_Equations,Find the particular solution to the differential equation: dy/dx = (y+1)^2
+920,,Differential_Equations,"Solve the initial value problem: dy/dx = 2e^(x-y), y(0) = 1"
+921,,Differential_Equations,Find the general solution to the differential equation: dy/dx = 2y + x^2
+922,,Differential_Equations,What is the general solution of the differential equation d^2y/dx^2 + 3dy/dx + 2y = 0?
+923,,Differential_Equations,Use separation of variables to solve the differential equation dy/dx = x + y.
+924,,Differential_Equations,Find the particular solution of the differential equation dy/dx = 2x + e^x that satisfies y(0) = 1.
+925,,Differential_Equations,"Determine the interval of validity for the solution of the initial value problem dy/dx = x^2 + 3x, y(1) = 2."
+926,,Differential_Equations,Use the variation of parameters method to find the general solution of the differential equation d^2y/dx^2 - 2y = 2.
+927,,Differential_Equations,Find the value of the separation constant in the solution of the differential equation dy/dx + y = ce^(-x).
+928,,Differential_Equations,"Determine the steady-state solution of the differential equation dy/dt = -ky + A, where k and A are constants."
+929,,Differential_Equations,Use the substitution x = e^t to transform the differential equation dy/dx + 4y = 5e^x into a separable equation.
+930,,Differential_Equations,Find the eigenvalues and corresponding eigenfunctions of the differential operator d^2/dx^2 + 2d/dx + y.
+931,,Differential_Equations,"Use Laplace transforms to solve the differential equation d^2y/dx^2 + 8dy/dx + 15y = sin(3x), subject to the initial conditions y(0) = 0 and dy/dx(0) = 2."
+932,,Differential_Equations,Find the general solution to the differential equation d/dx (3x^2 + 2xy) = 0.
+933,,Differential_Equations,"Solve the initial value problem dy/dx = x + e^y, y(0) = 2."
+934,,Differential_Equations,Determine the particular solution to the differential equation dy/dx = 3x^2 - 4x + 5 if y(0) = 1.
+935,,Differential_Equations,Find the steady-state solution to the differential equation dy/dt = -2y + 3t if y(0) = 5.
+936,,Differential_Equations,Solve the differential equation d^2y/dx^2 + 5dy/dx + 6y = 0.
+937,,Differential_Equations,"Find the solution to the initial value problem dx/dt = 2x + 4t, x(0) = 3, t > 0."
+938,,Differential_Equations,Determine the steady-state solution to the differential equation dy/dt = -4y + 6t^2.
+939,,Differential_Equations,Solve the differential equation d^2y/dx^2 + 2dy/dx + 3y = 0.
+940,,Differential_Equations,Find the general solution to the differential equation d/dx (x^2 + y^2) = 0.
+941,,Differential_Equations,Determine the particular solution to the differential equation dy/dt = -3y + 2sin(t) if y(0) = 2.
+942,,Differential_Equations,Find the general solution to the differential equation:
+943,,Differential_Equations,= x^2 + 3xy
+944,,Differential_Equations,Use the method of variation of parameters to find the particular solution of the equation:
+945,,Differential_Equations,+ 3y' + 2y = cos(3x)
+946,,Differential_Equations,Verify that y = e^x is a solution of the differential equation:
+947,,Differential_Equations,+ y = 0
+948,,Differential_Equations,Find the general solution to the differential equation:
+949,,Differential_Equations,+ 1)dy/dx = x + y
+950,,Differential_Equations,Use separation of variables to find the general solution to the differential equation:
+951,,Differential_Equations,= e^(2x+y)
+952,,Differential_Equations,Determine the particular solution of the differential equation:
+953,,Differential_Equations,"= -2x + 3, given that y(0) = 4."
+954,,Differential_Equations,Solve the initial value problem:
+955,,Differential_Equations,"+ 2y = sin(2x), y(0) = 1"
+956,,Differential_Equations,Use the method of undetermined coefficients to find a particular solution to the following differential equation:
+957,,Differential_Equations,+ 5y' + 6y = 3sin(2x)
+958,,Differential_Equations,Find the solution to the differential equation:
+959,,Differential_Equations,"= 1 + y^2, subject to the initial condition y(0) = 0."
+960,,Differential_Equations,Use Laplace transform to solve the differential equation:
+961,,Differential_Equations,"+ 2y' + y = e^t, y(0) = 0, y'(0) = 1."
+962,,Differential_Equations,"Find the particular solution to the differential equation dy/dx = 3y, given that y(0) = 2."
+963,,Differential_Equations,"Solve the initial value problem dy/dx = x^2 + 1, y(0) = 1."
+964,,Differential_Equations,Show that x=2 is an equilibrium solution to the differential equation dy/dx = x^2 - 4x + 3.
+965,,Differential_Equations,"Using the separation of variables, solve the differential equation dy/dx = (x+1)(y+2)."
+966,,Differential_Equations,Find the general solution to the differential equation dy/dx = (x+2)/y.
+967,,Differential_Equations,A tank is initially filled with 100 liters of saltwater. Saltwater with a concentration of 0.2 kg/L is entering the tank at a rate of 5 L/min and the mixture is well stirred and 25 L/min is being drained from the tank. Write a differential equation representing the concentration of salt in the tank at any given time.
+968,,Differential_Equations,"At time t = 0, a chemical reaction begins. The amount of product produced in t minutes is modeled by the differential equation dP/dt = 20e^(0.2t). Find P(5), the amount of product produced after 5 minutes."
+969,,Differential_Equations,A population of bacteria initially contains 5000 bacteria and is growing at a rate of 2000e^(-0.1t) bacteria per hour. Write a differential equation representing the growth of the bacteria population.
+970,,Differential_Equations,"The motion of a swinging pendulum can be modeled by the differential equation d^2θ/dt^2 + 9.8θ = 0, where θ is the angular displacement in radians and t is time. Find the angular displacement θ when t = 5 seconds, given that θ(0) = π/2 and θ'(0) = 0."
+971,,Differential_Equations,A tank initially contains 3000 liters of water with a concentration of 0.05 kg/L of salt. Saltwater with a concentration of 0.1 kg/L is entering the tank at a rate of 10 L/min and the mixture is well stirred and 20 L/min is being drained from the tank. Write a differential equation representing the concentration of salt in the tank at any given time.
+972,,Differential_Equations,"Find the general solution of the differential equation y' = 2xy + x, given y(0)=2."
+973,,Differential_Equations,"Solve the initial value problem y' = 5x - e^(-2x), y(0) = 3."
+974,,Differential_Equations,"Determine the particular solution of the differential equation x^2 y' = x^3 + 3x - 1, given y(1)=2."
+975,,Differential_Equations,Find the general solution of the differential equation xy' - y = (1+x)^2.
+976,,Differential_Equations,"Solve the initial value problem 2yy' = (x+y)^2, y(1)=4."
+977,,Differential_Equations,"Determine the particular solution of the differential equation y' - 2xy = 4x + e^x, given y(0)=1."
+978,,Differential_Equations,"Find the general solution of the differential equation y' + 2xy= 3x, given y(0) = 0."
+979,,Differential_Equations,"Solve the initial value problem y' = (x+y)^2, y(1) = -1."
+980,,Differential_Equations,"Determine the particular solution of the differential equation xy' + y = 3x - x^2, given y(-1)=2."
+981,,Differential_Equations,"Find the general solution of the differential equation y' - (1+x)y = 3x, given y(0) = 2."
+982,,Differential_Equations,Find the solution to the differential equation $y' = 3x^2 + 2x + 1$ with the initial condition $y(0) = 2$.
+983,,Differential_Equations,"Solve the initial value problem $y' = 2xy$, $y(0) = 1$."
+984,,Differential_Equations,Find the particular solution to the differential equation $2x^2y'' + 3xy' + y = 0$ given that $y(1) = 2$ and $y'(1) = -1$.
+985,,Differential_Equations,Determine the general solution of the differential equation $y'' + 4y' + 3y = 0$.
+986,,Differential_Equations,"Given the differential equation $y' = 2xy - x^2 + 1$, find the particular solution satisfying the initial condition $y(0) = 3$."
+987,,Differential_Equations,Find the solution to the differential equation $y' = \frac{1}{x^2} - \frac{y}{x}$ with the initial condition $y(1) = 0$.
+988,,Differential_Equations,What is the general solution to the differential equation $y'' - 4y' + 3y = e^x$?
+989,,Differential_Equations,Verify whether $y = x^2$ is a solution to the differential equation $y' = x + y$.
+990,,Differential_Equations,Find the Slope Field for the differential equation $y' = \frac{y}{x} + e^{-x}$.
+991,,Differential_Equations,"Given the initial condition $y(0) = 1$, find the particular solution of the differential equation $xy' - y = \cos(x)$."
+992,,Differential_Equations,Find the general solution to the differential equation y' = 3x + 4.
+993,,Differential_Equations,"Solve the initial value problem y' = x^2 + 1, y(0) = 2."
+994,,Differential_Equations,What is the particular solution to the differential equation y' = 2y + 5 with the initial condition y(0) = 3?
+995,,Differential_Equations,"Determine the interval of validity for the solution of the initial value problem y' = 2y, y(0) = 1."
+996,,Differential_Equations,Find the general solution to the differential equation y' = -3y + xe^x.
+997,,Differential_Equations,"Solve the initial value problem y' = 2y + sin(x), y(π) = 1."
+998,,Differential_Equations,What is the solution to the differential equation y' = -7xy^2 with the initial condition y(1) = 0?
+999,,Differential_Equations,"Determine the interval of validity for the solution of the initial value problem y' = x^2, y(2) = -3."
+1000,,Differential_Equations,Find the general solution to the differential equation y' = 5xy + x^2 + 1.
+1001,,Differential_Equations,"Solve the initial value problem y' = -2y + 6x, y(0) = 2."
+1002,,Differential_Equations,What is the general form of a first-order differential equation?
+1003,,Differential_Equations,Solve the differential equation dy/dx + 3y = 6x.
+1004,,Differential_Equations,Find the particular solution to the differential equation dy/dx = 2x.
+1005,,Differential_Equations,What is the relationship between the general solution and the particular solution of a differential equation?
+1006,,Differential_Equations,Find the solutions to the differential equation d^2y/dx^2 = 2x + 5.
+1007,,Differential_Equations,Determine the initial value of the differential equation dy/dx – 2x = 3 that satisfies the equation y(10) = 5.
+1008,,Differential_Equations,"Solve the initial value problem d^2y/dx^2 + y = 12, y(0) = 5, y'(0) = 6."
+1009,,Differential_Equations,What is the role of the arbitrary constant in the general solution of a differential equation?
+1010,,Differential_Equations,Find the explicit solution to the differential equation dy/dx = y^2.
+1011,,Differential_Equations,"Determine the particular solution to the differential equation d^2y/dx^2 + 2dy/dx + y = 0, y(0) = 3, y'(0) = 1."
+1012,,Differential_Equations,Find the general solution of the differential equation: dy/dx = 2xy + x
+1013,,Differential_Equations,"Solve the initial value problem: dy/dx = 3x^2 + 2xy, y(1) = 2"
+1014,,Differential_Equations,"Determine if the differential equation (x+y)dx + (y-x)dy = 0 is exact. If not, find an integrating factor."
+1015,,Differential_Equations,Find the particular solution of the differential equation: y'' + 4y' = cos(2x)
+1016,,Differential_Equations,"Solve the initial value problem: y' = -2xy + 3x, y(0) = 1"
+1017,,Differential_Equations,What is the meaning of boundary conditions in a differential equation?
+1018,,Differential_Equations,Find the general solution of the differential equation: (x^2 + y^2)dx + xydy = 0
+1019,,Differential_Equations,Use separation of variables to solve the differential equation: dy/dx = 2x/(x^2 + 1)
+1020,,Differential_Equations,"Given the differential equation: dy/dx = 3x^2 - 2, find the number of singular solutions."
+1021,,Differential_Equations,Find the steady state solution of the differential equation: xdy/dx + y = sin(x)
+1022,,Differential_Equations,Find the general solution to the differential equation: dy/dx = 3x^2 + 3x + 2
+1023,,Differential_Equations,"Solve the initial value problem: dy/dx = 2x, y(0) = 4"
+1024,,Differential_Equations,Find the particular solution to the differential equation: d^2y/dx^2 + 10dy/dx + 25y = 0
+1025,,Differential_Equations,"Determine the maximum and minimum values of the solution to the initial value problem: dy/dx = -x^2 + 3x + 5, y(0) = 2"
+1026,,Differential_Equations,Use separation of variables to solve the differential equation: dy/dx = e^(2x)
+1027,,Differential_Equations,"Find the particular solution to the initial value problem: d^3y/dx^3 + 2d^2y/dx^2 + dy/dx = x^2, y(0) = 2, y'(0) = 4, y''(0) = 6"
+1028,,Differential_Equations,Solve the differential equation: dy/dx = 4x^3 + x/y
+1029,,Differential_Equations,Use substitution to solve the differential equation: dy/dx = (x + y)^2
+1030,,Differential_Equations,Find the general solution to the differential equation: d^2y/dx^2 + 3dy/dx + 2y = sin(x)
+1031,,Differential_Equations,"Solve the initial value problem: d^2y/dx^2 + 6y = 0, y(0) = 1, y'(0) = -2"

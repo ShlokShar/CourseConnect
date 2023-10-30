@@ -1,0 +1,1008 @@
+,question,topic,quesiton
+0,,Limits_and_Continuity,Find the limit of f(x) = (x^2 + 3x + 2) / (x + 1) as x approaches 2.
+1,,Limits_and_Continuity,Determine if the function f(x) = (3x^2 - 4x) / (2x - 1) is continuous at x = 2.
+2,,Limits_and_Continuity,Evaluate the left-hand and right-hand limits of f(x) = (2x^2 + 5x - 1) / (x - 3) as x approaches 3.
+3,,Limits_and_Continuity,Determine the value of c such that the function f(x) = (2x^3 - 5x^2 + c) / (6x^2 - 9x) is continuous at x = 1.
+4,,Limits_and_Continuity,Find the limit of g(x) = (5x^3 + 2x^2 - 3x) / (2x^3 + 7x^2 - 4) as x approaches infinity.
+5,,Limits_and_Continuity,Determine the value of k such that the function f(x) = (x^2 + 5x + k) / (x + 1) is continuous at x = -2.
+6,,Limits_and_Continuity,Find the limit of h(x) = (3x + 4) / (x^2 - 9) as x approaches -3.
+7,,Limits_and_Continuity,Show that f(x) = sin(x) / x is continuous at x = 0.
+8,,Limits_and_Continuity,"Use the definition of continuity to prove that the function f(x) = x^2 - 5x + 6 is continuous on the interval [2, 6]."
+9,,Limits_and_Continuity,Evaluate the limit of f(x) = (x^2 + 4x + 3) / (x - 2) as x approaches 2 from both the left and right sides.
+10,,Limits_and_Continuity,Find the limit of f(x) = (x^2 - 1) / (x - 1) as x approaches 1.
+11,,Limits_and_Continuity,Evaluate the limit of g(x) = (e^x - 1) / x as x approaches 0.
+12,,Limits_and_Continuity,Determine the limit of h(x) = (3x^2 + 2x - 1) / (5x^2 - 4) as x approaches infinity.
+13,,Limits_and_Continuity,Calculate the limit of k(x) = (sin^2 x) / x as x approaches 0.
+14,,Limits_and_Continuity,What is the limit of f(x) = (3x + 4) / (5x + 6) as x approaches -2?
+15,,Limits_and_Continuity,Find the limit of g(x) = (x^3 + 3x + 1) / (x^2 + 2x + 1) as x approaches -1.
+16,,Limits_and_Continuity,Determine the limit of h(x) = (2x^3 + 3x - 1) / (4x^2 + 2x + 3) as x approaches 2.
+17,,Limits_and_Continuity,What is the limit of k(x) = (x^2 + 3x - 1) / (x + 1) as x approaches -1?
+18,,Limits_and_Continuity,Calculate the limit of f(x) = (sin x) / x as x approaches infinity.
+19,,Limits_and_Continuity,Find the limit of g(x) = (2x + 1) / (x^2 + 1) as x approaches infinity.
+20,,Limits_and_Continuity,Evaluate the limit: lim(x->3) (x^2 - 9)/(x-3)
+21,,Limits_and_Continuity,Find the limit of f(x) = 2x+5 as x approaches 4
+22,,Limits_and_Continuity,Determine the limit: lim(x->0) (sinx)/x
+23,,Limits_and_Continuity,Evaluate the limit: lim(x->2) (x+5)/(x-2)
+24,,Limits_and_Continuity,"Given the function f(x) = (2x^2-3)/(x+1), find the limit lim(x->-1) f(x)"
+25,,Limits_and_Continuity,Find the limit: lim(x->1) (3x-7)/(x-1)
+26,,Limits_and_Continuity,Evaluate the limit: lim(x-> infinity) (3x^2)/(4x^2 - 2x)
+27,,Limits_and_Continuity,Determine the limit: lim(x->0) (1/x) + (1/x^2)
+28,,Limits_and_Continuity,"Given the function g(x) = (x+2)/(x-3), find lim(x->3) g(x)"
+29,,Limits_and_Continuity,Find the limit: lim(x-> -2) (x^3 + 8)/(x+2)
+30,,Limits_and_Continuity,Find the limit of (3x^2 - 2x + 5) as x approaches 2.
+31,,Limits_and_Continuity,Determine whether the function f(x) = (x^3 - 4x^2 + 5x + 9)/(x^2 + 1) is continuous at x = 3.
+32,,Limits_and_Continuity,Calculate the left and right-hand limits of f(x) = x/(x - 3) as x approaches 3.
+33,,Limits_and_Continuity,Use the squeeze theorem to find the limit of sin(x)/x as x approaches 0.
+34,,Limits_and_Continuity,"If lim x->a f(x) = L and lim x->a g(x) = M, what is the value of lim x->a (f(x) + g(x))?"
+35,,Limits_and_Continuity,Show that the function f(x) = (x^2 - 9)/(x - 3) has a removable discontinuity at x = 3.
+36,,Limits_and_Continuity,What is the limit of (1 - e^x)/x as x approaches infinity?
+37,,Limits_and_Continuity,Prove that the function f(x) = sin(1/x) is not continuous at x = 0.
+38,,Limits_and_Continuity,"If lim x->2 f(x) = 4 and lim x->2 g(x) = -3, what is the value of lim x->2 (2f(x) - g(x))?"
+39,,Limits_and_Continuity,Find the limit as x approaches 0 of (sin(2x)^2)/(4x).
+40,,Limits_and_Continuity,Find the limit as x approaches 0 of (sin 2x) / x
+41,,Limits_and_Continuity,Evaluate the limit as x approaches infinity of (3x + 1) / (4x - 2)
+42,,Limits_and_Continuity,Determine the limit as x approaches 4 of (x^2 - 16) / (x - 4)
+43,,Limits_and_Continuity,Compute the limit as x approaches 1 of (x + 3) / (x^2 + x - 2)
+44,,Limits_and_Continuity,Simplify the expression and find the limit as x approaches 2 of (x^3 - 8) / (x - 2)
+45,,Limits_and_Continuity,Evaluate the limit as x approaches -3 of (2x + 5) / (x^2 + 9)
+46,,Limits_and_Continuity,Find the limit as x approaches 2 of (x^2 - 4) / (x - 2)^2
+47,,Limits_and_Continuity,Determine the limit as x approaches 0 of (sec x - 1) / x
+48,,Limits_and_Continuity,Calculate the limit as x approaches 3 of (2x^2 - 3x + 7) / (x^2 - 3)
+49,,Limits_and_Continuity,Find the limit as x approaches -2 from above of (x^2 - 4) / (x + 2)
+50,,Limits_and_Continuity,What is the limit of (x^2 + 3) / (x + 1) as x approaches 2?
+51,,Limits_and_Continuity,Find the limit of (e^x - 1) / x as x approaches 0.
+52,,Limits_and_Continuity,Evaluate the limit of (cos(x) - 1) / x as x approaches 0.
+53,,Limits_and_Continuity,Calculate the limit of (4x^2 + 2x - 1) / x as x approaches -1.
+54,,Limits_and_Continuity,Determine the limit of (3x^3 - 4x^2 + x) / x^4 as x approaches infinity.
+55,,Limits_and_Continuity,Find the limit of (3x + 2) / (2x - 1) as x approaches 1/2.
+56,,Limits_and_Continuity,Evaluate the limit of (x^3 + 5x - 2) / (x^2 + 4) as x approaches -2.
+57,,Limits_and_Continuity,What value(s) must a be equal to in order for the limit of (ax + 3) / (x - 1) as x approaches 1/3 to exist?
+58,,Limits_and_Continuity,Calculate the limit of (2x^3 + 5x^2 - x) / (3x^3 + 2x^2 + x) as x approaches -2/3.
+59,,Limits_and_Continuity,Find the limit of (2sin(x) + x) / (x^2 + 4) as x approaches 0.
+60,,Limits_and_Continuity,What is the limit of (x^2-1)/(x-1) as x approaches 1?
+61,,Limits_and_Continuity,Find the limit of (3x^2+2)/x as x approaches infinity.
+62,,Limits_and_Continuity,Evaluate the limit of (2x^3-3x^2+4)/x^2 as x approaches negative infinity.
+63,,Limits_and_Continuity,Compute the limit of (sinx)/x as x approaches 0.
+64,,Limits_and_Continuity,What is the limit of (2x+1)/(x-2) as x approaches 2 from the left?
+65,,Limits_and_Continuity,Find the limit of (x^2+2)/(x+3) as x approaches -3.
+66,,Limits_and_Continuity,Evaluate the limit of (sqrt(x+3)-2)/(x-1) as x approaches 1.
+67,,Limits_and_Continuity,Compute the limit of (5-x)/(x^2+3x-4) as x approaches 2.
+68,,Limits_and_Continuity,What is the limit of (e^x)/(x+1) as x approaches infinity?
+69,,Limits_and_Continuity,Find the limit of (x^3-8)/(x^2-4x+4) as x approaches 2.
+70,,Limits_and_Continuity,What is the limit of (x^2 - 4) / (x - 2) as x approaches 2?
+71,,Limits_and_Continuity,Find the limit of 5x + 2 as x approaches -3
+72,,Limits_and_Continuity,Determine the limit as x approaches 0 of (sin x) / x
+73,,Limits_and_Continuity,Evaluate the limit of (3x^2 + 2x + 5) / (2x^2 + 7x + 1) as x approaches infinity
+74,,Limits_and_Continuity,"Given the function f(x) = (x^3 - 2x + 5) / (2x^2 - 3x + 1), find the limit of f(x) as x approaches 1"
+75,,Limits_and_Continuity,Find the limit as x approaches 2 of (x^2 + x - 4) / (x - 2)
+76,,Limits_and_Continuity,Evaluate the limit of (5/x^2) + 2 as x approaches 0
+77,,Limits_and_Continuity,Determine the limit as x approaches infinity of (2x + 3) / (4x + 1)
+78,,Limits_and_Continuity,"Given the function g(x) = (x + 1) / (x - 2), find the limit of g(x) as x approaches 2"
+79,,Limits_and_Continuity,Find the limit as x approaches 3 of (4x^3 - 2x + 7) / (3x^2 + x - 5)
+80,,Limits_and_Continuity,What is the limit as x approaches infinity of 1/x?
+81,,Limits_and_Continuity,Find the value of x that makes the limit of (x^2 - 4)/(x - 2) equal to 6.
+82,,Limits_and_Continuity,Determine whether the function f(x) = x^2 is continuous at x = 2.
+83,,Limits_and_Continuity,Calculate the limit of (sin x)/x as x approaches 0.
+84,,Limits_and_Continuity,"Given f(x) = |x + 3|, find the value of f(2)."
+85,,Limits_and_Continuity,Solve for k such that the limit of (kx + 2)/(x + 1) is 5 as x approaches -1.
+86,,Limits_and_Continuity,Prove that the limit of (3x + 2)/(2x + 1) is 3 as x approaches infinity.
+87,,Limits_and_Continuity,"Determine the continuity of the function g(x) = {(x^2 + 4x) / 3x, x < 2; (2x - 1)/5, x ≥ 2}"
+88,,Limits_and_Continuity,"Find the value of k for which f(x) = {(kx + 4), x > 1; (2x^2 + 3), x ≤ 1} is continuous at x = 1."
+89,,Limits_and_Continuity,Evaluate the limit of (e^x - 1)/(e^x + x) as x approaches 0.
+90,,Limits_and_Continuity,
+91,,Limits_and_Continuity,1. What is the limit of 3x^2 as x approaches 2?
+92,,Limits_and_Continuity,2. Calculate the limit of (x^2 + x + 1) / (x + 4) as x approaches 3.
+93,,Limits_and_Continuity,3. Find the limit of (sin(x) / x) as x approaches 0.
+94,,Limits_and_Continuity,4. What is the limit of √(x+1) - 1 / x as x approaches 0?
+95,,Limits_and_Continuity,5. Calculate the limit of (5x^3 - 2x^2 + 4x - 1) / (x^3 - 3x + 5) as x approaches -1.
+96,,Limits_and_Continuity,6. Find the limit of (e^x - 1) / x as x approaches 0.
+97,,Limits_and_Continuity,7. What is the limit of ln(x + 1) / x as x approaches infinity?
+98,,Limits_and_Continuity,8. Calculate the limit of (2x + √x) / (3x - 4) as x approaches 2.
+99,,Limits_and_Continuity,9. Find the limit of (5x^2 + 3x + 2) / (x^2 - 9) as x approaches 3.
+100,,Limits_and_Continuity,10. What is the limit of (cos(x) + sin(x)) / x as x approaches pi/2?
+101,,Limits_and_Continuity,Find the limit as x approaches 2 of (x^2 - 4)/(x - 2).
+102,,Limits_and_Continuity,Evaluate the limit as x approaches 0 of sin(x)/x.
+103,,Limits_and_Continuity,Determine the limit as x approaches infinity of (2x^3 + 3x^2)/x.
+104,,Limits_and_Continuity,Find the limit as x approaches 3 of (x^2 - 3x + 5)/(x - 3).
+105,,Limits_and_Continuity,Evaluate the limit as x approaches 5 of (3x^2 - 12)/(x^2 - 25).
+106,,Limits_and_Continuity,Determine the limit as x approaches -1 of (2x + 3)/(3x - 4).
+107,,Limits_and_Continuity,Find the limit as x approaches 1 of (x^3 - 1)/(x - 1).
+108,,Limits_and_Continuity,Evaluate the limit as x approaches 2 of ((x^2 + 1)/(x + 1))^(1/2).
+109,,Limits_and_Continuity,Determine the limit as x approaches infinity of (2x + 5)/(3x - 1).
+110,,Limits_and_Continuity,Find the limit as x approaches pi/4 of tan(x).
+111,,Limits_and_Continuity,Find the limit as x approaches 2 of (x^3 - 2x^2 + 4x - 8)
+112,,Limits_and_Continuity,Determine the value of the limit as x goes to 0 of (sin(2x) / x)
+113,,Limits_and_Continuity,Evaluate the limit as h approaches 0 of ((3 + h)^2 - 9) / h
+114,,Limits_and_Continuity,Calculate the limit as x approaches -2 of (x^2 + 6x + 8) / (x + 2)
+115,,Limits_and_Continuity,Find the limit as t approaches -∞ of (3t^3 - 2t^2 + 5) / (4t^3 + t^2)
+116,,Limits_and_Continuity,Determine the value of the limit as x goes to 1 of (3x^2 - 5x + 2) / (x - 1)
+117,,Limits_and_Continuity,Evaluate the limit as h approaches ∞ of (2h - √(h^2 + 1)) / h
+118,,Limits_and_Continuity,Calculate the limit as x approaches π/4 of (tan(x) - 1 - x) / (sin(x) - 1)
+119,,Limits_and_Continuity,Find the limit as t approaches 0 of (5t^2 + 3/t) / (1 - t^2)
+120,,Limits_and_Continuity,Determine the value of the limit as x goes to ∞ of (10x^3 - 7x + 2) / (2x^3 + 5)
+121,,Limits_and_Continuity,"What is the limit of f(x) as x approaches 5, where f(x) = (x^2 - 25)/(x - 5)?"
+122,,Limits_and_Continuity,"Find the limit of h(x) as x approaches 2, where h(x) = (2x^3 + 8x^2 - 7x - 2)/(x^2 - 4x + 4)."
+123,,Limits_and_Continuity,"Evaluate the limit of g(x) as x approaches -1, where g(x) = (3x + 1)/(x + 1)."
+124,,Limits_and_Continuity,"Calculate the limit of f(x) as x approaches infinity, where f(x) = (3x^2 + 5)/(2x^2 + 8)."
+125,,Limits_and_Continuity,"Find the limit of h(x) as x approaches 0, where h(x) = (sinx)/x."
+126,,Limits_and_Continuity,"Evaluate the limit of g(x) as x approaches 2, where g(x) = (x^3 - 8)/(x^2 - 4)."
+127,,Limits_and_Continuity,"Calculate the limit of f(x) as x approaches 2, where f(x) = (5x^2)/(2x + 1)."
+128,,Limits_and_Continuity,"Find the limit of h(x) as x approaches -1, where h(x) = (sqrt(x + 3))/(x^2 + 4x + 3)."
+129,,Limits_and_Continuity,"Evaluate the limit of g(x) as x approaches pi/2, where g(x) = (cosx)/(x - pi/2)."
+130,,Limits_and_Continuity,"Calculate the limit of f(x) as x approaches -infinity, where f(x) = (2x - 5)/(4x^3 + 1)."
+131,,Limits_and_Continuity,"What is the limit of f(x) as x approaches 3, where f(x) = 2x + 5?"
+132,,Limits_and_Continuity,"Find the limit of g(x) as x approaches 0, where g(x) = (3x^2 + 2) / x"
+133,,Limits_and_Continuity,"Does the function h(x) = (x-1)^2 / (x-1) have a limit as x approaches 1? If yes, what is the value of the limit?"
+134,,Limits_and_Continuity,"Given the function f(x) = (x^2 - 4) / (x - 2), what is the vertical asymptote of the graph?"
+135,,Limits_and_Continuity,Find the limit of the function g(x) = (3x^2 + 2x + 1) / (x^3 - x^2 + x - 1) as x approaches 1.
+136,,Limits_and_Continuity,"Does the function h(x) = 2x / (x^2 + 3) have a horizontal asymptote? If yes, what is its equation?"
+137,,Limits_and_Continuity,"Find the limit of f(x) as x approaches infinity, where f(x) = (3x^2 - 5) / (2x^2 + 4)."
+138,,Limits_and_Continuity,"Is the function g(x) = x^3 + 2x + 6 continuous at x = 3? If not, identify the point of discontinuity."
+139,,Limits_and_Continuity,What is the limit of the sequence {x_n} = n^2 / 2^n as n approaches infinity?
+140,,Limits_and_Continuity,Determine the interval(s) of continuity for the function f(x) = (x^2 - 4) / (x + 2).
+141,,Limits_and_Continuity,Find the limit of f(x) = (x^2-1)/(x-1) as x approaches 1.
+142,,Limits_and_Continuity,Show that the function f(x) = x^3 is continuous at x = 2.
+143,,Limits_and_Continuity,Evaluate the limit of f(x) = (3x+5)/(x+2) as x approaches infinity.
+144,,Limits_and_Continuity,Determine the values of a and b such that the function f(x) = (ax^2 + bx + 3)/(x^2 + 4x + 3) has a removable discontinuity at x = -1.
+145,,Limits_and_Continuity,Prove that the function f(x) = (2x-1)/(x-3) is discontinuous at x = 3 and continuous at all other values of x.
+146,,Limits_and_Continuity,Find the limit of f(x) = (6x-7)/(x^2 + 2x - 3) as x approaches negative infinity.
+147,,Limits_and_Continuity,Determine if the function f(x) = sin(x)/x is continuous at x = 0.
+148,,Limits_and_Continuity,Show that the function f(x) = (5x + 2)/(3x - 1) is continuous for all values of x.
+149,,Limits_and_Continuity,Find the limit of f(x) = (2x^2 + 5x - 3)/(3x^2 + 4x + 1) as x approaches 2.
+150,,Limits_and_Continuity,Prove that the function f(x) = (x^3 + 2x^2 - 4x + 5)/(x^3 - 8) is continuous at x = 2.
+151,,Limits_and_Continuity,1. Find the limit of f(x) = (x^2 - 4)/(x - 2) as x approaches 2.
+152,,Limits_and_Continuity,Determine the continuity of the function f(x) = sin(x) at x = π.
+153,,Limits_and_Continuity,Compute the limit of g(x) = 2x^3 - 5x^2 + 7x - 9 as x approaches -2.
+154,,Limits_and_Continuity,Show that f(x) = 3x + 4 is continuous for all values of x.
+155,,Limits_and_Continuity,Evaluate the limit of h(x) = (cos(x) - 1)/(x - π/2) as x approaches π/2.
+156,,Limits_and_Continuity,Determine the value of k such that the function f(x) = kx^2 is continuous at x = -3.
+157,,Limits_and_Continuity,Evaluate the limit of g(x) = (3x + 5)(x - 4)/(x - 2) as x approaches 2.
+158,,Limits_and_Continuity,Is f(x) = x^2 + 2x + 3 continuous at x = -2? Justify your answer.
+159,,Limits_and_Continuity,Find the limit of h(x) = 1/x^2 as x approaches infinity.
+160,,Limits_and_Continuity,Determine the continuity of the function f(x) = |x| at x = 0.
+161,,Limits_and_Continuity,Find the limit of f(x) as x approaches 3: f(x) = (x^2 - 9)/(x - 3)
+162,,Limits_and_Continuity,Solve the limit as x approaches infinity for f(x) = 2x^2 / (x + 3)
+163,,Limits_and_Continuity,Find the left-hand limit of f(x) as x approaches 0 for f(x) = 2x^2 / x
+164,,Limits_and_Continuity,Determine the value of c that makes f(x) continuous at x=2: f(x) = (x^2 + cx + 2)/(x-2)
+165,,Limits_and_Continuity,"Given the piecewise function f(x) = {x^2 - 5x -6, if x<3 ; 2x - 5, if x>=3}, find the limit of f(x) as x approaches 3."
+166,,Limits_and_Continuity,Find the limit of f(x) as x approaches infinity for f(x) = (5x^3 + 3)/(2x^3 - 1)
+167,,Limits_and_Continuity,"Determine the value of a that makes f(x) continuous at x=5: f(x) = {ax - 6, if x<5 ; 4x + 2, if x>=5}"
+168,,Limits_and_Continuity,Solve the limit as x approaches 2 for f(x) = (x-2)/(x^3-8)
+169,,Limits_and_Continuity,Find the limit of f(x) as x approaches 2 for f(x) = (x^3 - 8)/(x - 2)
+170,,Limits_and_Continuity,"Given the piecewise function f(x) = {x, if x<0 ; 0, if x>=0}, find the limit of f(x) as x approaches 0."
+171,,Limits_and_Continuity,Find the limit of the function f(x) = 3x + 5 as x approaches 2.
+172,,Limits_and_Continuity,Evaluate the left and right limits of f(x) = x^2 + 1 at x = 3.
+173,,Limits_and_Continuity,Find the limit at infinity of f(x) = (2x^2 + 1)/(x^2 - 3).
+174,,Limits_and_Continuity,Determine the limit of g(x) = (sinx - x)/x^3 as x approaches 0.
+175,,Limits_and_Continuity,Does the function h(x) = (x^2 - 6x + 8)/(x - 4) have a limit as x approaches 4?
+176,,Limits_and_Continuity,Use L'Hospital's rule to evaluate the limit of f(x) = (x^2 - 4)/(x - 2) as x approaches 2.
+177,,Limits_and_Continuity,Find the limit of g(x) = e^(1/x) as x approaches infinity.
+178,,Limits_and_Continuity,Does the function h(t) = (e^t - 1)/(t - 1) have a limit as t approaches 1?
+179,,Limits_and_Continuity,Evaluate the limit of f(x) = (x^3 - 1)/(x - 1) as x approaches 1 using the power rule.
+180,,Limits_and_Continuity,Find the left-hand and right-hand limits of g(x) = (x^2 - 1)/(x - 1) at x = 1.
+181,,Limits_and_Continuity,Find the limit as x approaches 2 of (x^2 - 4) / (x - 2)
+182,,Limits_and_Continuity,Evaluate the limit as h approaches 0 of (f(x + h) - f(x)) / h
+183,,Limits_and_Continuity,Determine the continuity of the function f(x) = 1 / (x - 3)
+184,,Limits_and_Continuity,Compute the limit as x approaches infinity of (x + 3) / (x - 2)
+185,,Limits_and_Continuity,Find the limit as x approaches 0 of sin(x) / x
+186,,Limits_and_Continuity,Show that the limit as x approaches 3 of x^2 - 9 / x - 3 is equal to 6
+187,,Limits_and_Continuity,Investigate the continuity of the function f(x) = (2x^2 + 3) / (x - 1)
+188,,Limits_and_Continuity,Find the value of c so that f(x) = (x^2 - 3x + c) / (x - 4) is continuous at x = 2
+189,,Limits_and_Continuity,Calculate the limit as x approaches pi/2 of sin(x) / (cos(x) - 1)
+190,,Limits_and_Continuity,Determine if the function f(x) = |x| is continuous at x = 0
+191,,Limits_and_Continuity,Find the limit as x approaches 2 of (3x^2 - 5x + 1)
+192,,Limits_and_Continuity,Determine the value of c such that the function f(x) = (x^2 - 5x + c) is continuous at x = 3
+193,,Limits_and_Continuity,Evaluate the limit as x approaches -2 of (x^3 + 4x^2 + 2x)
+194,,Limits_and_Continuity,Show algebraically that the limit as x approaches 2 of (3x^2 - 5x + 1) is equal to 9
+195,,Limits_and_Continuity,Prove that the function f(x) = (x^2 + 3x) / x is discontinuous at x = 0
+196,,Limits_and_Continuity,Find the value of k such that the function f(x) = (x + k) / (x - k) is continuous for all real values of x
+197,,Limits_and_Continuity,Calculate the limit as x approaches infinitiy of (2x + 5) / (3x - 1)
+198,,Limits_and_Continuity,Show that the function f(x) = (2x^2 + 3x + 2) / (x^2 + x - 6) is continuous for all real values of x
+199,,Limits_and_Continuity,Find the limit as x approaches 0 of (sin(x)) / x
+200,,Limits_and_Continuity,Prove that the function f(x) = sqrt(x^2 + 3) is continuous for all real values of x
+201,,Limits_and_Continuity,Find the limit as x approaches 4 of (2x - 1)
+202,,Limits_and_Continuity,Determine the limit as x approaches 1 of (3x + 5)/(x^2 + 2x - 3)
+203,,Limits_and_Continuity,What value does y approach as x approaches 2 for the function f(x) = (x^2 - 4)/(x - 2)
+204,,Limits_and_Continuity,Find the limit as x approaches infinity of (3x^2 + 4x + 1)/(5x^3 - 2x + 3)
+205,,Limits_and_Continuity,Calculate the limit as x approaches 0 of (1 - cosx)/x
+206,,Limits_and_Continuity,What is the limit as x approaches 2 of (x^3 - 8)/(x^2 - 4)
+207,,Limits_and_Continuity,Determine the limit as x approaches -5 of (2x^2 + 6x - 5)/(x + 5)
+208,,Limits_and_Continuity,Find the value of k that makes the limit as x approaches -3 for the function (5x + k)/(x + 3) continuous
+209,,Limits_and_Continuity,Calculate the limit as x approaches pi/4 of tanx
+210,,Limits_and_Continuity,What is the limit as x approaches infinity of (2x^2 - 3x + 1)/(x^2 - 2x + 1)
+211,,Limits_and_Continuity,"Find the limit of f(x) as x approaches 2, where f(x) = x² + 3x - 2"
+212,,Limits_and_Continuity,"What is the limit of g(x) as x approaches 0, where g(x) = (1/x) + 5"
+213,,Limits_and_Continuity,"Determine the value of the limit as x approaches π/2, of the function h(x) = tan(x)"
+214,,Limits_and_Continuity,"Compute the limit of the function f(x) as x approaches 1, where f(x) = (2x² + 3x - 1)/(x - 1)"
+215,,Limits_and_Continuity,"Find the one-sided limit as x approaches 5 from the left, of the function g(x) = |x - 5|"
+216,,Limits_and_Continuity,Calculate the limit as x approaches 0 of the function h(x) = (x² - 3) / (x + 1)
+217,,Limits_and_Continuity,What is the limit as x approaches ∞ of the function f(x) = 2x + 5?
+218,,Limits_and_Continuity,"Find the value of the limit as x approaches -2, of the function g(x) = (x³ + 2x) / x"
+219,,Limits_and_Continuity,Determine the limit as x approaches 0 of the function h(x) = sin(x) / x
+220,,Limits_and_Continuity,Compute the limit as x approaches 4 of the function f(x) = (x - 4) / (x² - 16)
+221,,Limits_and_Continuity,Find the limit as x approaches 2 of (5x^2 - 2x + 1)
+222,,Limits_and_Continuity,Determine the limit as x approaches infinity of (1/x^2)
+223,,Limits_and_Continuity,Find the right-hand limit as x approaches 0 of (sinx / x)
+224,,Limits_and_Continuity,Calculate the limit as x approaches 5 of (√(x+4) - √9) / (x-5)
+225,,Limits_and_Continuity,Evaluate the limit as x approaches -2 of (x^3 + 2x^2 + 4x + 8)
+226,,Limits_and_Continuity,Find the left-hand limit as x approaches 3 of (2x-6) / (x^2 - 3x - 4)
+227,,Limits_and_Continuity,Determine the limit as x approaches 0 of (cos3x / 4x)
+228,,Limits_and_Continuity,Calculate the limit as x approaches -1 from the right of √(x^2 + 2x + 1)
+229,,Limits_and_Continuity,Find the limit as x approaches infinity of (x^3 - 1) / (2x^3 + 3x + 5)
+230,,Limits_and_Continuity,Evaluate the limit as x approaches pi/4 of (tanx / secx)
+231,,Limits_and_Continuity,Find the limit of f(x) = (3x+2) / (x-1) as x approaches 1.
+232,,Limits_and_Continuity,Determine the value of h that makes the function f(x) = (x^2-4x+h) / (x-2) continuous at x = 2.
+233,,Limits_and_Continuity,Evaluate the limit of g(x) = (2x^3-8x^2+4) / (x^2-4x+4) as x approaches 2.
+234,,Limits_and_Continuity,Determine whether the function f(x) = (x^2-4x+3) / (x^2-3x+2) is continuous at x = 1.
+235,,Limits_and_Continuity,Find the limit of h(x) = (2x^2+7x-4) / (x+1) as x approaches -1.
+236,,Limits_and_Continuity,Determine the value of k that makes the function g(x) = (x^3-3x^2+k) / (x^2-2x+1) continuous at x = 1.
+237,,Limits_and_Continuity,Evaluate the limit of f(x) = (x^2+4x+1) / (2x^2+3x-2) as x approaches infinity.
+238,,Limits_and_Continuity,Determine whether the function g(x) = (x^3-4) / (x+2) is continuous at x = -2.
+239,,Limits_and_Continuity,Find the limit of h(x) = (7x^3-5x^2+3) / (x^2+2x-1) as x approaches -1.
+240,,Limits_and_Continuity,Determine the value of k that makes the function f(x) = (x^2+3x+k) / (x-2) continuous at x = 2.
+241,,Limits_and_Continuity,"Find the limit of f(x) as x approaches 3, where f(x) = (x^2 - 9)/(x - 3)"
+242,,Limits_and_Continuity,Determine the value of k that makes lim x→2 (x^2 - kx) continuous.
+243,,Limits_and_Continuity,"Calculate the limit of g(x) as x approaches 0, where g(x) = (sinx)/x"
+244,,Limits_and_Continuity,For what values of a is f(x) = (ax^2 - 3x)/x continuous at x=2?
+245,,Limits_and_Continuity,"Find the two-sided limit of h(x) as x approaches 5, where h(x) = (x^2 - 25)/(x - 5)"
+246,,Limits_and_Continuity,Determine the values of a and b that make f(x) = (x^3 + 2x - a)/(bx + 3) continuous at x= -1.
+247,,Limits_and_Continuity,"Calculate the left-hand limit of g(x) as x approaches 2, where g(x) = (3x + 5)/(x - 2)"
+248,,Limits_and_Continuity,"Find the limit of f(x) as x approaches ∞, where f(x) = (5x + 3)/(2x - 5)"
+249,,Limits_and_Continuity,Determine the value of a that makes lim x→1 (ax^2 - 2x + 3) = 4.
+250,,Limits_and_Continuity,Find the limit of y as x approaches -3 of the piecewise-defined function:
+251,,Limits_and_Continuity,"f(x) = {(x+3)^2 + 2, x < -3"
+252,,Limits_and_Continuity,"{-x + 7, x ≥ -3"
+253,,Limits_and_Continuity,"Find the limit of f(x) = (x^2 + 3x + 2)/(x+2), as x approaches 1."
+254,,Limits_and_Continuity,"Determine if the following function is continuous at x = 5: f(x) = {(x^2-9)/(x-3), x < 5 and 3x+7, x > 5}"
+255,,Limits_and_Continuity,"Find the value of c, if exists, that makes the function f(x) = (2x^2 - 16x + c)/(x-4) continuous at x = 4."
+256,,Limits_and_Continuity,"Evaluate the limit of g(x) = (x^2 + 5x - 6)/(x+3), as x approaches -3."
+257,,Limits_and_Continuity,Prove that the limit of h(x) = (x-4)/(x^2-16) as x approaches 4 does not exist.
+258,,Limits_and_Continuity,"Find the left-hand limit of j(x) = (5x+1)/(2x-4), as x approaches 2."
+259,,Limits_and_Continuity,Determine the value of a that makes the function k(x) = (x+a)/(x-5) continuous at x = 1.
+260,,Limits_and_Continuity,"Calculate the limit of p(x) = (6x^3-2x^2+5)/(x^2-3x), as x approaches infinity."
+261,,Limits_and_Continuity,Show that the function q(x) = (x^2+3x+2)/(x+1) is continuous for all values of x.
+262,,Limits_and_Continuity,"Evaluate the limit of r(x) = (sqrt(x+1) - 1)/(x), as x approaches 0."
+263,,Limits_and_Continuity,Find the limit as x approaches 2 of (x^2 - 4)/(x - 2)
+264,,Limits_and_Continuity,Determine if the function f(x) = 3x + 2 is continuous at x = 5.
+265,,Limits_and_Continuity,Compute the limit as x approaches infinity of (2x^3 - 5x + 9)/(3x^3 - 7x + 4)
+266,,Limits_and_Continuity,Show that the limit as x approaches 0 of sin(x)/x is equal to 1.
+267,,Limits_and_Continuity,Is the function f(x) = (2x + 1)/(x^2 - 1) continuous at x = -1?
+268,,Limits_and_Continuity,Find the limit as x approaches 0 of (tan(x) - x)/x^2
+269,,Limits_and_Continuity,Verify if the function g(x) = 1/x is continuous at x = 2.
+270,,Limits_and_Continuity,Evaluate the limit as x approaches 1 of (x/(x-1)) - (1/ln(x))
+271,,Limits_and_Continuity,"Determine if the function h(x) = {x^2 if x < 0, 2x if x ≥ 0} is continuous at x = 0."
+272,,Limits_and_Continuity,Find the limit as x approaches 4 of ((2x + 5)/x)^(1/3)
+273,,Limits_and_Continuity,What is the limit of x^2 + 4x - 5 as x approaches 3?
+274,,Limits_and_Continuity,Determine the value of the limit as x approaches 2 for (x^2 - 4)/(x - 2).
+275,,Limits_and_Continuity,Find the limit of (5x^3 + 3x^2)/x as x approaches infinity.
+276,,Limits_and_Continuity,Evaluate the limit of (x^2 - 8)/(x - 2) as x approaches 2 from the left.
+277,,Limits_and_Continuity,Find the limit of (3x - 1)/(x + 2) as x approaches -2.
+278,,Limits_and_Continuity,What is the value of the limit as x approaches 0 for (sin x)/x?
+279,,Limits_and_Continuity,Evaluate the limit of (x^2 + 5)/(6x^2 + 3) as x approaches -∞.
+280,,Limits_and_Continuity,Find the limit of (5x^2 - 3x)/(2x^2 + 4) as x approaches ∞.
+281,,Limits_and_Continuity,Determine the limit as x approaches ∞ for (x - 1)/(x^2 + 3).
+282,,Limits_and_Continuity,What is the value of the limit as x approaches 4 for (x^2 + 1)/(x - 3)?
+283,,Limits_and_Continuity,Find the limit of (4x+3)/(2x-1) as x approaches 2.
+284,,Limits_and_Continuity,Determine the limit of (x^2+5)/(x-3) as x approaches 3.
+285,,Limits_and_Continuity,What is the limit as x tends to 0 of sin(x)/x?
+286,,Limits_and_Continuity,Calculate the limit of ln(x)/x as x approaches infinity.
+287,,Limits_and_Continuity,Determine the limit of (e^x+3)/(x+2) as x goes to negative infinity.
+288,,Limits_and_Continuity,Find the limit of √x+2 as x approaches 4.
+289,,Limits_and_Continuity,Calculate the limit of (x^3+5x^2+2)/(x^2+4) as x approaches -3.
+290,,Limits_and_Continuity,Determine the limit of (2x-1)/(4x^2+3) as x tends to infinity.
+291,,Limits_and_Continuity,Find the limit of 1/x^2 as x approaches negative infinity.
+292,,Limits_and_Continuity,Calculate the limit of (3x-5)/(2x+1) as x goes to 1.
+293,,Limits_and_Continuity,Find the limit of (x^2 - 1)/(x - 1) as x approaches 1.
+294,,Limits_and_Continuity,Determine whether the function f(x) = 2x^2 - 4x + 3 is continuous at x = 2.
+295,,Limits_and_Continuity,Evaluate the limit of (3x + 4)/(x + 2) as x approaches -2.
+296,,Limits_and_Continuity,Is the function f(x) = |x+2| continuous at x = -2?
+297,,Limits_and_Continuity,Find the limit of (e^x - 1 - x)/(x^2) as x approaches 0.
+298,,Limits_and_Continuity,Determine the value of h such that the function f(x) = (5x + h)/(x - 3) is continuous at x = 3.
+299,,Limits_and_Continuity,Evaluate the limit of (sin(x))/x as x approaches 0.
+300,,Limits_and_Continuity,Determine the value(s) of a for which the function g(x) = (x^2 - a)/(x - 2) is continuous at x = 2.
+301,,Limits_and_Continuity,Find the limit of (x^3 + 5)/(x^2 - 2) as x approaches infinity.
+302,,Limits_and_Continuity,Is the function f(x) = (2x + 1)/(x-3) continuous at x = 3?
+303,,Limits_and_Continuity,"What is the limit of f(x) as x approaches 3, if f(x) = (x^2 - 9) / (x - 3)?"
+304,,Limits_and_Continuity,"Find the limit of g(x) as x approaches 0, if g(x) = sin(3x) / x."
+305,,Limits_and_Continuity,"Determine the limit of h(x) as x approaches -2, if h(x) = (1/x + 3) / (x + 2)."
+306,,Limits_and_Continuity,"Given the function f(x) = (2x + 1) / (x -3), what is the limit as x approaches 3 from the left?"
+307,,Limits_and_Continuity,"Find the limit of g(x) as x approaches infinity, if g(x) = 2x + 3 / x."
+308,,Limits_and_Continuity,"Calculate the limit of h(x) as x approaches 0, if h(x) = (e^x - 1) / x."
+309,,Limits_and_Continuity,"What is the limit of f(x) as x approaches 4, if f(x) = sqrt(x+1) - 2 / x - 4?"
+310,,Limits_and_Continuity,"Determine the limit of g(x) as x approaches 0, if g(x) = (sin(2x) - 2sin(x)) / x^2."
+311,,Limits_and_Continuity,"Given the function h(x) = (x^2 - 9) / (x - 3), what is the limit as x approaches 3 from the right?"
+312,,Limits_and_Continuity,"Find the limit of f(x) as x approaches infinity, if f(x) = 1 / (x + 3)."
+313,,Limits_and_Continuity,Find the limit as x approaches 3 of (x^2 + 5x + 7)
+314,,Limits_and_Continuity,Determine if the function f(x) = (x-3)/(x+5) is continuous at x = -5
+315,,Limits_and_Continuity,What is the limit as x approaches 0 of sin(x)/x?
+316,,Limits_and_Continuity,Prove that the limit as x approaches 2 of x^2 = 4.
+317,,Limits_and_Continuity,Find the value of c such that the function f(x) = (x^2 - 3x + c) is continuous for all values of x.
+318,,Limits_and_Continuity,Calculate the limit as x approaches infinity of (2x^2 + 3x)/(x+4)
+319,,Limits_and_Continuity,Determine the points of discontinuity for the function f(x) = (x^2 - 6x + 8)/(x-2)
+320,,Limits_and_Continuity,Find the limit as x approaches 4 of (x^2 - 16)/(x-4)
+321,,Limits_and_Continuity,Show that the function f(x) = (2x^2 + 3x)/(x+5) is continuous at x = -5.
+322,,Limits_and_Continuity,Find the limit as x approaches 1 of (x^2 + 2x - 3)/(x^2 - 1)
+323,,Limits_and_Continuity,What is the limit as x approaches 2 of x^2 - 4?
+324,,Limits_and_Continuity,Find the limit as x approaches infinity of 1/x.
+325,,Limits_and_Continuity,Evaluate the limit as x approaches 0 of sin(x)/x.
+326,,Limits_and_Continuity,Determine the limit as x approaches 3 from the right of (x^2 - 9)/(x - 3).
+327,,Limits_and_Continuity,Compute the limit as x approaches 1 of (x-1)^2/(x^2-1).
+328,,Limits_and_Continuity,What is the limit as x approaches -5 of (3x + 15)/(x+5)?
+329,,Limits_and_Continuity,Find the limit as x approaches 0.5 of (2x-1)/(sqrt(x+1)-1).
+330,,Limits_and_Continuity,Evaluate the limit as x approaches 2 from the left of (4-x)/|x-2|.
+331,,Limits_and_Continuity,Determine the limit as x approaches infinity of (2x^2 + 3)/(x^2 - 5x + 6).
+332,,Limits_and_Continuity,Compute the limit as x approaches -1 of (x^3 + 5x^2 - 9x + 2)/(x^2 - 1).
+333,,Limits_and_Continuity,Find the limit of x^2 - 4x + 3 as x approaches 2.
+334,,Limits_and_Continuity,Determine the value of a such that the limit of (x^2 + ax + 6)/(x + 3) as x approaches 2 exists.
+335,,Limits_and_Continuity,Find the limit of (3x^2 - 4x + 1)/(2x^2 - 3x) as x approaches infinity.
+336,,Limits_and_Continuity,"Given the function f(x) = (3x^2 - 5x + 2)/(4x - 7), find the value of f(3) using the limit definition of a derivative."
+337,,Limits_and_Continuity,Evaluate the limit of (3x + 2)/(2x - 1) as x approaches 1 from the right.
+338,,Limits_and_Continuity,Determine the value of c such that the function f(x) = (x^2 - c)/(x - 2) is continuous at x = 4.
+339,,Limits_and_Continuity,Find the limit of (2x^3 + x)/(x^2 + 3) as x approaches -3.
+340,,Limits_and_Continuity,Determine the value of b such that the function f(x) = bx^2 - 3x + 2 is continuous at x = 0.
+341,,Limits_and_Continuity,Find the limit of (sin x)/x as x approaches 0.
+342,,Limits_and_Continuity,"Given the function g(x) = (x - 2)/(x^2 - 4), find the value of g(1) using the squeeze theorem."
+343,,Limits_and_Continuity,Find the limit as x approaches 3 of (x^2 - 9)/(x - 3).
+344,,Limits_and_Continuity,What is the value of the limit as x approaches 0 of sin(x)/x?
+345,,Limits_and_Continuity,"Find the limit as h approaches 0 of (f(x + h) - f(x))/h, where f(x) = 2x + 1."
+346,,Limits_and_Continuity,Evaluate the limit as x approaches 4 of (2x^2 - 16)/(x - 4).
+347,,Limits_and_Continuity,What is the limit as x approaches -2 from the right of (3x + 6)/x?
+348,,Limits_and_Continuity,Determine whether the limit as x approaches -3 of (x + 3)/(x^2 + 3) exists or not.
+349,,Limits_and_Continuity,Find the value of the limit as x approaches infinity of (3x^2 + 2x + 1)/(2x^2 - 5x - 3).
+350,,Limits_and_Continuity,Calculate the limit as x approaches 5 of (x^2 - 25)/(x - 5).
+351,,Limits_and_Continuity,Determine the limit as x approaches -4 of (2x + 8)/(x^2 + 9).
+352,,Limits_and_Continuity,Find the limit as x approaches 3 from the right of (x^3 - 27)/(x - 3).
+353,,Limits_and_Continuity,Find the limit as x approaches 3 of (x^2 + 5x + 2)
+354,,Limits_and_Continuity,"Given the function f(x) = 2x^2 - 3x + 5, find the limit as x approaches 2."
+355,,Limits_and_Continuity,Determine the continuity of the function f(x) = (x^2 - 4x + 5)/(x - 2).
+356,,Limits_and_Continuity,Find the limit as x approaches infinity of (5x + 3)/(4x - 2).
+357,,Limits_and_Continuity,Calculate the derivative of the function f(x) = (x^3 - 2x^2 + 5x + 3).
+358,,Limits_and_Continuity,Evaluate the limit as x approaches 0 of (sin 3x)/(x).
+359,,Limits_and_Continuity,Find the derivative of the function f(x) = e^x + 2x.
+360,,Limits_and_Continuity,Determine the continuity of the function f(x) = (2x + 1)/(x - 1).
+361,,Limits_and_Continuity,Find the limit as x approaches 4 of (2x - 3)/(x + 1).
+362,,Limits_and_Continuity,"Given the function f(x) = 3x^2 + 2x, calculate the limit as x approaches 5."
+363,,Limits_and_Continuity,Evaluate the limit of f(x) = (3x^2 - 4x - 1) / (5x^2 + 7x) as x approaches 2.
+364,,Limits_and_Continuity,Find the limit of g(x) = (x^3 + 2x^2 - 5) / (2x^2 + 3x + 1) as x approaches -1.
+365,,Limits_and_Continuity,Determine the limit of h(x) = sin(x) / x as x approaches 0.
+366,,Limits_and_Continuity,Find the limit of f(x) = (2x - 3)^3 / (x^3 + 2) as x approaches -1.
+367,,Limits_and_Continuity,Calculate the limit of g(x) = 2x^2 - 5x + 1 / 4x^2 + 2x as x approaches infinity.
+368,,Limits_and_Continuity,Determine the limit of h(x) = (x^3 + 2x^2 - 4)/(x^2 + 3x - 7) as x approaches 2.
+369,,Limits_and_Continuity,Find the limit of f(x) = 2x^2 - 3x + 1 / 4x - 7 as x approaches 4.
+370,,Limits_and_Continuity,Calculate the limit of g(x) = (x + 2) / (3x - 4) as x approaches 2.
+371,,Limits_and_Continuity,Find the limit of h(x) = (x^2 + 5x + 6) / (3x^2 + 2x + 1) as x approaches -2.
+372,,Limits_and_Continuity,Determine the limit of f(x) = (x^2 - 4x + 3) / (x - 3) as x approaches 3.
+373,,Limits_and_Continuity,Find the limit as x approaches 3 of (2x^2+5x-3)
+374,,Limits_and_Continuity,Determine the limit as x approaches 1 of (x^2 - 3x + 1)/(x^3 - 4x + 3)
+375,,Limits_and_Continuity,What is the limit of sin(x)/x as x approaches 0?
+376,,Limits_and_Continuity,Evaluate the limit as x goes to infinity of (3x^3 + 5x^2)/(4x^3 - 2)
+377,,Limits_and_Continuity,Calculate the limit as x approaches -2 from the right of (2x+5/x+2)
+378,,Limits_and_Continuity,Determine the one-sided limit at x=0 of (x^3 + 2x^2)/(2x^2 + 5)
+379,,Limits_and_Continuity,Find the limit of (x^3 + 2x^2 + x) / (3x^2 + 2x) as x approaches infinity
+380,,Limits_and_Continuity,Evaluate the limit of (ln(x+1))/(x-1) as x approaches 1
+381,,Limits_and_Continuity,"Given f(x) = 2x+3, find the limit of f(x) as x approaches 0"
+382,,Limits_and_Continuity,Calculate the limit as x goes to -1 of (x^2 + x + 7)/(x+1)
+383,,Limits_and_Continuity,Find the limit of f(x) as x approaches 2 if f(x) = 3x + 5
+384,,Limits_and_Continuity,Evaluate the limit of (x^2 - 4)/(x - 2) as x approaches 2
+385,,Limits_and_Continuity,Determine the value of c that makes the function f(x) = (3^x - 1)/x continuous at x = 1
+386,,Limits_and_Continuity,"If h(x) = (x^3 - 8)/(x - 2), find the limit as x approaches 2 from the left and from the right."
+387,,Limits_and_Continuity,For what values of x is the function g(x) = (x^2 - 16)/(x - 4) continuous?
+388,,Limits_and_Continuity,Use the definition of a limit to prove that lim (3x + 5) as x approaches 4 = 17
+389,,Limits_and_Continuity,Determine the limit of (2x^2 - 5x + 1)/(3x^2 - 7x - 4) as x approaches -2
+390,,Limits_and_Continuity,Find the limit of f(x) as x approaches infinity if f(x) = (2x + 3)/(x - 1)
+391,,Limits_and_Continuity,Evaluate the limit of (3^(x - 2) - 1)/(x - 2) as x approaches 2 without using L'Hopital's rule.
+392,,Limits_and_Continuity,Show that the function h(x) = (x - 2)^2 is continuous for all real numbers.
+393,,Limits_and_Continuity,Find the limit as x approaches 3 of (2x+5).
+394,,Limits_and_Continuity,"Determine the value of c that makes the following function continuous: f(x) = {(2x+3) if x<2, cx^2 if x>=2}."
+395,,Limits_and_Continuity,Calculate the left and right hand limits for the function f(x) = (x^2-4) / (x-2) at x = 2.
+396,,Limits_and_Continuity,Find the limit as x approaches infinity of (3x^2-2x) / (x^2+4).
+397,,Limits_and_Continuity,Determine x-value(s) where the function f(x) = (x^2-4) / (x+2) is not continuous.
+398,,Limits_and_Continuity,Evaluate the limit as x approaches 0 of sin(3x) / x.
+399,,Limits_and_Continuity,"Find the value(s) of c that makes the following piecewise function continuous: f(x) = {cx if x≤2, (x-4)^2 if x>2}."
+400,,Limits_and_Continuity,Calculate the one-sided limit at x = 5 for the function f(x) = (x^2-25) / (x-5).
+401,,Limits_and_Continuity,"Determine the value of k that makes the following function continuous: f(x) = {(x^2+1) / (x+1) if x≤5, kx+3 if x>5}."
+402,,Limits_and_Continuity,Find the limit as x approaches 1 of (3x^2-6x+2) / (x^2-1).
+403,,Limits_and_Continuity,"What is the limit of f(x) as x approaches 2, where f(x) = 3x^2 - 4x + 1?"
+404,,Limits_and_Continuity,Find the limit as x approaches ∞ of (2x^3 + 5x^2 - 6x + 2) / (x^3 + 2x^2 - x)?
+405,,Limits_and_Continuity,Evaluate the one-sided limit of √(6-x) as x approaches 6 from the left.
+406,,Limits_and_Continuity,Determine the continuity of f(x) = (3x - 5) / (x + 2) at x = -2.
+407,,Limits_and_Continuity,Find the limit of sin(x) / x as x approaches 0.
+408,,Limits_and_Continuity,"Given f(x) = 5x^2, find the value of x that would make the function discontinuous."
+409,,Limits_and_Continuity,Evaluate the limit as x approaches -4 of (x^2 + 3) / (x + 4).
+410,,Limits_and_Continuity,Determine the continuity of f(x) = sin(x) + 1 at x = π/2.
+411,,Limits_and_Continuity,Find the limit as x approaches 3 of (x - 2) / (x^2 - 5x + 6).
+412,,Limits_and_Continuity,"Given f(x) = (4x + 7) / (x^2 - 9), find the value of x that would make the function discontinuous."
+413,,Limits_and_Continuity,What is the limit as x approaches 3 of (2x + 5)?
+414,,Limits_and_Continuity,Find the values of x for which the function f(x) = (x-2)/(x+1) is continuous.
+415,,Limits_and_Continuity,Evaluate the limit as x approaches 0 of sin(x)/x.
+416,,Limits_and_Continuity,Determine the limit as x approaches -∞ of e^(-2x + 3).
+417,,Limits_and_Continuity,Find the points of discontinuity for the function f(x) = (x^2 - 4)/(x - 2).
+418,,Limits_and_Continuity,Compute the limit as x approaches 2 of (x^2 - 4)/(x - 2).
+419,,Limits_and_Continuity,Determine the conditions under which the function f(x) = √x is continuous.
+420,,Limits_and_Continuity,Find the limit as x approaches -1 of (x^3 + 1)/√(3x^2 + 3x).
+421,,Limits_and_Continuity,Evaluate the limit as x approaches ∞ of (e^x)/(x^2 + 2x).
+422,,Limits_and_Continuity,Determine the values of a and b such that the function f(x) = (sin(x) - a) / (x - b) is continuous at x = 0.
+423,,Limits_and_Continuity,Find the limit as x approaches 3 for the function f(x) = (x^2 - 9)/(x-3)
+424,,Limits_and_Continuity,Use the squeeze theorem to determine the limit as x approaches 0 for the function f(x) = x*sin(1/x)
+425,,Limits_and_Continuity,Evaluate the limit as x approaches infinity for the sequence a_n = (3n^2 + 5)/(4n^2 - 1)
+426,,Limits_and_Continuity,Determine if the function f(x) = (x^3 + 2x^2 + x)/(x^2 + 4x + 3) is continuous at x = -1
+427,,Limits_and_Continuity,Find the limit as x approaches 2 for the function f(x) = (x^3 - 8)/(x - 2)
+428,,Limits_and_Continuity,Use the Intermediate Value Theorem to prove that the function f(x) = x^2 + 3x + 2 has a root between x = -2 and x = -1
+429,,Limits_and_Continuity,"Evaluate the one-sided limit as x approaches 0 from the right for the piecewise function f(x) = {x^2, x > 0; 1, x = 0}"
+430,,Limits_and_Continuity,Show that the function f(x) = (e^x - 1)/x is continuous at x = 0
+431,,Limits_and_Continuity,Find the limit as x approaches 0 for the function f(x) = (cos(2x) - 1)/(x^2)
+432,,Limits_and_Continuity,Use the definition of continuity to prove that the function f(x) = x^2 + 2x is continuous at x = 1
+433,,Limits_and_Continuity,What is the limit of the function $f(x) = \frac{x^2-4}{x-2}$ as $x$ approaches $2$?
+434,,Limits_and_Continuity,Find the value of $c$ such that the limit of the function $\frac{2x^2+c}{x}$ as $x$ approaches $0$ exists.
+435,,Limits_and_Continuity,"Given the function $f(x) = \frac{3x^2}{6x+2}$, what is the limit of $f(x)$ as $x$ goes to infinity?"
+436,,Limits_and_Continuity,Find the vertical asymptote(s) of the function $f(x) = \frac{2x+1}{x^2-5x+6}$.
+437,,Limits_and_Continuity,Determine the limit of the function $f(x) = \frac{|x-5|}{x-5}$ as $x$ approaches $5$.
+438,,Limits_and_Continuity,Does the function $f(x) = \frac{x-1}{x^3-2x^2-x+2}$ have a limit as $x$ goes to $2$?
+439,,Limits_and_Continuity,Find the value of $a$ such that the function $f(x) = \frac{ax+1}{x-2}$ is continuous at $x=2$.
+440,,Limits_and_Continuity,Evaluate the limit of the function $f(x) = \frac{1}{x^2-5x+4}$ as $x$ goes to $4^+$.
+441,,Limits_and_Continuity,Use the definition of continuity to show that the function $f(x) = \frac{x}{x+2}$ is continuous at $x=4$.
+442,,Limits_and_Continuity,What is the limit of the function $f(x) = \frac{x-3}{\sqrt{x+4}-2}$ as $x$ approaches $-4$?
+443,,Limits_and_Continuity,What is the limit of (x^2 - 4) / (x - 2) as x approaches 2?
+444,,Limits_and_Continuity,Can the limit of a function exist if the value of the function at that point does not exist?
+445,,Limits_and_Continuity,Evaluate the limit of (sin(x) / x) as x approaches 0.
+446,,Limits_and_Continuity,Determine the value of c such that the limit of (x^2 - 4) / (3x - c) as x approaches 2 is 4.
+447,,Limits_and_Continuity,"Given the function f(x) = x^2 for all x < 0 and f(x) = x + 2 for all x >= 0, is f(x) continuous at x = 0?"
+448,,Limits_and_Continuity,Find the limit of (2^x - 1) / (ln(x)) as x approaches 1.
+449,,Limits_and_Continuity,State the necessary and sufficient condition for a function to be continuous at a point.
+450,,Limits_and_Continuity,Determine the value of k such that the limit of (2x - k) / (x + 3) as x approaches -3 is 8.
+451,,Limits_and_Continuity,Find the limit of (tan(x) / sin(2x)) as x approaches pi/4.
+452,,Limits_and_Continuity,"If a function f(x) is continuous at x = 2, find the value of a such that the function g(x) = f(ax-3) is continuous at x = -1."
+453,,Limits_and_Continuity,"Find the limit of f(x) as x approaches 3, where f(x) = 2x^2 + 1."
+454,,Limits_and_Continuity,"Evaluate the limit of g(x) as x approaches 0, where g(x) = (sin(x))/x."
+455,,Limits_and_Continuity,"Determine the limits of h(x) as x approaches -2 from the left and from the right, where h(x) = (x+2)/(x^2 - 4)."
+456,,Limits_and_Continuity,Solve for the value of a such that lim(m->2) (ax^2 + 2x - 4) = 6.
+457,,Limits_and_Continuity,"Given f(x) = (x^2 - 4)/(x - 2), find the limit of f(x) as x approaches 2."
+458,,Limits_and_Continuity,"For the function k(x) = (x^3 - 2x + 1)/(x^2 - 1), find the limit as x approaches 1."
+459,,Limits_and_Continuity,"Calculate the limit of p(x) as x approaches -1, where p(x) = (x-1)^2/(x+1)^2."
+460,,Limits_and_Continuity,Find the value of a such that lim(x->0) (ax^2 + 2x + 3) = 2.
+461,,Limits_and_Continuity,"Evaluate the limit of q(x) as x approaches infinity, where q(x) = (5x^2 - 7x + 2)/(x^3 - 10x)."
+462,,Limits_and_Continuity,"Determine the continuity of the function f(x) at x = 2, where f(x) = {sin(2x) if x < 2, 4x + 3 if x = 2, 2x^2 - 2 if x > 2}."
+463,,Limits_and_Continuity,What is the limit of (2x^2 - 3x + 5) as x approaches 3?
+464,,Limits_and_Continuity,Find the limit of (3x^3 + 2x^2 - 4x + 1) as x approaches -1.
+465,,Limits_and_Continuity,Calculate the limit of sqrt(4x + 1) as x approaches 3.
+466,,Limits_and_Continuity,Find the limit of ((sinx)^2)/(x) as x approaches 0.
+467,,Limits_and_Continuity,Determine the limit of (ln(x+1))/(x) as x approaches 0.
+468,,Limits_and_Continuity,Evaluate the limit of (3x^2 + 4x - 2)/(5x^2 - 9x) as x approaches infinity.
+469,,Limits_and_Continuity,What is the limit of (1/3)^x as x approaches negative infinity?
+470,,Limits_and_Continuity,Find the limit of (e^x)/x as x approaches positive infinity.
+471,,Limits_and_Continuity,Calculate the limit of (cosx)/x as x approaches pi/4.
+472,,Limits_and_Continuity,Determine the limit of (x+2)/(x-3) as x approaches 3.
+473,,Limits_and_Continuity,Find the limit as x approaches 3 of (x^2 - 9) / (x - 3)
+474,,Limits_and_Continuity,Determine the points of discontinuity for f(x) = (x^2 - 4) / (x + 2)
+475,,Limits_and_Continuity,Calculate the limit as x approaches infinity of (2x^3 + 5x^2 + 3) / (4x^3 + 9x + 2)
+476,,Limits_and_Continuity,Is the function f(x) = (x^2 - 4) / (x + 2) continuous at x = 2?
+477,,Limits_and_Continuity,Find the value of a such that the function f(x) = (2x^2 + 5x + a) / (x + 1) is continuous at x = -3
+478,,Limits_and_Continuity,Determine the points of discontinuity for f(x) = (x^3 - 8) / (x - 2)
+479,,Limits_and_Continuity,What is the limit as x approaches 2 of (x^2 - 4) / (x - 2)?
+480,,Limits_and_Continuity,Determine the values of a and b such that the function f(x) = ax^2 / (x - b) is continuous for all real numbers x.
+481,,Limits_and_Continuity,Find the limit as x approaches 0 of (sin 3x / 4x)
+482,,Limits_and_Continuity,Prove using the epsilon-delta definition that the limit as x approaches 2 of (2x + 1) is equal to 5.
+483,,Limits_and_Continuity,Find the limit as x approaches 2 of (x^2 - 4) / (x-2)
+484,,Limits_and_Continuity,Evaluate the limit as x approaches 0 of (sinx / x)
+485,,Limits_and_Continuity,Determine the limit as x approaches infinity of (5x^2 + 3x) / (4x^2 - 6x)
+486,,Limits_and_Continuity,Calculate the limit as x approaches -3 of (x^2 - 9) / (x+3)
+487,,Limits_and_Continuity,What is the limit as x approaches 2 from the right side of √(4-x)?
+488,,Limits_and_Continuity,Find the limit as x approaches -1 of (x^4 + x^3 - x^2 + x)
+489,,Limits_and_Continuity,Determine the limit as x approaches 2 from the left side of (x^3 - 4x) / (x-2)
+490,,Limits_and_Continuity,Solve for the limit as x approaches 0 of (3x + tanx) / (sinx)
+491,,Limits_and_Continuity,Find the limit as x approaches infinity of (4x + 6) / (2x^2 + 5x)
+492,,Limits_and_Continuity,Evaluate the limit as x approaches π/6 of sinx / (sinx - cosx)
+493,,Limits_and_Continuity,Find the limit as x approaches 2 of (x^2 - 4)/(x - 2)
+494,,Limits_and_Continuity,Determine the value of c such that the limit as x approaches c of (x^2 - 1)/(x - c) is 0
+495,,Limits_and_Continuity,What is the limit as x approaches infinity of (2x^3 + 5x^2 + 1) / (3x^3 + 2x +1) ?
+496,,Limits_and_Continuity,Find the limit as x approaches 0 of (cosx + 1)/x
+497,,Limits_and_Continuity,Evaluate the limit as x approaches -3 of (2x^3 + x^2 - 5)/(x^2 + 6x + 9)
+498,,Limits_and_Continuity,What is the value of c such that the limit as x approaches c of (x^2 - 9)/(x - 3) is undefined?
+499,,Limits_and_Continuity,Find the limit as x approaches 2 of (2x^3 - 3x^2 + 5) / (x^2 - 1)
+500,,Limits_and_Continuity,Determine the value of c such that the limit as x approaches c of sinx is 0.
+501,,Limits_and_Continuity,Find the limit as x approaches -2 of [(2x^2 + 3x - 1)/ (x + 1)] * [(x+2)/(3x^2 - 2x -4)]
+502,,Limits_and_Continuity,What is the limit as x approaches 3 of (x^2 - 9) / (x^3 - 27)?
+503,,Limits_and_Continuity,Find the limit as x approaches 2 of (x^2 - 4) / (x - 2)
+504,,Limits_and_Continuity,Compute the limit as x approaches 0 of sin(x) / x
+505,,Limits_and_Continuity,Evaluate the limit as x approaches infinity of (2x^3 - 5x^2 + 3) / (4x^3 + 2x)
+506,,Limits_and_Continuity,Determine if the limit as x approaches 3 of (2x - 6) / (x + 1) exists.
+507,,Limits_and_Continuity,Calculate the limit as x approaches -2 from the right of 3x + 4
+508,,Limits_and_Continuity,Use the definition of continuity to determine if the function f(x) = x^2 - 2x is continuous at x = 4.
+509,,Limits_and_Continuity,Find the limit as x approaches 2 of (x^2 - 4) / (x - 2)^2
+510,,Limits_and_Continuity,Determine if the function f(x) = (x^2 + 4x - 5) / (x + 5) is continuous at x = -5
+511,,Limits_and_Continuity,Evaluate the limit as x approaches 0 of (e^x - 1) / x
+512,,Limits_and_Continuity,Use the Intermediate Value Theorem to prove that there exists a root of the equation x^3 + x - 1 = 0 between x = 0 and x = 1.
+513,,Limits_and_Continuity,Find the limit as x approaches 3 of (x^2-5x+6)/(x-3)
+514,,Limits_and_Continuity,Determine the value of k such that x^2+kx+4 is continuous at x=2
+515,,Limits_and_Continuity,Calculate the limit as x approaches 0 of sin(3x)/x
+516,,Limits_and_Continuity,Use the definition of a limit to show that the limit as x approaches 1 of x^2+2x-3 is equal to 0
+517,,Limits_and_Continuity,Find the limit as x approaches -2 from the left of (x^2+2x+6)/(x+2)
+518,,Limits_and_Continuity,Determine the value of a such that the function f(x)=x^3+ax^2+1 is continuous at x=2
+519,,Limits_and_Continuity,Evaluate the limit as x approaches infinity of (2x^2-x)/(3x^2+6x-5)
+520,,Limits_and_Continuity,Show that the limit as x approaches 0 of (x^2-9)/(x-3) is equal to 3 using algebraic manipulation
+521,,Limits_and_Continuity,Determine the value of n such that the function f(x)=x^n+5 is continuous at x=1
+522,,Limits_and_Continuity,Find the limit as x approaches -1 of (x^3-8x)/(x^2+1) by factoring the numerator and simplifying.
+523,,Limits_and_Continuity,Find the limit as x approaches 3 of (x^2 - 2x + 1)/(x-3)
+524,,Limits_and_Continuity,Determine the limit as x approaches 0 of (cos2x - 1)/x
+525,,Limits_and_Continuity,Calculate the limit as x approaches infinity of (3x^3 + 2x^2)/(5x^3 + 4x)
+526,,Limits_and_Continuity,Evaluate the limit as x approaches -1 from the right of (x^2 + 4x + 3)/|x+1|
+527,,Limits_and_Continuity,Find the limit as x approaches 2 of (x^2 + 2x - 8)/(x-2)
+528,,Limits_and_Continuity,Determine the limit as x approaches 5 from the left of (3x^2 - 12x + 15)/(x-5)
+529,,Limits_and_Continuity,Calculate the limit as x approaches -2 of (1/2x + 1)/(x+2)
+530,,Limits_and_Continuity,Evaluate the limit as x approaches infinity of (x^3 + x^2)/(x+1)
+531,,Limits_and_Continuity,Find the limit as x approaches 1 of ((x^2 + 3)/2x - 2)/0
+532,,Limits_and_Continuity,Determine the limit as x approaches 4 of (x^2 - 16)/(x-4)
+533,,Limits_and_Continuity,Find the limit of f(x) = (3x^2 + 4x - 5)/(x+5) as x approaches 2.
+534,,Limits_and_Continuity,Determine whether the function f(x) = x^2 + 3x - 2 is continuous at x = 1.
+535,,Limits_and_Continuity,Solve for x if the limit of x + 2 as x approaches 3 is equal to 5.
+536,,Limits_and_Continuity,"Find the point of discontinuity, if any, for the function g(x) = (2x + 1)/(x-3)."
+537,,Limits_and_Continuity,Determine the value of k if the function h(x) = kx^2 is continuous at x = 2.
+538,,Limits_and_Continuity,Find the limit as x approaches 0 of the function f(x) = (1-cos(x))/x.
+539,,Limits_and_Continuity,Is the function g(x) = |x| continuous at x = 0? Explain your answer.
+540,,Limits_and_Continuity,"If the limit as x approaches c of f(x) exists, but does not equal the value of f(c), is f(x) continuous at c?"
+541,,Limits_and_Continuity,Find the limit as x approaches infinity of the function f(x) = (3x + 1)/(2x - 5).
+542,,Limits_and_Continuity,Determine the value of a such that the function f(x) = (x^2 + ax + 5)/(x - 2) is continuous at x = -2.
+543,,Limits_and_Continuity,What is the limit as x approaches 0 of (x^2 + 1) / x?
+544,,Limits_and_Continuity,Find the limit as x approaches infinity of (2x - 5) / (3x + 7).
+545,,Limits_and_Continuity,Determine the value of a such that the function f(x) = (ax + 3) / (x - 2) is continuous at x = 1.
+546,,Limits_and_Continuity,Calculate the limit as x approaches 2 of (x^2 + 4x - 5) / (x^2 - 3x + 2).
+547,,Limits_and_Continuity,Find the value of k such that the limit as x approaches 1 of (x^2 + kx + 4) / x is equal to 9.
+548,,Limits_and_Continuity,Determine the limit as x approaches 4 of (x^3 - 64) / (x - 4).
+549,,Limits_and_Continuity,Suppose f(x) = (x + 5)^2 - 2x. Find the value of c such that f(x) is continuous at x = c.
+550,,Limits_and_Continuity,Calculate the limit as x approaches infinity of (4x^2 + 3x - 2) / (x^2 - 5).
+551,,Limits_and_Continuity,Find the value of h such that the limit as x approaches 3 of (x + h) / (x - 3) = 8.
+552,,Limits_and_Continuity,Determine the limit as x approaches 2 from the left of sqrt(4x^2 - 2x + 3).
+553,,Limits_and_Continuity,Evaluate the limit as x approaches 3 of (x^2 + 6)/(x - 3).
+554,,Limits_and_Continuity,Find the limit as x approaches 0 of sin(2x)/x.
+555,,Limits_and_Continuity,Determine the value of a such that the limit as x approaches 2 of (x^2 - 1)/(x - a) is equal to 4.
+556,,Limits_and_Continuity,Simplify the following limit: the limit as h approaches 0 of (2 + h)^2 / h.
+557,,Limits_and_Continuity,Find the limit as x approaches infinity of (3x^3 - 5x^2 + 2x)/(x^2 - 1).
+558,,Limits_and_Continuity,Determine the value of k such that the function f(x) = (x + 2)^3 is continuous at x = k.
+559,,Limits_and_Continuity,Evaluate the limit as x approaches 2 from the left of (x^2 - 4)/(x - 2).
+560,,Limits_and_Continuity,Find the limit as x approaches -∞ of (3x^2 + 7x - 4)/(5x^2 + 2x).
+561,,Limits_and_Continuity,Determine the value of a such that the function f(x) = (2x + 1)/(x - a) is continuous for all real numbers.
+562,,Limits_and_Continuity,Evaluate the limit as x approaches 0 of (1 - cos(x)) / (x^2).
+563,,Limits_and_Continuity,Find the limit of (3x^2 + 5x - 2) / (x - 1) as x approaches 1.
+564,,Limits_and_Continuity,Determine the limit of sin(x) / x as x approaches 0.
+565,,Limits_and_Continuity,Calculate the limit of (4x^2 + 5x) / (2x^2 - 3) as x approaches infinity.
+566,,Limits_and_Continuity,Evaluate the limit of (x^2 + 3) / (x^2 - 2) as x approaches -2.
+567,,Limits_and_Continuity,Find the limit of (e^x - 1) / x as x approaches 0.
+568,,Limits_and_Continuity,Determine the limit of 1 / (x - 5) as x approaches 5 from the left.
+569,,Limits_and_Continuity,Calculate the limit of (x + 1) / (x^2 - 3x) as x approaches 3.
+570,,Limits_and_Continuity,Evaluate the limit of (2x^2 + 3x - 2) / (2x^2 - 5x) as x approaches -2.
+571,,Limits_and_Continuity,Find the limit of (sin(3x) + cos(4x)) / x as x approaches 0.
+572,,Limits_and_Continuity,Determine the limit of (ln(x + 2) - ln(2)) / (x - 2) as x approaches 2.
+573,,Limits_and_Continuity,"What is the limit of f(x) as x approaches 2, where f(x) = (x^2 - 4)/(x-2)?"
+574,,Limits_and_Continuity,"Find the limit of g(x) as x approaches 0, where g(x) = (sinx)/x."
+575,,Limits_and_Continuity,"Determine whether the following function is continuous at x=1: h(x) = {2x+1, x<1"
+576,,Limits_and_Continuity,"{3, x=1"
+577,,Limits_and_Continuity,"Evaluate the limit of j(x) as x approaches infinity, where j(x) = (3x+2)/(4x+5)."
+578,,Limits_and_Continuity,"Use the definition of a limit to prove that the limit of f(x) as x approaches -1, where f(x) = 2x+3, is -1."
+579,,Limits_and_Continuity,"Determine the limit of k(x) as x approaches 5, where k(x) = (x^2-25)/(x-5)."
+580,,Limits_and_Continuity,"Show that the limit of g(x) as x approaches c, where g(x) = (x-c)/(x^2-c^2), does not exist."
+581,,Limits_and_Continuity,"Use the Fundamental Theorem of Calculus to find the derivative of the function f(x) = ∫(1, x^2-1) t^3 dt."
+582,,Limits_and_Continuity,"Find the limit of m(x) as x approaches 2, where m(x) = x^(1/3) + x^(2/3)."
+583,,Limits_and_Continuity,"Determine the value of k such that the function f(x) = {2x^2-k, x<1"
+584,,Limits_and_Continuity,"{1-x^3, x≥1"
+585,,Limits_and_Continuity,continuous at x=1.
+586,,Limits_and_Continuity,"What is the limit of f(x) as x approaches 3, given that f(x) = x^2 - 5x + 6?"
+587,,Limits_and_Continuity,"Find the limit of g(x) as x approaches 0, where g(x) = (3x^3 - 5)/x"
+588,,Limits_and_Continuity,"Calculate the limit of h(x) as x approaches 4, if h(x) = (x^2 - 16)/(x - 4)"
+589,,Limits_and_Continuity,"Find the limit of f(x) as x approaches -2, where f(x) = (x + 2)/(x^2 + 5x + 6)"
+590,,Limits_and_Continuity,"What is the limit of g(x) as x approaches infinity, if g(x) = (4x^3 + 2)/(6x^2 + x)"
+591,,Limits_and_Continuity,"Given the function f(x) = sqrt(4x^2 + 1), what is the limit of f(x) as x approaches infinity?"
+592,,Limits_and_Continuity,"Calculate the limit of h(x) as x approaches 2, where h(x) = (x^2 - 4)/(x - 2)"
+593,,Limits_and_Continuity,"Find the limit of f(x) as x approaches -1, if f(x) = (x^3 + 3x^2 + x + 1)/(x^2 + 2x + 1)"
+594,,Limits_and_Continuity,"Given the function g(x) = (e^x - 1)/x, what is the limit of g(x) as x approaches 0?"
+595,,Limits_and_Continuity,"Calculate the limit of h(x) as x approaches 5, where h(x) = (2x^2 - 10)/(x^2 - 25)"
+596,,Limits_and_Continuity,Find the limit as x approaches 2 of (3x^2 - 8x + 4)
+597,,Limits_and_Continuity,Determine if the function f(x) = 2 - |x| is continuous at x = 1
+598,,Limits_and_Continuity,Evaluate the one-sided limit as x approaches 0 from the left of (3x + 2)/(x^3 + x^2)
+599,,Limits_and_Continuity,Show that the limit as x approaches 4 of (x^2 - 16)/(x - 4) is equal to 8
+600,,Limits_and_Continuity,Determine the points of discontinuity for the function f(x) = (2x^2 - 4x - 6)/(x^2 - 4)
+601,,Limits_and_Continuity,Find the limit as x approaches infinity of (3x^3 + 5x^2 - 2)/(x^3 - 3x + 2)
+602,,Limits_and_Continuity,Use the Squeeze Theorem to evaluate the limit as x approaches 0 of x^3*sin(1/x)
+603,,Limits_and_Continuity,Determine the value of k such that the function f(x) = x^2 - kx + 4 is continuous at x = 2
+604,,Limits_and_Continuity,Evaluate the limit as x approaches 3 of (x^3 - 27)/(x^2 - 9)
+605,,Limits_and_Continuity,Show that the function f(x) = (sinx)/x is continuous for all real values of x
+606,,Limits_and_Continuity,Find the limit of f(x) = 2x + 1 as x approaches 3.
+607,,Limits_and_Continuity,Evaluate the limit of g(x) = (x^2 - 9)/(x - 3) as x approaches 3.
+608,,Limits_and_Continuity,Determine the limit of h(x) = sin(x)/x as x approaches 0.
+609,,Limits_and_Continuity,Calculate the limit of k(x) = 3x^2 - 5x + 2 as x approaches -2.
+610,,Limits_and_Continuity,Find the limit of m(x) = (2x^3 - 8)/(x - 2) as x approaches 2.
+611,,Limits_and_Continuity,Evaluate the limit of n(x) = (x^2 + 3x - 10)/(x + 2) as x approaches -2.
+612,,Limits_and_Continuity,Find the limit of p(x) = tan(x)/x as x approaches π/2.
+613,,Limits_and_Continuity,Calculate the limit of q(x) = (2^x - 8)/(x - 3) as x approaches 3.
+614,,Limits_and_Continuity,Determine the limit of r(x) = (x^2 - 9)/(x^2 + 3x - 10) as x approaches 3.
+615,,Limits_and_Continuity,Find the limit of s(x) = 1/x as x approaches infinity.
+616,,Limits_and_Continuity,
+617,,Limits_and_Continuity,What is the limit as x approaches 2 of the function f(x) = x^2 + 2x - 1?
+618,,Limits_and_Continuity,Determine the limit of (3x + 2)/(x^2 - 4) as x approaches 2.
+619,,Limits_and_Continuity,Find the one-sided limit at x=0 for the function f(x) = 2x/(x^2 + 2x).
+620,,Limits_and_Continuity,Calculate the limit as x approaches infinity of (3x^2 - 2x + 1)/(5x^2 + 1).
+621,,Limits_and_Continuity,What is the limit as x approaches pi/2 of sin(x)/x^2?
+622,,Limits_and_Continuity,Determine the continuity of the function f(x) = (x+1)/(x-1) at x=2.
+623,,Limits_and_Continuity,Find the value of k that makes the function f(x) = (x^2 - k)/(x-k) continuous at x=2.
+624,,Limits_and_Continuity,What is the limit as x approaches 3 of (x-3)/(x^2 - 9)?
+625,,Limits_and_Continuity,Determine the one-sided limit at x=0 for the function f(x) = (sqrt(x+1) + 2)/(x-3).
+626,,Limits_and_Continuity,Find the value of k that makes the function f(x) = (kx^2 + 3x)/(x-2) continuous at x=4.
+627,,Limits_and_Continuity,Find the limit of f(x) as x approaches 5: f(x) = (2x + 3)/(x -1)
+628,,Limits_and_Continuity,Determine the horizontal asymptote of g(x) = (x^2 + 3x + 4)/(2x^2 + 7x - 1)
+629,,Limits_and_Continuity,Find the limit of h(x) as x approaches 0: h(x) = (sinx)/x
+630,,Limits_and_Continuity,Show that the function f(x) = (2x^2 - 5x + 1)/(x - 3) is continuous at x = 4
+631,,Limits_and_Continuity,Calculate the limit of g(x) as x approaches infinity: g(x) = (2x + 1)/(x + 3)
+632,,Limits_and_Continuity,Determine the value of a that will make f(x) = (x^2 + ax + 4)/(x - 2) continuous at x = 6
+633,,Limits_and_Continuity,"Find the limit of h(x) as x approaches 2: h(x) = 4x + 6 if x < 2, x^2 + 2x - 3 if x > 2"
+634,,Limits_and_Continuity,Determine the points of discontinuity for the function f(x) = (x^2 - 9)/(x - 3)
+635,,Limits_and_Continuity,Show that g(x) = (2x + 1)/(x^2 - 4) is a continuous function for all real numbers except x = 2
+636,,Limits_and_Continuity,"Find the limit of h(x) as x approaches 1 from the left: h(x) = 3x + 2 if x < 1, 5 if x > 1"
+637,,Limits_and_Continuity,Find the limit of f(x) = (x^2 + 3x - 1) / (x + 1) as x approaches 2.
+638,,Limits_and_Continuity,Determine whether the function f(x) = 3x is continuous at x = 1.
+639,,Limits_and_Continuity,Calculate the limit of g(x) = (2x^2 - 5) / (x - 2) as x approaches 2.
+640,,Limits_and_Continuity,Prove that the limit of h(x) = 4x as x approaches 3 is equal to 12.
+641,,Limits_and_Continuity,Show that the function k(x) = (5x + 1) / (3x - 4) is continuous at x = 2.
+642,,Limits_and_Continuity,Find the limit of m(x) = (2x^3 + x) / (4 - x) as x approaches 4.
+643,,Limits_and_Continuity,Prove that the limit of n(x) = x^2 + 3x + 2 as x approaches 1 is equal to 6.
+644,,Limits_and_Continuity,Determine whether the function p(x) = (4x - 6) / (2x + 3) is continuous at x = -1.
+645,,Limits_and_Continuity,Evaluate the limit of q(x) = (x^2 - 9) / (x - 3) as x approaches -3.
+646,,Limits_and_Continuity,Show that the function r(x) = 1 / x is discontinuous at x = 0.
+647,,Limits_and_Continuity,Find the limit as x approaches 2 of (3x^2 - 4x + 1)
+648,,Limits_and_Continuity,Show that the limit as x approaches 4 of (2x + 3) = 11
+649,,Limits_and_Continuity,What is the definition of continuity for a function at a specific point?
+650,,Limits_and_Continuity,"Given that f(x) = x^2 + 3x - 2, find the limit as x approaches 2 of f(x)"
+651,,Limits_and_Continuity,State the three requirements for a function to be continuous at a specific point.
+652,,Limits_and_Continuity,Find the limit as x approaches 0 of (sinx/x)
+653,,Limits_and_Continuity,"Is the function f(x) = (x-2)/(x+1) continuous at x = 2? If not, what type of discontinuity does it have?"
+654,,Limits_and_Continuity,Evaluate the limit as x approaches infinity of (2x^2 + 3)/(4x^2 + 5)
+655,,Limits_and_Continuity,What is the difference between a one-sided limit and a two-sided limit?
+656,,Limits_and_Continuity,Use the definition of a limit to prove that the limit as x approaches 3 of (4x - 5) = 3.
+657,,Limits_and_Continuity,"What is the limit of f(x) as x approaches 2, where f(x) = 3x + 5?"
+658,,Limits_and_Continuity,"Find the limit of g(x) as x approaches -2, where g(x) = (x^2 - 1) / (x + 1)"
+659,,Limits_and_Continuity,"Determine the value of h(x) at x = -1, if h(x) = (x^2 + 3x - 1) / (x + 1)"
+660,,Limits_and_Continuity,"Calculate the limit of p(x) as x approaches 0, where p(x) = sin(x) / x"
+661,,Limits_and_Continuity,"Find the limit of q(x) as x approaches infinity, where q(x) = (3x^2 + 2x + 1) / (2x^2 - 5x + 1)"
+662,,Limits_and_Continuity,"What is the limit of r(x) as x approaches -3, where r(x) = (x^3 + 2x^2 - 5) / (x + 3)"
+663,,Limits_and_Continuity,"Evaluate the limit of s(x) as x approaches 4, where s(x) = (2x - 4) / (x^2 - 16)"
+664,,Limits_and_Continuity,"Calculate the limit of t(x) as x approaches -5, where t(x) = (√x + 2) / (x^2 - 25)"
+665,,Limits_and_Continuity,"Determine the limit of u(x) as x approaches 1, where u(x) = 5x^2 + 4x - 9"
+666,,Limits_and_Continuity,"Find the limit of v(x) as x approaches 2, where v(x) = (x^3 + 2x^2 - 3) / (x - 2)"
+667,,Limits_and_Continuity,Find the limit of the function f(x) = (x^2 + 3x - 10)/(x + 5) as x approaches -5.
+668,,Limits_and_Continuity,What is the equation for a vertical asymptote of the function g(x) = 4x/(x^2 - 1)?
+669,,Limits_and_Continuity,Determine the limit of the function h(x) = (2x^2 + 3)/(5x^2 - 7) as x approaches infinity.
+670,,Limits_and_Continuity,"If the derivative of a function f(x) at a point (a, f(a)) is 0, does it guarantee that f(x) is continuous at that point?"
+671,,Limits_and_Continuity,Find the value of k that makes the function f(x) = (x^3 - 2x^2 + kx)/(x - 2) continuous at x = 2.
+672,,Limits_and_Continuity,What is the equation for a horizontal asymptote of the function g(x) = 3x^3 + 2x^2 - 5?
+673,,Limits_and_Continuity,Prove that the function f(x) = (x^2 + 1)/(x - 1) is not continuous at x = 1.
+674,,Limits_and_Continuity,Find the limit of the function h(x) = (3x - 1)/(5x^2 + 2) as x approaches negative infinity.
+675,,Limits_and_Continuity,"If the limit of a function f(x) at a point (a, f(a)) exists, does it guarantee that f(x) is continuous at that point?"
+676,,Limits_and_Continuity,Determine the limit of the function g(x) = sin(2x)/x as x approaches 0.
+677,,Limits_and_Continuity,What is the limit of f(x) as x approaches 2 if f(x) = x^2 + 3x?
+678,,Limits_and_Continuity,Determine the limit as x approaches 0 for the function f(x) = (sin(3x))/x.
+679,,Limits_and_Continuity,Find the limit of f(x) as x approaches -2 if f(x) = (x+1)/(x^2-4).
+680,,Limits_and_Continuity,Calculate the limit as x approaches infinity for the sequence {3x+1}.
+681,,Limits_and_Continuity,Evaluate the limit as theta approaches 60 degrees for the function f(theta) = 1/sin(theta).
+682,,Limits_and_Continuity,"Find the limit as x approaches a for the piecewise function f(x) = {3x, if x<a; 2(x-1), if x>a}."
+683,,Limits_and_Continuity,Calculate the limit as h approaches 0 for the difference quotient of f(x) = x^2 + 2x + 1.
+684,,Limits_and_Continuity,Determine the limit as x approaches 4 from the left for the function f(x) = |x-4|.
+685,,Limits_and_Continuity,Find the limit as theta approaches 0 for the function f(theta) = (sin(theta))/theta.
+686,,Limits_and_Continuity,Calculate the limit as x approaches 2 for the function f(x) = (x^2-4)/(x-2).
+687,,Limits_and_Continuity,Find the limit of f(x) = x^2 + 2x - 3 as x approaches 5.
+688,,Limits_and_Continuity,Determine the limit of g(x) = (x^2 + 5x) / (x + 3) as x approaches -3.
+689,,Limits_and_Continuity,Compute the limit of h(x) = sin(3x) / x as x approaches 0.
+690,,Limits_and_Continuity,What is the limit of k(x) = sqrt(x + 2) as x approaches 4?
+691,,Limits_and_Continuity,Evaluate the limit of m(x) = (x^3 + 4x) / (2x^2 - 5) as x approaches infinity.
+692,,Limits_and_Continuity,Find the limit of n(x) = (3x^2 - 5) / (4x^2 - 9) as x approaches -infinity.
+693,,Limits_and_Continuity,Calculate the limit of p(x) = ln(x) / x as x approaches 0.
+694,,Limits_and_Continuity,What is the limit of q(x) = (x^2 + 1) / (3x - 4) as x approaches 4?
+695,,Limits_and_Continuity,Determine the limit of r(x) = e^x - 1 / x as x approaches 0.
+696,,Limits_and_Continuity,Find the limit of s(x) = (5x + 1) / (2x^2 + 3x + 1) as x approaches infinity.
+697,,Limits_and_Continuity,Find the limit as x approaches 2 for the function f(x) = 3x^2 + 2x - 5.
+698,,Limits_and_Continuity,Determine the value of k so that the function f(x) = kx^2 + 3x + 4 is continuous at x = 1.
+699,,Limits_and_Continuity,Calculate the limit as x approaches infinity for the sequence n/2^n.
+700,,Limits_and_Continuity,Prove that the function f(x) = (3x + 4)/(2x - 3) is continuous for all real numbers.
+701,,Limits_and_Continuity,Find the limit as x approaches 0 for the function f(x) = (sin x)/x.
+702,,Limits_and_Continuity,Determine the interval(s) of continuity for the function f(x) = (x^2 - 9)/(x + 3).
+703,,Limits_and_Continuity,Find the value of k such that the limit as x approaches pi for the function f(x) = kx + sin x is equal to 4.
+704,,Limits_and_Continuity,"Prove that the limit of a product is equal to the product of the limits, i.e. lim(x→c) f(x)g(x) = lim(x→c) f(x) ⋅ lim(x→c) g(x)."
+705,,Limits_and_Continuity,Find the interval(s) where the function f(x) = x^2 - 6x + 8 is increasing and where it is decreasing.
+706,,Limits_and_Continuity,Determine the limit as x approaches 0 for the function f(x) = (1 + x)^1/x and evaluate any necessary conditions for continuity.
+707,,Limits_and_Continuity,Find the limit as x approaches 3 of the function (x^2 - 9) / (x - 3)
+708,,Limits_and_Continuity,Determine the continuity of the function f(x) = |x| at x = 0
+709,,Limits_and_Continuity,Calculate the limit as x approaches infinity of (5x^3 - 2x^2 + 4) / (6x^3 + 7)
+710,,Limits_and_Continuity,Find the domain of the function f(x) = (x-1)/(x-2)
+711,,Limits_and_Continuity,Evaluate the limit as x approaches -1 of (x^2 + 2x + 1) / (x + 1)
+712,,Limits_and_Continuity,Determine the point(s) of discontinuity for f(x) = 1/x at x = 0
+713,,Limits_and_Continuity,Find the limit as x approaches 2 of (x^3 - 8) / (x^2 - 4)
+714,,Limits_and_Continuity,Prove that the function f(x) = sqrt(x) is continuous at x = 9
+715,,Limits_and_Continuity,Calculate the limit as x approaches pi/4 of sin(2x) / (cosx + sinx)
+716,,Limits_and_Continuity,Determine if the function f(x) = (x-1)/(x^2 - 1) is continuous at x = 1
+717,,Limits_and_Continuity,Find the limit of f(x) = 2x + 3 as x approaches 4.
+718,,Limits_and_Continuity,Determine the value of c such that the limit of f(x) = (x+5)/(x-1) exists as x approaches c.
+719,,Limits_and_Continuity,Evaluate the limit of g(x) = (2^x + 3)/(x^2 - 4) as x approaches 0.
+720,,Limits_and_Continuity,Is the function h(x) = (5x^2 - x)/(x-1) continuous at x = 2?
+721,,Limits_and_Continuity,Find the limit of f(x) = (e^x + 3)/(x+1) as x approaches infinity.
+722,,Limits_and_Continuity,Determine the value of a such that the limit of g(x) = (x^2 + x - a)/(x+2) exists as x approaches -2.
+723,,Limits_and_Continuity,Is the function h(x) = (sin x)/(x) continuous at x = 0?
+724,,Limits_and_Continuity,Find the limit of f(x) = (x^2 + 3)/(3x^2 - 2) as x approaches -1.
+725,,Limits_and_Continuity,Determine the value of b such that the limit of g(x) = (2x + b)/(x-4) exists as x approaches 4.
+726,,Limits_and_Continuity,Is the function h(x) = (x^3 + x^2 + x - 4)/(x-1) continuous at x = 1?
+727,,Limits_and_Continuity,Find the limit as x approaches 2 of (3x + 4).
+728,,Limits_and_Continuity,Determine if the limit as x approaches 0 of (x^2 + 4x) exists.
+729,,Limits_and_Continuity,Evaluate the limit as x approaches infinity of (2x + 1)/(x - 3).
+730,,Limits_and_Continuity,Use the definition of a limit to prove that the limit as x approaches 1 of (2x + 1) is equal to 3.
+731,,Limits_and_Continuity,Find the limit as x approaches -5 of (x^3 + 9)/(x + 5).
+732,,Limits_and_Continuity,Determine the value of k such that the limit as x approaches 0 of (kx^2 + 3x) equals 12.
+733,,Limits_and_Continuity,Use L'Hopital's Rule to find the limit as x approaches 0 of (sinx)/x.
+734,,Limits_and_Continuity,Show that the function f(x) = (3x^2 + 2x - 4)/(x + 2) is continuous at x = 3.
+735,,Limits_and_Continuity,Find the value of a such that the function g(x) = (ax^2 - 4)/(x - 4) is continuous at x = 2.
+736,,Limits_and_Continuity,Determine if the limit as x approaches 2 of (x^2 - 2x + 4)/(x - 2) exists.
+737,,Limits_and_Continuity,Evaluate the limit as x approaches 0 of (x^2 - 4x)/x
+738,,Limits_and_Continuity,Find the limit as x approaches 1 of (x^3 - 3x + 1)/(x - 1)
+739,,Limits_and_Continuity,Determine the limit as x approaches infinity of (4x^2 + 2x)/(x^3 - 5x + 1)
+740,,Limits_and_Continuity,Find the limit as x approaches 2 of (x^2 + 2x - 8)/(x - 2)
+741,,Limits_and_Continuity,Evaluate the limit as x approaches -1 from the right of (x^2 + 3x + 2)/(x + 1)
+742,,Limits_and_Continuity,Find the limit as x approaches 3 of (x^2 + x - 12)/(x - 3)
+743,,Limits_and_Continuity,Determine the limit as x approaches -5 from the left of (x^3 + 4x^2 + 5x)/(x + 5)
+744,,Limits_and_Continuity,Evaluate the limit as x approaches 0 of (5x + 3)/(x^2 - 9)
+745,,Limits_and_Continuity,Find the limit as x approaches 5 of (x^2 - 25)/(x - 5)
+746,,Limits_and_Continuity,Determine the limit as x approaches 2 of (4x^3 - 8x + 3)/(x - 2)
+747,,Limits_and_Continuity,Find the limit as x approaches 2 of (x^2 - 4) / (x - 2)
+748,,Limits_and_Continuity,Evaluate the limit as x approaches 0 of (sinx / x)
+749,,Limits_and_Continuity,Determine the limit as x approaches -3 of (x^3 - 8) / (x + 3)
+750,,Limits_and_Continuity,What is the limit as x approaches infinity of (3x + 5) / (2x - 6)
+751,,Limits_and_Continuity,Find the limit as x approaches 5 of (x^2 - 25) / (x - 5)
+752,,Limits_and_Continuity,Evaluate the limit as x approaches 2 of (x - 2)^2 / (x - 2)
+753,,Limits_and_Continuity,Determine the limit as x approaches -2 of (2x^3 - 5x - 8) / (x + 2)
+754,,Limits_and_Continuity,What is the limit as x approaches -1 from the left of sqrt(x^2 + 1)
+755,,Limits_and_Continuity,Find the limit as x approaches pi/4 of tanx/sinx
+756,,Limits_and_Continuity,Evaluate the limit as x approaches 3 of (x^2 - 9) / (x - 3)
+757,,Limits_and_Continuity,What is the limit of (2x+3) as x approaches 5?
+758,,Limits_and_Continuity,Evaluate the limit of (x^2-1)/(x-1) as x approaches 1.
+759,,Limits_and_Continuity,Calculate the limit of (sinx)/x as x approaches 0.
+760,,Limits_and_Continuity,Find the limit of (3x+1)/(2x-4) as x approaches infinity.
+761,,Limits_and_Continuity,Determine the limit of √(x^2+4x+3) as x approaches -3.
+762,,Limits_and_Continuity,What is the limit of (1+cosx)/x as x approaches pi?
+763,,Limits_and_Continuity,Evaluate the limit of (e^x)/x as x approaches negative infinity.
+764,,Limits_and_Continuity,Find the limit of (2^x)/x as x approaches 0.
+765,,Limits_and_Continuity,Determine the limit of (x-1)/(x^2-1) as x approaches 1.
+766,,Limits_and_Continuity,What is the limit of (x^2sinx)/(2x+1) as x approaches 0?
+767,,Limits_and_Continuity,What is the limit as x approaches 3 of ( 2x + 5 )?
+768,,Limits_and_Continuity,Find the limit of f(x) = ( x^3 + 5 ) / x as x approaches 0.
+769,,Limits_and_Continuity,Calculate the limit as x approaches -1 of ( x^2 - 3 ) / ( x + 1 ).
+770,,Limits_and_Continuity,Determine the limit as x approaches infinity of ( 5x^2 - 8x ) / ( 3x^2 + 2 ).
+771,,Limits_and_Continuity,Find the limit of g(x) = 5 - ( 1 / ( x - 3 ) ) as x approaches 3.
+772,,Limits_and_Continuity,Evaluate the limit as x approaches 2 of ( x^2 + 3x + 1 ) / ( x^2 - 4 ).
+773,,Limits_and_Continuity,What is the limit as x approaches -2 of ( x + 3 ) / ( x - 2 )?
+774,,Limits_and_Continuity,Calculate the limit as x approaches 0 of ( cos(x) - 1 ) / x.
+775,,Limits_and_Continuity,Determine the limit as x approaches 5 of ( 3x^2 + 2x - 1 ) / ( x - 5 ).
+776,,Limits_and_Continuity,Find the limit of h(x) = ( x^3 - x + 1 ) / ( x - 1 ) as x approaches 1.
+777,,Limits_and_Continuity,"1. What is the limit of f(x) as x approaches 2, if f(x) = x^2 + 3x - 2?"
+778,,Limits_and_Continuity,"Calculate the limit of g(x) as x approaches 0, if g(x) = sin(x)/x."
+779,,Limits_and_Continuity,"Find the limit of h(x) as x approaches -5, if h(x) = (3x^2 + 10x - 25)/(x + 5)."
+780,,Limits_and_Continuity,"Determine the value of the limit of k(x) as x approaches 0, if k(x) = (2^x - 1)/x."
+781,,Limits_and_Continuity,"Evaluate the limit of m(x) as x approaches 3, if m(x) = (x^3 - 26)/(x^2 - 9)."
+782,,Limits_and_Continuity,"What is the limit of n(x) as x approaches 4, if n(x) = (2x^2 + 5x - 10)/(x^2 - 16)."
+783,,Limits_and_Continuity,"Calculate the limit of p(x) as x approaches -1, if p(x) = (x^2 + 3)/(x^2 + x - 2)."
+784,,Limits_and_Continuity,"Find the limit of q(x) as x approaches 1, if q(x) = (x - 1)/(2x^2 - 3x + 1)."
+785,,Limits_and_Continuity,"Determine the value of the limit of r(x) as x approaches 0, if r(x) = (tan(2x)/x)."
+786,,Limits_and_Continuity,"Evaluate the limit of s(x) as x approaches 2, if s(x) = (3^x - 1)/(x - 2)."
+787,,Limits_and_Continuity,Find the limit as x approaches 2 of (3x + 4)
+788,,Limits_and_Continuity,Determine the value of c to make f(x) = (2x + c) continuous at x = 3
+789,,Limits_and_Continuity,Calculate the limit as x approaches infinity of (4x^3 + 2x^2 - 5x + 1) / (2x^3 + 7x)
+790,,Limits_and_Continuity,"Given h(x) = x + 5 and g(x) = x^2, find the limit as x approaches 3 of h(x)/g(x)"
+791,,Limits_and_Continuity,Find the value of a to make f(x) = { { x - a if x < 3 } / { -2x + a if x >= 3 } continuous at x = 3
+792,,Limits_and_Continuity,Evaluate the limit as x approaches 0 of (sin(x) + x^2) / x^2
+793,,Limits_and_Continuity,"Given f(x) = 3x^2 + 2x + 5, find the slope of the tangent line to f(x) at x = 4"
+794,,Limits_and_Continuity,Determine the value of c to make f(x) = { { -3x + c if x < 2 } / { 2x - c if x >= 2} continuous at x = 2
+795,,Limits_and_Continuity,Find the horizontal asymptote of f(x) = (2x^2 - 3x + 1) / (4x^2 + 2)
+796,,Limits_and_Continuity,"Given g(x) = 4x^2 - 1, find the derivative of g(x) at x = 2"
+797,,Limits_and_Continuity,What is the limit of (x^2 + 3x + 5) / (x + 2) as x approaches 3?
+798,,Limits_and_Continuity,Find the limit of (3x^2 - 5x + 2) / x as x approaches infinity.
+799,,Limits_and_Continuity,Show that the limit of (3x + 2) / (2x + 1) as x approaches -1 is -4/3.
+800,,Limits_and_Continuity,Evaluate the limit of (4x - 3) / (5 - 2x) as x approaches 2 from both the left and right.
+801,,Limits_and_Continuity,Prove that the limit of (x^2 + 4x + 3) as x approaches 5 equals 33.
+802,,Limits_and_Continuity,Find the limit of (3x^2 + 5x) / (4x + 1) as x approaches -1 from the right.
+803,,Limits_and_Continuity,Show that the limit of (2x + 5) / (3x - 1) as x approaches infinity is 2/3.
+804,,Limits_and_Continuity,Evaluate the limit of (2x^2 + 3x - 4) / (x - 1) as x approaches 1 from both the left and right.
+805,,Limits_and_Continuity,Find the limit of (x - 2)^2 / (x^2 - 4) as x approaches 2.
+806,,Limits_and_Continuity,Prove that the limit of (2x^2 + 5) / (3x + 4) as x approaches 1 is 7.
+807,,Limits_and_Continuity,Find the limit of f(x) as x approaches 2 where f(x) = (x^2 - 4)/(x-2)
+808,,Limits_and_Continuity,Determine if the limit exists as x approaches 1 for the function f(x) = (x^2 - 1)/(x-1)
+809,,Limits_and_Continuity,"Given the function f(x) = 3x^2 - 2x + 1, find the value of c for which the limit as x approaches c is equal to 5"
+810,,Limits_and_Continuity,Find the limit of sin(x)/x as x approaches 0
+811,,Limits_and_Continuity,Determine the value of a for which the limit of x^2 + ax - a as x approaches 1 exists
+812,,Limits_and_Continuity,"Given the function f(x) = (x^2 - 1)/(x-1), find the value of c for which the function is continuous at x=c"
+813,,Limits_and_Continuity,Find the limit of (4x^2 + 3x - 2)/(2x^2 + x - 1) as x approaches infinity
+814,,Limits_and_Continuity,Determine if the function f(x) = 1/x is continuous at x=0
+815,,Limits_and_Continuity,Find the limit of (x^3 + 2x^2)/x as x approaches -2
+816,,Limits_and_Continuity,"Given the function f(x) = (x^2 - 1)/(x-1), determine the value of c for which the function is not continuous at x=c"
+817,,Limits_and_Continuity,"Find the limit of f(x) as x approaches 3, if f(x) = (2x^2 - 3) / (x - 3)"
+818,,Limits_and_Continuity,"Determine if the limit of g(x) exists as x approaches 0, if g(x) = sin(x)/x"
+819,,Limits_and_Continuity,"Evaluate the limit of h(x) as x goes to infinity, if h(x) = 5x^2 / (2x^2 + 3x + 1)"
+820,,Limits_and_Continuity,"Find the right-hand and left-hand limits of f(x) as x approaches 2, if f(x) = (x^2 - 4)/(x - 2)"
+821,,Limits_and_Continuity,"Determine the limit of g(x) as x approaches -5, if g(x) = (x + 5)^3 / (x^3 + 5x^2 + 10x + 50)"
+822,,Limits_and_Continuity,"Find the limit of g(x) as x goes to 1, if g(x) = (x^2 - 1)/(x - 1)"
+823,,Limits_and_Continuity,"Determine whether the limit of f(x) exists as x approaches 0, if f(x) = (2x + 3)^2 / (x^2 + 3x)"
+824,,Limits_and_Continuity,"Evaluate the limit of h(x) as x approaches infinity, if h(x) = sin(1/x)"
+825,,Limits_and_Continuity,"Find the limit of g(x) as x goes to 4, if g(x) = |x^2 - 16| / (x - 4)"
+826,,Limits_and_Continuity,"Determine the limit of f(x) as x approaches 2, if f(x) = (x^2 - 4x)/(x - 2)"
+827,,Limits_and_Continuity,Find the limit of f(x) = 3x^2 - 5x + 2 as x approaches 4.
+828,,Limits_and_Continuity,Determine if the function f(x) = (x^2 - 3x + 1)/(x - 1) is continuous at x = 3.
+829,,Limits_and_Continuity,Evaluate the limit of g(x) = (x - 5)/(x^2 - 4) as x approaches 2.
+830,,Limits_and_Continuity,Show that the function h(x) = (x^2 - 2x + 1)/(x - 1) is continuous for all real numbers.
+831,,Limits_and_Continuity,Calculate the limit of f(x) = 1/x as x approaches 0.
+832,,Limits_and_Continuity,Prove that the function g(x) = 1/sin(x) is continuous at x = π/2.
+833,,Limits_and_Continuity,Find the limit of h(x) = (3x^3 + 5x + 2)/(2x^3 - 4) as x approaches ∞.
+834,,Limits_and_Continuity,Determine if the function f(x) = sin(x)/(x + 2) is continuous at x = 0.
+835,,Limits_and_Continuity,Evaluate the limit of g(x) = √(x + 5) as x approaches -5.
+836,,Limits_and_Continuity,Prove that the function h(x) = 2x^2 + 3x + 7 is continuous for all real numbers.
+837,,Limits_and_Continuity,What is the limit of (x^2 + 1) as x approaches 2?
+838,,Limits_and_Continuity,Determine the limit of sin(x) as x approaches 0.
+839,,Limits_and_Continuity,Find the limit of (2x + 1) / (x + 3) as x approaches infinity.
+840,,Limits_and_Continuity,Calculate the limit of (x+1)^2 - 4 / (x-1) as x approaches 1.
+841,,Limits_and_Continuity,What is the limit of ln(x) as x approaches 1?
+842,,Limits_and_Continuity,Determine the limit of (3x^2 + 2x + 1) / (x^2 + 2x - 1) as x approaches -1.
+843,,Limits_and_Continuity,Find the limit of sqrt(x+1) - 1 / x as x approaches 0.
+844,,Limits_and_Continuity,Calculate the limit of (x^2 - 4x + 3) / (x - 3) as x approaches 3.
+845,,Limits_and_Continuity,What is the limit of (x - 1) / (x - 2) as x approaches 2 from the left?
+846,,Limits_and_Continuity,Determine the limit of cos(nx) as x approaches pi/2 for any positive integer n.
+847,,Limits_and_Continuity,What is the limit of (x+2)/(x-3) as x approaches 3?
+848,,Limits_and_Continuity,Find the limit of (2x^2 - 3x + 1) / (4x^2 - 7x + 2) as x approaches 2.
+849,,Limits_and_Continuity,"Given f(x) = (2x^3 + x^2 - 5x + 2)/x, find f'(x) using the limit definition of the derivative."
+850,,Limits_and_Continuity,Show that the function f(x) = x^2 + 1 is continuous at x = 2.
+851,,Limits_and_Continuity,Determine the point(s) of discontinuity for the function f(x) = (x^2 - 4)/(x - 2).
+852,,Limits_and_Continuity,Evaluate the limit lim x→0 sin(2x)/x.
+853,,Limits_and_Continuity,Use the squeeze theorem to prove that lim x→0 x^2 cos(1/x) = 0.
+854,,Limits_and_Continuity,Find the derivative of f(x) = 3x^4 + 5x^3 - 2x^2 + 4x - 1 using the definition of the derivative.
+855,,Limits_and_Continuity,"Prove that the function f(x) = |x| satisfies the Intermediate Value Theorem on the interval [-3, 3]."
+856,,Limits_and_Continuity,Find the limit lim x→∞ (x sin(x)) / (x^2 + 1).
+857,,Limits_and_Continuity,Find the limit of (2x+3) as x approaches 5.
+858,,Limits_and_Continuity,Determine the value of a such that the function f(x) = (ax+3) / (x+2) has a limit of 2 as x approaches 4.
+859,,Limits_and_Continuity,Find the limit of (3x^2-2x+1) / (x+3) as x approaches 4.
+860,,Limits_and_Continuity,Determine the value of a such that the function f(x) = (x-a) / (x^2-4) is continuous at x=2.
+861,,Limits_and_Continuity,"Given the function f(x) = (x^2-9) / (x+3), find the ""famous"" limit associated with this function."
+862,,Limits_and_Continuity,Find the limit of (x+1) / (x-1) as x approaches infinity.
+863,,Limits_and_Continuity,Determine the values of a and b such that the function f(x) = (ax^2+b) / (x^2-9) is continuous at x=3.
+864,,Limits_and_Continuity,"Given the piecewise function f(x) = 2x, if x < 1; x^2, if x ≥ 1, find the value of c such that f(x) is continuous at x=c."
+865,,Limits_and_Continuity,Find the limit of (x^3-8) / (x-2) as x approaches 2.
+866,,Limits_and_Continuity,Determine the value of a such that the function f(x) = (x-a) / (x^2-1) has a limit of 3 as x approaches -1.
+867,,Limits_and_Continuity,Find the limit of (x^2 + 3x - 2) as x approaches 5.
+868,,Limits_and_Continuity,Solve for the limit of (3x+1) / (x-2) as x approaches 2.
+869,,Limits_and_Continuity,Calculate the limit of (e^x - 1) / x as x approaches 0.
+870,,Limits_and_Continuity,Determine the limit of (1 - cos(x)) / x as x approaches 0.
+871,,Limits_and_Continuity,Find the limit of (2x^3 + 5x^2 - 4) / (3x^2 + 2x - 1) as x approaches -2.
+872,,Limits_and_Continuity,Solve for the limit of (x^2 + 2x) / (x+1) as x approaches -1.
+873,,Limits_and_Continuity,Calculate the limit of (ln(2x+1) - ln(2)) / x as x approaches 0.
+874,,Limits_and_Continuity,Determine the limit of (sec(x) - 1) / x^2 as x approaches 0.
+875,,Limits_and_Continuity,Find the limit of (x^2 - 9) / (x+3) as x approaches -3.
+876,,Limits_and_Continuity,Solve for the limit of [(x-1)/(x+1)]^(1/x) as x approaches infinity.
+877,,Limits_and_Continuity,"What is the limit of f(x) as x approaches 2, where f(x) = (x^2 - 4) / (x - 2)?"
+878,,Limits_and_Continuity,"Find the limit of g(x) as x approaches infinity, where g(x) = 3x^2 - 5x + 1."
+879,,Limits_and_Continuity,Determine if the function h(x) = x^2 + 3x is continuous at x = -2.
+880,,Limits_and_Continuity,What value should be assigned to k to make the function f(x) = (x^2 + 3x + k) / (x + 2) continuous at x = -2?
+881,,Limits_and_Continuity,"Find the limit of g(x) as x approaches 0, where g(x) = (sinx)/x."
+882,,Limits_and_Continuity,Is the function f(x) = (2x^2 + x - 3) / (x - 1) continuous at x = 1?
+883,,Limits_and_Continuity,"If the limit of f(x) as x approaches a is equal to 5, what is the limit of g(x) as x approaches a, where g(x) = 5f(x)?"
+884,,Limits_and_Continuity,"Determine the one-sided limit of h(x) as x approaches 2, where h(x) = (x^2 - 4) / (x - 2)."
+885,,Limits_and_Continuity,For what value(s) of a is the function f(x) = (x^2 - a) / (x - a) continuous for all real numbers?
+886,,Limits_and_Continuity,"Find the limit of g(x) as x approaches -2, where g(x) = {(x^2 - 4) / (x - 2)}, if it exists."
+887,,Limits_and_Continuity,Lim x->5 (2x + 3)
+888,,Limits_and_Continuity,Lim x->0 (sinx/x)
+889,,Limits_and_Continuity,Lim x->∞ (1/x^2)
+890,,Limits_and_Continuity,Lim x->π/2 (tanx)
+891,,Limits_and_Continuity,Lim x->-3 (1/x)
+892,,Limits_and_Continuity,Lim x->2 (x^2 + 2x - 4)
+893,,Limits_and_Continuity,Lim x->0 (x^3 + 2x)
+894,,Limits_and_Continuity,Lim x->1 (lnx / x)
+895,,Limits_and_Continuity,Lim x->∞ (e^-x)
+896,,Limits_and_Continuity,Lim x->4 (sqrt(x+4) - 2)
+897,,Limits_and_Continuity,What is the limit of f(x) as x approaches 3 if f(x) = 2x + 5?
+898,,Limits_and_Continuity,Find the limit as x approaches 0 of (cos(x) - 1) / x.
+899,,Limits_and_Continuity,"Given the equation lim(x→1) (x² + 2x + 1), find the value of the limit."
+900,,Limits_and_Continuity,Evaluate the following limit: lim(x→2) (3x² - 8x + 4) / (x - 2).
+901,,Limits_and_Continuity,Determine the limit as x approaches -1 of (x² + 2x + 1) / (x + 1).
+902,,Limits_and_Continuity,Find the limit as x approaches ∞ of (4x² - 7x + 9) / x.
+903,,Limits_and_Continuity,Evaluate the limit: lim(x→0) (3x - 2)^2 - 4x / x.
+904,,Limits_and_Continuity,What value does lim(x→5) (x + 3) approach?
+905,,Limits_and_Continuity,Find the limit as x approaches π/2 of tanx.
+906,,Limits_and_Continuity,Determine the limit as x approaches π/4 of (cosx + 1) / (sinx - 1).
+907,,Limits_and_Continuity,What is the limit as x approaches 3 of (x^2 + 2x - 7)?
+908,,Limits_and_Continuity,Determine the limit of h as it approaches 0 in the equation (3h + 5)/(2h + 10).
+909,,Limits_and_Continuity,Find the limit of 2x^3 - 5x^2 + 3x - 2 as x approaches -2.
+910,,Limits_and_Continuity,Evaluate the one-sided limit of (2x^2 + 1)/(x - 3) as x approaches 3 from the right.
+911,,Limits_and_Continuity,Calculate the limit of (x^3 - 8)/(x - 2) as x approaches 2 using the rationalization method.
+912,,Limits_and_Continuity,Find the limit as x approaches 5 of sqrt(25 - 2x) + 3.
+913,,Limits_and_Continuity,Evaluate the one-sided limit of (x^2 - 4)/(x + 2) as x approaches -2 from the left.
+914,,Limits_and_Continuity,Determine the limit of 2cos(x) - 5 as x approaches pi.
+915,,Limits_and_Continuity,Find the limit as x approaches 0 of (sin(2x))/x.
+916,,Limits_and_Continuity,Evaluate the one-sided limit of 1/(x^2 - 9) as x approaches 3 from the right using the continuity concept.
+917,,Limits_and_Continuity,Evaluate the limit as x approaches 2 of (x^2 - 4)/ (x-2)
+918,,Limits_and_Continuity,Find the limit as x approaches infinity of 1/(x^2 + 4)
+919,,Limits_and_Continuity,Determine the value of k such that the limit as x approaches 5 of (x^2 + 3x + k)/(x-5) exists
+920,,Limits_and_Continuity,Evaluate the limit as x approaches 0 of (sin(x)/x)
+921,,Limits_and_Continuity,Find the limit as x approaches -3 of (x^2 - 9)/ (x+3)
+922,,Limits_and_Continuity,Determine the value of a such that the limit as x approaches 4 of (x^2 - 16)/ (x-a) exists
+923,,Limits_and_Continuity,Evaluate the limit as x approaches pi/2 of (cos(2x) - sin(x))/ (x - pi/2)
+924,,Limits_and_Continuity,Find the limit as x approaches infinity of (3x^2 + 2)/ (5x^2 + x)
+925,,Limits_and_Continuity,Determine the value of k such that the limit as x approaches 2 of (x^2 - kx)/(x-2) exists
+926,,Limits_and_Continuity,Find the limit as x approaches 0 of ((1+x)^2 -1)/x
+927,,Limits_and_Continuity,"What is the limit of f(x) as x approaches 2, for the function f(x) = (x^2 - 4) / (x - 2)?"
+928,,Limits_and_Continuity,Find the limit as x approaches 0 for the function f(x) = x / (sin(x))
+929,,Limits_and_Continuity,"Determine the limit of g(x) as x approaches -3, given that g(x) = (2x + 8) / (x + 3)"
+930,,Limits_and_Continuity,Find the limit as x approaches infinity for the function f(x) = (3x^2 + 5) / (3x^2 - 2)
+931,,Limits_and_Continuity,Evaluate the limit of h(x) as x approaches -1 for the function h(x) = (x^2 - 1) / (x + 1)
+932,,Limits_and_Continuity,Find the limit as x approaches 4 for the function f(x) = (x - 4) / (x^2 - 16)
+933,,Limits_and_Continuity,"Determine the limit of g(x) as x approaches -2 from the right, given that g(x) = (3x + 6) / (x + 2)"
+934,,Limits_and_Continuity,Find the limit as x approaches infinity for the function f(x) = (2x^3 - 3x^2 + 5x) / (4x^3 + 6x^2)
+935,,Limits_and_Continuity,Evaluate the limit of h(x) as x approaches 2 for the function h(x) = (x + 1) / (x - 2)
+936,,Limits_and_Continuity,Find the limit as x approaches 3 from the left for the function f(x) = (3x + 1) / (x^2 - 9)
+937,,Limits_and_Continuity,Evaluate the limit as x approaches 3 of the function f(x) = (x^2 - 5x + 6) / (x - 3)
+938,,Limits_and_Continuity,Determine whether the function f(x) = x^2 is continuous at x = 3
+939,,Limits_and_Continuity,Find the limit as x approaches infinity of the function f(x) = (2x^3 + 5x^2 - 4) / (x^3 - 2x + 1)
+940,,Limits_and_Continuity,Determine the value of a such that the function f(x) = (x^2 + ax + 1) / (x + 1) is continuous at x = -1
+941,,Limits_and_Continuity,Find the limit as x approaches 2 of the function f(x) = (3x + 7)(x^2 - 4)
+942,,Limits_and_Continuity,"Show that the function f(x) = (x^2 - 2x - 3) / (x - 3) is continuous on the interval (2, 4)"
+943,,Limits_and_Continuity,Evaluate the limit as x approaches -2 from the right of the function f(x) = |x + 2|
+944,,Limits_and_Continuity,"Determine the value of k such that the function f(x) = (x^2 - 4) / (x^2 + kx + 3) is continuous at all points on the interval [-1, 3]"
+945,,Limits_and_Continuity,Find the limit as x approaches 0 of the function f(x) = (sinx/ x)
+946,,Limits_and_Continuity,Show that the function f(x) = (x^2 - 1) / (x - 1) is discontinuous at x = 1 but has a limit as x approaches 1.
+947,,Limits_and_Continuity,"Find the limit of f(x) as x approaches 2, given that f(x) = (x^2-4)/(x-2)"
+948,,Limits_and_Continuity,Determine the continuity of the function f(x) = (x+1)/(2x+4) at x = -2
+949,,Limits_and_Continuity,"Evaluate the limit of g(x) as x approaches 0, where g(x) = (1-sinx)/(x)"
+950,,Limits_and_Continuity,Is the function h(x) = (x^2-5x+6)/(x-2) continuous at x = 1?
+951,,Limits_and_Continuity,"Find the limit of f(x) as x approaches infinity, where f(x) = (4x^2-2x)/(2x^2+3)"
+952,,Limits_and_Continuity,Determine the continuity of the function g(x) = (x+1)/(x-1) at x = 1
+953,,Limits_and_Continuity,"Find the limit of f(x) as x approaches -3, given that f(x) = (x+3)/(x^2+x-12)"
+954,,Limits_and_Continuity,Does the function h(x) = sinx / x have a limit as x approaches zero?
+955,,Limits_and_Continuity,"Find the limit of g(x) as x approaches infinity, where g(x) = (4x^3+2x^2-3)/(x^3-5)"
+956,,Limits_and_Continuity,Is the function f(x) = (x^2+2x-5)/(x+3) continuous at x = -3?
+957,,Limits_and_Continuity,Find the limit as x approaches 3 of (2x+5)
+958,,Limits_and_Continuity,Evaluate the limit as h approaches 0 of ((3+h)^2 - 9) / h
+959,,Limits_and_Continuity,Determine the value of c such that the function f(x) = (cx+2)/(x-3) is continuous at x = 2
+960,,Limits_and_Continuity,Find the left-hand limit of f(x) = (x^2+3x-2) as x approaches -2
+961,,Limits_and_Continuity,Use the definition of a limit to prove that lim x->∞ (7x+5)/(2x+1) = 7/2
+962,,Limits_and_Continuity,Find the limit as x approaches 0 of (1+x)^1/x
+963,,Limits_and_Continuity,Determine the value of k that makes the function f(x) = { (x^2-4x+k)/(x-2) if x<2; k if x=2; (4x+10)/(x^2+2x-4) if x>2 } continuous at x = 2
+964,,Limits_and_Continuity,Evaluate the limit as x approaches -1 of (3x+1)/(x^2+3x+2)
+965,,Limits_and_Continuity,Prove that the function f(x) = (x^3+3x)/(x-1) is not continuous at x = 1
+966,,Limits_and_Continuity,Find the limit as x approaches 3 of ((x+3)/(x-3))^2
+967,,Limits_and_Continuity,"What is the limit of f(x) as x approaches 3, if f(x) = x^2 - 4x + 3?"
+968,,Limits_and_Continuity,Find the value of h that makes the limit of (x^3 - 8)/(x^2 - h^2) as x approaches 2 equal to 6.
+969,,Limits_and_Continuity,"Determine the right-hand limit of g(x) at x = 5, if g(x) = 4x - 7 for x < 5 and g(x) = x + 3 for x ≥ 5."
+970,,Limits_and_Continuity,"Given f(x) = (x^2 + 4x - 5)/(x + 1), find the limit of f(x) as x approaches -1."
+971,,Limits_and_Continuity,"Find the limit of h(x) as x approaches 2, if h(x) = (x - 2)/(x^2 - 4)."
+972,,Limits_and_Continuity,"Determine the one-sided limit of g(x) at x = 0, if g(x) = (2x + 1)/(x - 4) for x < 0 and g(x) = 3x for x ≥ 0."
+973,,Limits_and_Continuity,"What is the limit of f(x) as x approaches ∞, if f(x) = 5x^3 - 2x + 1?"
+974,,Limits_and_Continuity,"Find the limit of h(x) as x approaches 3, if h(x) = (x^2 - 3)/(3x - 9)."
+975,,Limits_and_Continuity,"Given g(x) = (x^2 - 9)/(x - 3), what is the limit of g(x) as x approaches 3?"
+976,,Limits_and_Continuity,"Find the limit of f(x) as x approaches 2, if f(x) = √(x + 2) - 2."
+977,,Limits_and_Continuity,Find the limit of f(x) = 3x + 5 as x approaches 2.
+978,,Limits_and_Continuity,What is the value of the limit as x approaches 0 for the function h(x) = (x^3 - 1)/(x^2 - 1)?
+979,,Limits_and_Continuity,Evaluate the limit as x approaches infinity for the function g(x) = (2x + 1)/(3x + 2).
+980,,Limits_and_Continuity,Determine if the limit of f(x) exists as x approaches 3 for the function f(x) = (x^2 - 9)/(x - 3).
+981,,Limits_and_Continuity,Find the limit of h(x) = (x+1)/(x-2) as x approaches 3 from both the left and right sides.
+982,,Limits_and_Continuity,Determine the continuity of the function f(x) = (x^2 - x + 1)/(x - 1) at x = 1.
+983,,Limits_and_Continuity,What is the limit as x approaches 1 for the function g(x) = sin(x)/x?
+984,,Limits_and_Continuity,Find the limit of f(x) = |x| as x approaches 0.
+985,,Limits_and_Continuity,Determine the value of the limit as x approaches -2 for the function h(x) = 3x + 2.
+986,,Limits_and_Continuity,Evaluate the continuity of the function f(x) = (2x + 1)/(x - 3) at x = 3.
+987,,Limits_and_Continuity,Find the limit as x approaches 3 of (2x + 1).
+988,,Limits_and_Continuity,Determine the limit as x approaches infinity of (x^2 + 5x) / (3x^2 - 4).
+989,,Limits_and_Continuity,What is the limit as x approaches 0 of (cosx - 1) / x?
+990,,Limits_and_Continuity,Evaluate the limit as x approaches -2 of (x^3 + 3x^2 + 5) / (x^2 + 2x).
+991,,Limits_and_Continuity,Find the limit as x approaches 2 of (x^2 + 4x - 6) / (x - 2).
+992,,Limits_and_Continuity,What is the limit as x approaches infinity of (3x + 1) / (5x^2 + 4)?
+993,,Limits_and_Continuity,Calculate the limit as x approaches pi/4 of (2sinx - 1) / (x - pi/4).
+994,,Limits_and_Continuity,Determine the limit as x approaches -1 of (x^3 + 2x^2 + 3x + 4) / (x + 1).
+995,,Limits_and_Continuity,Find the limit as x approaches 5 of (x^2 - 25) / (x - 5).
+996,,Limits_and_Continuity,What is the limit as x approaches 1 of (x^2 - 1) / (x + 1)?
+997,,Limits_and_Continuity,"Given the function f(x) = (x^2 + 1) / (x - 1), find the limit as x approaches 1."
+998,,Limits_and_Continuity,Show that the limit of sin(x) as x approaches 0 is equal to 0.
+999,,Limits_and_Continuity,Find the limit of (√x - 1) / (x - 1) as x approaches 1.
+1000,,Limits_and_Continuity,"Given the function g(x) = 2x + 3, find the limit as x approaches infinity."
+1001,,Limits_and_Continuity,Prove that lim 2x^2 + 3x - 1 = infinity as x approaches infinity.
+1002,,Limits_and_Continuity,Find the limit of (x - 2) / (x^2 - 4) as x approaches 2.
+1003,,Limits_and_Continuity,Use the squeeze theorem to find the limit of x^2sin(1/x) as x approaches 0.
+1004,,Limits_and_Continuity,Find the limit of (2x + 6) / (3x - 9) as x approaches 3.
+1005,,Limits_and_Continuity,Prove that lim x/(x+1) = 1 as x approaches infinity.
+1006,,Limits_and_Continuity,Find the limit of (x^2 + 3x - 10) / (x^2 - 4x - 21) as x approaches -3.

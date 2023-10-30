@@ -1,0 +1,1002 @@
+,question,topic,quesiton
+0,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 2x + 5.
+1,,Fundamentals_of_Differentiation,What is the slope of the tangent line to the graph of f(x) = x^2 at x = 3?
+2,,Fundamentals_of_Differentiation,Use the limit definition of derivative to find f'(4) if f(x) = 3x + 2.
+3,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = x^3 + 2x at the point (1,3)."
+4,,Fundamentals_of_Differentiation,"If f(x) = sin(2x), what is f '(x) using the chain rule?"
+5,,Fundamentals_of_Differentiation,Find the second derivative of f(x) = ln(x^2 + 1).
+6,,Fundamentals_of_Differentiation,Use implicit differentiation to find dy/dx if x^2 + y^2 = 4.
+7,,Fundamentals_of_Differentiation,"Find the critical points and determine whether they are local maxima, local minima, or neither for f(x) = x^3 - 6x^2 + 9x."
+8,,Fundamentals_of_Differentiation,"If the radius of a sphere is increasing at a rate of 2 cm/s, how fast is the volume increasing when the radius is 5 cm?"
+9,,Fundamentals_of_Differentiation,Find the derivative of f(x) = (x^2 + 3)^5 using the power rule.
+10,,Fundamentals_of_Differentiation,What is the derivative of y = 2x^3 + 5x^2 + 3x?
+11,,Fundamentals_of_Differentiation,"Find the slope of the tangent line to the curve y = x^2 at the point (3, 9)."
+12,,Fundamentals_of_Differentiation,Differentiate f(x) = cos(2x) with respect to x.
+13,,Fundamentals_of_Differentiation,Determine the critical points of the function g(x) = x^3 - 6x^2 + 9x and identify if they are local minima or maxima.
+14,,Fundamentals_of_Differentiation,"If the position of an object is given by s(t) = 3t^2 + 8t - 1, what is the velocity of the object at t = 2?"
+15,,Fundamentals_of_Differentiation,"Find the concavity of the curve y = x^4 - 2x^3 + 3x^2 at the point (2, 14)."
+16,,Fundamentals_of_Differentiation,Calculate the second derivative of h(x) = sin(x) + cos(x) and determine its inflection points.
+17,,Fundamentals_of_Differentiation,"If the cost of producing x units of a product is given by C(x) = 1000 + 25x + 0.5x^2, what is the marginal cost when x = 10?"
+18,,Fundamentals_of_Differentiation,"Given the function f(x) = 2x + 1, find its anti-derivative."
+19,,Fundamentals_of_Differentiation,"What is the equation of the line tangent to the curve y = ln(x) at the point (1, 0)?"
+20,,Fundamentals_of_Differentiation,Find the derivative of y = 2x^3 + 5x^2 - x + 3.
+21,,Fundamentals_of_Differentiation,"Calculate the slope of the tangent line to the curve y = 4x^2 + 2x - 5 at the point (2, 21)."
+22,,Fundamentals_of_Differentiation,"Determine the critical numbers of f(x) = x^3 - 6x + 2 and classify them as local maximum, local minimum, or neither."
+23,,Fundamentals_of_Differentiation,At what points does the function f(x) = 3x^2 - 6x - 9 have a horizontal tangent line?
+24,,Fundamentals_of_Differentiation,Find the derivative of y = ln(2x^2 - 4).
+25,,Fundamentals_of_Differentiation,"A company produces and sells x units of a product per month, with x^2 + 4x + 2 dollars in profit. What is the optimal number of units that should be produced to maximize profit?"
+26,,Fundamentals_of_Differentiation,"Given that the position of an object at time t is given by s(t) = 5t^3 - 4t^2 + t + 2, find the velocity of the object at t = 2."
+27,,Fundamentals_of_Differentiation,A glass of water is being filled at a constant rate of 2 cubic centimeters per second. At what rate is the water level rising when the height of the water is 10 centimeters?
+28,,Fundamentals_of_Differentiation,Find the second derivative of f(x) = 2x^4 - 3x^2 + 5.
+29,,Fundamentals_of_Differentiation,The total cost (in dollars) to produce x units of a product is given by C(x) = 20x + 5x^2. Find the marginal cost when x = 10.
+30,,Fundamentals_of_Differentiation,What is the derivative of f(x) = 2x^2 + 5x + 8?
+31,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = x^3 at the point (2,8)."
+32,,Fundamentals_of_Differentiation,Calculate the derivative of g(x) = 4x^3 - 6x + 2.
+33,,Fundamentals_of_Differentiation,Find the critical points of h(x) = 3x^2 + 6x - 9.
+34,,Fundamentals_of_Differentiation,Determine the derivative of f(x) = 4e^x - 5lnx.
+35,,Fundamentals_of_Differentiation,"If y = 5x^4 + 2x^2, what is the slope of the tangent line at x = 3?"
+36,,Fundamentals_of_Differentiation,Find the second derivative of y = x^5 + 8x^3 + 12x.
+37,,Fundamentals_of_Differentiation,"Given f(x) = 2sinx + 3cosx, what is the value of f'(pi/2)?"
+38,,Fundamentals_of_Differentiation,Find the equation of the horizontal line that is tangent to the curve y = (x^2 + 1)^3 at x = 2.
+39,,Fundamentals_of_Differentiation,Calculate the derivative of y = 3^(2x) at x = 0.
+40,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x² + 5x - 2.
+41,,Fundamentals_of_Differentiation,Use the limit definition of derivative to find the derivative of g(x) = 4x + 6.
+42,,Fundamentals_of_Differentiation,"Given f(x) = x³ - 2x, determine the equation of the tangent line at the point (2, 4)."
+43,,Fundamentals_of_Differentiation,Find the critical points of h(x) = x³ - 7x² + 12x.
+44,,Fundamentals_of_Differentiation,Use the quotient rule to find the derivative of f(x) = (3x + 2) / (x - 4).
+45,,Fundamentals_of_Differentiation,Find the point(s) of inflection of g(x) = x⁴ - 4x³ + 3x² + 2.
+46,,Fundamentals_of_Differentiation,"Determine the maximum and minimum values of h(x) = x³ - 12x + 5 on the interval [-2, 2]."
+47,,Fundamentals_of_Differentiation,Use the chain rule to find the derivative of f(x) = √(x² + 1).
+48,,Fundamentals_of_Differentiation,Find the second derivative of g(x) = 4x⁴ - 5x² + 2.
+49,,Fundamentals_of_Differentiation,"Given the graph of f(x), sketch the graph of f'(x) and determine the intervals where the original function is increasing and decreasing."
+50,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 + 5.
+51,,Fundamentals_of_Differentiation,"Determine the slope of the tangent line to the curve y = 2x^3 - 4 at the point (1, 2)."
+52,,Fundamentals_of_Differentiation,Find the derivative of y = (x^2 + 2)/(4x).
+53,,Fundamentals_of_Differentiation,At what value of x is the derivative of the function f(x) = 2x^3 + 5x^2 - 3x + 1 equal to 0?
+54,,Fundamentals_of_Differentiation,Given: f(x) = (4x + 2)^5
+55,,Fundamentals_of_Differentiation,f'(x).
+56,,Fundamentals_of_Differentiation,Find the maximum or minimum value of the function g(x) = 3x^2 + 12x - 5 using differentiation.
+57,,Fundamentals_of_Differentiation,"A car travels along a straight road at a constant speed of 50 km/hr. At t seconds after midnight, the car has traveled (5t + 1)^2 meters. Find the acceleration of the car at t = 2 seconds."
+58,,Fundamentals_of_Differentiation,"If y = 2x^2 - 3x, find the value of x that will make the slope of the tangent line to the curve equal to 8."
+59,,Fundamentals_of_Differentiation,"The volume of a cube is given by V(x) = x^3, where x is the length of one side. Find the change in volume when x increases from 4 cm to 5 cm."
+60,,Fundamentals_of_Differentiation,A water balloon is being filled at a constant rate of 5 cubic centimeters per second. At what rate is the radius of the balloon increasing when the volume is 100π cm^3?
+61,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^5.
+62,,Fundamentals_of_Differentiation,"Given the function f(x) = x^3 + 5x, find the value of f'(5)."
+63,,Fundamentals_of_Differentiation,Find the value of the derivative of f(x) = 2x^2 - 4x + 7 when x = 4.
+64,,Fundamentals_of_Differentiation,What is the derivative of f(x) = 5x^4 + 10x^3 + 15x^2 + 20x + 25?
+65,,Fundamentals_of_Differentiation,"If f(x) = 3x^2 + 2x, what is the equation of the tangent line at x = 2?"
+66,,Fundamentals_of_Differentiation,Find the derivative of g(x) = (x^3 + 2x^2)^2.
+67,,Fundamentals_of_Differentiation,"Given the function h(x) = x^4 + 6x^3 + 12x^2, at what point(s) does the graph have a horizontal tangent line?"
+68,,Fundamentals_of_Differentiation,Find the equation of the tangent line to f(x) = (2x + 3)^2 at x = 4.
+69,,Fundamentals_of_Differentiation,"If f(x) = 3x^2 - 4x + 10, at what point(s) does the graph have a slope of 6?"
+70,,Fundamentals_of_Differentiation,Find the derivative of the function g(x) = (x^2 + 3x)^3.
+71,,Fundamentals_of_Differentiation,Find the derivative of y = 3x^2 + 5x - 2
+72,,Fundamentals_of_Differentiation,What is the limit of (x^3 - 1) / (x - 1) as x approaches 1?
+73,,Fundamentals_of_Differentiation,"Determine the maximum and minimum values of the function f(x) = x^3 - 12x + 5 on the interval [0, 4]."
+74,,Fundamentals_of_Differentiation,"Calculate the slope of the tangent line to the function g(x) = 2x^2 - 3x + 1 at the point (2, 3)."
+75,,Fundamentals_of_Differentiation,Solve for x if the derivative of y = x^4 + 9 is equal to 12.
+76,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = x^3 at the point (1, 1)."
+77,,Fundamentals_of_Differentiation,"Given f(x) = 2x^2 + 3x, find f'(x) and f''(x)."
+78,,Fundamentals_of_Differentiation,"What is the derivative of the natural logarithm function, ln(x)?"
+79,,Fundamentals_of_Differentiation,Find all values of x for which the function h(x) = x^2 + 4x is increasing.
+80,,Fundamentals_of_Differentiation,Determine the acceleration function of a particle whose velocity function is v(t) = 3t^2 + 5t + 2.
+81,,Fundamentals_of_Differentiation,Find the derivative of the function f(x) = 5x^3 + 2x.
+82,,Fundamentals_of_Differentiation,Determine the equation of the tangent line to the graph of f(x) = x^2 - 2x + 1 at x = 4.
+83,,Fundamentals_of_Differentiation,"For the function f(x) = (x^2/x+2), find the equation of the line normal to f at x = 2."
+84,,Fundamentals_of_Differentiation,Find the second derivative of f(x) = 3x^4 - 5x^2 + 1.
+85,,Fundamentals_of_Differentiation,"Given that f(x) = ln(3x), find the derivative at x = 1."
+86,,Fundamentals_of_Differentiation,"For f(x) = e^(2x), find the value of f'(0)."
+87,,Fundamentals_of_Differentiation,Find the slope of the tangent line to the graph of f(x) = 1/x^2 at x = 2.
+88,,Fundamentals_of_Differentiation,What is the derivative of g(x) = (2x+5)^3?
+89,,Fundamentals_of_Differentiation,Find the equation of the tangent line to the curve f(x) = sin(x) + cos(x) at x = π/4.
+90,,Fundamentals_of_Differentiation,"For the function g(x) = (x+1)^2, find the value of g'(2)."
+91,,Fundamentals_of_Differentiation,What is the derivative of f(x) = 5x^2 + 3x - 7?
+92,,Fundamentals_of_Differentiation,"Find the slope of the tangent line to the curve y = 4x^3 + 2 at the point (2, 32)."
+93,,Fundamentals_of_Differentiation,"Given f(x) = x^3 + 2x, what is f'(x)?"
+94,,Fundamentals_of_Differentiation,At what point(s) does the function g(x) = 2x^2 - 8x + 10 have a slope of 0?
+95,,Fundamentals_of_Differentiation,Determine the derivative of the function h(x) = 7x.
+96,,Fundamentals_of_Differentiation,"Find the equation of the line tangent to the curve y = x^2 at the point (4, 16)."
+97,,Fundamentals_of_Differentiation,"A ladder is leaning against a wall, with the top of the ladder 15 feet above the ground and the base of the ladder 12 feet from the wall. How fast is the top of the ladder sliding down the wall when the base is 9 feet above the ground?"
+98,,Fundamentals_of_Differentiation,At what point(s) does the function f(x) = x^4 - 4x^3 + 9x^2 - 2 have a horizontal tangent line?
+99,,Fundamentals_of_Differentiation,The volume of a sphere with radius r is given by V = (4/3)πr^3. What is the rate of change of the volume with respect to the radius?
+100,,Fundamentals_of_Differentiation,Find the derivative of the function y = √(4x+1).
+101,,Fundamentals_of_Differentiation,Find the derivative of the function f(x) = x^3 + 5x^2 - 2x + 4
+102,,Fundamentals_of_Differentiation,"Calculate the slope of the tangent line to the function y = 2x^2 + 7x - 9 at the point (3, 12)."
+103,,Fundamentals_of_Differentiation,"Using the quotient rule, find the derivative of g(x) = 4x / (x^2 + 3)"
+104,,Fundamentals_of_Differentiation,A ladder is leaning against a wall at a 60 degree angle and the base is 6 m away from the wall. How fast is the top of the ladder moving down the wall if it's slipping at a rate of 2 m/s?
+105,,Fundamentals_of_Differentiation,"Given the function f(x) = 3x^2 + 5x + 1, find the equation of the tangent line at x = 2."
+106,,Fundamentals_of_Differentiation,What is the instantaneous rate of change of the function y = x^3 + 3x at x = 4?
+107,,Fundamentals_of_Differentiation,Find the critical points of the function f(x) = x^4 - 6x^3 + 9x^2 + 4x.
+108,,Fundamentals_of_Differentiation,The volume of a sphere is given by V = (4/3)πr^3. Find the rate of change of the volume with respect to the radius at r = 2.
+109,,Fundamentals_of_Differentiation,"Using the product rule, find the derivative of the function h(x) = (x^2 + 3)(3x - 5)."
+110,,Fundamentals_of_Differentiation,A particle is moving along a straight line and its position is given by s(t) = t^2 - 2t + 5. Find the velocity and acceleration of the particle at t = 1.
+111,,Fundamentals_of_Differentiation,What is the derivative of f(x) = 3x^2 + 2x - 7?
+112,,Fundamentals_of_Differentiation,"Find the slope of the tangent line to the curve y = x^3 at the point (2, 8)."
+113,,Fundamentals_of_Differentiation,"If h(x) = 5x^3 + 4x^2 + 3x, what is the value of h'(x)?"
+114,,Fundamentals_of_Differentiation,Calculate the derivative of g(x) = (2x - 5)^5.
+115,,Fundamentals_of_Differentiation,"If f'(x) = 2x - 3, what is f(x) if f(2) = 8?"
+116,,Fundamentals_of_Differentiation,Find the equation of the tangent line to the curve y = 3x^2 - 6x + 9 at x = 2.
+117,,Fundamentals_of_Differentiation,What is the derivative of h(x) = (x^2 + 3)^4?
+118,,Fundamentals_of_Differentiation,"If g(x) = x^2 + 5x - 2, what is the slope of the curve at x = 3?"
+119,,Fundamentals_of_Differentiation,Determine the critical points of f(x) = 4x^3 - 6x^2 + 2x.
+120,,Fundamentals_of_Differentiation,"Given the derivative of f(x) is f'(x) = 4x^2 - 2x + 5, what is f(x) if f(0) = 2?"
+121,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 - 6x + 2.
+122,,Fundamentals_of_Differentiation,"Given the function g(x) = (4x+3)^3, find g'(x)."
+123,,Fundamentals_of_Differentiation,"If h(x) = x^(1/2), what is the derivative of h(x)?"
+124,,Fundamentals_of_Differentiation,What is the slope of the tangent line to the curve y = x^4 at x = 2?
+125,,Fundamentals_of_Differentiation,Find the critical points of the function f(x) = x^3 + 4x^2 - 16x + 5.
+126,,Fundamentals_of_Differentiation,"Given the equation y = 2x^2 + 5x - 3, find the equation of the tangent line at x = 3."
+127,,Fundamentals_of_Differentiation,Find the second derivative of the function y = e^x / x.
+128,,Fundamentals_of_Differentiation,"If f(x) = ln(x^2), what is the derivative of f(x)?"
+129,,Fundamentals_of_Differentiation,"If g(x) = √(x^2 + 3x), what is the equation of the tangent line at x = 1?"
+130,,Fundamentals_of_Differentiation,Find the points of inflection for the function h(x) = x^3 - 6x + 5.
+131,,Fundamentals_of_Differentiation,Find the derivative of f(x) = x^3 - 5x^2 + 4x + 10
+132,,Fundamentals_of_Differentiation,"Given f(x) = √(x+1), find f '(2)"
+133,,Fundamentals_of_Differentiation,Find the second derivative of g(x) = 2x^4 + 3x^3 - 6x + 5
+134,,Fundamentals_of_Differentiation,A spherical balloon is being inflated at a rate of 200 cubic inches per minute. Find the rate of change of the radius when the balloon has a volume of 500 cubic inches.
+135,,Fundamentals_of_Differentiation,"A ladder 10 feet long is leaning against a wall. If the bottom of the ladder slides away from the wall at a rate of 2 feet per second, how fast is the top of the ladder sliding down the wall when it is 6 feet above the ground?"
+136,,Fundamentals_of_Differentiation,"Given f(x) = 3x^2 - 4x + 2, find the equation of the tangent line at x = 2."
+137,,Fundamentals_of_Differentiation,The function f is defined as f(x) = x^2 - 2x. Find the value of x at which the slope of the tangent line is 3.
+138,,Fundamentals_of_Differentiation,The radius of a circle is increasing at a rate of 3 centimeters per minute. Find the rate of change of the area when the radius is 5 centimeters.
+139,,Fundamentals_of_Differentiation,"Given f(x) = x^2 + 3x - 5, find the value of c such that the line through (c, f(c)) is parallel to the tangent line at x = 1."
+140,,Fundamentals_of_Differentiation,A particle moves along the x-axis according to the position function s(t) = t^3 - 6t^2 + 9t + 1. Find the velocity and acceleration of the particle.
+141,,Fundamentals_of_Differentiation,Find the derivative of f(x) = x^5 + 3x^2 at x = 2.
+142,,Fundamentals_of_Differentiation,Simplify the expression f'(x) = 5x^4 + 6x.
+143,,Fundamentals_of_Differentiation,"If f(x) = 3x^2 - 4x + 5, find the derivative f'(x)."
+144,,Fundamentals_of_Differentiation,Find the derivative of g(x) = e^x * ln(x).
+145,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = x^3 + 2x + 1 at the point (2, 13)."
+146,,Fundamentals_of_Differentiation,"Calculate the value of f'(x) at x = π, if f(x) = sin(x^2)."
+147,,Fundamentals_of_Differentiation,"If h(x) = √(x - 2), find h'(x)."
+148,,Fundamentals_of_Differentiation,"A ladder is leaning against a wall, with the bottom of the ladder 8 feet from the wall. The top of the ladder is sliding down the wall at a rate of 2 feet per second. At what rate is the ladder falling when the top of the ladder is 3 feet off the ground?"
+149,,Fundamentals_of_Differentiation,Find the derivative of f(x) = ln(x^2 + 1).
+150,,Fundamentals_of_Differentiation,"The temperature of a cup of coffee is given by T(t) = 80e^-0.1t, where t is the time in minutes. Find the rate of change of the temperature after 10 minutes."
+151,,Fundamentals_of_Differentiation,1. Find the derivative of y = 3x^2 + 4x.
+152,,Fundamentals_of_Differentiation,"2. Given f(x) = x^4 - 3x^3 + 5x^2 + 2x, find f'(x)."
+153,,Fundamentals_of_Differentiation,3. The function f(x) is defined as f(x) = (4x - 1)^2. Find the value of f'(2).
+154,,Fundamentals_of_Differentiation,"4. If h(t) = 2t^3 + 5t^2 - t, find h'(t)."
+155,,Fundamentals_of_Differentiation,"5. Given g(x) = sin(2x) + cos(5x), find g'(x)."
+156,,Fundamentals_of_Differentiation,"6. For the function f(x) = x^4 + 5x^3 - 2x^2 + 6x - 7, find the points where the slope is equal to 0."
+157,,Fundamentals_of_Differentiation,"7. Find the equation of the tangent line to the curve y = 2x^3 - 4x^2 + 7x at the point (1, 5)."
+158,,Fundamentals_of_Differentiation,"8. If f(x) = x^2 - x and g(x) = x^5 + x + 1, find f'(0) and g'(0)."
+159,,Fundamentals_of_Differentiation,"9. A company's total costs can be represented by the function C(x) = 2x^2 + 4x + 100, where x is the number of units produced. Find the marginal cost and average cost at x = 10."
+160,,Fundamentals_of_Differentiation,10. The rate of change in the temperature of a substance at time t (in minutes) is given by the function T'(t) = 2t^2 - 4t + 6. Find the temperature at t = 3 minutes if the initial temperature was 5 degrees Celsius.
+161,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 - 5x + 6.
+162,,Fundamentals_of_Differentiation,Use the definition of the derivative to find the derivative of f(x) = 4x^3 - 7x.
+163,,Fundamentals_of_Differentiation,"Given g(x) = 2/x, find g'(x)."
+164,,Fundamentals_of_Differentiation,Find the slope of the tangent line to the function f(x) = x^3 - 2x^2 + 5 at x = 2.
+165,,Fundamentals_of_Differentiation,"If f(x) = 3x^2, what is the value of f'(3)?"
+166,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = 5x^3 - 7x^2 at the point (2, 18)."
+167,,Fundamentals_of_Differentiation,Use the power rule to find the derivative of f(x) = x^-2.
+168,,Fundamentals_of_Differentiation,"Given the curve y = x^2 + 3x, find the equation of the normal line at the point (1, 4)."
+169,,Fundamentals_of_Differentiation,Find the second derivative of f(x) = x^4 - 4x^3 + 5x^2.
+170,,Fundamentals_of_Differentiation,"Using the quotient rule, find the derivative of f(x) = (x^2 - 3)/(x + 2)."
+171,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 2x^3 + 5x^2 + 10x.
+172,,Fundamentals_of_Differentiation,Find the slope of the tangent line to the graph of f(x) = 4x^2 - 6x + 9 at the point x = 2.
+173,,Fundamentals_of_Differentiation,"If the position of an object is given by s(t) = 3t^2 + 5t + 2, find the object's velocity at t = 3."
+174,,Fundamentals_of_Differentiation,Find the derivative of y = sin(3x) + cos(5x).
+175,,Fundamentals_of_Differentiation,Determine the critical numbers of f(x) = x^4 - x^3 + 2x.
+176,,Fundamentals_of_Differentiation,The volume of a sphere is given by V = (4/3)πr^3. Find the rate of change of the volume with respect to the radius.
+177,,Fundamentals_of_Differentiation,"If the area of a circle is increasing at a rate of 3 cm^2/s, find the rate of change of its radius at that moment."
+178,,Fundamentals_of_Differentiation,"For a rectangle with fixed perimeter, find the dimensions that will give the maximum area."
+179,,Fundamentals_of_Differentiation,"A ladder is leaning against a wall and reaching the top of a building. If the bottom of the ladder is moving away from the wall at 2 m/s, how fast is the top of the ladder moving down the wall when the angle between the ladder and the wall is 60 degrees?"
+180,,Fundamentals_of_Differentiation,Find the derivative of f(x) = (x^2 - 4)(3x + 2).
+181,,Fundamentals_of_Differentiation,Find the derivative of the function f(x) = x^2 + 3x + 1.
+182,,Fundamentals_of_Differentiation,A car is travelling along a straight line at a speed of 60 km/h. What is the rate of change of its distance from a fixed point after 2 hours?
+183,,Fundamentals_of_Differentiation,"Given the function f(x) = ln(x), what is its derivative at x = 5?"
+184,,Fundamentals_of_Differentiation,"A rectangular prism has a volume of 64 cubic units. If its height is increasing at a rate of 2 units per second and its length and width are both decreasing at a rate of 1 unit per second, what is the rate of change of its volume at that instant?"
+185,,Fundamentals_of_Differentiation,Find the derivative of the function y = 3cos(2x) + 5sin(x).
+186,,Fundamentals_of_Differentiation,The area of a circle is increasing at a rate of 4 square centimeters per second. What is the rate of change of its circumference at that instant?
+187,,Fundamentals_of_Differentiation,"If the radius of a sphere is increasing at a rate of 2 centimeters per second, what is the rate of change of its volume at that instant?"
+188,,Fundamentals_of_Differentiation,Find the derivative of the function f(x) = e^x.
+189,,Fundamentals_of_Differentiation,"A spherical balloon is being inflated and its volume is increasing at a rate of 4π cubic feet per minute. If its radius is 3 feet, what is the rate of change of its surface area at that instant?"
+190,,Fundamentals_of_Differentiation,"A stone is dropped into a pond, creating ripples that spread at a rate of 3 meters per second. What is the rate of change of the surface area of the circle formed by the ripples as the radius of the circle increases at a constant rate?"
+191,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 5x^3 - 2x + 7.
+192,,Fundamentals_of_Differentiation,"What is the slope of the tangent line to the curve y = x^2 + 3x at the point (2, 10)?"
+193,,Fundamentals_of_Differentiation,Calculate the derivative of g(x) = sin(3x) + cos(2x).
+194,,Fundamentals_of_Differentiation,A ball is thrown into the air with a velocity of 40 ft/s. Find the derivative of its position function after 1 second.
+195,,Fundamentals_of_Differentiation,"If f(x) = x^2 - x, find the value of x that maximizes the derivative of f(x)."
+196,,Fundamentals_of_Differentiation,What is the derivative of the function h(x) = e^(2x) at x = 0?
+197,,Fundamentals_of_Differentiation,A ladder is leaning against a wall with its base 6 feet away from the wall. The top of the ladder slides down the wall at a rate of 2 ft/s. How fast is the ladder falling when the base is 8 feet from the wall?
+198,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = ln(x) at the point (1, 0)."
+199,,Fundamentals_of_Differentiation,"The volume of a cone is given by V = (1/3)πr^2h, where r is the radius and h is the height. If the volume of the cone is increasing at a rate of 4π cm^3/s, find the rate of change of its height when the radius is 3 cm."
+200,,Fundamentals_of_Differentiation,"If f(x) = (x^3 + 2x + 1)^2, what is the sum of all the possible values of x such that f'(x) = 0?"
+201,,Fundamentals_of_Differentiation,Find the derivative of y = 3x^2 - 5x + 2.
+202,,Fundamentals_of_Differentiation,"If a ball is thrown with a position function of s(t) = -16t^2 + 64t + 32, what is its velocity at t = 2 seconds?"
+203,,Fundamentals_of_Differentiation,Use the limit definition to find f'(x) when f(x) = 4x^2 - 3x + 1.
+204,,Fundamentals_of_Differentiation,The velocity of an object is given by v(t) = 5t^2 - 6t. Find the acceleration function.
+205,,Fundamentals_of_Differentiation,The cost function for producing x units of a product is C(x) = 2x^2 - 8x + 12. What is the marginal cost when 10 units are produced?
+206,,Fundamentals_of_Differentiation,Find the second derivative of y = sin(x).
+207,,Fundamentals_of_Differentiation,"Using the chain rule, find the derivative of y = (2x^3 - 4x)^2."
+208,,Fundamentals_of_Differentiation,The position function for a particle is s(t) = 5t^3 - 6t + 2. At what time is the particle at rest?
+209,,Fundamentals_of_Differentiation,Find the derivative of f(g(x)) when f(x) = 3x^2 + 8x and g(x) = x^2 - 2.
+210,,Fundamentals_of_Differentiation,The radius of a circle is increasing at a rate of 2 cm/s. At what rate is the area of the circle increasing when the radius is 5 cm?
+211,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 + 5x - 2.
+212,,Fundamentals_of_Differentiation,Determine the critical points of g(x) = 2x^3 - 6x^2 + 9x + 4.
+213,,Fundamentals_of_Differentiation,"What is the equation of the tangent line to the curve h(x) = 4x^2 + 6x - 3 at the point (2, 22)?"
+214,,Fundamentals_of_Differentiation,Evaluate the derivative of y = 2(5x - 1)^5 at x = 3.
+215,,Fundamentals_of_Differentiation,"Given the function f(x), where f'(x) = x^2 - 3x, find the value of f(x) when x = 2."
+216,,Fundamentals_of_Differentiation,What is the second derivative of y = 2x^3 - 5x + 9?
+217,,Fundamentals_of_Differentiation,Calculate the derivative of the parametric equations x = 2t^2 and y = 3t - 4.
+218,,Fundamentals_of_Differentiation,"Find the equation of the line tangent to the curve y = 4/x at the point (2, 2)."
+219,,Fundamentals_of_Differentiation,Determine the points of inflection for the function f(x) = x^3 - 6x^2 + 12x + 5.
+220,,Fundamentals_of_Differentiation,"If f(x) = ln(x), what is the value of f'(e)?"
+221,,Fundamentals_of_Differentiation,Find the derivative of y = 3x^2 + 5x - 2
+222,,Fundamentals_of_Differentiation,What is the slope of the tangent line to the curve y = 2sin(x) at x = π/4?
+223,,Fundamentals_of_Differentiation,"If f(x) = x^3 - 4x^2 + 6x + 10, what is the value of f'(2)?"
+224,,Fundamentals_of_Differentiation,Calculate the instantaneous rate of change of f(x) = 4x^2 - 6x + 3 at x = -1.
+225,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = x^3 + 2x at the point (1, 3)."
+226,,Fundamentals_of_Differentiation,What is the derivative of f(x) = √(2x + 5)?
+227,,Fundamentals_of_Differentiation,"Determine the critical points of f(x) = 3x^4 - 8x^3 + 5x + 2 and classify them as local minima, local maxima, or points of inflection."
+228,,Fundamentals_of_Differentiation,Solve for dy/dx if y = (x + 2)^6.
+229,,Fundamentals_of_Differentiation,What is the second derivative of f(x) = e^x * ln(x)?
+230,,Fundamentals_of_Differentiation,Find the equation of the normal line to the curve y = cos(x) at x = π/2.
+231,,Fundamentals_of_Differentiation,"Given f(x) = x^3 - 6x + 2, find the derivative f'(x)."
+232,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = 5x^2 + 12x - 3 at the point (2, 37)."
+233,,Fundamentals_of_Differentiation,Find the second derivative of y = 4x^2 - 3x + 5.
+234,,Fundamentals_of_Differentiation,Determine the critical points of the function f(x) = x^4 + 4x - 3.
+235,,Fundamentals_of_Differentiation,"Find the average rate of change of g(x) = 3x^2 - 4x + 5 on the interval [1, 3]."
+236,,Fundamentals_of_Differentiation,Use the limit definition of the derivative to find f'(x) for f(x) = 2x^2 - 6x + 4.
+237,,Fundamentals_of_Differentiation,Find the derivative of h(x) = 5x^4 + 2x^3 - 5x^2 + 3x - 1 using logarithmic differentiation.
+238,,Fundamentals_of_Differentiation,"If f(x) = x^3 + 2x^2 + 4x, find the value of f''(2)."
+239,,Fundamentals_of_Differentiation,Determine whether the following function is increasing or decreasing at the point x = 2: y = 2x^3 - 3x^2 + 5x.
+240,,Fundamentals_of_Differentiation,Evaluate the derivative of y = 3sin(x)cos(x) using the product rule.
+241,,Fundamentals_of_Differentiation,Find the derivative of f(x) = x^3 + 2x^2 – 5x + 9
+242,,Fundamentals_of_Differentiation,What is the derivative of y = (2x + 5)^4 ?
+243,,Fundamentals_of_Differentiation,"Given f(x) = sin(x), find the derivative at x = π/4"
+244,,Fundamentals_of_Differentiation,"What is the slope of the tangent line to the curve y = x^2 at the point (3,9)?"
+245,,Fundamentals_of_Differentiation,Find the derivative of g(x) = (e^x)/(1 + x^2)
+246,,Fundamentals_of_Differentiation,"If f(x) = ln(x), what is f'(x)?"
+247,,Fundamentals_of_Differentiation,Find the derivative of y = (2x + 1)^5 – (3x – 2)^3
+248,,Fundamentals_of_Differentiation,"What is the slope of the tangent line to the curve y = s^3 – 4s + 6 at the point (2,-2)?"
+249,,Fundamentals_of_Differentiation,Find the derivative of h(t) = 5e^(3t)
+250,,Fundamentals_of_Differentiation,"If f(x) = cos(x), find f''(x)"
+251,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 + 5x + 2.
+252,,Fundamentals_of_Differentiation,Calculate the value of the derivative of g(x) at x = 4 if g(x) = x^3 + 2x^2.
+253,,Fundamentals_of_Differentiation,"Find the slope of the tangent line to the curve y = 2x^2 - 4x + 3 at the point (2, 3)."
+254,,Fundamentals_of_Differentiation,"If f(x) = x^4, calculate the second derivative of f(x)."
+255,,Fundamentals_of_Differentiation,Determine the points of inflection for the function y = x^3 - 6x^2 + 9x.
+256,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = x^2 + 3 at the point (1, 4)."
+257,,Fundamentals_of_Differentiation,Calculate the critical points for the function f(x) = 2x^3 - 9x^2 + 12x + 5.
+258,,Fundamentals_of_Differentiation,"If g(x) = 4x^2 + 2x + 1, find the average rate of change of g(x) between x = 2 and x = 5."
+259,,Fundamentals_of_Differentiation,Determine the derivative of h(x) = (2x + 1)^3.
+260,,Fundamentals_of_Differentiation,Find the maximum value of the function f(x) = -x^2 + 5x - 3.
+261,,Fundamentals_of_Differentiation,What is the derivative of f(x) = x^2?
+262,,Fundamentals_of_Differentiation,Find the derivative of g(x) = 3/x.
+263,,Fundamentals_of_Differentiation,Determine the derivative of h(x) = (2x + 1)^5.
+264,,Fundamentals_of_Differentiation,Calculate the derivative of y(x) = 4sin(x) + 2cos(x).
+265,,Fundamentals_of_Differentiation,Find the derivative of f(x) = e^x.
+266,,Fundamentals_of_Differentiation,Determine the derivative of g(x) = x/(1 + x^2).
+267,,Fundamentals_of_Differentiation,Find the second derivative of h(x) = cos(2x).
+268,,Fundamentals_of_Differentiation,Calculate the derivative of y(x) = ln(x).
+269,,Fundamentals_of_Differentiation,Find the derivative of f(x) = (x^3 + 4x)^2.
+270,,Fundamentals_of_Differentiation,Determine the derivative of g(x) = 5x/(x^2 - 1).
+271,,Fundamentals_of_Differentiation,Find the derivative of y = 5x^2 + 3x - 2
+272,,Fundamentals_of_Differentiation,Determine the critical points of the function f(x) = 3x^4 - 4x^3 + 2x^2 + 10
+273,,Fundamentals_of_Differentiation,"Given the graph of f(x), find the equation of the tangent line at x = 2."
+274,,Fundamentals_of_Differentiation,What is the derivative of the natural logarithm function y = ln(x)?
+275,,Fundamentals_of_Differentiation,Find the maximum and minimum values of the function f(x) = x^3 - 6x^2 + 9x + 2.
+276,,Fundamentals_of_Differentiation,Differentiate y = (2x + 3)^5 with respect to x.
+277,,Fundamentals_of_Differentiation,"Find the derivatives of the trigonometric functions sin(x), cos(x), and tan(x)."
+278,,Fundamentals_of_Differentiation,"If the price of a product is given by p(x) = 20x^2 + 75x + 50, where x is the quantity, find the marginal revenue when x = 100."
+279,,Fundamentals_of_Differentiation,"Find the value of dy/dx at x = 3, given that y = 2x^2 + 3x + 10."
+280,,Fundamentals_of_Differentiation,"Given the equation f(x) = 3x^2 + 5x - 2, find the equation of the secant line passing through the points (1, f(1)) and (3, f(3))."
+281,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^4
+282,,Fundamentals_of_Differentiation,"What is the slope of the tangent line to the curve y = x^2 + 2 at the point (2, 6)?"
+283,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = 4x^3 at the point (1, 4)."
+284,,Fundamentals_of_Differentiation,What is the derivative of g(x) = 5sin(x)cos(x)?
+285,,Fundamentals_of_Differentiation,Find the critical points of the function f(x) = 2x^3 - 9x^2 + 6x + 2.
+286,,Fundamentals_of_Differentiation,Find the second derivative of h(x) = e^x + 5x^4.
+287,,Fundamentals_of_Differentiation,Determine the intervals on which the function f(x) = 2x^3 - 12x^2 + 24x has a positive slope.
+288,,Fundamentals_of_Differentiation,At what value of x is the tangent line to the curve y = 6x + x^2 closest to the x-axis?
+289,,Fundamentals_of_Differentiation,"Using the quotient rule, find the derivative of f(x) = (x^2 + 3) / (x - 1)."
+290,,Fundamentals_of_Differentiation,Find the derivative of the inverse function of f(x) = 2x^3 - 6x.
+291,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 2x^2 - 4x + 5 at x=3
+292,,Fundamentals_of_Differentiation,Determine the points on the graph of f(x) = x^2 where the slope of the tangent line is equal to 4
+293,,Fundamentals_of_Differentiation,"Given the function g(x) = (2x + 1)(2x - 3), find the value of g'(2)"
+294,,Fundamentals_of_Differentiation,Find the critical points of f(x) = x^3 - 6x^2 + 9x
+295,,Fundamentals_of_Differentiation,Compute the second derivative of y = 3x^4 - 10x^3 + 5x + 2
+296,,Fundamentals_of_Differentiation,At what values of x does the graph of y = x^3 - 3x^2 - 9x + 5 have a relative minimum?
+297,,Fundamentals_of_Differentiation,"If f(x) = 2x^3 + x, what is the equation of the tangent line to the graph of f at the point (2, 14)?"
+298,,Fundamentals_of_Differentiation,"Given f(x) = e^x, determine an equation for the line tangent to the graph of f at the point (1, e)"
+299,,Fundamentals_of_Differentiation,Find the derivative of h(x) = ln(x^2 + 4x)
+300,,Fundamentals_of_Differentiation,"Using the power rule, find the derivative of y = x^4/2 + 3x^2 + 2x at x = 1"
+301,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 + 5x
+302,,Fundamentals_of_Differentiation,"Given the function g(x) = 2x^3 + 4x^2 - 6x + 8, find the equation for the tangent line to g at the point (1, 8)."
+303,,Fundamentals_of_Differentiation,A car travels along a straight line and its position at time t is given by s(t) = 4t^2 + 3t - 5. Find the car's velocity and acceleration at t = 3 seconds.
+304,,Fundamentals_of_Differentiation,"For the function h(x) = sin(x)cos(x), find the critical points and determine if they are local minimums or maximums."
+305,,Fundamentals_of_Differentiation,"A company's profit is given by P(x) = -2x^3 + 10x^2 + 100x, where x represents the number of products sold. What is the maximum profit the company can make and at what number of products sold?"
+306,,Fundamentals_of_Differentiation,"Find the equation of the line tangent to the graph of f(x) = x^3 + 6x - 1 at the point (2, 13)."
+307,,Fundamentals_of_Differentiation,The revenue generated by selling x units of a product is given by R(x) = 2x^2 + 5x. Find the marginal revenue at x = 10.
+308,,Fundamentals_of_Differentiation,A ball is thrown into the air with an initial velocity of 20 m/s. Its height (in meters) after t seconds is given by h(t) = -4.9t^2 + 20t + 10. Find the maximum height the ball reaches and the time at which it reaches maximum height.
+309,,Fundamentals_of_Differentiation,"If f(x) = x^2 + 3x - 2 and g(x) = 2x + 1, what is the equation for the composite function (fog)(x)?"
+310,,Fundamentals_of_Differentiation,Find the domain of f(x) = √(x+3).
+311,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x + 2.
+312,,Fundamentals_of_Differentiation,What is the derivative of the function g(x) = sin(x)?
+313,,Fundamentals_of_Differentiation,"Find the slope of the tangent line to the curve y = x^2 + 4x at the point (3, 21)."
+314,,Fundamentals_of_Differentiation,"If h(x) = (x + 1)^3, what is the derivative of h(x) using the Power Rule?"
+315,,Fundamentals_of_Differentiation,Find the second derivative of y = 4x^3 + 5x^2 + 2x.
+316,,Fundamentals_of_Differentiation,Determine the derivative of the function f(x) = (2x + 3)(5x - 1) using the Product Rule.
+317,,Fundamentals_of_Differentiation,"Given f(x) = x^2 - 2x + 1, find the critical points."
+318,,Fundamentals_of_Differentiation,"If y = ln(3x - 1), what is the derivative of y using the Chain Rule?"
+319,,Fundamentals_of_Differentiation,What is the derivative of z = e^x + cos(x)?
+320,,Fundamentals_of_Differentiation,"Find the maximum value of g(x) = x^3 - 6x + 8 on the interval [0, 4]."
+321,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x + 2
+322,,Fundamentals_of_Differentiation,What is the slope of the tangent line to the curve y = sin(x) at x = π/4 ?
+323,,Fundamentals_of_Differentiation,Determine the rate of change of the function f(x) = x^2 + 3 at x = 2.
+324,,Fundamentals_of_Differentiation,What is the second derivative of f(x) = 5x^3 + 7x ?
+325,,Fundamentals_of_Differentiation,"If f(x) = x^2 and g(x) = x + 1, what is the derivative of f(g(x))?"
+326,,Fundamentals_of_Differentiation,Find the value of x that maximizes the function f(x) = x^3 - 12x^2 + 36x.
+327,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 2e^x.
+328,,Fundamentals_of_Differentiation,At what value of x does the function f(x) = 3x^2 + 6x have a slope of 0?
+329,,Fundamentals_of_Differentiation,What is the derivative of the function f(x) = 1/(2x^2)?
+330,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = x^2 + 2x at the point (1,3)."
+331,,Fundamentals_of_Differentiation,What is the derivative of f(x) = 5x^2 + 10x + 3?
+332,,Fundamentals_of_Differentiation,Find the first and second derivative of g(x)= (3x-2)/x
+333,,Fundamentals_of_Differentiation,Use the power rule to find the derivative of h(x)= x^3 + 2x^2 + 5x
+334,,Fundamentals_of_Differentiation,"If the function f(x) = 2x^3 - 7x^2 + 9x + 4 has a critical point, what is the value of x at that point?"
+335,,Fundamentals_of_Differentiation,Find the derivative of the natural logarithmic function ln(x)
+336,,Fundamentals_of_Differentiation,Differentiate the function f(x) = (x^2 + 3x)^4
+337,,Fundamentals_of_Differentiation,"If the slope of a tangent line to the function f(x) = x^2 - 2x + 1 is -5, what is the value of x at that point?"
+338,,Fundamentals_of_Differentiation,Use the quotient rule to find the derivative of g(x) = (x^3 - 3x)/(x + 2)
+339,,Fundamentals_of_Differentiation,Find the relative maximum and minimum points of the function f(x) = x^3 - 6x^2 + 9x + 4
+340,,Fundamentals_of_Differentiation,Determine whether the function f(x) = x^2 + 1 is concave up or concave down.
+341,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x + 5
+342,,Fundamentals_of_Differentiation,"Determine the slope of the tangent line to the curve y = x^2 at the point (3, 9)"
+343,,Fundamentals_of_Differentiation,What is the rate of change of the function f(x) = 2x^3 + 4x^2 - 6x + 9 at the point x = -1?
+344,,Fundamentals_of_Differentiation,Calculate the derivative of g(x) = 5 / (x^2 + 1)
+345,,Fundamentals_of_Differentiation,Find the derivative of the function h(x) = e^(2x)
+346,,Fundamentals_of_Differentiation,"Given the function f(x) = x^3 - 4x^2 + 5x - 2, determine the critical points."
+347,,Fundamentals_of_Differentiation,"For the function g(x) = 4x^2 + 3x + 2, find the points where the slope of the tangent line is 0."
+348,,Fundamentals_of_Differentiation,"What is the average rate of change of f(x) = 2x^2 - 6x + 3 on the interval [1, 5]?"
+349,,Fundamentals_of_Differentiation,At what points does the function h(x) = x^3 have a horizontal tangent line?
+350,,Fundamentals_of_Differentiation,Find the derivative of y = ln(2x + 1) using the logarithmic differentiation method.
+351,,Fundamentals_of_Differentiation,What is the derivative of the function f(x) = 2x^3 + 4x^2 + 9x - 5?
+352,,Fundamentals_of_Differentiation,"Find the slope of the tangent line to the curve y = x^2 at the point (2,4)."
+353,,Fundamentals_of_Differentiation,Determine the critical points of the function g(x) = 3x^2 + 6x + 2.
+354,,Fundamentals_of_Differentiation,Compute the derivative of the function h(x) = (x^2 + 5x + 7)/(x^3 + 4x + 9).
+355,,Fundamentals_of_Differentiation,A ball is thrown in the air with a velocity of 20 m/s. Find its acceleration after 3 seconds.
+356,,Fundamentals_of_Differentiation,"Given the function f(x) = 2x^3 - 5x + 9, find the point(s) on the graph where the slope is equal to -4."
+357,,Fundamentals_of_Differentiation,Find the second derivative of the function g(x) = sin(x) + 2cos(x).
+358,,Fundamentals_of_Differentiation,Suppose the area of a circle is changing at a rate of 3 cm^2/s. What is the rate of change of its circumference when the radius is 5 cm?
+359,,Fundamentals_of_Differentiation,"A car is driving on a straight road with a velocity of 50 km/hr. If the car's acceleration is -5 km/hr^2, what is its distance from the starting point after 2 hours?"
+360,,Fundamentals_of_Differentiation,Find the derivative of the function h(x) = x^2ln(x).
+361,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 + 5x + 2
+362,,Fundamentals_of_Differentiation,"Determine the slope of the tangent line to the graph of y = x^3 at the point (2, 8)"
+363,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = e^x at the point (3, e^3)"
+364,,Fundamentals_of_Differentiation,Use the Limit Definition of Differentiation to find the derivative of f(x) = sqrt(x+1)
+365,,Fundamentals_of_Differentiation,"Given the graph of f(x), find the derivative of f(x) at the point (2, f(2))"
+366,,Fundamentals_of_Differentiation,"Find the maximum value of the function y = 2x^3 + 6x^2 - 12x + 1 over the interval [0, 3]"
+367,,Fundamentals_of_Differentiation,"Using the Power Rule, find the derivative of g(x) = (x^2 + 1)^4"
+368,,Fundamentals_of_Differentiation,Find the point(s) where the function f(x) = x^2 - 4x + 3 has a horizontal tangent line
+369,,Fundamentals_of_Differentiation,"Differentiate the natural logarithm function, ln(x), using the Derivative Rules"
+370,,Fundamentals_of_Differentiation,Find the derivative of the function h(x) = sin(2x) + cos(3x) using the Sum Rule and Trigonometric Derivatives
+371,,Fundamentals_of_Differentiation,1. What is the derivative of f(x) = x^2 + 3x – 8?
+372,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = 2x^3 – 5x^2 + 7 at the point (1, 4)."
+373,,Fundamentals_of_Differentiation,Determine the critical numbers of f(x) = 3x^4 – 10x^3 + 6x^2 – 12.
+374,,Fundamentals_of_Differentiation,Calculate the limit as x approaches 0 of (sin x)/x.
+375,,Fundamentals_of_Differentiation,The derivative of f(x) is given by f ’(x) = 6x^2 – 8x + 3. Find the possible equations for the original function f(x).
+376,,Fundamentals_of_Differentiation,"A ladder 10 feet long is leaning against a building. If the bottom of the ladder is sliding away from the building at a rate of 2 ft/s, how fast is the top of the ladder sliding down the building when the bottom of the ladder is 6 feet away from the building?"
+377,,Fundamentals_of_Differentiation,A rectangle has a fixed perimeter. Show that the maximum area the rectangle can have is when it is a square.
+378,,Fundamentals_of_Differentiation,"Find the equation of the normal line to the curve y = 9x^2 – 4x + 5 at the point (2, 29)."
+379,,Fundamentals_of_Differentiation,Find the derivative of the inverse function of f(x) = 2x^3 + 3x – 15.
+380,,Fundamentals_of_Differentiation,"Determine the equation of the secant line passing through the points (2, 5) and (4, 17) for the function f(x) = x^2 + 3x + 1."
+381,,Fundamentals_of_Differentiation,What is the derivative of f(x) = 5x^2 + 3?
+382,,Fundamentals_of_Differentiation,Use the definition of the derivative to find the derivative of f(x) = x^3 + 2x.
+383,,Fundamentals_of_Differentiation,Find the equation of the tangent line to the graph of f(x) = 4x + 2 at x = 3.
+384,,Fundamentals_of_Differentiation,Find the second derivative of f(x) = 6x^4 + 9x^3 - 2.
+385,,Fundamentals_of_Differentiation,Use the chain rule to find the derivative of g(x) = sin(4x).
+386,,Fundamentals_of_Differentiation,Find the critical points of f(x) = x^3 + 3x^2 - 5x.
+387,,Fundamentals_of_Differentiation,Determine the inflection points of g(x) = 2x^5 - 10x^3 + 4x.
+388,,Fundamentals_of_Differentiation,Use the quotient rule to find the derivative of h(x) = (3x^2 + 1)/(2x + 5).
+389,,Fundamentals_of_Differentiation,"Find the absolute maximum and minimum values of f(x) = 3x^4 - 4x^3 + 6 on the interval [-1, 2]."
+390,,Fundamentals_of_Differentiation,"Given the graph of f(x), find the value of f'(2) if f(x) = x^2 - 5x + 3."
+391,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^4 - 5x^2 + 2x
+392,,Fundamentals_of_Differentiation,"Determine the equation of the tangent line to the curve y = x^3 at the point (2, 8)"
+393,,Fundamentals_of_Differentiation,Calculate the critical points and determine the minimum and maximum values of f(x) = x^3 - 3x^2
+394,,Fundamentals_of_Differentiation,Find the derivative of g(x) = ln(4x^2)
+395,,Fundamentals_of_Differentiation,"Using the power rule, find the derivative of h(x) = (2x^3 + 5x)^4"
+396,,Fundamentals_of_Differentiation,Determine the derivative of f(x) = cos(x) - 5sin(x)
+397,,Fundamentals_of_Differentiation,"Find the slope of the tangent line to the curve y = 2x^2 - 3x + 1 at the point (4, 13)"
+398,,Fundamentals_of_Differentiation,Use the product rule to find the derivative of g(x) = (2x + 1)(3x^2 - 4x)
+399,,Fundamentals_of_Differentiation,"Given the curve y = e^x, find the point on the curve that is closest to the origin"
+400,,Fundamentals_of_Differentiation,Calculate the derivative of h(x) = 4x/(x^2 + 1) using the quotient rule
+401,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 + 5
+402,,Fundamentals_of_Differentiation,"Given f(x) = x^3 + 2x, find the derivative of f(x)"
+403,,Fundamentals_of_Differentiation,Solve for x when the derivative of f(x) = x^4 - 2x^2 + 1 is equal to 0
+404,,Fundamentals_of_Differentiation,Find the second derivative of g(x) = 5x^3 - 2x^2 + 3x
+405,,Fundamentals_of_Differentiation,"Given the equation y = x^2 - 3x, find the slope of the tangent line at x = 2"
+406,,Fundamentals_of_Differentiation,Find the value of k such that the function f(x) = kx^2 - 3x + 2 has a minimum point at x = 4
+407,,Fundamentals_of_Differentiation,Find the derivative of the natural logarithm function ln(x)
+408,,Fundamentals_of_Differentiation,What is the derivative of f(x) = √x + sin(x)?
+409,,Fundamentals_of_Differentiation,Use the power rule to find the derivative of h(x) = x^8
+410,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = x^2 at the point (3,9)"
+411,,Fundamentals_of_Differentiation,Find the first derivative of f(x) = 5x^3 + 2x^2 + 7
+412,,Fundamentals_of_Differentiation,What is the derivative of g(x) = sin(2x) + e^x
+413,,Fundamentals_of_Differentiation,Evaluate the derivative of h(x) = ln(x^2 + 1) at x = 3
+414,,Fundamentals_of_Differentiation,"Determine the slope of the tangent line to the curve y = x^4 - 4x^3 at the point (2, -8)"
+415,,Fundamentals_of_Differentiation,Use the power rule to find the derivative of y = 4x^5 - 2x^3 + 7
+416,,Fundamentals_of_Differentiation,Calculate the second derivative of f(x) = 3x^2 + 6x + 9
+417,,Fundamentals_of_Differentiation,Find the critical points of g(x) = x^3 - 6x^2 + 9
+418,,Fundamentals_of_Differentiation,Determine the value of h'(0) if h(x) = x^3 + 5x^2 + 12x + 8
+419,,Fundamentals_of_Differentiation,Use the quotient rule to find the derivative of f(x) = (3x^2 + 2x + 1)/(x + 2)
+420,,Fundamentals_of_Differentiation,"Find the maximum and minimum values of g(x) = x^3 - 12x^2 + 27x - 20 on the interval [0, 5]"
+421,,Fundamentals_of_Differentiation,Find the derivative of the following function: f(x) = 2x^3 + 5x^2 - 3x + 2
+422,,Fundamentals_of_Differentiation,"Given the slope of a tangent line at a given point on a curve, find the derivative of the function at that point."
+423,,Fundamentals_of_Differentiation,What is the critical point(s) of the function h(x) = x^2 - 4x + 5 and at which point(s) is it increasing or decreasing?
+424,,Fundamentals_of_Differentiation,Calculate the second derivative of the function g(x) = 3x^4 + 2x^3 - 6x^2 + 4x.
+425,,Fundamentals_of_Differentiation,At what value(s) of x does the function y = x^3 - 2x^2 + 4 have a horizontal tangent line?
+426,,Fundamentals_of_Differentiation,Find the derivative of the complex function f(z) = (5z + 2i)^3.
+427,,Fundamentals_of_Differentiation,"Solve for x: 2x^2 + 3x - 5 = 0, using the derivative to find the minimum value of the given quadratic equation."
+428,,Fundamentals_of_Differentiation,Find the derivative of the logarithmic function y = ln(2x^4 + 4x - 3).
+429,,Fundamentals_of_Differentiation,"A box with a square base and no top is to have a volume of 512 cubic inches. Express the surface area of the box, S, as a function of the length of a side of the base, x, and find the length of a side that gives a volume of 512 cubic inches with minimum surface area using calculus."
+430,,Fundamentals_of_Differentiation,The position of an object in feet at time t seconds is given by s(t) = t^3 - 4t^2 + 6t + 2. Find the object's velocity and acceleration at t = 2 seconds.
+431,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 + 5x + 2
+432,,Fundamentals_of_Differentiation,"What is the slope of the tangent line to the curve y = 2x^3 + 4x at the point (1,6)?"
+433,,Fundamentals_of_Differentiation,Determine the critical points and intervals of increase and decrease for the function f(x) = x^3 - 9x^2 + 12x
+434,,Fundamentals_of_Differentiation,Use the limit definition of the derivative to find the derivative of f(x) = root(x)
+435,,Fundamentals_of_Differentiation,"Given the graph of f(x), sketch the graph of f'(x), the derivative of f(x)."
+436,,Fundamentals_of_Differentiation,"Find the derivative of the natural logarithmic function, f(x) = ln x"
+437,,Fundamentals_of_Differentiation,At what point on the curve y = x^2 - 5x does the tangent line have a slope of 2?
+438,,Fundamentals_of_Differentiation,"If f(x) = 3x^4 - 2x^3 + 5x^2, what is f'(x)?"
+439,,Fundamentals_of_Differentiation,Use implicit differentiation to find dy/dx for the equation x^2 + y^2 = 25
+440,,Fundamentals_of_Differentiation,Find the second derivative of f(x) = sin(x) + cos(x)
+441,,Fundamentals_of_Differentiation,What is the derivative of f(x) = 3x^2 + 5x?
+442,,Fundamentals_of_Differentiation,Find the derivative of g(x) = (x^2 + 2x)/(x - 1).
+443,,Fundamentals_of_Differentiation,"Given h(x) = 2sin(2x), find h'(x)."
+444,,Fundamentals_of_Differentiation,Find the derivative of f(x) = ln(x).
+445,,Fundamentals_of_Differentiation,"If f(x) = x^3 + 2x - 5, what is the equation of the tangent line at x = 2?"
+446,,Fundamentals_of_Differentiation,Find the derivative of g(x) = cos(x)^2.
+447,,Fundamentals_of_Differentiation,"Given h(x) = 5e^2x, find h'(x)."
+448,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 1/x.
+449,,Fundamentals_of_Differentiation,"Find the equation of the normal line to f(x) = 3x^2 - 2x + 4 at the point (2,12)."
+450,,Fundamentals_of_Differentiation,Evaluate the derivative of g(x) = sqrt(x) at x = 4.
+451,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 5x^3 + 2x^2 + 7x
+452,,Fundamentals_of_Differentiation,What is the limit as h approaches 0 for (3x^2 + 2x + 1) / h ?
+453,,Fundamentals_of_Differentiation,"If f(x) = x^4 - 2x^3 + 5x^2 - 6x + 3, what is the equation for f'(x)?"
+454,,Fundamentals_of_Differentiation,"Given the function p(x) = 4x - 2/x^3, find the derivative at x = 2."
+455,,Fundamentals_of_Differentiation,What is the slope of the tangent line to the graph of y = x^2 at x = 3?
+456,,Fundamentals_of_Differentiation,"If h(x) = (x^2 - 4x + 6)^5, what is the derivative of h(x)?"
+457,,Fundamentals_of_Differentiation,"Find the equation of the line tangent to the curve y = 2x^3 - 4x + 1 at the point (1, -1)."
+458,,Fundamentals_of_Differentiation,What is the derivative of g(x) = (x + 3)^2 (x - 2)^3 ?
+459,,Fundamentals_of_Differentiation,At what point on the graph of f(x) = 3x^2 + 4x + 5 does the tangent line have a slope of 9?
+460,,Fundamentals_of_Differentiation,"Given the function y = (x + 2)^3 - (x - 3)^2, find the equation for y' using the power rule and the chain rule."
+461,,Fundamentals_of_Differentiation,Find the derivative of the function f(x) = 2x^3 + 4x^2 - 5x + 6.
+462,,Fundamentals_of_Differentiation,"Given the equation y = (x^2 + 3)^4, find dy/dx."
+463,,Fundamentals_of_Differentiation,"Using the limit definition of a derivative, find the derivative of f(x) = 4x^2 + 5x - 2."
+464,,Fundamentals_of_Differentiation,Find the critical points of the function g(x) = 3x^4 - 12x^3 + 18x^2.
+465,,Fundamentals_of_Differentiation,"Given the graph of a function, determine the intervals where the function is increasing and decreasing."
+466,,Fundamentals_of_Differentiation,Use implicit differentiation to find dy/dx of (x^2 + y^2)^2 = 4xy.
+467,,Fundamentals_of_Differentiation,Find the second derivative of the function h(x) = 6x^5 - 9x^3 + 2x.
+468,,Fundamentals_of_Differentiation,"Using the power rule, find the derivative of the function p(x) = 5x^-2."
+469,,Fundamentals_of_Differentiation,"Find the derivative of the natural log function, ln(x), using the chain rule."
+470,,Fundamentals_of_Differentiation,Determine where the function f(x) = x^2 - x + 2 has a relative minimum or maximum.
+471,,Fundamentals_of_Differentiation,What is the derivative of the function f(x) = 2x^3 + 5x^2 + 10x + 4?
+472,,Fundamentals_of_Differentiation,"Find the slope of the tangent line to the curve y = x^2 at the point (3,9)."
+473,,Fundamentals_of_Differentiation,"Using the definition of the derivative, find the derivative of the function f(x) = x^4."
+474,,Fundamentals_of_Differentiation,"Given the function f(x) = 3x^2 + 5x, what is the value of the derivative at x = 2?"
+475,,Fundamentals_of_Differentiation,Find the critical points of the function f(x) = x^3 + 3x^2 + 2x + 1.
+476,,Fundamentals_of_Differentiation,"Given the graph of a function f(x), find the equation of the tangent line at a specific point."
+477,,Fundamentals_of_Differentiation,Find the average rate of change of the function g(x) = x^2 + 3x - 2 between x = 1 and x = 5.
+478,,Fundamentals_of_Differentiation,Use the Product Rule to find the derivative of the function h(x) = (x^2 + 3x + 4)(2x - 5).
+479,,Fundamentals_of_Differentiation,Find the equation of the normal line at a point x = 2 for the function f(x) = 3x^3 - 2x^2 + 5x.
+480,,Fundamentals_of_Differentiation,"Given a table of values for a function f(x), approximate the value of the derivative at a specific point using the difference quotient."
+481,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 + 5x - 7.
+482,,Fundamentals_of_Differentiation,"Given f(x) = sqrt(x), find the derivative at x = 4 using first principles."
+483,,Fundamentals_of_Differentiation,A cup contains water that is being heated at a constant rate of 10 degrees Celsius per minute. The initial water temperature is 25 degrees Celsius. At what rate is the temperature of the water rising after 3 minutes?
+484,,Fundamentals_of_Differentiation,Find the critical points of f(x) = 4x^3 + 6x^2 - 12x + 8.
+485,,Fundamentals_of_Differentiation,A rocket is launched at an initial velocity of 20 m/s. Its position at time t is given by s(t)= 10t^2 + 20t + 5. What is the velocity of the rocket when it reaches its maximum height?
+486,,Fundamentals_of_Differentiation,"Given the graph of f(x) = x^3, draw and label the graph of the derivative of f."
+487,,Fundamentals_of_Differentiation,The volume of a sphere is given by V(r) = (4/3)πr^3. Find the rate of change of the volume at a radius of 4 cm.
+488,,Fundamentals_of_Differentiation,"Using the chain rule, find the derivative of f(x) = (x^3 + 1)^2."
+489,,Fundamentals_of_Differentiation,A cylindrical tank is being filled with water at a rate of 5 cubic feet per minute. The radius of the tank is 3 feet and the height is 10 feet. At what rate is the height of the water increasing when the height is 6 feet?
+490,,Fundamentals_of_Differentiation,Find the second derivative of f(x) = sin(2x).
+491,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^4 + 2x^3 + 5x^2
+492,,Fundamentals_of_Differentiation,"Given f(x) = e^x, what is the value of f'(2)?"
+493,,Fundamentals_of_Differentiation,Find the derivative of f(x) = sin(3x) + cos(2x)
+494,,Fundamentals_of_Differentiation,Use the limit definition of the derivative to find the derivative of f(x) = (x^2 + 3x + 1)^2
+495,,Fundamentals_of_Differentiation,Find the second derivative of f(x) = 4x^3 + 6x^2 + 9x + 2
+496,,Fundamentals_of_Differentiation,Evaluate the derivative of f(x) = ln(x^3 + 7) at x = 2
+497,,Fundamentals_of_Differentiation,"Given f(x) = 2x^2 + 5x + 1, determine the equation of the tangent line at x = 4."
+498,,Fundamentals_of_Differentiation,Use the product rule to find the derivative of f(x) = 3x^4 * tan(x)
+499,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 1/2 * (x + 1)^2 * (x - 4)^3
+500,,Fundamentals_of_Differentiation,Use the quotient rule to find the derivative of f(x) = (2x^2 + 3x + 1) / (2x + 1)
+501,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x + 5
+502,,Fundamentals_of_Differentiation,"Given f(x) = x^2 + 3x, find the slope of the tangent line at x = 2."
+503,,Fundamentals_of_Differentiation,What is the derivative of g(x) = 5/x?
+504,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = x^2 + 3x at the point (2, 10)."
+505,,Fundamentals_of_Differentiation,"If f(x) = e^x, find the derivative of f^-1(x)."
+506,,Fundamentals_of_Differentiation,What is the derivative of h(x) = ln(3x)?
+507,,Fundamentals_of_Differentiation,Find the critical points of f(x) = x^3 - 6x^2 + 9x.
+508,,Fundamentals_of_Differentiation,"If g(x) = (2x+1)^4, what is the derivative of g'(x)?"
+509,,Fundamentals_of_Differentiation,"Given the function f(x) = 4x^3 - 2x, find the value of x that maximizes the slope of the tangent line at that point."
+510,,Fundamentals_of_Differentiation,"If y = sin(2x), what is the derivative of y'?"
+511,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 2x + 5.
+512,,Fundamentals_of_Differentiation,Calculate the instantaneous rate of change of y = 3x^2 at x = 4.
+513,,Fundamentals_of_Differentiation,"Given f(x) = x^2 - 3x, find the equation of the tangent line at x = 2."
+514,,Fundamentals_of_Differentiation,Determine the critical points of f(x) = 4x^3 - 12x^2 + 8x + 3.
+515,,Fundamentals_of_Differentiation,Find the second derivative of g(x) = sin(x) - cos(x).
+516,,Fundamentals_of_Differentiation,"Using the chain rule, find the derivative of h(x) = (2x^3 + 5x)^4."
+517,,Fundamentals_of_Differentiation,"Calculate the absolute maximum and minimum values of f(x) = x^3 - 3x^2 + 2x on the interval [-2, 4]."
+518,,Fundamentals_of_Differentiation,"Given f(x) = (x+1)^2, find the intervals on which f is increasing and decreasing."
+519,,Fundamentals_of_Differentiation,Find the inflection points of g(x) = 6x^4 - 8x^3 + 12x^2 - 6.
+520,,Fundamentals_of_Differentiation,Use L'Hopital's rule to find the limit as x approaches infinity of f(x) = (3x^2 - 5x + 2) / (4x^2 - 8).
+521,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 + 6x + 5
+522,,Fundamentals_of_Differentiation,Calculate the first derivative of y = 2x^3 + 4x^2 + 7
+523,,Fundamentals_of_Differentiation,"Given that g(x) = 5x^4 + 3x^2 - 2x + 1, find the derivative of g(x) at x = 2"
+524,,Fundamentals_of_Differentiation,"Determine the equation of the tangent line to the curve y = x^2 + 3x - 4 at the point (2, 6)."
+525,,Fundamentals_of_Differentiation,Find the slope of the tangent line to the curve y = 3x^2 + 4x - 2 at the point where x = -2.
+526,,Fundamentals_of_Differentiation,A ball is dropped from a height of 50 feet. Find the instantaneous velocity of the ball after 3 seconds.
+527,,Fundamentals_of_Differentiation,"Given f(x) = x^(2/3), find f'(x) using the power rule."
+528,,Fundamentals_of_Differentiation,"If f(x) = x^2 + 3x - 4 and g(x) = 3x - 5, find (f*g)'(x)."
+529,,Fundamentals_of_Differentiation,"If f(x) = ln(2x + 1), find f'(x) using the chain rule."
+530,,Fundamentals_of_Differentiation,Find the derivative of h(x) = e^(2x) using the chain rule.
+531,,Fundamentals_of_Differentiation,What is the derivative of the function f(x) = 3x^2 + 2x?
+532,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = 5x^3 - 2x + 1 at the point (2, 25)."
+533,,Fundamentals_of_Differentiation,"If the position of an object is given by x(t) = t^2 - 3t + 5, what is the velocity of the object at t = 3?"
+534,,Fundamentals_of_Differentiation,Determine the critical numbers of the function f(x) = ln(x^2 + 4x + 3).
+535,,Fundamentals_of_Differentiation,What is the derivative of f(x) = cos(x) + 3sin(x)?
+536,,Fundamentals_of_Differentiation,"Find the maximum value of the function f(x) = x^2 - x + 1 on the interval [-2, 3]."
+537,,Fundamentals_of_Differentiation,A tank contains 100 liters of water. Water is being drained from the tank at a rate of 5 liters per minute. How long will it take for the tank to be emptied?
+538,,Fundamentals_of_Differentiation,"What is the slope of the secant line between the points (1, 4) and (2, 7) for the function f(x) = 3x^2 - 2x + 1?"
+539,,Fundamentals_of_Differentiation,The marginal cost function for a company is given by C'(x) = 3x^2 + 2x + 5. Find the total cost when x = 5.
+540,,Fundamentals_of_Differentiation,Determine the critical numbers and inflection points of the function f(x) = x^3 - 3x^2 + 5x - 2.
+541,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x² - 5x + 2
+542,,Fundamentals_of_Differentiation,"If f(x) = sin(x), what is the derivative of f'(x)?"
+543,,Fundamentals_of_Differentiation,"Given the function f(x) = √x, find the derivative f'(x)."
+544,,Fundamentals_of_Differentiation,What is the value of x where f(x) = 5x - 10 has a critical point?
+545,,Fundamentals_of_Differentiation,Calculate the derivative of g(x) = ln(x) using the logarithmic differentiation method.
+546,,Fundamentals_of_Differentiation,Find the second derivative of f(x) = cos(x).
+547,,Fundamentals_of_Differentiation,"If f(x) = 2x³ + 5x² + 10x, find the points of inflection for the function."
+548,,Fundamentals_of_Differentiation,"Given the function f(x) = e^x, find the derivative using the chain rule."
+549,,Fundamentals_of_Differentiation,"Find the slope of the tangent line to the curve y = x³ at the point (2, 8)."
+550,,Fundamentals_of_Differentiation,Find the maximum and minimum values of the function f(x) = x³ + 2x² - 5x + 1 using the first and second derivative tests.
+551,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 + 5x + 2 using the power rule.
+552,,Fundamentals_of_Differentiation,"Determine the equation of the tangent line to the curve y = 4x^3 - 2x^2 - 3 at the point (2,7)."
+553,,Fundamentals_of_Differentiation,Use the limit definition of the derivative to find the derivative of f(x) = 2x + 5.
+554,,Fundamentals_of_Differentiation,Find the derivative of g(x) = sin(x) + cos(x) using the sum rule.
+555,,Fundamentals_of_Differentiation,"Given f(x) = 2x^2 + 3x - 4, find the coordinates of the critical point and determine if it is a maximum or minimum."
+556,,Fundamentals_of_Differentiation,Use the product rule to find the derivative of h(x) = (3x^2 - 1)(4x + 2).
+557,,Fundamentals_of_Differentiation,"Find the equation of the normal line to the curve y = 2x^2 + 6x - 5 at the point (1,3)."
+558,,Fundamentals_of_Differentiation,Use the quotient rule to find the derivative of y = (2x^2 - 5x - 3) / (x + 2).
+559,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 4e^x - 3 ln(x) using the chain rule.
+560,,Fundamentals_of_Differentiation,Determine the value of x that minimizes the function f(x) = 2x^2 - 6x + 4 using the first derivative test.
+561,,Fundamentals_of_Differentiation,What is the derivative of f(x) = 3x^2 + 4x + 2?
+562,,Fundamentals_of_Differentiation,Find the derivative of the function g(x) = sin^2(x) + (ln(x))^2.
+563,,Fundamentals_of_Differentiation,"Given a function h(x) = (x^4 - 2x^3 + 3x^2 - 4x + 5)^(-1), what is the value of h'(3)?"
+564,,Fundamentals_of_Differentiation,Determine the equation of the tangent line to the curve y = 2x^3 - 4x + 2 at x = 1.
+565,,Fundamentals_of_Differentiation,"If f(x) = 2x^5 and g(x) = x + 3, what is the value of (f ∘ g)'(-1)?"
+566,,Fundamentals_of_Differentiation,Evaluate the integral ∫ 2x^2 - 5x + 3 dx.
+567,,Fundamentals_of_Differentiation,At what value of x does the function y = (3x^2 - 4x + 1)/(x - 2) have a vertical tangent?
+568,,Fundamentals_of_Differentiation,"Given the curve y = x^2, find the point(s) of inflection."
+569,,Fundamentals_of_Differentiation,Use the quotient rule to find the derivative of f(x) = (2x^2 + 4)/(x + 3).
+570,,Fundamentals_of_Differentiation,"A water tank is being drained at a rate of 4 liters per minute. If the volume of water in the tank is given by V(t) = 2t^3 - t^2 + 5, where t is in minutes, how fast is the water level changing after 7 minutes?"
+571,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 + 4x - 10.
+572,,Fundamentals_of_Differentiation,"Given the function g(x) = (x^3 + 2x - 5)/(2x), find the derivative at x = 2."
+573,,Fundamentals_of_Differentiation,"Determine the equation of the tangent line to the curve y = 5x^2 - 3x + 2 at the point (1,4)."
+574,,Fundamentals_of_Differentiation,Use the limit definition of the derivative to find the derivative of h(x) = √(5x + 1).
+575,,Fundamentals_of_Differentiation,"A ladder 10 feet long is positioned against a wall. If the top of the ladder slides down the wall at a rate of 2 feet per second, how fast is the angle between the ladder and the ground changing when the top of the ladder is 6 feet above the ground?"
+576,,Fundamentals_of_Differentiation,Find the second derivative of the function f(x) = 4x^3 - 6x + 2.
+577,,Fundamentals_of_Differentiation,A ball is thrown straight up in the air with an initial velocity of 30 m/s. Find the velocity of the ball after 3 seconds.
+578,,Fundamentals_of_Differentiation,"If the volume of a sphere is increasing at a rate of 50 cm^3/s, find the rate at which the radius is increasing when the radius is 10 cm."
+579,,Fundamentals_of_Differentiation,"Find the critical points of the function g(x) = x^3 + 2x^2 - 5x - 3 and determine whether they are local maxima, local minima, or neither."
+580,,Fundamentals_of_Differentiation,The area of a rectangle is increasing at a rate of 4 cm^2/s while the length of the rectangle is increasing at a rate of 2 cm/s. Find the rate at which the width is increasing when the area is 36 cm^2 and the length is 4 cm.
+581,,Fundamentals_of_Differentiation,What is the derivative of f(x) = 4x^2 + 3x - 2?
+582,,Fundamentals_of_Differentiation,When does a function have a local minimum or maximum?
+583,,Fundamentals_of_Differentiation,What is the limit of f(x) as x approaches infinity for the function f(x) = 5x^2 + 2x - 3?
+584,,Fundamentals_of_Differentiation,How can finding the derivative help us determine the slope of a tangent line to a curve at a specific point?
+585,,Fundamentals_of_Differentiation,How is the power rule used to calculate the derivative of a polynomial function?
+586,,Fundamentals_of_Differentiation,In what scenarios would the chain rule need to be applied when finding the derivative of a composite function?
+587,,Fundamentals_of_Differentiation,How does the Mean Value Theorem relate to the derivative of a function?
+588,,Fundamentals_of_Differentiation,What is the difference between a critical point and an inflection point?
+589,,Fundamentals_of_Differentiation,Can you find the derivative of a non-differentiable function?
+590,,Fundamentals_of_Differentiation,How can the quotient rule be applied when finding the derivative of a rational function?
+591,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x² + 5x – 4
+592,,Fundamentals_of_Differentiation,Calculate the exact value of the derivative of g(x) = √(x) at x = 4
+593,,Fundamentals_of_Differentiation,"If h(x) = sin(x), what is the derivative of h(x) at x = π/3 radians?"
+594,,Fundamentals_of_Differentiation,Find the derivative of p(x) = (3x + 2)⁻¹
+595,,Fundamentals_of_Differentiation,"Given the function f(x) = x⁴ – 2x³ + 3x² – 4x + 5, what is the equation of the tangent line to the graph at x = 2?"
+596,,Fundamentals_of_Differentiation,"If g(x) = e⁻²x, what is the value of g'(x) at x = 0?"
+597,,Fundamentals_of_Differentiation,Find the derivative of y = 4cos(x) + 3sin(x)
+598,,Fundamentals_of_Differentiation,"Given the function h(x) = ln(x) + e²x, find the value of h'(1)"
+599,,Fundamentals_of_Differentiation,"If f(x) = x² + 4x – 3, what is the equation of the normal line to the graph at x = 3?"
+600,,Fundamentals_of_Differentiation,Solve for x if f'(x) = 2x – 5 and f(2) = 10
+601,,Fundamentals_of_Differentiation,What is the derivative of f(x) = 3x^2 - 4x + 5?
+602,,Fundamentals_of_Differentiation,"Determine the slope of the curve y = x^3 at the point (2, 8)."
+603,,Fundamentals_of_Differentiation,Find the derivative of the function f(x) = ln(2x + 1).
+604,,Fundamentals_of_Differentiation,Calculate the instantaneous rate of change of y = sin(x) at x = π/4.
+605,,Fundamentals_of_Differentiation,What is the derivative of g(x) = 2x^2 + 4x - 7?
+606,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = 3x^2 + 2x - 5 at the point (1, 0)."
+607,,Fundamentals_of_Differentiation,Determine the first derivative of h(x) = (x^2 + 3x)^2.
+608,,Fundamentals_of_Differentiation,Find the critical points of the function f(x) = x^3 - 12x^2 + 27x.
+609,,Fundamentals_of_Differentiation,Calculate the second derivative of y = 4x^3 - 2x^2 + 5x - 1.
+610,,Fundamentals_of_Differentiation,"Find the equation of the normal line to the curve y = e^x at the point (0, 1)."
+611,,Fundamentals_of_Differentiation,Find the derivative of the function f(x) = 3x^2 + 5x - 2
+612,,Fundamentals_of_Differentiation,"If f(x) = sin(2x), find f'(x)"
+613,,Fundamentals_of_Differentiation,"Given f(x) = ln(x), find f''(x)"
+614,,Fundamentals_of_Differentiation,Find a value for c such that the tangent line to the curve f(x) = x^3 - cx^2 + 2 at x = 2 is horizontal
+615,,Fundamentals_of_Differentiation,"For the function f(x) = x^4 - 2x^3 + 3x^2 + 4x, find all critical points"
+616,,Fundamentals_of_Differentiation,"Given f(x) = (x+1)^2, find f'(x) using the power rule"
+617,,Fundamentals_of_Differentiation,Find the slope of the tangent line to the graph of f(x) = 1/x at x = 2
+618,,Fundamentals_of_Differentiation,"If y = cos(x), find dy/dx when x = π/3"
+619,,Fundamentals_of_Differentiation,Find the equation of the tangent line to the curve f(x) = 2x^3 - 3x^2 + 5 at x = 1
+620,,Fundamentals_of_Differentiation,"If f(x) = x^2 + 3x, find f'(x) using the definition of the derivative."
+621,,Fundamentals_of_Differentiation,"Find the slope of the tangent line to the curve y = x^3 at the point (2, 8)."
+622,,Fundamentals_of_Differentiation,Determine the derivative of f(x) = √(x) using the limit definition of the derivative.
+623,,Fundamentals_of_Differentiation,At what points is the function f(x) = x^2 - 2x increasing or decreasing?
+624,,Fundamentals_of_Differentiation,Use the quotient rule to find the derivative of f(x) = (x^2 + 3x + 2) / (x^3 + 2x^2).
+625,,Fundamentals_of_Differentiation,Find the point(s) at which the derivative of f(x) = 2x^3 - 6x^2 + 4x changes sign.
+626,,Fundamentals_of_Differentiation,Calculate the second derivative of g(x) = sin(2x) and determine its concavity.
+627,,Fundamentals_of_Differentiation,"Find the value of c that satisfies the Mean Value Theorem for the function f(x) = x + 2 on the interval [1, 3]."
+628,,Fundamentals_of_Differentiation,"Using logarithmic differentiation, find the derivative of f(x) = (x^2 + 1) / (x + 2)^3."
+629,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = e^x at the point (0, 1)."
+630,,Fundamentals_of_Differentiation,Use the definition of the derivative to find the derivative of the function h(x) = 3x^2 - 8x + 5.
+631,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 + 5x
+632,,Fundamentals_of_Differentiation,"Calculate the slope of the tangent line to the curve y = 4x^3 - 2x at the point (2, 20)"
+633,,Fundamentals_of_Differentiation,"Given the function f(x) = sin(x), find the derivative f'(x)"
+634,,Fundamentals_of_Differentiation,What is the derivative of g(x) = (2x^2 + 3x)^4?
+635,,Fundamentals_of_Differentiation,"If h(x) = (x^2 - 2x)^3, what is h'(x)?"
+636,,Fundamentals_of_Differentiation,Find the rate of change of the function c(t) = 5t^2 - 2t + 1 at t=3
+637,,Fundamentals_of_Differentiation,"If s(t) = 2t^3 + 5t, what is the value of s'(2)?"
+638,,Fundamentals_of_Differentiation,"Given the equation y = 3/2x^4 - 5/3x^3 + 1/4x^2, what is the equation for the slope of the tangent line to the curve at x = 2?"
+639,,Fundamentals_of_Differentiation,"If f(x) = 5x^4 + 3x^2 - x, what is the slope of the tangent line to f(x) at x = -1?"
+640,,Fundamentals_of_Differentiation,Find the derivative of the function g(x) = e^x + ln(x)
+641,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 2x^3 + 4x^2.
+642,,Fundamentals_of_Differentiation,"What is the slope of the tangent line of f(x) = 3x^2 + 2x at the point (2, 10)?"
+643,,Fundamentals_of_Differentiation,Compute the second derivative of g(x) = e^x - 3x.
+644,,Fundamentals_of_Differentiation,At what x-value does the function f(x) = x^4 + 8x^3 - 15x have a local minimum?
+645,,Fundamentals_of_Differentiation,"If h(x) = ln(x^2 + 4), what is the interval of increase for the function?"
+646,,Fundamentals_of_Differentiation,Find the derivative of the function f(x) = (4x^2 + 3x)(2x + 1).
+647,,Fundamentals_of_Differentiation,What is the critical point(s) for the function g(x) = x^3 - 6x^2 + 9x + 2?
+648,,Fundamentals_of_Differentiation,"Given the function f(x) = 2x + 5, what is the value of the derivative at x = 3?"
+649,,Fundamentals_of_Differentiation,Solve for x in the equation 3x^2 - 8x + 5 = 0 using the quadratic formula.
+650,,Fundamentals_of_Differentiation,Determine the derivative of h(x) = sqrt(x^2 + 3x) at x = 2.
+651,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 - 10x + 4.
+652,,Fundamentals_of_Differentiation,Use the power rule to find the derivative of f(x) = -4x^4.
+653,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = 2x^2 - 5x + 7 at the point (2,3)."
+654,,Fundamentals_of_Differentiation,Use the quotient rule to find the derivative of f(x) = (4x - 1) / (x^2 + 3).
+655,,Fundamentals_of_Differentiation,Find the critical points of f(x) = x^3 - 12x + 1 and determine if they are maximum or minimum points.
+656,,Fundamentals_of_Differentiation,Use the product rule to find the derivative of f(x) = (2x^3 + 5x) * (4x^2 - 5x).
+657,,Fundamentals_of_Differentiation,Find the derivative of f(x) = sin(x^2).
+658,,Fundamentals_of_Differentiation,"Given that f(3) = 12 and f'(3) = -5, find the equation of the tangent line to the curve y = f(x) at the point (3,12)."
+659,,Fundamentals_of_Differentiation,"Find the equation of the normal line to the curve y = 3x^2 + 5x - 2 at the point (1,6)."
+660,,Fundamentals_of_Differentiation,Use the chain rule to find the derivative of f(x) = sin(2x^2 - 3).
+661,,Fundamentals_of_Differentiation,Find the derivative of f(x) = x^2 + 3x - 2.
+662,,Fundamentals_of_Differentiation,"Given f(x) = 2x^3 - 5x + 4, find the equation of the tangent line at x = 2."
+663,,Fundamentals_of_Differentiation,Calculate the derivative of f(x) = ln(5x + 4).
+664,,Fundamentals_of_Differentiation,Use the product rule to find the derivative of f(x) = (2x + 1)(3x + 2).
+665,,Fundamentals_of_Differentiation,Find the derivative of f(x) = cos(2x).
+666,,Fundamentals_of_Differentiation,"Determine the equation of the normal line to the curve f(x) = e^x at the point (1, e)."
+667,,Fundamentals_of_Differentiation,Use the quotient rule to find the derivative of f(x) = (4x^3 + 7x - 2)/(x^2 - 1).
+668,,Fundamentals_of_Differentiation,Find the value of x that maximizes f(x) = x^2 + 4x + 3.
+669,,Fundamentals_of_Differentiation,"Find the slope of the curve f(x) = 2x^4 at the point (2, 16)."
+670,,Fundamentals_of_Differentiation,"Given f(x) = sin(x), find the second derivative of f(x) at x = π/2."
+671,,Fundamentals_of_Differentiation,What is the derivative of the function f(x) = x^3 + 5x^2 - 3x + 2 at the point x = 2?
+672,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = 2x^2 - 5x + 1 at the point (2, -1)."
+673,,Fundamentals_of_Differentiation,"Given the function f(x) = 3x^4 - 8x^3 + 6x^2 - 2x + 7, find the critical numbers."
+674,,Fundamentals_of_Differentiation,"Given the position function s(t) = 6t^2 + 4t + 2, find the velocity and acceleration."
+675,,Fundamentals_of_Differentiation,Differentiate the function y = sin^2(x) + cos(x) with respect to x.
+676,,Fundamentals_of_Differentiation,Find the local maximum and minimum values of the function f(x) = x^3 - 3x^2 - 9x + 2.
+677,,Fundamentals_of_Differentiation,"Find the average rate of change of the function f(x) = x^2 + 4x + 1 over the interval [1, 3]."
+678,,Fundamentals_of_Differentiation,Differentiate the function y = ln(x^2 + 1) using the chain rule.
+679,,Fundamentals_of_Differentiation,"Find the slope of the line that is tangent to the curve y = e^x - 2x at the point (1, e - 2)."
+680,,Fundamentals_of_Differentiation,"Find the equation for the normal line to the curve y = 4x^2 + 3x - 2 at the point (1, 5)."
+681,,Fundamentals_of_Differentiation,Find the limit as x approaches 0 for the function f(x) = (x^2 + 2x)/(x^3 + x).
+682,,Fundamentals_of_Differentiation,Find the derivative of the function f(x) = |x|.
+683,,Fundamentals_of_Differentiation,Determine the critical points and intervals of increase and decrease for the function f(x) = 3x^4 - 16x^3 + 12x^2.
+684,,Fundamentals_of_Differentiation,"Given the equation y = x^2e^x, find the second derivative of y."
+685,,Fundamentals_of_Differentiation,"Find the slope of the tangent line to the curve y = 2x^3 + 5x at the point (2, 30)."
+686,,Fundamentals_of_Differentiation,"Find the absolute minimum and maximum values of the function f(x) = x^3 - 6x^2 + 9x + 1 on the interval [0, 3]."
+687,,Fundamentals_of_Differentiation,"Determine the average rate of change of the function f(x) = x^2 - 4x + 7 on the interval [2, 5]."
+688,,Fundamentals_of_Differentiation,"Find the equation of the secant line passing through the points (0, 2) and (3, 14) for the function f(x) = x^2 + 2x."
+689,,Fundamentals_of_Differentiation,Use the General Power Rule to find the derivative of the function f(x) = (3x + 2)^5.
+690,,Fundamentals_of_Differentiation,"Find the point on the graph of y = x^2 that is closest to the point (3, 5)."
+691,,Fundamentals_of_Differentiation,Find the derivative of the function f(x) = 3x^2 + 5x - 2.
+692,,Fundamentals_of_Differentiation,"What is the slope of the tangent line to the curve y = x^3 + 2x^2 + 1 at the point (2, 15)?"
+693,,Fundamentals_of_Differentiation,Find the second derivative of the function f(x) = 4x^3 - 12x^2 + 5x + 2.
+694,,Fundamentals_of_Differentiation,At what values of x does the function f(x) = x^4 + 3x^3 - 10x^2 have a local maximum?
+695,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = 2x^2 - 4x + 1 at the point (3, 11)."
+696,,Fundamentals_of_Differentiation,"Determine the value of c such that the function f(x) = cx^2 - 3x + 4 has a slope of 10 at the point (1, 3)."
+697,,Fundamentals_of_Differentiation,Find the critical points of the function f(x) = 5x^3 - 15x^2 + 8x + 2.
+698,,Fundamentals_of_Differentiation,"What is the maximum possible value of the function f(x) = 4x^3 + 6x^2 - 2x on the interval [0,2]?"
+699,,Fundamentals_of_Differentiation,"Find the equation of the normal line to the curve y = 5x^2 + 3 at the point (4, 83)."
+700,,Fundamentals_of_Differentiation,Determine the value of k for which the derivative of the function f(x) = kx^3 + 2x^2 - 4 is 0 at x = 2.
+701,,Fundamentals_of_Differentiation,Find the derivative of the function f(x) = x^3 + 5x^2 - 4x + 2.
+702,,Fundamentals_of_Differentiation,"If f(x) = sin(x) and g(x) = cos(x), what is the derivative of f(x) + g(x)?"
+703,,Fundamentals_of_Differentiation,"Given the function f(x) = 2x^2 - 3x + 4, find the value of x where f'(x) = 0."
+704,,Fundamentals_of_Differentiation,Find the derivative of f(x) = √(3x+5).
+705,,Fundamentals_of_Differentiation,"If f(x) = e^x, what is the derivative of f(x^2)?"
+706,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = x^3 at the point (2,8)."
+707,,Fundamentals_of_Differentiation,"Given f(x) = ln(x), what is the value of the integral of f'(x) from 1 to 5?"
+708,,Fundamentals_of_Differentiation,"If f(x) = (3x^2 + 4x - 1)/(x - 2), find the average rate of change of f(x) from x = 1 to x = 3."
+709,,Fundamentals_of_Differentiation,Find the minimum value of the function f(x) = x^2 + 5x + 1.
+710,,Fundamentals_of_Differentiation,"Given the function f(x) = 1/(2x+3), determine the intervals where f(x) is increasing or decreasing."
+711,,Fundamentals_of_Differentiation,Find the derivative of the function f(x) = 3x^2 + 5x - 2.
+712,,Fundamentals_of_Differentiation,"Given the function g(x) = 2x^3 - 4x, find the equation of the tangent line at the point (2, 12)."
+713,,Fundamentals_of_Differentiation,"If the position of an object at time t is given by s(t) = t^3 + 4t^2 - 5t, what is the instantaneous velocity of the object at t = 2 seconds?"
+714,,Fundamentals_of_Differentiation,"Determine the critical points of the function h(x) = x^4 - 5x^2 + 6x + 3 and classify them as maximum, minimum, or neither."
+715,,Fundamentals_of_Differentiation,A balloon is rising at a rate of 10 meters per second. How fast is the balloon's radius changing when the radius is 5 meters?
+716,,Fundamentals_of_Differentiation,"The revenue (in dollars) of a company is given by R(q) = q^2 + 50q, where q represents the quantity of goods sold. Find the marginal revenue when q = 20."
+717,,Fundamentals_of_Differentiation,"The temperature (in degrees Celsius) in a room is modeled by T(t) = 30 + 5t - 0.2t^2, where t is time in minutes. Find the rate of temperature change at the moment when t = 10 minutes."
+718,,Fundamentals_of_Differentiation,Find the second derivative of the function f(x) = 2x^3 + 9x^2 - 3.
+719,,Fundamentals_of_Differentiation,The volume of a sphere is given by V(r) = (4/3)πr^3. Find the instantaneous rate of change of volume with respect to radius when r = 2 meters.
+720,,Fundamentals_of_Differentiation,A particle moving along the x-axis has a position given by x(t) = t^2 + 3t. Find the equation of the velocity and acceleration functions.
+721,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 + 5x - 7.
+722,,Fundamentals_of_Differentiation,Calculate the derivative of g(x) = 4e^x - 9.
+723,,Fundamentals_of_Differentiation,What is the slope of the tangent line to the function h(x) = x^3 at x = 2?
+724,,Fundamentals_of_Differentiation,Differentiate the function y = (2x^2 + 5x)^4.
+725,,Fundamentals_of_Differentiation,"Given f(x) = ln(x), what is the derivative of f^-1(x)?"
+726,,Fundamentals_of_Differentiation,Find the critical points and intervals of increase and decrease for the function f(x) = 2x^3 - 6x^2 + 4x.
+727,,Fundamentals_of_Differentiation,What is the second derivative of y = sin(3x)?
+728,,Fundamentals_of_Differentiation,"If y = e^x, what is the value of dy/dx at x = 2?"
+729,,Fundamentals_of_Differentiation,Calculate the derivative of the function f(x) = (x^2 + 2x + 3)/(x^3 + 3x + 2).
+730,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = 2x^3 + 5x + 1 at the point (1, 8)."
+731,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 + 6x - 2
+732,,Fundamentals_of_Differentiation,"What is the equation of the tangent line to the curve y = 2x^3 + 5x - 1 at the point (2, 11)?"
+733,,Fundamentals_of_Differentiation,Find the critical points of the function f(x) = x^3 - 6x^2 + 9x
+734,,Fundamentals_of_Differentiation,Determine the second derivative of g(x) = 5x^4 - 3x^2 + 2
+735,,Fundamentals_of_Differentiation,"Given the equations f(x) = (x^2 + 1)^2 and g(x) = x^2 + 1, find the derivative of f(g(x))."
+736,,Fundamentals_of_Differentiation,At what value(s) of x does the function f(x) = 2x^3 - 9x + 1 have a local maximum or minimum?
+737,,Fundamentals_of_Differentiation,Find the inflection points of the curve y = x^4 - 4x^3 + 6x^2 + 2.
+738,,Fundamentals_of_Differentiation,Determine the derivative of the inverse function of y = 4x^3 - 5x + 6.
+739,,Fundamentals_of_Differentiation,"Given the derivative f'(x) = 2x - 1, what is the original function f(x)?"
+740,,Fundamentals_of_Differentiation,At what point(s) does the curve y = x^3 + 2x^2 - 5x + 3 have a horizontal tangent line?
+741,,Fundamentals_of_Differentiation,Find the derivative of f(x) = x^2 at x = 3.
+742,,Fundamentals_of_Differentiation,"Given g(x) = 2x^3 + 5x, find the derivative g'(x)."
+743,,Fundamentals_of_Differentiation,Solve for x when the derivative of f(x) = 3x^2 - 2x is equal to 5.
+744,,Fundamentals_of_Differentiation,What is the relationship between the graph of a function and its derivative?
+745,,Fundamentals_of_Differentiation,Find the points of inflection for the function h(x) = 4x^3 - 3x^2 + 5x.
+746,,Fundamentals_of_Differentiation,Find the critical points for the function y = 2x^3 - 3x + 6.
+747,,Fundamentals_of_Differentiation,Determine the concavity of the function f(x) = x^3 - 2x^2 + 5x at x=2.
+748,,Fundamentals_of_Differentiation,"For the function f(x) = x^2 + 4, find the absolute minimum and maximum values in the interval [1, 5]."
+749,,Fundamentals_of_Differentiation,Use the definition of the derivative to find the derivative of f(x) = √x.
+750,,Fundamentals_of_Differentiation,"Given the equation f'(x) = 2x^3 - 4x, find the original equation of the function f(x)."
+751,,Fundamentals_of_Differentiation,Find the derivative: f(x) = 5x^3 + 2x^2 - 10
+752,,Fundamentals_of_Differentiation,What is the equation of the tangent line to the curve y = 2x^2 - 3 at x = 4?
+753,,Fundamentals_of_Differentiation,"If f(x) = x^3 - 4x + 5, find the value of f'(2)."
+754,,Fundamentals_of_Differentiation,Use the power rule to find the derivative of f(x) = 4x^6 + 3x^2 + 6.
+755,,Fundamentals_of_Differentiation,At what x-coordinate does the derivative of f(x) = 2x^4 - x^2 + 3 change sign?
+756,,Fundamentals_of_Differentiation,Find the critical numbers of f(x) = 2x^3 - 6x^2 + 8.
+757,,Fundamentals_of_Differentiation,"Using the quotient rule, find the derivative of f(x) = (x^2 - 1) / (x^3 + 2x)."
+758,,Fundamentals_of_Differentiation,Find the equation of the normal line to the curve y = 7x^2 + 2x + 3 at x = 2.
+759,,Fundamentals_of_Differentiation,The function f(x) = 3x^2 - 5x has a point of inflection at what value of x?
+760,,Fundamentals_of_Differentiation,"Given the graph of f'(x), sketch the graph of f(x)."
+761,,Fundamentals_of_Differentiation,"Given a function f(x) = x^2 + 3x, find the equation of the tangent line at x = 2."
+762,,Fundamentals_of_Differentiation,Find the derivative of f(x) = ln(x^2 + 4x + 5).
+763,,Fundamentals_of_Differentiation,"Given a curve with the equation y = 5x^2 + 6x - 4, find the slope of the curve at x = 3."
+764,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3^(2x + 5).
+765,,Fundamentals_of_Differentiation,"Given a curve with the equation y = e^(3x^2 + 2x + 1), find the slope of the curve at x = 1."
+766,,Fundamentals_of_Differentiation,Find the derivative of f(x) = (2x + 3)^4.
+767,,Fundamentals_of_Differentiation,"Find the equation of the normal line to the curve y = 4x^3 - 6x^2 + 2x at the point (2, 10)."
+768,,Fundamentals_of_Differentiation,"Given a function f(x) = sqrt(x) - 3/x, find the equation of the tangent line at x = 4."
+769,,Fundamentals_of_Differentiation,Find the derivative of f(x) = cos(2x).
+770,,Fundamentals_of_Differentiation,"Given a curve with the equation y = 2x^3 - 5x^2 + 3x - 1, find the maximum and minimum points of the curve."
+771,,Fundamentals_of_Differentiation,Find the derivative of f(x) = x^2 + 2x + 1.
+772,,Fundamentals_of_Differentiation,What is the limit as x approaches 3 of (x^2 - 9)/(x - 3)?
+773,,Fundamentals_of_Differentiation,"Given f(x) = 3x^3 - 6x^2 + 3x, find f'(x)."
+774,,Fundamentals_of_Differentiation,Compute the derivative of g(x) = sin(x).
+775,,Fundamentals_of_Differentiation,"If h(x) = e^x * ln(x), what is h'(x)?"
+776,,Fundamentals_of_Differentiation,Find the derivative of y = 2x^3 - 3x^2 + 4x - 1.
+777,,Fundamentals_of_Differentiation,"Given y = 1/x, what is the value of y'' at x = 2?"
+778,,Fundamentals_of_Differentiation,What is the derivative of f(x) = 4cos(x) + 3sin(x)?
+779,,Fundamentals_of_Differentiation,"Given y = ln(x^2), find y'."
+780,,Fundamentals_of_Differentiation,"If f(x) = 5x^-2, what is the value of f""(x)?"
+781,,Fundamentals_of_Differentiation,Find the derivative of f(x) = x^2 + 5x - 3.
+782,,Fundamentals_of_Differentiation,What is the slope of the tangent line to the curve f(x) = e^x at x = 0?
+783,,Fundamentals_of_Differentiation,"Given f(x) = (x^2 + 2)(3x^3 - 4), find the derivative using the product rule."
+784,,Fundamentals_of_Differentiation,At what point does the function f(x) = 2x + 3 have a horizontal tangent?
+785,,Fundamentals_of_Differentiation,An object's position is given by s(t) = 4t^3 + 5t^2 + 3t. At what time does the object have a velocity of 60 m/s?
+786,,Fundamentals_of_Differentiation,"Given the equation y = ln(x), find the equation of the tangent line at x = 2."
+787,,Fundamentals_of_Differentiation,A plane is flying at an altitude of 5000 feet and its altitude is decreasing at a rate of 100 feet per minute. At what rate is the plane's shadow moving on the ground if the angle of elevation from the tip of the shadow to the top of the plane is 60 degrees?
+788,,Fundamentals_of_Differentiation,Find the critical points of the function f(x) = x^3 + 3x^2 - 6x + 12.
+789,,Fundamentals_of_Differentiation,"The population of a city is modeled by P(t) = 100e^(0.05t), where t is measured in years. Find the population's growth rate after 2 years."
+790,,Fundamentals_of_Differentiation,Consider the function f(x) = sin(x)cos(x). Show that f'(x) = cos^2(x) - sin^2(x).
+791,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 + 4x - 2
+792,,Fundamentals_of_Differentiation,A ball is dropped from a height of 50 meters. What is its velocity after 3 seconds?
+793,,Fundamentals_of_Differentiation,"Determine the equation of the tangent line to the curve y = x^2 + 2x at the point (2,8)."
+794,,Fundamentals_of_Differentiation,"The profit, in thousands of dollars, for a company is modeled by the function P(x) = -5x^2 + 40x + 10. Find the critical points and determine if they correspond to a maximum or minimum."
+795,,Fundamentals_of_Differentiation,A ladder is leaning against a wall. The base of the ladder is 8 meters away from the wall and the top of the ladder is 10 meters above the ground. How fast is the top of the ladder moving towards the ground when the base is 6 meters away from the wall?
+796,,Fundamentals_of_Differentiation,Find the derivative of g(x) = cos(2x) + ln(x).
+797,,Fundamentals_of_Differentiation,A particle moves along the x-axis such that its position at time t is given by x(t) = 2t^3 - 5t^2 + 4t + 8. What is the acceleration of the particle at t = 2 seconds?
+798,,Fundamentals_of_Differentiation,"The revenue, in millions of dollars, for a company is modeled by the function R(x) = 80x - x^2. Find the production level that maximizes revenue."
+799,,Fundamentals_of_Differentiation,Find the derivative of h(x) = (x^2 + 3)^7.
+800,,Fundamentals_of_Differentiation,The length of a rectangle is increasing at a rate of 2 cm/s while the width is decreasing at a rate of 1 cm/s. At what rate is the area of the rectangle changing when the length is 5 cm and the width is 2 cm?
+801,,Fundamentals_of_Differentiation,"Given the function f(x) = x^3 - 2x^2 + 5x - 10, find the derivative of f(x)."
+802,,Fundamentals_of_Differentiation,"Find the slope of the tangent line to the curve y = 3x^2 + 2 at the point (2, 14)."
+803,,Fundamentals_of_Differentiation,"What is the equation of the tangent line to the curve y = 2x^2 + 5x + 3 at the point (1, 10)?"
+804,,Fundamentals_of_Differentiation,Find the derivative of the function f(x) = sin(x) + cos(x).
+805,,Fundamentals_of_Differentiation,Determine the critical points of the function f(x) = x^3 - 12x^2 + 36x + 5.
+806,,Fundamentals_of_Differentiation,"Using the limit definition of the derivative, find the derivative of the function f(x) = 4x + 8."
+807,,Fundamentals_of_Differentiation,The position of a particle moving along a line is given by s(t) = 4t^3 - 9t^2 + 6t + 10. Find its velocity and acceleration.
+808,,Fundamentals_of_Differentiation,Find the points of inflection for the function f(x) = x^3 - 6x^2 + 9x.
+809,,Fundamentals_of_Differentiation,"If g(x) = ln(x^2 + 1), find g'(x)."
+810,,Fundamentals_of_Differentiation,Find the second derivative of the function f(x) = 2x^3 + 3x^2 - 6x + 9.
+811,,Fundamentals_of_Differentiation,Find the derivative of the function f(x) = x^2 + 2x.
+812,,Fundamentals_of_Differentiation,Calculate the second derivative of the function g(x) = 5x^3 + 2x.
+813,,Fundamentals_of_Differentiation,Determine the derivative of the function h(x) = (3x - 5)^2.
+814,,Fundamentals_of_Differentiation,Find the critical points of the function f(x) = 4x^3 + 3x^2 - 5x.
+815,,Fundamentals_of_Differentiation,Calculate the derivative of the function g(x) = sqrt(x) + 3x^2.
+816,,Fundamentals_of_Differentiation,Determine the points of inflection of the function h(x) = x^4 - 12x^3 + 36x^2.
+817,,Fundamentals_of_Differentiation,Find the derivative of the logarithmic function f(x) = ln(x^3).
+818,,Fundamentals_of_Differentiation,Calculate the gradient of the tangent line to the curve y = 2x^2 + 5.
+819,,Fundamentals_of_Differentiation,Find the points where the function f(x) = x^3 - 3x intersects its tangent line.
+820,,Fundamentals_of_Differentiation,Determine the relative extrema of the function g(x) = x^4 + 4x^3 - 16x.
+821,,Fundamentals_of_Differentiation,What is the first derivative of the function f(x) = x^3 - 4x + 7?
+822,,Fundamentals_of_Differentiation,Find the derivative of the function f(x) = 2x^4 - 3x^2 + 10.
+823,,Fundamentals_of_Differentiation,Calculate the derivative of the function f(x) = (2/3)x^3 + (1/2)x^2 + 5x.
+824,,Fundamentals_of_Differentiation,Determine the derivative of the function f(x) = √(x^2 + 5x + 10).
+825,,Fundamentals_of_Differentiation,"Find the first derivative of the natural logarithm function, f(x) = ln(x)."
+826,,Fundamentals_of_Differentiation,What is the derivative of the function f(x) = e^x * cos(x)?
+827,,Fundamentals_of_Differentiation,Compute the derivative of the inverse trigonometric function f(x) = arctan(x).
+828,,Fundamentals_of_Differentiation,Find the derivative of the function f(x) = (x^2 -2)^5.
+829,,Fundamentals_of_Differentiation,Calculate the derivative of the hyperbolic function f(x) = sinh(x) + cosh(x).
+830,,Fundamentals_of_Differentiation,Find the first derivative of the inverse hyperbolic function f(x) = arsinh(x).
+831,,Fundamentals_of_Differentiation,What is the derivative of the function f(x) = x^3 + 2x^2 - 5x + 1?
+832,,Fundamentals_of_Differentiation,"Find the slope of the tangent line to the curve y = 2x^2 - 3x + 4 at the point (2, 7)."
+833,,Fundamentals_of_Differentiation,"If the function f(x) = sin(x)cos(x) is differentiated twice, what is the resulting function?"
+834,,Fundamentals_of_Differentiation,Determine the critical points for the function f(x) = x^3 + 3x^2 - 9x + 2.
+835,,Fundamentals_of_Differentiation,"Given the function f(x) = 5x^4 - 3x^3 + 2x^2 + 7x + 4, find the inflection points."
+836,,Fundamentals_of_Differentiation,What is the derivative of the natural logarithm function ln(x)?
+837,,Fundamentals_of_Differentiation,"For the curve y = 2x^3 + 3x^2 - 6x, find the equation of the line tangent to the curve at the point (1, -1)."
+838,,Fundamentals_of_Differentiation,"Given the position function s(t) = 6t^2 + 4t + 8, what is the velocity function?"
+839,,Fundamentals_of_Differentiation,At what values of x does the function f(x) = x^3 have a horizontal tangent line?
+840,,Fundamentals_of_Differentiation,"What is the maximum value of the function f(x) = 2x^3 + 3x^2 - 10x - 5 on the interval [0, 3]?"
+841,,Fundamentals_of_Differentiation,Find the derivative of the function f(x) = x^3 + 2x^2 - 4x + 5.
+842,,Fundamentals_of_Differentiation,"Given h(x) = 2x^2 + 5, find h'(x)."
+843,,Fundamentals_of_Differentiation,Find the derivative of the function g(x) = (x^2 + 3x)^2.
+844,,Fundamentals_of_Differentiation,Differentiate the function y = 5x^4 - 3x^3 + 2x^2 + 7x - 1.
+845,,Fundamentals_of_Differentiation,"If f(x) = 4x^2 + 3x - 2, what is the value of f'(2)?"
+846,,Fundamentals_of_Differentiation,"Given p(x) = 6x^2 + 4x + 9, find p'(x)."
+847,,Fundamentals_of_Differentiation,Find the derivative of the function r(x) = (2x + 5)^4.
+848,,Fundamentals_of_Differentiation,Differentiate the function y = 3x^4 - 7x^2 + 9.
+849,,Fundamentals_of_Differentiation,"If g(x) = x^4 - 2x^2 + 1, what is the value of g'(3)?"
+850,,Fundamentals_of_Differentiation,"Given q(x) = (3x^2 + 4)^3, find q'(x)."
+851,,Fundamentals_of_Differentiation,What is the derivative of f(x) = 3x^2?
+852,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = x^3 at the point (2, 8)."
+853,,Fundamentals_of_Differentiation,"Given the function g(x) = 2x^5, what is the derivative of g at x = 4?"
+854,,Fundamentals_of_Differentiation,Determine the value of x that minimizes the function f(x) = x^2 - 6x + 9.
+855,,Fundamentals_of_Differentiation,Evaluate the indefinite integral of h(x) = 4x^3.
+856,,Fundamentals_of_Differentiation,Use the product rule to find the derivative of f(x) = (2x + 1)(3x + 7).
+857,,Fundamentals_of_Differentiation,Find the critical points of the function g(x) = x^4 - 4x^2.
+858,,Fundamentals_of_Differentiation,Calculate the second derivative of f(x) = cos(x).
+859,,Fundamentals_of_Differentiation,Find the area under the curve y = x^2 from x = 0 to x = 3.
+860,,Fundamentals_of_Differentiation,Use the quotient rule to find the derivative of h(x) = (3x + 2)/(2x - 5).
+861,,Fundamentals_of_Differentiation,Find the derivative of the function f(x) = 3x^2 + 5x -1 at x = 2.
+862,,Fundamentals_of_Differentiation,"Given the function g(x) = sin(x), find the derivative of g(x) at x = π/3."
+863,,Fundamentals_of_Differentiation,Find the value of the derivative of the function h(x) = √(2x+3) at x = 4.
+864,,Fundamentals_of_Differentiation,Determine the derivative of the function f(x) = (x^5 + 3x^2 + 1) / x^3.
+865,,Fundamentals_of_Differentiation,"Find the slope of the tangent line to the curve y = x^3 at the point (2, 8)."
+866,,Fundamentals_of_Differentiation,"Given the function g(x) = e^x, determine the value of g'(0)."
+867,,Fundamentals_of_Differentiation,"If f(x) = 5x^4 + 2x^3 - 3x^2 - 9x, find the value of f''(x)."
+868,,Fundamentals_of_Differentiation,Find the derivative of the function y = x^4 ln(x).
+869,,Fundamentals_of_Differentiation,"Given the equation y = cos(x), find the value of dy/dx when x = 1."
+870,,Fundamentals_of_Differentiation,"If f(x) = 2x^3 + 4x^2 - 5x + 1, what is the equation for the line tangent to the curve at x = -1?"
+871,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 + 2x - 5
+872,,Fundamentals_of_Differentiation,"Using the definition of differentiation, find the derivative of f(x) = x^3"
+873,,Fundamentals_of_Differentiation,Find the value of x at which the slope of the tangent to the curve f(x) = x^2 + 3x - 2 is equal to 2
+874,,Fundamentals_of_Differentiation,"If f(x) = 4x^2 - 6x + 8, find f'(3)"
+875,,Fundamentals_of_Differentiation,Derive the equation for the instantaneous rate of change using the difference quotient
+876,,Fundamentals_of_Differentiation,Find the relative extrema and inflection points for f(x) = 3x^4 - 8x^3 + 6x^2 + 7
+877,,Fundamentals_of_Differentiation,Calculate the second derivative of f(x) = 5x^3 - 2x + 1
+878,,Fundamentals_of_Differentiation,Find the points where the tangent to the curve f(x) = 2x^3 - 9x^2 + 4 touches the x-axis
+879,,Fundamentals_of_Differentiation,Determine the average rate of change of f(x) = 6x^2 + 3 from x = 2 to x = 4
+880,,Fundamentals_of_Differentiation,Use the product rule to derive the derivative of u(x)v(x) with respect to x.
+881,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 + 8x - 5
+882,,Fundamentals_of_Differentiation,"What is the slope of the tangent line to the curve y = x^3 - 2x^2 at the point (1, -1)?"
+883,,Fundamentals_of_Differentiation,"If f(x) = sin(x^2), what is f'(x)?"
+884,,Fundamentals_of_Differentiation,Differentiate h(x) = (x^3 + 9)^2
+885,,Fundamentals_of_Differentiation,The position of an object at time t is given by s(t) = t^3 - 4t. What is the velocity at t = 2?
+886,,Fundamentals_of_Differentiation,Find the derivative of g(x) = ln(x^2 + 1)
+887,,Fundamentals_of_Differentiation,A balloon is rising at a rate of 2 ft/s. At what rate is its volume increasing when the radius is 5 ft?
+888,,Fundamentals_of_Differentiation,"Given f(x) = 5x^2, find the equation of the tangent line at x = 3."
+889,,Fundamentals_of_Differentiation,"If h(x) = x^4cos(x), what is h'(x)?"
+890,,Fundamentals_of_Differentiation,"Find the value of c such that the line tangent to f(x) = 2x^3 - cx^2 at x = 2 passes through the point (1, 3)."
+891,,Fundamentals_of_Differentiation,Calculate the derivative of the function f(x) = x^2 + 3x + 5.
+892,,Fundamentals_of_Differentiation,Find the critical points of the function g(x) = 4x^3 + 6x^2 - 12x.
+893,,Fundamentals_of_Differentiation,Differentiate the function h(x) = sin(2x) + cos(x).
+894,,Fundamentals_of_Differentiation,Use the quotient rule to find the derivative of f(x) = (6x^2+9x-10)/(4x^3+2x-5).
+895,,Fundamentals_of_Differentiation,"Find the slope of the tangent line to the curve y = x^3 - 2x + 5 at the point (1,4)."
+896,,Fundamentals_of_Differentiation,Calculate the second derivative of the function g(x) = 3x^4.
+897,,Fundamentals_of_Differentiation,Use the chain rule to find the derivative of f(x) = (2x^2 + 3)^4.
+898,,Fundamentals_of_Differentiation,Determine all values of x where the function h(x) = x^3 - 3x^2 + 1 has a local maximum.
+899,,Fundamentals_of_Differentiation,"If the rate of change of a function is given by f'(x) = 4x^2 - 2x, what is the original function?"
+900,,Fundamentals_of_Differentiation,Use logarithmic differentiation to find the derivative of f(x) = (5x^2 - 3)/(x^2 - 4).
+901,,Fundamentals_of_Differentiation,Find the derivative of the function f(x) = 3x^2 + 5x + 2.
+902,,Fundamentals_of_Differentiation,"Given h(x) = (x^2 - 4)/(x - 2), calculate h'(x)."
+903,,Fundamentals_of_Differentiation,At what value of x does the function g(x) = 2x^3 - 4x^2 + 5x have a horizontal tangent line?
+904,,Fundamentals_of_Differentiation,Use the quotient rule to find the derivative of f(x) = (2x^2 + 5x)/(x^2 - 3x + 2).
+905,,Fundamentals_of_Differentiation,"If f'(x) = 6x - 4, what is f(x)?"
+906,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = x^2 - 5x + 4 at the point (2, -4)."
+907,,Fundamentals_of_Differentiation,"Given f(x) = 3x^2 + 2x - 5, determine the average rate of change of f(x) from x = 2 to x = 5."
+908,,Fundamentals_of_Differentiation,Use the product rule to find the derivative of f(x) = (3x^2 + x)(2x^3 - 4x).
+909,,Fundamentals_of_Differentiation,Find the critical values of the function h(x) = 3x^4 + 8x^3 - 4x + 2 and determine the intervals where the function is increasing or decreasing.
+910,,Fundamentals_of_Differentiation,"Given g(x) = 4x^2 + 2x + 1, find the equation of the line that is tangent to g(x) at the point (3, 31)."
+911,,Fundamentals_of_Differentiation,What is the derivative of f(x) = x^2 + 5x + 3?
+912,,Fundamentals_of_Differentiation,"Find the slope of the tangent line to the curve y = 2x^3 at the point (2,16)."
+913,,Fundamentals_of_Differentiation,Determine the critical points of the function f(x) = x^3 - 12x + 5.
+914,,Fundamentals_of_Differentiation,Calculate the derivative of f(x) = sin(x) + cos(x).
+915,,Fundamentals_of_Differentiation,"If f(x) = ln(x) - x^2, what is the value of f'(0)?"
+916,,Fundamentals_of_Differentiation,Find the derivative of g(x) = (x^2 - 4) / (x^2 + 2).
+917,,Fundamentals_of_Differentiation,"A ladder is leaning against a wall. If the bottom of the ladder is 5 feet from the wall and the top of the ladder is sliding down the wall at a rate of 1 foot per second, how fast is the base of the ladder moving away from the wall when the top of the ladder is 12 feet above the ground?"
+918,,Fundamentals_of_Differentiation,What is the second derivative of h(x) = 4x^3 - 3x^2 + 2x - 1?
+919,,Fundamentals_of_Differentiation,"Given the equation y = a^x, what is the rate of change of y with respect to x?"
+920,,Fundamentals_of_Differentiation,Find the derivative of the function f(x) = x^3 - 2x + 8 using the quotient rule.
+921,,Fundamentals_of_Differentiation,What is the derivative of f(x) = 4x^3 - 2x + 5?
+922,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = 3x^2 at the point (2, 12)."
+923,,Fundamentals_of_Differentiation,Differentiate the function g(x) = ln(x^2 + 1).
+924,,Fundamentals_of_Differentiation,Find the second derivative of h(x) = (x^2 + 3x)^4.
+925,,Fundamentals_of_Differentiation,Determine the critical points of the function f(x) = x^3 - 6x^2 + 9x.
+926,,Fundamentals_of_Differentiation,Calculate the rate of change of the volume of a sphere with respect to its radius at r = 5 cm.
+927,,Fundamentals_of_Differentiation,A ladder is sliding down a wall at a rate of 3 m/s while the base of the ladder is 4 m away from the wall. How fast is the top of the ladder sliding down the wall when the base reaches a point 6 m from the wall?
+928,,Fundamentals_of_Differentiation,"Find the maximum and minimum values of the function y = x^4 - 8x^2 + 9 on the interval [0, 4]."
+929,,Fundamentals_of_Differentiation,Determine the equation of the normal line to the curve f(x) = sin(4x) at the point where x = pi/6.
+930,,Fundamentals_of_Differentiation,"A company's cost and revenue functions are given by C = 1000 + 5x^2 and R = 50x, respectively. At what level of production will the company break even?"
+931,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 + 5x - 7.
+932,,Fundamentals_of_Differentiation,"Evaluate the derivative of g(x) at x = 2, where g(x) = sin(x) + cos(x)."
+933,,Fundamentals_of_Differentiation,"Given the function h(x) = e^x, find the second derivative at x = 4."
+934,,Fundamentals_of_Differentiation,"A ladder 10 meters long is leaning against a wall. If the bottom of the ladder is sliding away from the wall at a rate of 2 m/s, how fast is the top of the ladder sliding down the wall when the ladder makes an angle of 45 degrees with the ground?"
+935,,Fundamentals_of_Differentiation,"If f(x) = √(x+1), find f'(x)."
+936,,Fundamentals_of_Differentiation,"A particle moves along a curve given by y = x^3 - 9x + 5. Find the slope of the tangent line to the curve at the point (2, 3)."
+937,,Fundamentals_of_Differentiation,"Find the maximum and minimum values of the function f(x) = x^2 - 8x + 12 on the interval [1, 5]."
+938,,Fundamentals_of_Differentiation,"Given the equation y = ln(2x), find the points on the curve where the tangent line is parallel to the x-axis."
+939,,Fundamentals_of_Differentiation,"A window has the shape of a semi-circle above a rectangle. If the perimeter of the window is 10 feet, what dimensions maximize the window's area?"
+940,,Fundamentals_of_Differentiation,"The demand for a certain product is given by p = 100(1-0.01x)^2, where p is the price (in dollars) and x is the number of units demanded. Find the rate of change of the demand with respect to price when p = 50."
+941,,Fundamentals_of_Differentiation,Find the derivative of x^3 + 5x^2 + 2x - 7.
+942,,Fundamentals_of_Differentiation,"Determine the equation of the tangent line to the curve y = 3x^2 + 4x - 6 at the point (2,16)."
+943,,Fundamentals_of_Differentiation,Calculate the derivative of sin(x) + cos(x).
+944,,Fundamentals_of_Differentiation,"Find the maximum value of the function f(x) = x^2 + 4x + 7 on the interval [0,5]."
+945,,Fundamentals_of_Differentiation,"If f(x) = x^2 + 3x, what is the value of f'(2)?"
+946,,Fundamentals_of_Differentiation,Find the rate of change of the volume of a cube with respect to its side length at the moment when the side length is 2 cm.
+947,,Fundamentals_of_Differentiation,"The position of an object moving along a straight line is given by s(t) = 5t^2 + 2t + 3, where t is time in seconds. Find the acceleration of the object after 3 seconds."
+948,,Fundamentals_of_Differentiation,"The profit function for a company is given by P(x) = 500x - 25x^2, where x is the number of units sold. What is the maximum profit the company can make and how many units should be sold to achieve this?"
+949,,Fundamentals_of_Differentiation,"Given the function f(x) = 4x^3 - 12x, find the point on the graph where the tangent line is parallel to the x-axis."
+950,,Fundamentals_of_Differentiation,A ball is thrown in the air with a velocity of 30 m/s from a height of 12 meters. What is the maximum height the ball will reach and at what time does it reach this height?
+951,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 - 4x + 2
+952,,Fundamentals_of_Differentiation,"Given the equation f(x) = x^2 + 5x + 2, find the point(s) where the tangent line is parallel to the x-axis."
+953,,Fundamentals_of_Differentiation,Find the second derivative of the function g(x) = 4x^3 - 6x^2 + 8x.
+954,,Fundamentals_of_Differentiation,"If the slope of a tangent line to the curve y = (x^2 + 3)^3 at the point (2, 27) is 8, what is the equation of the tangent line?"
+955,,Fundamentals_of_Differentiation,Find the derivative of the function h(x) = 5e^x.
+956,,Fundamentals_of_Differentiation,The position of an object at time t is given by s(t) = 3t^2 - 6t + 4. What is the velocity of the object at t = 3 seconds?
+957,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = x^3 - 2x^2 + 4 at the point (1, 3)."
+958,,Fundamentals_of_Differentiation,"If f(x) = 4x^2 + 2x - 5, find the critical points and determine whether they are local maximums or minimum."
+959,,Fundamentals_of_Differentiation,Find the derivative of the logarithmic function f(x) = ln(x^2 + 1).
+960,,Fundamentals_of_Differentiation,"In an elastic collision, the total momentum before the collision equals the total momentum after the collision. Using the quotient rule, determine the relationship between the velocities of the two objects in an elastic collision."
+961,,Fundamentals_of_Differentiation,Find the derivative of the function f(x) = 3x^2 + 5x - 2.
+962,,Fundamentals_of_Differentiation,"Given the function g(x) = 2x^3 - x^2 + 4x, determine the slope of the tangent line at x = 2."
+963,,Fundamentals_of_Differentiation,"A ball is dropped from the top of a building. If its height after t seconds is given by h(t) = -16t^2 + 100, find its velocity and acceleration after 2 seconds."
+964,,Fundamentals_of_Differentiation,"Find the equation of the tangent line to the curve y = x^3 + 2x^2 - 5x + 1 at the point (2, 9)."
+965,,Fundamentals_of_Differentiation,"Given the function h(x) = (2x - 1)^4, find the value of its fifth derivative at x = 3."
+966,,Fundamentals_of_Differentiation,Find the maximum and minimum points of the function f(x) = x^2 - 6x + 8.
+967,,Fundamentals_of_Differentiation,Differentiate the function f(x) = sin(2x) with respect to x.
+968,,Fundamentals_of_Differentiation,"A snowball is melting at a rate of 5 cm^3/min. If its volume is given by V(t) = 100 - 2t^3, where t is the time in minutes, at what rate is its radius changing after 4 minutes?"
+969,,Fundamentals_of_Differentiation,"If y = 3x^2 + 5x - 1, find the value of dy/dx at x = 2."
+970,,Fundamentals_of_Differentiation,"A ladder is leaning against a wall with its top at a height of 10 meters. If the bottom of the ladder is sliding away from the wall at a rate of 2 m/s, how fast is the top of the ladder sliding down the wall when it is 12 meters away from the wall?"
+971,,Fundamentals_of_Differentiation,1. What is the derivative of f(x) = x^2 + 2x at x=3?
+972,,Fundamentals_of_Differentiation,"2. Find the slope of the tangent line to the curve y = 2x^3 - 4x at the point (1, -2)."
+973,,Fundamentals_of_Differentiation,"3. If g(x) = 3x^4 - 5x^2 + 6x, what is g'(x)?"
+974,,Fundamentals_of_Differentiation,4. A particle moves along the x-axis according to the equation x(t) = t^2 - 3t + 2. What is the velocity of the particle at t = 1?
+975,,Fundamentals_of_Differentiation,5. Find the critical points of the function h(x) = 3x^2 - 6x + 4.
+976,,Fundamentals_of_Differentiation,"6. Given the function f(x) = 4x^3 + 2x^2 - 5x + 1, what is the value of f'(1)?"
+977,,Fundamentals_of_Differentiation,7. At what value(s) of x does the function y = x^3 - 9x^2 + 24x have a local maximum or minimum?
+978,,Fundamentals_of_Differentiation,8. Calculate the second derivative of the function d(x) = 5x^4 + 3x^3 - 2x^2 + 1.
+979,,Fundamentals_of_Differentiation,9. Determine the intervals on which the function g(x) = x^3 - 12x^2 + 36x is increasing and decreasing.
+980,,Fundamentals_of_Differentiation,"10. If the position of an object moving along the x-axis is given by s(t) = t^3 - 5t^2 + 4t + 1, what is the acceleration of the object at t = 2?"
+981,,Fundamentals_of_Differentiation,Find the derivative of the function f(x) = 3x^3 + 2x^2 - 7x + 1.
+982,,Fundamentals_of_Differentiation,"Determine the equation of the tangent line to the curve y = x^2 + 4x - 2 at the point (2,-2)."
+983,,Fundamentals_of_Differentiation,Calculate the derivative of the logarithmic function f(x) = ln(x^2 + 1).
+984,,Fundamentals_of_Differentiation,If f(x) = sin(x^2) then what is f '(x)?
+985,,Fundamentals_of_Differentiation,Find the critical points of the function g(x) = x^4 - 3x^2 + 2.
+986,,Fundamentals_of_Differentiation,"If the position of an object at time t is given by s(t) = t^3 - 5t, what is the object's velocity at t = 2?"
+987,,Fundamentals_of_Differentiation,Determine the domain of the function h(x) = (2x^2 + 1)/(x - 3).
+988,,Fundamentals_of_Differentiation,"Given that f(x) = xe^x, find f '(x)."
+989,,Fundamentals_of_Differentiation,"Find the maximum and minimum values of the function p(x) = 3x^2 - 12x + 9 on the interval [-2,5]."
+990,,Fundamentals_of_Differentiation,"If x^2 + y^2 = 25, find the slope of the tangent line to the curve at the point (3,4)."
+991,,Fundamentals_of_Differentiation,Find the derivative of f(x) = 3x^2 + 4x
+992,,Fundamentals_of_Differentiation,"What is the slope of the tangent line to the curve y = 2x^3 - 5x + 1 at the point (2, 9)?"
+993,,Fundamentals_of_Differentiation,Differentiate the function f(x) = (sin x)^2
+994,,Fundamentals_of_Differentiation,For what value(s) of x does the derivative of f(x) = x^3 + 2x^2 equal 0?
+995,,Fundamentals_of_Differentiation,"Given the graph of f(x), find the general form of its derivative."
+996,,Fundamentals_of_Differentiation,Find the second derivative of f(x) = 4x^3 - 6x^2 + 2x + 5.
+997,,Fundamentals_of_Differentiation,What is the instantaneous rate of change of y = x^2 - 3x + 2 when x = 2?
+998,,Fundamentals_of_Differentiation,"Find the value of c that satisfies the Mean Value Theorem for f(x) = 5x^2 + 6x + 3 on the interval [0, 5]."
+999,,Fundamentals_of_Differentiation,"If f(x) = 2x - ln x, what is the value of x that maximizes f(x)?"
+1000,,Fundamentals_of_Differentiation,Use the Power Rule to differentiate f(x) = (9x^3 + 4x)^4.
