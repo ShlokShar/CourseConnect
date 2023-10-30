@@ -1,6 +1,6 @@
 from packages.imports import *
 
-openai.api_key = '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'
+openai.api_key = 'API KEY'
 
 rhetoric_def = {
     'Parallelism': 'parallelism, in rhetoric, component of literary style in both prose and poetry, in which coordinate ideas are arranged in phrases, sentences, and paragraphs that balance one element with another of equal importance and similar wording',
